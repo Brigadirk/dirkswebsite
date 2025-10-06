@@ -36,10 +36,10 @@ export default function Comments() {
     <div className="mt-8 pt-8 border-t border-gray-200 dark:border-gray-800">
       <Giscus
         id="comments"
-        repo="your-username/your-repo"
-        repoId="YOUR_REPO_ID"
+        repo="Brigadirk/dirkswebsite"
+        repoId="R_kgDONhqGEA"
         category="General"
-        categoryId="YOUR_CATEGORY_ID"
+        categoryId="DIC_kwDONhqGEM4Cl_Fq"
         mapping="pathname"
         reactionsEnabled="1"
         emitMetadata="0"
