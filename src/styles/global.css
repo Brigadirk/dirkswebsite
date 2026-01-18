@@ -6,12 +6,294 @@
   html {
     @apply transition-colors duration-300;
   }
-  
+
+  /* Dark Bauhaus - Dark by default */
   body {
-    @apply bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100;
+    @apply bg-bauhaus-black text-bauhaus-cream;
+    font-family: 'Space Grotesk', sans-serif;
+  }
+
+  /* Light mode override */
+  .light body {
+    @apply bg-bauhaus-cream;
+    color: #1a1a1a;
+  }
+
+  .light .text-bauhaus-cream {
+    color: #1a1a1a !important;
+  }
+
+  .light .text-bauhaus-cream\/50 {
+    color: #666 !important;
+  }
+
+  .light .text-bauhaus-cream\/60 {
+    color: #555 !important;
+  }
+
+  .light .text-bauhaus-cream\/70 {
+    color: #444 !important;
+  }
+
+  .light .text-bauhaus-cream\/90 {
+    color: #222 !important;
+  }
+
+  /* Force black text in light mode for all prose content */
+  .light .prose,
+  .light .prose p,
+  .light .prose li,
+  .light .prose td,
+  .light .prose th,
+  .light .prose-bauhaus,
+  .light .prose-bauhaus p,
+  .light .prose-bauhaus li,
+  .light .prose-bauhaus td,
+  .light .prose-bauhaus th,
+  .light article,
+  .light article p,
+  .light article li,
+  .light article span,
+  .light main p,
+  .light main li {
+    color: #000 !important;
+  }
+
+  .light .prose h1,
+  .light .prose h2,
+  .light .prose h3,
+  .light .prose h4,
+  .light .prose-bauhaus h1,
+  .light .prose-bauhaus h2,
+  .light .prose-bauhaus h3,
+  .light .prose-bauhaus h4,
+  .light article h1,
+  .light article h2,
+  .light article h3 {
+    color: #000 !important;
+  }
+
+  /* Jugendstil mode - Art Nouveau organic elegance */
+  .jugend body {
+    background: #F5F0E1;
+    color: #2D4A3E;
+    font-family: 'Georgia', serif;
+  }
+
+  .jugend ::selection {
+    background: #C9A227;
+    color: #F5F0E1;
+  }
+
+  .jugend ::-webkit-scrollbar-thumb {
+    background: linear-gradient(180deg, #C9A227, #8B9A6D);
+    border-radius: 10px;
+  }
+
+  .jugend ::-webkit-scrollbar-track {
+    background: #F5F0E1;
+  }
+
+  /* Hide bauhaus geometric elements in jugendstil */
+  .jugend .w-2.h-2.bg-bauhaus-red,
+  .jugend .w-3.h-3.bg-bauhaus-red,
+  .jugend .bg-bauhaus-red,
+  .jugend .border-b-bauhaus-blue,
+  .jugend .geo-square,
+  .jugend .geo-circle,
+  .jugend .geo-triangle {
+    display: none !important;
+  }
+
+  /* Jugendstil text colors - black on cream for readability */
+  .jugend .text-bauhaus-cream {
+    color: #1a1a1a !important;
+  }
+
+  .jugend .text-bauhaus-cream\/50,
+  .jugend .text-bauhaus-cream\/60 {
+    color: #555 !important;
+  }
+
+  .jugend .text-bauhaus-cream\/70,
+  .jugend .text-bauhaus-cream\/80,
+  .jugend .text-bauhaus-cream\/90 {
+    color: #333 !important;
+  }
+
+  /* Force black text for all prose content in jugendstil */
+  .jugend .prose,
+  .jugend .prose p,
+  .jugend .prose li,
+  .jugend .prose-bauhaus,
+  .jugend .prose-bauhaus p,
+  .jugend .prose-bauhaus li,
+  .jugend article,
+  .jugend article p,
+  .jugend article li,
+  .jugend article span,
+  .jugend main p,
+  .jugend main li {
+    color: #1a1a1a !important;
+  }
+
+  .jugend .prose h1,
+  .jugend .prose h2,
+  .jugend .prose h3,
+  .jugend .prose-bauhaus h1,
+  .jugend .prose-bauhaus h2,
+  .jugend .prose-bauhaus h3,
+  .jugend article h1,
+  .jugend article h2,
+  .jugend article h3 {
+    color: #1a1a1a !important;
+  }
+
+  .jugend .text-bauhaus-red {
+    color: #6B4E5C !important;
+  }
+
+  .jugend .text-bauhaus-yellow {
+    color: #C9A227 !important;
+  }
+
+  .jugend .text-bauhaus-blue {
+    color: #8B9A6D !important;
+  }
+
+  .jugend .border-bauhaus-steel {
+    border-color: #C9A227 !important;
+  }
+
+  .jugend .border-bauhaus-charcoal {
+    border-color: rgba(201, 162, 39, 0.3) !important;
+  }
+
+  .jugend .bg-bauhaus-charcoal {
+    background: rgba(45, 74, 62, 0.08) !important;
+  }
+
+  /* Gay mode - FABULOUS */
+  .gay body {
+    background: linear-gradient(135deg, #FF69B4 0%, #FFD700 25%, #FF69B4 50%, #9B59B6 75%, #FF69B4 100%);
+    background-size: 400% 400%;
+    animation: rainbow-bg 8s ease infinite;
+    @apply text-white;
+  }
+
+  @keyframes rainbow-bg {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+
+  /* Sparkle cursor in gay mode */
+  .gay * {
+    cursor: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 32 32'%3E%3Ctext y='24' font-size='24'%3E✨%3C/text%3E%3C/svg%3E"), auto;
+  }
+
+  .gay ::selection {
+    background: linear-gradient(90deg, #FF69B4, #FFD700);
+    @apply text-white;
+  }
+
+  .gay ::-webkit-scrollbar-thumb {
+    background: linear-gradient(180deg, #FF69B4, #FFD700, #FF69B4);
+  }
+
+  .gay ::-webkit-scrollbar-track {
+    background: #9B59B6;
+  }
+
+  /* Selection styling */
+  ::selection {
+    @apply bg-bauhaus-yellow text-bauhaus-black;
+  }
+
+  /* Scrollbar styling */
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply bg-bauhaus-charcoal;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply bg-bauhaus-red;
+    border-radius: 4px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-bauhaus-yellow;
   }
 }
 
+@layer components {
+  /* Bauhaus geometric accent line */
+  .bauhaus-line {
+    @apply h-1 bg-gradient-to-r from-bauhaus-red via-bauhaus-yellow to-bauhaus-blue;
+  }
+
+  /* Bauhaus circle decoration */
+  .bauhaus-circle {
+    @apply rounded-full;
+  }
+
+  /* Bauhaus card style */
+  .bauhaus-card {
+    @apply relative overflow-hidden border-2 border-bauhaus-steel transition-all duration-300;
+  }
+
+  .bauhaus-card:hover {
+    @apply border-bauhaus-yellow;
+    transform: translateX(8px);
+  }
+
+  /* Geometric shapes */
+  .geo-square {
+    @apply w-4 h-4 bg-bauhaus-red;
+  }
+
+  .geo-circle {
+    @apply w-4 h-4 rounded-full bg-bauhaus-yellow;
+  }
+
+  .geo-triangle {
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom: 14px solid #1565C0;
+  }
+}
+
+@layer utilities {
+  /* Text gradient for headings */
+  .text-bauhaus-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-bauhaus-red via-bauhaus-yellow to-bauhaus-blue;
+  }
+
+  /* Border accents */
+  .border-bauhaus-accent {
+    border-left: 4px solid #E53935;
+  }
+
+  /* Hover color shifts */
+  .hover-bauhaus-red:hover {
+    @apply text-bauhaus-red;
+  }
+
+  .hover-bauhaus-yellow:hover {
+    @apply text-bauhaus-yellow;
+  }
+
+  .hover-bauhaus-blue:hover {
+    @apply text-bauhaus-blue;
+  }
+}
+
+/* Keep Atkinson as fallback */
 @font-face {
 	font-family: "Atkinson";
 	src: url("/fonts/atkinson-regular.woff") format("woff");
