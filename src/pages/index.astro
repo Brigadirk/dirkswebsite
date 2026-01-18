@@ -7,29 +7,245 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 const posts = (await getCollection('blog')).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
+
 ---
 
 <Layout title={SITE_TITLE} description={SITE_DESCRIPTION}>
-  <div class="space-y-8">
-    {posts.map((post) => (
-      <article class="group border-b border-gray-200 dark:border-gray-800 pb-8 last:border-0">
+  <!-- Hero section -->
+  <div class="mb-16 relative">
+    <div class="w-0 h-0 border-l-[6px] border-l-transparent border-r-[6px] border-r-transparent border-b-[10px] border-b-bauhaus-blue mb-8"></div>
+    <h1 class="text-5xl md:text-7xl font-bold text-bauhaus-cream tracking-tighter mb-4">
+      Latest
+      <span class="text-bauhaus-red">Posts</span>
+    </h1>
+    <div class="h-1 w-48 bg-bauhaus-yellow"></div>
+  </div>
+
+  <!-- Blog posts grid -->
+  <div class="space-y-0">
+    {posts.map((post, index) => (
+      <article class="group relative py-8 transition-all duration-300">
         <a href={`/blog/${post.id}/`} class="block">
-          <div class="space-y-3">
-            <h2 class="text-3xl font-bold text-gray-900 dark:text-white group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
+
+          <div class="space-y-4">
+            <!-- Date with geometric marker -->
+            <div class="flex items-center gap-3">
+              <div class="w-2 h-2 bg-bauhaus-red"></div>
+              <p class="text-sm text-bauhaus-cream/50 uppercase tracking-widest font-medium">
+                <FormattedDate date={post.data.pubDate} />
+              </p>
+            </div>
+
+            <!-- Title -->
+            <h2 class="text-3xl md:text-4xl font-bold text-bauhaus-cream group-hover:text-bauhaus-red transition-colors duration-300 tracking-tight">
               {post.data.title}
             </h2>
-            <p class="text-sm text-gray-600 dark:text-gray-400">
-              <FormattedDate date={post.data.pubDate} />
-            </p>
-            <p class="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
+
+            <!-- Description -->
+            <p class="text-lg text-bauhaus-cream/70 leading-relaxed max-w-2xl">
               {post.data.description}
             </p>
-            <span class="inline-block text-blue-600 dark:text-blue-400 group-hover:underline">
-              Read more →
-            </span>
+
+            <!-- Read more link -->
+            <div class="flex items-center gap-2 text-bauhaus-red font-medium tracking-wide">
+              <span>Read article</span>
+              <svg
+                class="w-4 h-4 transform group-hover:translate-x-2 transition-transform duration-300"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M17 8l4 4m0 0l-4 4m4-4H3"
+                />
+              </svg>
+            </div>
           </div>
         </a>
       </article>
     ))}
   </div>
+
+  <!-- Empty state -->
+  {posts.length === 0 && (
+    <div class="text-center py-16">
+      <div class="w-4 h-4 bg-bauhaus-red animate-pulse mx-auto mb-6"></div>
+      <p class="text-bauhaus-cream/60 text-lg">No posts yet. Check back soon.</p>
+    </div>
+  )}
 </Layout>
+
+<!-- Light mode overrides -->
+<style>
+  :global(.light) h1 {
+    color: #1a1a1a;
+  }
+
+  :global(.light) h1 span {
+    color: #E53935;
+  }
+
+  :global(.light) h2 {
+    color: #1a1a1a;
+  }
+
+  :global(.light) article p {
+    color: #333;
+  }
+
+  :global(.light) article > a > div > div:first-child p {
+    color: #666;
+  }
+
+  :global(.light) .text-bauhaus-cream {
+    color: #1a1a1a !important;
+  }
+
+  :global(.light) .text-bauhaus-cream\/50,
+  :global(.light) .text-bauhaus-cream\/70 {
+    color: #444 !important;
+  }
+
+  /* Gay mode - FABULOUS */
+  :global(.gay) h1 {
+    @apply text-white;
+    text-shadow: 3px 3px 6px rgba(0,0,0,0.3), 0 0 20px #FFD700;
+  }
+
+  :global(.gay) h1 span {
+    background: linear-gradient(90deg, #FF69B4, #FFD700, #FF69B4);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  :global(.gay) .h-1.w-48 {
+    background: linear-gradient(90deg, red, orange, yellow, green, blue, purple);
+  }
+
+  :global(.gay) .w-6.h-6 {
+    background: linear-gradient(45deg, #FF69B4, #FFD700) !important;
+    border-radius: 50%;
+    animation: gay-pulse 1s ease-in-out infinite;
+  }
+
+
+  :global(.gay) h2 {
+    @apply text-white;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+  }
+
+  :global(.gay) article h2:hover {
+    background: linear-gradient(90deg, #FF69B4, #FFD700);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  :global(.gay) article p {
+    @apply text-white/90;
+  }
+
+  :global(.gay) article .text-bauhaus-red {
+    color: #FFD700 !important;
+  }
+
+  :global(.gay) article .w-2.h-2 {
+    background: #FFD700 !important;
+    border-radius: 50%;
+    box-shadow: 0 0 10px #FFD700;
+  }
+
+  @keyframes gay-pulse {
+    0%, 100% { transform: scale(1); box-shadow: 0 0 10px #FF69B4; }
+    50% { transform: scale(1.1); box-shadow: 0 0 20px #FFD700; }
+  }
+
+  /* Jugendstil mode - Art Nouveau elegance */
+  :global(.jugend) h1 {
+    color: #2D4A3E !important;
+    font-family: 'Georgia', serif;
+    font-style: italic;
+  }
+
+  :global(.jugend) h1 span {
+    color: #C9A227 !important;
+  }
+
+  :global(.jugend) h2 {
+    color: #2D4A3E !important;
+    font-family: 'Georgia', serif;
+    font-style: italic;
+  }
+
+  :global(.jugend) article p {
+    color: #2D4A3E !important;
+    font-family: 'Georgia', serif;
+  }
+
+  :global(.jugend) article > a > div > div:first-child p {
+    color: rgba(45, 74, 62, 0.7) !important;
+  }
+
+  :global(.jugend) .text-bauhaus-red {
+    color: #6B4E5C !important;
+  }
+
+  /* Hide Bauhaus geometric elements */
+  :global(.jugend) .border-b-bauhaus-blue {
+    display: none !important;
+  }
+
+  :global(.jugend) .w-2.h-2.bg-bauhaus-red {
+    display: none !important;
+  }
+
+  :global(.jugend) .bg-bauhaus-yellow {
+    background: linear-gradient(90deg, #C9A227, #8B9A6D, #C9A227) !important;
+    height: 2px !important;
+    border-radius: 50px;
+  }
+
+  /* Add organic Jugendstil flourish before title */
+  :global(.jugend) .mb-16.relative::before {
+    content: '✿';
+    display: block;
+    font-size: 1.5rem;
+    color: #C9A227;
+    margin-bottom: 1rem;
+  }
+
+  /* Organic date marker */
+  :global(.jugend) article > a > div > div:first-child::before {
+    content: '❧';
+    color: #8B9A6D;
+    margin-right: 0.5rem;
+    font-size: 1rem;
+  }
+
+  /* Organic read more styling */
+  :global(.jugend) article .text-bauhaus-red.font-medium {
+    color: #C9A227 !important;
+    font-style: italic;
+  }
+
+  :global(.jugend) article .text-bauhaus-red.font-medium::before {
+    content: '— ';
+  }
+
+  /* Organic article dividers */
+  :global(.jugend) article {
+    border-bottom: 1px solid rgba(201, 162, 39, 0.3);
+  }
+
+  :global(.jugend) article:last-child {
+    border-bottom: none;
+  }
+
+  :global(.jugend) article:hover h2 {
+    color: #C9A227 !important;
+  }
+</style>

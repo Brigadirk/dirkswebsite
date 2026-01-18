@@ -1,33 +1,167 @@
 ---
-// Theme toggle button component
+// Theme toggle buttons: Dark / Light / Gay
 ---
 
-<button
-  id="theme-toggle"
-  type="button"
-  class="p-2 rounded-lg bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors"
-  aria-label="Toggle theme"
->
-  <svg class="w-5 h-5 sun-icon hidden dark:block" fill="currentColor" viewBox="0 0 20 20">
-    <path
-      fill-rule="evenodd"
-      d="M10 2a1 1 0 011 1v1a1 1 0 11-2 0V3a1 1 0 011-1zm4 8a4 4 0 11-8 0 4 4 0 018 0zm-.464 4.95l.707.707a1 1 0 001.414-1.414l-.707-.707a1 1 0 00-1.414 1.414zm2.12-10.607a1 1 0 010 1.414l-.706.707a1 1 0 11-1.414-1.414l.707-.707a1 1 0 011.414 0zM17 11a1 1 0 100-2h-1a1 1 0 100 2h1zm-7 4a1 1 0 011 1v1a1 1 0 11-2 0v-1a1 1 0 011-1zM5.05 6.464A1 1 0 106.465 5.05l-.708-.707a1 1 0 00-1.414 1.414l.707.707zm1.414 8.486l-.707.707a1 1 0 01-1.414-1.414l.707-.707a1 1 0 011.414 1.414zM4 11a1 1 0 100-2H3a1 1 0 000 2h1z"
-      clip-rule="evenodd"
-    ></path>
-  </svg>
-  <svg class="w-5 h-5 moon-icon block dark:hidden" fill="currentColor" viewBox="0 0 20 20">
-    <path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z"></path>
-  </svg>
-</button>
+<div class="flex items-center gap-2">
+  <!-- Dark/Light toggle -->
+  <button
+    id="theme-toggle"
+    type="button"
+    class="relative w-10 h-10 flex items-center justify-center group"
+    aria-label="Toggle dark/light theme"
+  >
+    <div class="absolute inset-0 border-2 border-bauhaus-steel group-hover:border-bauhaus-red transition-all duration-300"></div>
+
+    <!-- Sun icon (shown in dark mode) -->
+    <svg
+      class="w-5 h-5 sun-icon hidden dark:block text-bauhaus-cream relative z-10"
+      fill="currentColor"
+      viewBox="0 0 20 20"
+    >
+      <path
+        fill-rule="evenodd"
+        d="M10 2a1 1 0 011 1v1a1 1 0 11-2 0V3a1 1 0 011-1zm4 8a4 4 0 11-8 0 4 4 0 018 0zm-.464 4.95l.707.707a1 1 0 001.414-1.414l-.707-.707a1 1 0 00-1.414 1.414zm2.12-10.607a1 1 0 010 1.414l-.706.707a1 1 0 11-1.414-1.414l.707-.707a1 1 0 011.414 0zM17 11a1 1 0 100-2h-1a1 1 0 100 2h1zm-7 4a1 1 0 011 1v1a1 1 0 11-2 0v-1a1 1 0 011-1zM5.05 6.464A1 1 0 106.465 5.05l-.708-.707a1 1 0 00-1.414 1.414l.707.707zm1.414 8.486l-.707.707a1 1 0 01-1.414-1.414l.707-.707a1 1 0 011.414 1.414zM4 11a1 1 0 100-2H3a1 1 0 000 2h1z"
+        clip-rule="evenodd"
+      ></path>
+    </svg>
+
+    <!-- Moon icon (shown in light mode) -->
+    <svg
+      class="w-5 h-5 moon-icon block dark:hidden text-bauhaus-black relative z-10"
+      fill="currentColor"
+      viewBox="0 0 20 20"
+    >
+      <path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z"></path>
+    </svg>
+  </button>
+
+  <!-- Gay mode toggle -->
+  <button
+    id="gay-toggle"
+    type="button"
+    class="relative w-10 h-10 flex items-center justify-center group overflow-hidden"
+    aria-label="Toggle gay mode"
+  >
+    <div class="absolute inset-0 border-2 border-bauhaus-steel group-hover:border-gay-pink transition-all duration-300"></div>
+    <div class="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-300 bg-gradient-to-r from-red-500 via-yellow-500 via-green-500 via-blue-500 to-purple-500"></div>
+
+    <!-- Rainbow heart -->
+    <svg
+      class="w-5 h-5 relative z-10 text-bauhaus-cream"
+      fill="currentColor"
+      viewBox="0 0 20 20"
+    >
+      <path
+        fill-rule="evenodd"
+        d="M3.172 5.172a4 4 0 015.656 0L10 6.343l1.172-1.171a4 4 0 115.656 5.656L10 17.657l-6.828-6.829a4 4 0 010-5.656z"
+        clip-rule="evenodd"
+      />
+    </svg>
+  </button>
+
+  <!-- Jugendstil mode toggle -->
+  <button
+    id="jugend-toggle"
+    type="button"
+    class="relative w-10 h-10 flex items-center justify-center group overflow-hidden"
+    aria-label="Toggle Jugendstil mode"
+  >
+    <div class="absolute inset-0 border-2 border-bauhaus-steel group-hover:border-jugend-gold transition-all duration-300 rounded-full"></div>
+
+    <!-- Flower/leaf icon -->
+    <svg
+      class="w-5 h-5 relative z-10 text-bauhaus-cream group-hover:text-jugend-gold transition-colors"
+      fill="currentColor"
+      viewBox="0 0 24 24"
+    >
+      <path d="M12 2C13.5 2 15 3.5 15 5.5C15 7 14 8.5 12 9.5C10 8.5 9 7 9 5.5C9 3.5 10.5 2 12 2ZM12 22C12 22 6 16 6 11C6 8.5 8 6 10.5 5.5C10.5 7.5 11 9 12 10C13 9 13.5 7.5 13.5 5.5C16 6 18 8.5 18 11C18 16 12 22 12 22Z"/>
+    </svg>
+  </button>
+</div>
 
 <script>
-  import { toggleTheme } from '../scripts/theme';
-  
-  const button = document.getElementById('theme-toggle');
-  
-  if (button) {
-    button.addEventListener('click', () => {
-      toggleTheme();
-    });
+  function setupThemeToggle() {
+    const themeButton = document.getElementById('theme-toggle');
+    const gayButton = document.getElementById('gay-toggle');
+    const jugendButton = document.getElementById('jugend-toggle');
+
+    function setTheme(theme: string) {
+      const html = document.documentElement;
+      html.classList.remove('dark', 'light', 'gay', 'jugend');
+      html.classList.add(theme);
+      localStorage.setItem('theme', theme);
+    }
+
+    if (themeButton) {
+      themeButton.addEventListener('click', () => {
+        const html = document.documentElement;
+
+        // If in special mode, exit to dark
+        if (html.classList.contains('gay') || html.classList.contains('jugend')) {
+          setTheme('dark');
+          return;
+        }
+
+        const isDark = html.classList.contains('dark');
+        setTheme(isDark ? 'light' : 'dark');
+      });
+    }
+
+    if (gayButton) {
+      gayButton.addEventListener('click', () => {
+        const html = document.documentElement;
+        const isGay = html.classList.contains('gay');
+        setTheme(isGay ? 'dark' : 'gay');
+      });
+    }
+
+    if (jugendButton) {
+      jugendButton.addEventListener('click', () => {
+        const html = document.documentElement;
+        const isJugend = html.classList.contains('jugend');
+        setTheme(isJugend ? 'dark' : 'jugend');
+      });
+    }
   }
+
+  // Run on initial load
+  setupThemeToggle();
+
+  // Re-run after Astro page transitions
+  document.addEventListener('astro:after-swap', setupThemeToggle);
 </script>
+
+<style>
+  :global(.light) #theme-toggle div:first-child {
+    @apply border-bauhaus-charcoal/30;
+  }
+
+  :global(.light) #gay-toggle div:first-child {
+    @apply border-bauhaus-charcoal/30;
+  }
+
+  :global(.light) #jugend-toggle div:first-child {
+    @apply border-bauhaus-charcoal/30;
+  }
+
+  :global(.gay) #gay-toggle div:first-child {
+    @apply border-gay-pink;
+  }
+
+  :global(.gay) #gay-toggle div:nth-child(2) {
+    @apply opacity-100;
+  }
+
+  :global(.gay) #gay-toggle svg {
+    @apply text-white;
+  }
+
+  :global(.jugend) #jugend-toggle div:first-child {
+    border-color: #C9A227;
+    background: linear-gradient(135deg, #2D4A3E, #8B9A6D);
+  }
+
+  :global(.jugend) #jugend-toggle svg {
+    color: #C9A227;
+  }
+</style>

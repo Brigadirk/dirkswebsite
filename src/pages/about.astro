@@ -1,0 +1,79 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<Layout title={`About | ${SITE_TITLE}`} description="About Dirk">
+  <div class="mb-16 relative">
+    <div class="w-0 h-0 border-l-[6px] border-l-transparent border-r-[6px] border-r-transparent border-b-[10px] border-b-bauhaus-blue mb-8"></div>
+    <h1 class="text-5xl md:text-7xl font-bold text-bauhaus-cream tracking-tighter mb-4">
+      About
+    </h1>
+    <div class="h-1 w-48 bg-bauhaus-yellow"></div>
+  </div>
+
+  <div class="prose prose-lg prose-bauhaus max-w-none">
+    <p class="text-xl text-bauhaus-cream/90 leading-relaxed">
+      My name is Dirk and I started blogging as my new year's resolution for 2026.
+    </p>
+  </div>
+</Layout>
+
+<style>
+  :global(.light) h1 {
+    color: #1a1a1a !important;
+  }
+
+  :global(.light) p {
+    color: #333 !important;
+  }
+
+  :global(.gay) h1 {
+    color: white !important;
+    text-shadow: 3px 3px 6px rgba(0,0,0,0.3), 0 0 20px #FFD700;
+  }
+
+  :global(.gay) p {
+    color: white !important;
+  }
+
+  :global(.gay) .border-b-bauhaus-blue {
+    border-bottom-color: #FF69B4 !important;
+  }
+
+  :global(.gay) .bg-bauhaus-yellow {
+    background: linear-gradient(90deg, red, orange, yellow, green, blue, purple) !important;
+  }
+
+  /* Jugendstil mode - Art Nouveau elegance */
+  :global(.jugend) h1 {
+    color: #2D4A3E !important;
+    font-family: 'Georgia', serif;
+    font-style: italic;
+  }
+
+  :global(.jugend) p {
+    color: #2D4A3E !important;
+    font-family: 'Georgia', serif;
+  }
+
+  /* Hide Bauhaus elements */
+  :global(.jugend) .border-b-bauhaus-blue {
+    display: none !important;
+  }
+
+  :global(.jugend) .bg-bauhaus-yellow {
+    background: linear-gradient(90deg, #C9A227, #8B9A6D, #C9A227) !important;
+    height: 2px !important;
+    border-radius: 50px;
+  }
+
+  /* Add organic flourish */
+  :global(.jugend) .mb-16.relative::before {
+    content: '✿';
+    display: block;
+    font-size: 1.5rem;
+    color: #C9A227;
+    margin-bottom: 1rem;
+  }
+</style>

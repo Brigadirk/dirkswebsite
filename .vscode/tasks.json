@@ -1,0 +1,49 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Dev Server",
+      "type": "shell",
+      "command": "source ~/.nvm/nvm.sh && nvm use && npm run dev",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      },
+      "isBackground": true,
+      "problemMatcher": {
+        "pattern": {
+          "regexp": "^$"
+        },
+        "background": {
+          "activeOnStart": true,
+          "beginsPattern": "astro dev",
+          "endsPattern": "ready in"
+        }
+      }
+    },
+    {
+      "label": "Build",
+      "type": "shell",
+      "command": "source ~/.nvm/nvm.sh && nvm use && npm run build",
+      "group": "build",
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      }
+    },
+    {
+      "label": "Preview",
+      "type": "shell",
+      "command": "source ~/.nvm/nvm.sh && nvm use && npm run preview",
+      "group": "none",
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
+    }
+  ]
+}

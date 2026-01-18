@@ -2,11 +2,72 @@
 const today = new Date();
 ---
 
-<footer class="mt-auto border-t border-gray-200 dark:border-gray-800 bg-gray-50 dark:bg-gray-950">
-  <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-    <div class="text-center text-gray-600 dark:text-gray-400 text-sm">
-      <p>&copy; {today.getFullYear()} {import.meta.env.SITE || 'My Blog'}. All rights reserved.</p>
-      <p class="mt-2">Built with <a href="https://astro.build" target="_blank" class="text-blue-600 dark:text-blue-400 hover:underline">Astro</a></p>
+<footer class="mt-auto border-t-2 border-bauhaus-steel bg-bauhaus-charcoal relative overflow-hidden">
+  <!-- Geometric decoration -->
+  <div class="absolute right-0 top-0 w-32 h-32 opacity-10" aria-hidden="true">
+    <div class="absolute top-4 right-4 w-8 h-8 border-2 border-bauhaus-red"></div>
+    <div class="absolute top-8 right-12 w-6 h-6 border-2 border-bauhaus-red"></div>
+    <div class="absolute top-16 right-6 w-4 h-4 bg-bauhaus-red"></div>
+  </div>
+
+  <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <div class="flex flex-col md:flex-row justify-between items-center gap-6">
+      <!-- Left side: Bauhaus shapes + copyright -->
+      <div class="flex items-center gap-4">
+        <div class="w-3 h-3 bg-bauhaus-red"></div>
+        <p class="text-bauhaus-cream/60 text-sm font-medium tracking-wide">
+          &copy; {today.getFullYear()} {import.meta.env.SITE || 'My Blog'}
+        </p>
+      </div>
+
+      <!-- Right side: Built with -->
+      <p class="text-bauhaus-cream/40 text-xs uppercase tracking-widest">
+        Form follows function
+      </p>
     </div>
+
+    <!-- Bottom accent bar -->
+    <div class="mt-8 h-1 bg-bauhaus-red"></div>
   </div>
 </footer>
+
+<!-- Light mode styles -->
+<style>
+  :global(.light) footer {
+    @apply bg-bauhaus-cream border-bauhaus-charcoal/20;
+  }
+
+  :global(.light) footer p {
+    @apply text-bauhaus-black/60;
+  }
+
+  :global(.light) footer p:last-of-type {
+    @apply text-bauhaus-black/40;
+  }
+
+  /* Gay mode styles */
+  :global(.gay) footer {
+    background: linear-gradient(90deg, #9B59B6, #FF69B4, #FFD700);
+    border-color: #FFD700;
+  }
+
+  :global(.gay) footer p {
+    @apply text-white;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+  }
+
+  :global(.gay) footer .h-1 {
+    background: linear-gradient(90deg, red, orange, yellow, green, blue, purple);
+  }
+
+  :global(.gay) footer .w-3.h-3 {
+    background: linear-gradient(45deg, #FFD700, #FF69B4);
+    animation: sparkle 1s ease-in-out infinite;
+    border-radius: 50%;
+  }
+
+  @keyframes sparkle {
+    0%, 100% { transform: scale(1); box-shadow: 0 0 5px #FFD700; }
+    50% { transform: scale(1.3); box-shadow: 0 0 15px #FF69B4; }
+  }
+</style>

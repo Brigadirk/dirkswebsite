@@ -3,20 +3,109 @@ import { SITE_TITLE } from '../consts';
 import ThemeToggle from './ThemeToggle.astro';
 ---
 
-<header class="sticky top-0 z-50 bg-white/90 dark:bg-gray-900/90 backdrop-blur-sm border-b border-gray-200 dark:border-gray-800">
+<header class="sticky top-0 z-50 bg-bauhaus-black/95 backdrop-blur-md border-b-2 border-bauhaus-steel">
   <nav class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-    <div class="flex justify-between items-center h-16">
-      <div class="flex items-center space-x-8">
-        <a href="/" class="text-xl font-bold text-gray-900 dark:text-white hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
+    <div class="flex justify-between items-center h-20">
+      <!-- Logo with geometric accent -->
+      <div class="flex items-center gap-4">
+        <div class="w-3 h-3 bg-bauhaus-red"></div>
+        <a
+          href="/"
+          class="text-2xl font-bold tracking-tight text-bauhaus-cream hover:text-bauhaus-yellow transition-colors duration-300"
+        >
           {SITE_TITLE}
         </a>
-        <div class="hidden md:flex space-x-6">
-          <a href="/blog" class="text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors">
-            Blog
+      </div>
+
+      <!-- Navigation -->
+      <div class="flex items-center gap-8">
+        <div class="hidden md:flex items-center gap-6">
+          <a
+            href="/about"
+            class="relative text-bauhaus-cream/80 hover:text-bauhaus-yellow font-medium tracking-wide transition-colors duration-300 group"
+          >
+            About
+            <span class="absolute -bottom-1 left-0 w-0 h-0.5 bg-bauhaus-yellow transition-all duration-300 group-hover:w-full"></span>
           </a>
         </div>
+
+        <!-- Separator -->
+        <div class="hidden md:block w-px h-6 bg-bauhaus-steel"></div>
+
+        <ThemeToggle />
       </div>
-      <ThemeToggle />
     </div>
   </nav>
 </header>
+
+<!-- Light mode styles -->
+<style>
+  :global(.light) header {
+    @apply bg-bauhaus-cream/95 border-bauhaus-charcoal/20;
+  }
+
+  :global(.light) header a {
+    @apply text-bauhaus-black;
+  }
+
+  :global(.light) header a:hover {
+    @apply text-bauhaus-red;
+  }
+
+  :global(.light) header nav > div > div:last-child > div:first-child a span {
+    @apply bg-bauhaus-red;
+  }
+
+  /* Gay mode styles */
+  :global(.gay) header {
+    background: linear-gradient(90deg, rgba(255,105,180,0.95), rgba(255,215,0,0.95), rgba(155,89,182,0.95));
+    border-color: #FFD700;
+  }
+
+  :global(.gay) header a {
+    @apply text-white;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+  }
+
+  :global(.gay) header a:hover {
+    @apply text-yellow-200;
+  }
+
+  :global(.gay) header .w-3.h-3 {
+    background: linear-gradient(45deg, #FF69B4, #FFD700, #FF69B4);
+    animation: sparkle 1s ease-in-out infinite;
+  }
+
+  @keyframes sparkle {
+    0%, 100% { transform: scale(1) rotate(0deg); }
+    50% { transform: scale(1.2) rotate(180deg); }
+  }
+
+  /* Jugendstil mode styles */
+  :global(.jugend) header {
+    background: #F5F0E1;
+    border-color: #C9A227;
+    border-bottom-width: 2px;
+  }
+
+  :global(.jugend) header a {
+    color: #2D4A3E;
+    font-family: 'Georgia', serif;
+    font-style: italic;
+  }
+
+  :global(.jugend) header a:hover {
+    color: #C9A227;
+  }
+
+  :global(.jugend) header .w-3.h-3 {
+    display: none;
+  }
+
+  :global(.jugend) header nav > div > div:first-child::before {
+    content: '✿';
+    color: #C9A227;
+    font-size: 1.25rem;
+    margin-right: 0.5rem;
+  }
+</style>
