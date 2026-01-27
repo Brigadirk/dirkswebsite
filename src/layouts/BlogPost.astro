@@ -11,28 +11,25 @@ const { title, description, pubDate, updatedDate } = Astro.props;
 
 <Layout title={title} description={description}>
   <article class="prose prose-lg prose-bauhaus max-w-none">
-    <!-- Article header with Bauhaus styling -->
+    <!-- Article header -->
     <header class="mb-12 relative">
-      <!-- Geometric accent -->
-      <div class="w-0 h-0 border-l-[5px] border-l-transparent border-r-[5px] border-r-transparent border-b-[8px] border-b-bauhaus-blue mb-6"></div>
-
       <!-- Date -->
-      <div class="mb-4 text-bauhaus-cream/60 text-sm uppercase tracking-widest font-medium">
-        <FormattedDate date={pubDate} />
+      <p class="mb-4 text-bauhaus-cream/50 text-sm uppercase tracking-widest font-medium">
+        <span class="text-green-800">&gt;</span> <FormattedDate date={pubDate} />
         {updatedDate && (
           <span class="ml-4 text-bauhaus-yellow/60">
             Updated: <FormattedDate date={updatedDate} />
           </span>
         )}
-      </div>
+      </p>
 
       <!-- Title -->
       <h1 class="text-4xl md:text-6xl font-bold mb-6 text-bauhaus-cream leading-tight tracking-tight">
         {title}
       </h1>
 
-      <!-- Bauhaus accent line -->
-      <div class="h-1 w-32 bg-bauhaus-yellow"></div>
+      <!-- Thin red dividing line -->
+      <div class="h-px w-full bg-bauhaus-red/30"></div>
     </header>
 
     <!-- Article content -->
@@ -91,7 +88,7 @@ const { title, description, pubDate, updatedDate } = Astro.props;
   }
 
   .prose-bauhaus pre {
-    @apply bg-bauhaus-charcoal border-l-4 border-bauhaus-red p-6 rounded-none overflow-x-auto;
+    @apply bg-bauhaus-charcoal p-6 rounded-none overflow-x-auto;
   }
 
   .prose-bauhaus pre code {
@@ -341,186 +338,4 @@ const { title, description, pubDate, updatedDate } = Astro.props;
     50% { transform: scale(1.2) rotate(180deg); box-shadow: 0 0 20px #FFD700; }
   }
 
-  /* Jugendstil mode - Art Nouveau elegance */
-  :global(.jugend) .prose-bauhaus,
-  :global(.jugend) .prose-bauhaus p,
-  :global(.jugend) .prose-bauhaus li,
-  :global(.jugend) .prose-bauhaus td,
-  :global(.jugend) .prose-bauhaus th,
-  :global(.jugend) .prose p,
-  :global(.jugend) .prose li,
-  :global(.jugend) article p,
-  :global(.jugend) article li,
-  :global(.jugend) article span {
-    color: #1a1a1a !important;
-    font-family: 'Georgia', serif;
-    line-height: 1.8;
-  }
-
-  :global(.jugend) .prose-bauhaus h1,
-  :global(.jugend) .prose-bauhaus h2,
-  :global(.jugend) .prose-bauhaus h3,
-  :global(.jugend) .prose h1,
-  :global(.jugend) .prose h2,
-  :global(.jugend) .prose h3,
-  :global(.jugend) article h1,
-  :global(.jugend) article h2,
-  :global(.jugend) article h3,
-  :global(.jugend) article header h1 {
-    color: #1a1a1a !important;
-    font-family: 'Georgia', serif;
-    font-style: italic;
-  }
-
-  :global(.jugend) .prose-bauhaus h2 {
-    border-color: #C9A227 !important;
-    border-bottom-style: double !important;
-  }
-
-  :global(.jugend) .prose-bauhaus h2::before {
-    content: '❧ ';
-    color: #8B9A6D;
-  }
-
-  :global(.jugend) .prose-bauhaus a {
-    color: #6B4E5C !important;
-    border-color: rgba(107, 78, 92, 0.4) !important;
-  }
-
-  :global(.jugend) .prose-bauhaus a:hover {
-    color: #C9A227 !important;
-  }
-
-  :global(.jugend) .prose-bauhaus strong {
-    color: #2D4A3E !important;
-    font-weight: bold;
-  }
-
-  :global(.jugend) .prose-bauhaus em {
-    color: #6B4E5C !important;
-  }
-
-  :global(.jugend) .prose-bauhaus code {
-    background: rgba(201, 162, 39, 0.15) !important;
-    color: #2D4A3E !important;
-    border: 1px solid rgba(201, 162, 39, 0.3);
-    border-radius: 4px;
-  }
-
-  :global(.jugend) .prose-bauhaus pre {
-    background: rgba(45, 74, 62, 0.08) !important;
-    border-left: 3px double #C9A227 !important;
-    border-radius: 0;
-  }
-
-  :global(.jugend) .prose-bauhaus pre code {
-    color: #2D4A3E !important;
-    background: transparent !important;
-    border: none !important;
-  }
-
-  :global(.jugend) .prose-bauhaus blockquote {
-    background: rgba(201, 162, 39, 0.1) !important;
-    border-left: 3px double #C9A227 !important;
-    color: #2D4A3E !important;
-    font-style: italic;
-  }
-
-  /* Replace geometric list markers with organic ones */
-  :global(.jugend) .prose-bauhaus ul li::before {
-    content: '✿' !important;
-    background: none !important;
-    color: #8B9A6D;
-    font-size: 0.75rem;
-    width: auto !important;
-    height: auto !important;
-    top: 0.25rem !important;
-  }
-
-  :global(.jugend) .prose-bauhaus ol li::before {
-    background: none !important;
-    color: #C9A227 !important;
-    font-style: italic;
-    width: auto !important;
-    height: auto !important;
-    display: inline !important;
-  }
-
-  :global(.jugend) .prose-bauhaus hr {
-    background: linear-gradient(90deg, transparent, #C9A227, transparent) !important;
-    height: 2px !important;
-  }
-
-  :global(.jugend) .prose-bauhaus img {
-    border: 2px solid #C9A227 !important;
-    border-radius: 8px;
-  }
-
-  :global(.jugend) .prose-bauhaus table {
-    border: 2px solid #C9A227 !important;
-  }
-
-  :global(.jugend) .prose-bauhaus th {
-    background: rgba(201, 162, 39, 0.2) !important;
-    color: #2D4A3E !important;
-    border-bottom: 2px solid #C9A227 !important;
-  }
-
-  :global(.jugend) .prose-bauhaus td {
-    border-color: rgba(201, 162, 39, 0.3) !important;
-  }
-
-  :global(.jugend) .border-bauhaus-steel {
-    border-color: #C9A227 !important;
-  }
-
-  :global(.jugend) .border-t-2 {
-    border-top-style: double !important;
-  }
-
-  :global(.jugend) .text-bauhaus-cream {
-    color: #1a1a1a !important;
-  }
-
-  :global(.jugend) .text-bauhaus-cream\/60 {
-    color: #444 !important;
-  }
-
-  :global(.jugend) .text-bauhaus-yellow\/60 {
-    color: #6B4E5C !important;
-  }
-
-  /* Hide Bauhaus geometric elements */
-  :global(.jugend) .border-b-bauhaus-blue {
-    display: none !important;
-  }
-
-  :global(.jugend) .w-2.h-2.bg-bauhaus-red {
-    display: none !important;
-  }
-
-  :global(.jugend) .bg-bauhaus-yellow {
-    background: linear-gradient(90deg, #C9A227, #8B9A6D, #C9A227) !important;
-    height: 2px !important;
-    border-radius: 50px;
-  }
-
-  /* Add organic header flourish */
-  :global(.jugend) article header::before {
-    content: '✿';
-    display: block;
-    font-size: 1.5rem;
-    color: #C9A227;
-    margin-bottom: 1rem;
-  }
-
-  /* Comments section organic styling */
-  :global(.jugend) .mt-16.pt-8 h2::before {
-    content: '❧ ';
-    color: #8B9A6D;
-  }
-
-  :global(.jugend) .mt-16.pt-8 .w-2.h-2 {
-    display: none !important;
-  }
 </style>

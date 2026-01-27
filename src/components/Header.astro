@@ -6,9 +6,13 @@ import ThemeToggle from './ThemeToggle.astro';
 <header class="sticky top-0 z-50 bg-bauhaus-black/95 backdrop-blur-md border-b-2 border-bauhaus-steel">
   <nav class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="flex justify-between items-center h-20">
-      <!-- Logo with geometric accent -->
+      <!-- Logo with cross accent -->
       <div class="flex items-center gap-4">
-        <div class="w-3 h-3 bg-bauhaus-red"></div>
+        <button
+          id="close-content"
+          class="text-bauhaus-red hover:text-bauhaus-red/70 transition-colors duration-300 text-lg font-bold leading-none"
+          aria-label="Close content"
+        >✕</button>
         <a
           href="/"
           class="text-2xl font-bold tracking-tight text-bauhaus-cream hover:text-bauhaus-yellow transition-colors duration-300"
@@ -71,8 +75,11 @@ import ThemeToggle from './ThemeToggle.astro';
     @apply text-yellow-200;
   }
 
-  :global(.gay) header .w-3.h-3 {
+  :global(.gay) #close-content {
     background: linear-gradient(45deg, #FF69B4, #FFD700, #FF69B4);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
     animation: sparkle 1s ease-in-out infinite;
   }
 
@@ -80,32 +87,20 @@ import ThemeToggle from './ThemeToggle.astro';
     0%, 100% { transform: scale(1) rotate(0deg); }
     50% { transform: scale(1.2) rotate(180deg); }
   }
-
-  /* Jugendstil mode styles */
-  :global(.jugend) header {
-    background: #F5F0E1;
-    border-color: #C9A227;
-    border-bottom-width: 2px;
-  }
-
-  :global(.jugend) header a {
-    color: #2D4A3E;
-    font-family: 'Georgia', serif;
-    font-style: italic;
-  }
-
-  :global(.jugend) header a:hover {
-    color: #C9A227;
-  }
-
-  :global(.jugend) header .w-3.h-3 {
-    display: none;
-  }
-
-  :global(.jugend) header nav > div > div:first-child::before {
-    content: '✿';
-    color: #C9A227;
-    font-size: 1.25rem;
-    margin-right: 0.5rem;
-  }
 </style>
+
+<script>
+  function setupCloseButton() {
+    const closeButton = document.getElementById('close-content');
+
+    if (closeButton) {
+      closeButton.addEventListener('click', () => {
+        document.body.classList.add('content-hidden');
+        closeButton.style.display = 'none';
+      });
+    }
+  }
+
+  setupCloseButton();
+  document.addEventListener('astro:after-swap', setupCloseButton);
+</script>

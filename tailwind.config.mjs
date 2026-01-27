@@ -7,7 +7,7 @@ export default {
 			colors: {
 				// Bauhaus primary palette
 				bauhaus: {
-					black: '#0d1b2a',
+					black: '#060d16',
 					charcoal: '#1b2838',
 					steel: '#2a3f5f',
 					red: '#E53935',
@@ -26,17 +26,6 @@ export default {
 					coral: '#FF7F50',
 					mint: '#98FF98',
 					sky: '#87CEEB',
-				},
-				// Jugendstil palette
-				jugend: {
-					sage: '#8B9A6D',
-					gold: '#C9A227',
-					cream: '#F5F0E1',
-					plum: '#6B4E5C',
-					forest: '#2D4A3E',
-					copper: '#B87333',
-					ivory: '#FFFFF0',
-					moss: '#4A5D4A',
 				},
 			},
 			fontFamily: {
