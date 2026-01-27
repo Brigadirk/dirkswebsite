@@ -3,7 +3,7 @@ import { SITE_TITLE } from '../consts';
 import ThemeToggle from './ThemeToggle.astro';
 ---
 
-<header class="sticky top-0 z-50 bg-bauhaus-black/95 backdrop-blur-md border-b-2 border-bauhaus-steel">
+<header class="sticky top-0 z-50 bg-bauhaus-black/95 backdrop-blur-md border-b border-sky-400/50">
   <nav class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
     <div class="flex justify-between items-center h-20">
       <!-- Logo with cross accent -->
@@ -45,7 +45,8 @@ import ThemeToggle from './ThemeToggle.astro';
 <!-- Light mode styles -->
 <style>
   :global(.light) header {
-    @apply bg-bauhaus-cream/95 border-bauhaus-charcoal/20;
+    @apply bg-bauhaus-cream/95;
+    border-color: rgb(56 189 248 / 0.5) !important;
   }
 
   :global(.light) header a {
