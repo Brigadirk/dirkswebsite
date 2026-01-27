@@ -59,35 +59,16 @@
     </svg>
   </button>
 
-  <!-- Jugendstil mode toggle -->
-  <button
-    id="jugend-toggle"
-    type="button"
-    class="relative w-10 h-10 flex items-center justify-center group overflow-hidden"
-    aria-label="Toggle Jugendstil mode"
-  >
-    <div class="absolute inset-0 border-2 border-bauhaus-steel group-hover:border-jugend-gold transition-all duration-300 rounded-full"></div>
-
-    <!-- Flower/leaf icon -->
-    <svg
-      class="w-5 h-5 relative z-10 text-bauhaus-cream group-hover:text-jugend-gold transition-colors"
-      fill="currentColor"
-      viewBox="0 0 24 24"
-    >
-      <path d="M12 2C13.5 2 15 3.5 15 5.5C15 7 14 8.5 12 9.5C10 8.5 9 7 9 5.5C9 3.5 10.5 2 12 2ZM12 22C12 22 6 16 6 11C6 8.5 8 6 10.5 5.5C10.5 7.5 11 9 12 10C13 9 13.5 7.5 13.5 5.5C16 6 18 8.5 18 11C18 16 12 22 12 22Z"/>
-    </svg>
-  </button>
 </div>
 
 <script>
   function setupThemeToggle() {
     const themeButton = document.getElementById('theme-toggle');
     const gayButton = document.getElementById('gay-toggle');
-    const jugendButton = document.getElementById('jugend-toggle');
 
     function setTheme(theme: string) {
       const html = document.documentElement;
-      html.classList.remove('dark', 'light', 'gay', 'jugend');
+      html.classList.remove('dark', 'light', 'gay');
       html.classList.add(theme);
       localStorage.setItem('theme', theme);
     }
@@ -97,7 +78,7 @@
         const html = document.documentElement;
 
         // If in special mode, exit to dark
-        if (html.classList.contains('gay') || html.classList.contains('jugend')) {
+        if (html.classList.contains('gay')) {
           setTheme('dark');
           return;
         }
@@ -112,14 +93,6 @@
         const html = document.documentElement;
         const isGay = html.classList.contains('gay');
         setTheme(isGay ? 'dark' : 'gay');
-      });
-    }
-
-    if (jugendButton) {
-      jugendButton.addEventListener('click', () => {
-        const html = document.documentElement;
-        const isJugend = html.classList.contains('jugend');
-        setTheme(isJugend ? 'dark' : 'jugend');
       });
     }
   }
@@ -140,10 +113,6 @@
     @apply border-bauhaus-charcoal/30;
   }
 
-  :global(.light) #jugend-toggle div:first-child {
-    @apply border-bauhaus-charcoal/30;
-  }
-
   :global(.gay) #gay-toggle div:first-child {
     @apply border-gay-pink;
   }
@@ -154,14 +123,5 @@
 
   :global(.gay) #gay-toggle svg {
     @apply text-white;
-  }
-
-  :global(.jugend) #jugend-toggle div:first-child {
-    border-color: #C9A227;
-    background: linear-gradient(135deg, #2D4A3E, #8B9A6D);
-  }
-
-  :global(.jugend) #jugend-toggle svg {
-    color: #C9A227;
   }
 </style>

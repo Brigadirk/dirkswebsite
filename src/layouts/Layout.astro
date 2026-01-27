@@ -20,12 +20,12 @@ const { title, description, image } = Astro.props;
       const theme = (() => {
         if (typeof localStorage !== 'undefined') {
           const stored = localStorage.getItem('theme');
-          if (['light', 'gay', 'jugend'].includes(stored)) return stored;
+          if (['light', 'gay'].includes(stored)) return stored;
         }
         return 'dark';
       })();
 
-      document.documentElement.classList.remove('dark', 'light', 'gay', 'jugend');
+      document.documentElement.classList.remove('dark', 'light', 'gay');
       document.documentElement.classList.add(theme);
     </script>
   </head>
@@ -33,14 +33,10 @@ const { title, description, image } = Astro.props;
     <!-- Floating geometric decorations (bauhaus modes) -->
     <div class="bauhaus-decorations fixed inset-0 pointer-events-none overflow-hidden z-0" aria-hidden="true">
       <!-- Large square - top right -->
-      <div class="absolute -top-32 -right-32 w-96 h-96 border-2 border-bauhaus-red/10 rotate-12"></div>
+      <div class="absolute -top-24 -right-24 w-64 h-64 border border-bauhaus-red/[0.04] rotate-12"></div>
 
       <!-- Medium square - bottom left -->
-      <div class="absolute -bottom-20 -left-20 w-64 h-64 bg-bauhaus-red/5"></div>
-
-
-      <!-- Vertical line accent -->
-      <div class="absolute top-0 left-1/2 w-px h-screen bg-gradient-to-b from-bauhaus-red/10 via-bauhaus-red/5 to-transparent"></div>
+      <div class="absolute -bottom-16 -left-16 w-48 h-48 bg-bauhaus-red/[0.02]"></div>
     </div>
 
     <!-- Gay mode floating sparkles -->
@@ -55,19 +51,6 @@ const { title, description, image } = Astro.props;
       <div class="sparkle sparkle-8">✨</div>
       <div class="sparkle sparkle-9">💖</div>
       <div class="sparkle sparkle-10">🌟</div>
-    </div>
-
-    <!-- Jugendstil decorations -->
-    <div class="jugend-decorations fixed inset-0 pointer-events-none overflow-hidden z-0 hidden" aria-hidden="true">
-      <!-- Ornate corner flourishes -->
-      <div class="absolute top-16 left-4 text-6xl opacity-40" style="color: #C9A227;">❧</div>
-      <div class="absolute top-16 right-4 text-6xl opacity-40" style="color: #C9A227; transform: scaleX(-1);">❧</div>
-      <div class="absolute bottom-8 left-4 text-5xl opacity-30" style="color: #8B9A6D; transform: scaleY(-1);">✿</div>
-      <div class="absolute bottom-8 right-4 text-5xl opacity-30" style="color: #8B9A6D; transform: scale(-1);">✿</div>
-      <!-- Flowing organic border on left -->
-      <div class="absolute top-0 left-0 w-12 h-full opacity-20" style="background: url('data:image/svg+xml,<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 40 200\"><path d=\"M20,0 Q0,50 20,100 Q40,150 20,200\" fill=\"none\" stroke=\"%23C9A227\" stroke-width=\"2\"/></svg>') repeat-y;"></div>
-      <!-- Flowing organic border on right -->
-      <div class="absolute top-0 right-0 w-12 h-full opacity-20" style="background: url('data:image/svg+xml,<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 40 200\"><path d=\"M20,0 Q40,50 20,100 Q0,150 20,200\" fill=\"none\" stroke=\"%238B9A6D\" stroke-width=\"2\"/></svg>') repeat-y;"></div>
     </div>
 
     <!-- Top accent bar -->
@@ -87,20 +70,6 @@ const { title, description, image } = Astro.props;
 
       :global(.gay) .gay-decorations {
         display: block;
-      }
-
-      :global(.jugend) .bauhaus-decorations {
-        display: none;
-      }
-
-      :global(.jugend) .jugend-decorations {
-        display: block;
-      }
-
-      :global(.jugend) .top-accent-bar {
-        background: linear-gradient(90deg, #F5F0E1, #C9A227, #8B9A6D, #C9A227, #F5F0E1);
-        height: 4px;
-        border-bottom: 1px solid #C9A227;
       }
 
       :global(.gay) .top-accent-bar {

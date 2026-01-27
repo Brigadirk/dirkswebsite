@@ -33,7 +33,7 @@ export default function Comments() {
   }, []);
 
   return (
-    <div className="mt-8 pt-8 border-t border-gray-200 dark:border-gray-800">
+    <div className="mt-8">
       <Giscus
         id="comments"
         repo="Brigadirk/dirkswebsite"
@@ -41,7 +41,7 @@ export default function Comments() {
         category="General"
         categoryId="DIC_kwDONhqGEM4Cl_Fq"
         mapping="pathname"
-        reactionsEnabled="1"
+        reactionsEnabled="0"
         emitMetadata="0"
         inputPosition="top"
         theme={theme}
