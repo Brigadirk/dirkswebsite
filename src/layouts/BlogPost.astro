@@ -2,11 +2,12 @@
 import type { CollectionEntry } from 'astro:content';
 import Layout from './Layout.astro';
 import FormattedDate from '../components/FormattedDate.astro';
+import AudioPlayer from '../components/AudioPlayer.astro';
 import Comments from '../components/Comments';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, updatedDate } = Astro.props;
+const { title, description, pubDate, updatedDate, audioFile } = Astro.props;
 ---
 
 <Layout title={title} description={description}>
@@ -30,6 +31,8 @@ const { title, description, pubDate, updatedDate } = Astro.props;
 
       <!-- Thin red dividing line -->
       <div class="h-px w-full bg-bauhaus-red/30"></div>
+
+      {audioFile && <AudioPlayer src={audioFile} />}
     </header>
 
     <!-- Article content -->
@@ -155,179 +158,179 @@ const { title, description, pubDate, updatedDate } = Astro.props;
   }
 
   /* Light mode overrides */
-  :global(.light) .prose-bauhaus,
-  :global(.light) .prose-bauhaus p,
-  :global(.light) .prose-bauhaus li,
-  :global(.light) .prose-bauhaus td,
-  :global(.light) .prose-bauhaus th {
+  .light .prose-bauhaus,
+  .light .prose-bauhaus p,
+  .light .prose-bauhaus li,
+  .light .prose-bauhaus td,
+  .light .prose-bauhaus th {
     color: #333 !important;
   }
 
-  :global(.light) .prose-bauhaus h1,
-  :global(.light) .prose-bauhaus h2,
-  :global(.light) .prose-bauhaus h3,
-  :global(.light) .prose-bauhaus h4,
-  :global(.light) .prose-bauhaus h5,
-  :global(.light) .prose-bauhaus h6 {
+  .light .prose-bauhaus h1,
+  .light .prose-bauhaus h2,
+  .light .prose-bauhaus h3,
+  .light .prose-bauhaus h4,
+  .light .prose-bauhaus h5,
+  .light .prose-bauhaus h6 {
     color: #1a1a1a !important;
   }
 
-  :global(.light) .prose-bauhaus h2 {
+  .light .prose-bauhaus h2 {
     border-color: #ddd !important;
   }
 
-  :global(.light) .prose-bauhaus a {
-    color: #1565C0 !important;
-    border-color: rgba(21, 101, 192, 0.3) !important;
+  .light .prose-bauhaus a {
+    color: #38bdf8 !important;
+    border-color: rgba(56, 189, 248, 0.3) !important;
   }
 
-  :global(.light) .prose-bauhaus a:hover {
-    border-color: #1565C0 !important;
+  .light .prose-bauhaus a:hover {
+    border-color: #38bdf8 !important;
   }
 
-  :global(.light) .prose-bauhaus strong {
+  .light .prose-bauhaus strong {
     color: #1a1a1a !important;
   }
 
-  :global(.light) .prose-bauhaus em {
-    color: #444 !important;
+  .light .prose-bauhaus em {
+    color: #333 !important;
   }
 
-  :global(.light) .prose-bauhaus code {
+  .light .prose-bauhaus code {
     background: rgba(0,0,0,0.07) !important;
     color: #E53935 !important;
   }
 
-  :global(.light) .prose-bauhaus pre {
+  .light .prose-bauhaus pre {
     background: rgba(0,0,0,0.05) !important;
   }
 
-  :global(.light) .prose-bauhaus pre code {
+  .light .prose-bauhaus pre code {
     color: #1a1a1a !important;
   }
 
-  :global(.light) .prose-bauhaus blockquote {
+  .light .prose-bauhaus blockquote {
     background: rgba(0,0,0,0.03) !important;
     color: #444 !important;
   }
 
-  :global(.light) .prose-bauhaus ul li::before {
+  .light .prose-bauhaus ul li::before {
     background: #E53935 !important;
   }
 
-  :global(.light) .prose-bauhaus ol li::before {
+  .light .prose-bauhaus ol li::before {
     background: #E53935 !important;
     color: white !important;
   }
 
-  :global(.light) .text-bauhaus-cream {
+  .light .text-bauhaus-cream {
     color: #1a1a1a !important;
   }
 
-  :global(.light) .text-bauhaus-cream\/60 {
+  .light .text-bauhaus-cream\/60 {
     color: #666 !important;
   }
 
-  :global(.light) .text-bauhaus-yellow\/60 {
+  .light .text-bauhaus-yellow\/60 {
     color: #b45309 !important;
   }
 
-  :global(.light) article header h1 {
+  .light article header h1 {
     color: #1a1a1a !important;
   }
 
-  :global(.light) article header > div:first-of-type {
+  .light article header > div:first-of-type {
     color: #666 !important;
   }
 
-  :global(.light) .border-bauhaus-steel {
+  .light .border-bauhaus-steel {
     border-color: #ddd !important;
   }
 
   /* Gay mode - FABULOUS prose */
-  :global(.gay) .w-4.h-4.bg-bauhaus-red {
+  .gay .w-4.h-4.bg-bauhaus-red {
     background: linear-gradient(45deg, #FF69B4, #FFD700) !important;
     border-radius: 50%;
     animation: gay-sparkle 1s ease-in-out infinite;
   }
 
-  :global(.gay) .h-1.w-32 {
+  .gay .h-1.w-32 {
     background: linear-gradient(90deg, red, orange, yellow, green, blue, purple) !important;
   }
 
-  :global(.gay) .prose-bauhaus {
+  .gay .prose-bauhaus {
     @apply text-white/90;
   }
 
-  :global(.gay) .prose-bauhaus h1,
-  :global(.gay) .prose-bauhaus h2,
-  :global(.gay) .prose-bauhaus h3 {
+  .gay .prose-bauhaus h1,
+  .gay .prose-bauhaus h2,
+  .gay .prose-bauhaus h3 {
     @apply text-white;
     text-shadow: 2px 2px 4px rgba(0,0,0,0.3), 0 0 15px #FFD700;
   }
 
-  :global(.gay) .prose-bauhaus h2 {
+  .gay .prose-bauhaus h2 {
     border-color: #FF69B4;
   }
 
-  :global(.gay) .prose-bauhaus a {
+  .gay .prose-bauhaus a {
     color: #FFD700;
     border-color: #FFD700;
     text-shadow: 0 0 10px #FFD700;
   }
 
-  :global(.gay) .prose-bauhaus a:hover {
+  .gay .prose-bauhaus a:hover {
     color: #FF69B4;
     border-color: #FF69B4;
   }
 
-  :global(.gay) .prose-bauhaus strong {
+  .gay .prose-bauhaus strong {
     color: #FFD700;
   }
 
-  :global(.gay) .prose-bauhaus code {
+  .gay .prose-bauhaus code {
     background: rgba(255,105,180,0.3);
     color: #FFD700;
   }
 
-  :global(.gay) .prose-bauhaus pre {
+  .gay .prose-bauhaus pre {
     background: rgba(155,89,182,0.3);
     border-left-color: #FF69B4;
   }
 
-  :global(.gay) .prose-bauhaus pre code {
+  .gay .prose-bauhaus pre code {
     color: white;
   }
 
-  :global(.gay) .prose-bauhaus blockquote {
+  .gay .prose-bauhaus blockquote {
     background: rgba(255,215,0,0.2);
     border-left-color: #FFD700;
     color: white;
   }
 
-  :global(.gay) .prose-bauhaus ul li::before {
+  .gay .prose-bauhaus ul li::before {
     background: linear-gradient(45deg, #FF69B4, #FFD700) !important;
     border-radius: 50%;
   }
 
-  :global(.gay) .prose-bauhaus ol li::before {
+  .gay .prose-bauhaus ol li::before {
     background: linear-gradient(45deg, #FF69B4, #FFD700) !important;
   }
 
-  :global(.gay) .prose-bauhaus hr {
+  .gay .prose-bauhaus hr {
     background: linear-gradient(90deg, red, orange, yellow, green, blue, purple) !important;
   }
 
-  :global(.gay) .prose-bauhaus img {
+  .gay .prose-bauhaus img {
     border-color: #FF69B4;
     box-shadow: 0 0 20px rgba(255,105,180,0.5);
   }
 
-  :global(.gay) .border-t-2 {
+  .gay .border-t-2 {
     border-color: #FF69B4 !important;
   }
 
-  :global(.gay) .w-2.h-2.bg-bauhaus-red {
+  .gay .w-2.h-2.bg-bauhaus-red {
     background: #FFD700 !important;
     border-radius: 50%;
     box-shadow: 0 0 10px #FFD700;
