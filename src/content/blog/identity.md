@@ -2,14 +2,16 @@
 title: 'Bedrock'
 description: 'Why reason needs a reason.'
 pubDate: 2026-02-15
+audioFile: '/audio/identity.wav'
 ---
 
-*What good amid these, O me, O life? 
-That you are here, that life exists and identity.*
-Walt Whitman, [*Leaves of Grass*](https://www.poetryfoundation.org/poems/51568/o-me-o-life)
+*What good amid these, O me, O life?
+<br>That you are here, that life exists and identity.*
+<br>Walt Whitman, [*Leaves of Grass*](https://www.poetryfoundation.org/poems/51568/o-me-o-life)
 
-*for life's not a paragraph And death i think is no
-parenthesis* E.E. Cummings, [*since feeling is first*](https://poets.org/poem/feeling-first)
+*for life's not a paragraph 
+<br>And death i think is no parenthesis*
+<br>E.E. Cummings, [*since feeling is first*](https://poets.org/poem/feeling-first)
 
 There is a
 [scene](https://www.youtube.com/watch?v=jKYivs6ZLZk) in the
@@ -45,7 +47,7 @@ and doesn't love her job either. Hates it, in fact. She
 already does the bare minimum to keep it. But if she stops
 going, she'll get fired. If she gets fired, she'll lose her
 income. If she loses her income, she'll lose her apartment.
-And why is that bad? Because it would just suck: she can
+And why is that bad? Because it would *just suck*: she can
 feel, right now, how awful that would be. It's the same as
 Peter's "I don't like it", just projected further down.
 When you follow any such chain far enough, you always land
@@ -239,7 +241,7 @@ Philosopher
 posed a thought experiment: a superintelligent AI built to
 maximize paperclip production. Let's call him Paperclip
 Max. Max might eventually decide that in order to achieve
-its paperclip ambitions, he'd better wipe out the human
+his paperclip ambitions, he'd better wipe out the human
 race: its importance to him is equal to the importance that
 we humans attach to insects.
 
