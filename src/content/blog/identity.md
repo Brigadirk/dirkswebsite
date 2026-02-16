@@ -2,7 +2,7 @@
 title: 'Bedrock'
 description: 'Why reason needs a reason.'
 pubDate: 2026-02-15
-audioFile: '/audio/identity.wav'
+audioFile: '/audio/identity.mp3'
 ---
 
 *What good amid these, O me, O life?
