@@ -112,20 +112,20 @@
 
   /* Scrollbar styling */
   ::-webkit-scrollbar {
-    width: 8px;
+    width: 6px;
   }
 
   ::-webkit-scrollbar-track {
-    @apply bg-bauhaus-charcoal;
+    background: transparent;
   }
 
   ::-webkit-scrollbar-thumb {
-    @apply bg-bauhaus-red;
+    background: rgb(56 189 248 / 0.25);
     border-radius: 4px;
   }
 
   ::-webkit-scrollbar-thumb:hover {
-    @apply bg-bauhaus-yellow;
+    background: rgb(56 189 248 / 0.4);
   }
 }
 
