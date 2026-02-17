@@ -25,9 +25,13 @@ const { title, description, pubDate, updatedDate, audioFile } = Astro.props;
       </p>
 
       <!-- Title -->
-      <h1 class="text-4xl md:text-6xl font-bold mb-6 text-bauhaus-cream leading-tight tracking-tight">
+      <h1 class="text-4xl md:text-6xl font-bold mb-2 text-bauhaus-cream leading-tight tracking-tight">
         {title}
       </h1>
+
+      {description && (
+        <p class="text-lg text-bauhaus-cream/50 italic mb-6">{description}</p>
+      )}
 
       <!-- Thin red dividing line -->
       <div class="h-px w-full bg-bauhaus-red/30"></div>
