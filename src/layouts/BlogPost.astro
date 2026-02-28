@@ -3,8 +3,6 @@ import type { CollectionEntry } from 'astro:content';
 import Layout from './Layout.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import AudioPlayer from '../components/AudioPlayer.astro';
-import Comments from '../components/Comments';
-
 type Props = CollectionEntry<'blog'>['data'];
 
 const { title, description, pubDate, updatedDate, audioFile } = Astro.props;
@@ -50,7 +48,12 @@ const { title, description, pubDate, updatedDate, audioFile } = Astro.props;
         <span>🗣️</span>
         Comments
       </h2>
-      <Comments client:idle />
+      <script
+        type="text/javascript"
+        src="https://veritula.com/embed.js"
+        data-public-user-id="a7d2ce0e-7da9-4aad-a385-dbb49077a3e2"
+        data-url="https://www.dirkswebsite.nl/blog/bedrock/">
+      </script>
     </div>
   </article>
 </Layout>
