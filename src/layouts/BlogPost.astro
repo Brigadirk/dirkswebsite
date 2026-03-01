@@ -48,11 +48,20 @@ const { title, description, pubDate, updatedDate, audioFile } = Astro.props;
         <span>🗣️</span>
         Comments
       </h2>
-      <script
-        type="text/javascript"
-        src="https://veritula.com/embed.js"
-        data-public-user-id="a7d2ce0e-7da9-4aad-a385-dbb49077a3e2"
-        data-url="https://www.dirkswebsite.nl/blog/bedrock/">
+      <div id="veritula-comments"></div>
+      <script is:inline>
+        (function() {
+          var container = document.getElementById('veritula-comments');
+          var script = document.createElement('script');
+          script.type = 'text/javascript';
+          script.src = 'https://veritula.com/embed.js';
+          script.setAttribute('data-public-user-id', 'a7d2ce0e-7da9-4aad-a385-dbb49077a3e2');
+          var url = window.location.hostname === 'localhost'
+            ? 'https://www.dirkswebsite.nl' + window.location.pathname
+            : window.location.href;
+          script.setAttribute('data-url', url);
+          container.appendChild(script);
+        })();
       </script>
     </div>
   </article>
