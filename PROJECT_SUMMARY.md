@@ -186,7 +186,6 @@ Comments are fully implemented but need your GitHub repository info:
 title: 'My First Post'
 description: 'An awesome post about something cool'
 pubDate: 2024-10-06
-heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
 
 # Hello World!

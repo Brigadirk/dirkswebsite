@@ -62,13 +62,8 @@ blog/
     ├── 📂 styles/                       Styles
     │   └── global.css                   ✅ Global CSS + Tailwind
     │
-    ├── 📂 assets/                       Optimized images (6)
-    │   ├── blog-placeholder-1.jpg       Sample image
-    │   ├── blog-placeholder-2.jpg       Sample image
-    │   ├── blog-placeholder-3.jpg       Sample image
-    │   ├── blog-placeholder-4.jpg       Sample image
-    │   ├── blog-placeholder-5.jpg       Sample image
-    │   └── blog-placeholder-about.jpg   About page image
+    ├── 📂 assets/                       Optimized images
+    │   └── image.png                    Blog share image source
     │
     └── consts.ts                        ✅ Site constants
 
