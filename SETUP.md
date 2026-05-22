@@ -86,7 +86,6 @@ Create a new file in `src/content/blog/`:
 title: 'My First Post'
 description: 'This is my first blog post'
 pubDate: 2024-10-06
-heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
 
 # Hello World!
