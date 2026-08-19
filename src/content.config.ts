@@ -13,8 +13,16 @@ const blog = defineCollection({
 			pubDate: z.coerce.date(),
 			updatedDate: z.coerce.date().optional(),
 			heroImage: image().optional(),
-			audioFile: z.string().optional(),
 		}),
 });
 
-export const collections = { blog };
+const deutschland = defineCollection({
+	loader: glob({ base: './src/content/deutschland', pattern: '**/*.{md,mdx}' }),
+	schema: z.object({
+		title: z.string(),
+		description: z.string(),
+		pubDate: z.coerce.date(),
+	}),
+});
+
+export const collections = { blog, deutschland };

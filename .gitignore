@@ -3,6 +3,10 @@ dist/
 # generated types
 .astro/
 
+# local drafts
+drafts/
+src/content/Drafts/
+
 # dependencies
 node_modules/
 
