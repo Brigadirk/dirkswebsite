@@ -70,7 +70,7 @@ const cleanMarkdownBody = (body: string) =>
 		.replace(/<span class="transcript-timestamp">([^<]+)<\/span>/g, '$1');
 
 export const markdownForPost = (post: DeutschlandPost) =>
-	`# ${post.data.title}\n\n${cleanMarkdownBody(post.body).trim()}\n`;
+	`# ${post.data.title}\n\n${cleanMarkdownBody(post.body ?? '').trim()}\n`;
 
 export const markdownForSequence = (posts: DeutschlandPost[]) =>
 	[
@@ -79,7 +79,7 @@ export const markdownForSequence = (posts: DeutschlandPost[]) =>
 		...posts.flatMap((post) => [
 			`# ${formatDate(post.data.pubDate)} - ${titleWithoutDate(post.data.title)}`,
 			'',
-			cleanMarkdownBody(post.body).trim(),
+			cleanMarkdownBody(post.body ?? '').trim(),
 			'',
 		]),
 	].join('\n');

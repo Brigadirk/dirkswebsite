@@ -25,7 +25,37 @@ const posts = sortDeutschlandPosts(await getCollection('deutschland'));
     of the transcripts to correct them. If there are any mistakes I haven't caught yet do let me know.
   </p>
 
-  <ol class="deutschland-list">
+  <section class="deutschland-search" data-deutschland-search>
+    <form role="search">
+      <label for="deutschland-query">Search the archive</label>
+      <div class="deutschland-search-field">
+        <input
+          id="deutschland-query"
+          type="search"
+          name="q"
+          placeholder="Try ‘epistemology’ or ‘quantum computation’"
+          autocomplete="off"
+          enterkeyhint="search"
+          aria-controls="deutschland-posts"
+          aria-describedby="deutschland-search-help deutschland-search-status"
+        />
+        <button type="button" class="deutschland-search-clear" aria-label="Clear search" hidden>
+          Clear
+        </button>
+      </div>
+      <div class="deutschland-search-meta">
+        <p id="deutschland-search-help">Search titles and transcript text. Small typos are fine.</p>
+        <p id="deutschland-search-status" role="status" aria-live="polite">
+          {posts.length} transcripts
+        </p>
+      </div>
+    </form>
+    <p class="deutschland-no-results" hidden>
+      Nothing matched. Try fewer words or a different spelling.
+    </p>
+  </section>
+
+  <ol class="deutschland-list" id="deutschland-posts">
     <li class="featured">
       <a href="/deutschland/all/">
         <span>All</span>
@@ -33,16 +63,182 @@ const posts = sortDeutschlandPosts(await getCollection('deutschland'));
       <a class="download-link" href="/deutschland/all.md" download="deutschland-complete-sequence.md">Markdown</a>
     </li>
     {posts.map((post) => (
-      <li>
+      <li data-search-post={post.id}>
         <a href={`/deutschland/${post.id}/`}>
           <time datetime={formatDate(post.data.pubDate)}>{formatDate(post.data.pubDate)}</time>
           <span>-</span>
           <span>{titleWithoutDate(post.data.title)}</span>
         </a>
+        <span class="deutschland-search-match" hidden></span>
       </li>
     ))}
   </ol>
 </Layout>
+
+<script>
+  import {
+    searchDeutschlandIndex,
+    type DeutschlandSearchIndex,
+  } from '../../lib/deutschland-search';
+
+  const searchRoot = document.querySelector<HTMLElement>('[data-deutschland-search]');
+  const form = searchRoot?.querySelector<HTMLFormElement>('form');
+  const input = searchRoot?.querySelector<HTMLInputElement>('#deutschland-query');
+  const clearButton = searchRoot?.querySelector<HTMLButtonElement>('.deutschland-search-clear');
+  const status = searchRoot?.querySelector<HTMLElement>('#deutschland-search-status');
+  const noResults = searchRoot?.querySelector<HTMLElement>('.deutschland-no-results');
+  const list = document.querySelector<HTMLOListElement>('#deutschland-posts');
+
+  if (searchRoot && form && input && clearButton && status && noResults && list) {
+    const originalItems = Array.from(list.children) as HTMLElement[];
+    const postItems = new Map(
+      originalItems
+        .filter((item) => item.dataset.searchPost)
+        .map((item) => [item.dataset.searchPost as string, item]),
+    );
+    const transcriptCount = postItems.size;
+    let searchIndexPromise: Promise<DeutschlandSearchIndex> | undefined;
+    let debounceTimer: number | undefined;
+    let searchSequence = 0;
+
+    const setSearching = (isSearching: boolean) => {
+      form.toggleAttribute('aria-busy', isSearching);
+      list.toggleAttribute('aria-busy', isSearching);
+    };
+
+    const loadSearchIndex = () => {
+      searchIndexPromise ??= fetch('/deutschland/search-index.json', {
+        headers: { Accept: 'application/json' },
+      })
+        .then(async (response) => {
+          if (!response.ok) throw new Error(`Search index request failed: ${response.status}`);
+
+          const index = (await response.json()) as DeutschlandSearchIndex;
+          if (index.version !== 1) throw new Error('Unsupported Deutschland search index');
+          return index;
+        })
+        .catch((error) => {
+          searchIndexPromise = undefined;
+          throw error;
+        });
+
+      return searchIndexPromise;
+    };
+
+    const updateQueryInUrl = (query: string) => {
+      const url = new URL(window.location.href);
+      if (query) url.searchParams.set('q', query);
+      else url.searchParams.delete('q');
+      window.history.replaceState(null, '', `${url.pathname}${url.search}${url.hash}`);
+    };
+
+    const restoreArchive = () => {
+      list.replaceChildren(...originalItems);
+      noResults.hidden = true;
+
+      for (const item of postItems.values()) {
+        const match = item.querySelector<HTMLElement>('.deutschland-search-match');
+        if (match) match.hidden = true;
+      }
+    };
+
+    const renderResults = (
+      index: DeutschlandSearchIndex,
+      query: string,
+      results: ReturnType<typeof searchDeutschlandIndex>,
+    ) => {
+      const matchedItems: HTMLElement[] = [];
+
+      for (const result of results) {
+        const post = index.posts[result.postIndex];
+        const item = postItems.get(post.id);
+        if (!item) continue;
+
+        const match = item.querySelector<HTMLElement>('.deutschland-search-match');
+        if (match) {
+          match.textContent = `Matched: ${result.matchedTerms.join(', ')}`;
+          match.hidden = false;
+        }
+
+        matchedItems.push(item);
+      }
+
+      list.replaceChildren(...matchedItems);
+      noResults.hidden = matchedItems.length > 0;
+      status.textContent = `${matchedItems.length} ${matchedItems.length === 1 ? 'transcript' : 'transcripts'} matched “${query}”.`;
+    };
+
+    const runSearch = async (rawQuery: string) => {
+      const query = rawQuery.trim();
+      const sequence = ++searchSequence;
+      clearButton.hidden = query.length === 0;
+      updateQueryInUrl(query);
+
+      if (query.length === 0) {
+        setSearching(false);
+        restoreArchive();
+        status.textContent = `${transcriptCount} transcripts`;
+        return;
+      }
+
+      if (query.length < 2) {
+        setSearching(false);
+        restoreArchive();
+        status.textContent = 'Type at least 2 characters.';
+        return;
+      }
+
+      setSearching(true);
+      status.textContent = 'Searching…';
+
+      try {
+        const index = await loadSearchIndex();
+        if (sequence !== searchSequence) return;
+        renderResults(index, query, searchDeutschlandIndex(index, query));
+      } catch (error) {
+        if (sequence !== searchSequence) return;
+        console.error(error);
+        restoreArchive();
+        status.textContent = 'Search could not load. The full archive is still available.';
+      } finally {
+        if (sequence === searchSequence) setSearching(false);
+      }
+    };
+
+    const queueSearch = () => {
+      searchSequence += 1;
+      clearButton.hidden = input.value.trim().length === 0;
+      window.clearTimeout(debounceTimer);
+      debounceTimer = window.setTimeout(() => void runSearch(input.value), 120);
+    };
+
+    input.addEventListener('focus', () => void loadSearchIndex().catch(() => undefined));
+    input.addEventListener('input', queueSearch);
+    input.addEventListener('keydown', (event) => {
+      if (event.key === 'Escape' && input.value) {
+        event.preventDefault();
+        input.value = '';
+        void runSearch('');
+      }
+    });
+    form.addEventListener('submit', (event) => {
+      event.preventDefault();
+      window.clearTimeout(debounceTimer);
+      void runSearch(input.value);
+    });
+    clearButton.addEventListener('click', () => {
+      input.value = '';
+      input.focus();
+      void runSearch('');
+    });
+
+    const initialQuery = new URL(window.location.href).searchParams.get('q')?.trim();
+    if (initialQuery) {
+      input.value = initialQuery;
+      void runSearch(initialQuery);
+    }
+  }
+</script>
 
 <style>
   .deutschland-intro {
@@ -57,6 +253,103 @@ const posts = sortDeutschlandPosts(await getCollection('deutschland'));
     list-style: none;
     margin: 0;
     padding: 0;
+  }
+
+  .deutschland-search {
+    max-width: 46rem;
+    margin-bottom: 2rem;
+  }
+
+  .deutschland-search label {
+    display: block;
+    margin-bottom: 0.55rem;
+    color: rgb(245 241 226);
+    font-size: 0.9rem;
+    font-weight: 700;
+    letter-spacing: 0.025em;
+  }
+
+  .deutschland-search-field {
+    position: relative;
+  }
+
+  .deutschland-search input {
+    width: 100%;
+    border: 1px solid rgb(56 189 248 / 0.42);
+    border-bottom-width: 3px;
+    border-radius: 0;
+    padding: 0.8rem 4.25rem 0.75rem 0.9rem;
+    background: rgb(245 241 226 / 0.055);
+    color: rgb(245 241 226);
+    font: inherit;
+    line-height: 1.35;
+    transition: border-color 160ms ease, background-color 160ms ease;
+  }
+
+  .deutschland-search input::placeholder {
+    color: rgb(245 241 226 / 0.42);
+  }
+
+  .deutschland-search input:focus {
+    border-color: #38bdf8;
+    outline: 2px solid rgb(56 189 248 / 0.28);
+    outline-offset: 2px;
+    background: rgb(245 241 226 / 0.075);
+  }
+
+  .deutschland-search input::-webkit-search-cancel-button {
+    display: none;
+  }
+
+  .deutschland-search-clear {
+    position: absolute;
+    top: 50%;
+    right: 0.85rem;
+    transform: translateY(-50%);
+    border: 0;
+    padding: 0.2rem;
+    background: transparent;
+    color: #ef4444;
+    font: inherit;
+    font-size: 0.78rem;
+    font-weight: 700;
+    cursor: pointer;
+  }
+
+  .deutschland-search-clear:hover {
+    color: #f87171;
+  }
+
+  .deutschland-search-meta {
+    display: flex;
+    justify-content: space-between;
+    gap: 0.5rem 1.5rem;
+    margin-top: 0.55rem;
+    color: rgb(245 241 226 / 0.55);
+    font-size: 0.78rem;
+    line-height: 1.4;
+  }
+
+  .deutschland-search-meta p {
+    margin: 0;
+  }
+
+  #deutschland-search-status {
+    flex: none;
+    text-align: right;
+  }
+
+  .deutschland-no-results {
+    margin: 1.5rem 0 0;
+    border-left: 3px solid #ef4444;
+    padding: 0.15rem 0 0.15rem 0.85rem;
+    color: rgb(245 241 226 / 0.78);
+  }
+
+  .deutschland-search-match {
+    color: #ef4444;
+    font-size: 0.75rem;
+    line-height: 1.35;
   }
 
   .deutschland-list li + li {
@@ -125,5 +418,34 @@ const posts = sortDeutschlandPosts(await getCollection('deutschland'));
 
   :global(.light) .deutschland-list time {
     color: #666;
+  }
+
+  :global(.light) .deutschland-search label,
+  :global(.light) .deutschland-search input {
+    color: #1a1a1a;
+  }
+
+  :global(.light) .deutschland-search input {
+    background: rgb(2 132 199 / 0.035);
+  }
+
+  :global(.light) .deutschland-search input::placeholder,
+  :global(.light) .deutschland-search-meta {
+    color: #666;
+  }
+
+  :global(.light) .deutschland-no-results {
+    color: #3f3f3f;
+  }
+
+  @media (max-width: 40rem) {
+    .deutschland-search-meta {
+      display: block;
+    }
+
+    #deutschland-search-status {
+      margin-top: 0.25rem;
+      text-align: left;
+    }
   }
 </style>
