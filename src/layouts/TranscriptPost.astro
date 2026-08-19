@@ -1,0 +1,433 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import Layout from './Layout.astro';
+import { titleParts } from '../lib/deutschland';
+
+type Props = CollectionEntry<'deutschland'>['data'];
+
+const { title, description, pubDate } = Astro.props;
+const parts = titleParts(title, pubDate);
+---
+
+<Layout title={title} description={description}>
+  <article class="transcript-post max-w-none">
+    <header class="mb-8">
+      <h1 class="transcript-title text-4xl md:text-5xl font-bold mb-4 text-bauhaus-cream leading-tight tracking-tight">
+        {parts.date && <span class="transcript-title-date">{parts.date}</span>}
+        {parts.source && <span class="transcript-title-source">{parts.source}</span>}
+        <span class="transcript-title-name">{parts.title}</span>
+      </h1>
+      <div class="h-px w-full bg-sky-400/50"></div>
+    </header>
+
+    <div class="transcript-content prose prose-lg prose-bauhaus max-w-none">
+      <slot />
+    </div>
+  </article>
+</Layout>
+
+<style is:global>
+  .transcript-post .prose-bauhaus {
+    color: rgb(245 241 226 / 0.9);
+  }
+
+  .transcript-post .prose-bauhaus h1,
+  .transcript-post .prose-bauhaus h2,
+  .transcript-post .prose-bauhaus h3,
+  .transcript-post .prose-bauhaus h4,
+  .transcript-post .prose-bauhaus h5,
+  .transcript-post .prose-bauhaus h6 {
+    color: rgb(245 241 226);
+  }
+
+  .transcript-post .prose-bauhaus p,
+  .transcript-post .prose-bauhaus li {
+    color: rgb(245 241 226 / 0.9);
+  }
+
+  .transcript-post .prose-bauhaus a {
+    color: #38bdf8;
+    border-bottom: 1px solid rgb(56 189 248 / 0.3);
+    text-decoration: none;
+    transition: border-color 160ms ease, color 160ms ease;
+  }
+
+  .transcript-post .prose-bauhaus a:hover {
+    border-color: #38bdf8;
+  }
+
+  .transcript-post .prose-bauhaus strong {
+    color: rgb(245 241 226);
+  }
+
+  .transcript-post .prose-bauhaus em {
+    color: rgb(245 241 226 / 0.8);
+  }
+
+  .markdown-download {
+    display: inline-flex;
+    width: fit-content;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #ef4444;
+    font-size: 0.95rem;
+    font-weight: 700;
+    text-decoration: none;
+    transition: color 160ms ease;
+  }
+
+  .markdown-download:hover {
+    color: #f87171;
+  }
+
+  .sequence-index-link {
+    display: inline-flex;
+    width: fit-content;
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+    color: #38bdf8;
+    font-size: 0.95rem;
+    font-weight: 700;
+    text-decoration: none;
+    border-bottom: 1px solid rgb(56 189 248 / 0.3);
+    transition: border-color 160ms ease;
+  }
+
+  .sequence-index-link:hover {
+    border-color: #38bdf8;
+  }
+
+  .transcript-title {
+    display: grid;
+    gap: 0.25rem;
+  }
+
+  .transcript-title span {
+    display: block;
+  }
+
+  .transcript-title-link {
+    display: grid;
+    gap: 0.25rem;
+    color: inherit !important;
+    border-bottom: 0 !important;
+    text-decoration: none !important;
+  }
+
+  .transcript-title-link:hover .transcript-title-name {
+    color: #38bdf8;
+  }
+
+  .transcript-title-date,
+  .transcript-title-source {
+    font-size: 0.5em;
+    line-height: 1.1;
+    color: rgb(245 241 226 / 0.72);
+  }
+
+  .transcript-content {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) max-content minmax(0, 1fr);
+    column-gap: 1.5rem;
+    row-gap: 0.25rem;
+    align-items: baseline;
+  }
+
+  .transcript-content > * {
+    grid-column: 1 / -1;
+    order: 3;
+  }
+
+  .transcript-content > p:first-child:has(a):not(:has(+ ul)) {
+    order: 0;
+    grid-column: 1;
+  }
+
+  .transcript-content > p:first-child:has(a):not(:has(+ ul)) + p:has(> .duration-time),
+  .transcript-content > p:first-child:has(> .duration-time) {
+    order: 1;
+    grid-column: 2;
+    justify-self: center;
+  }
+
+  .transcript-content > .markdown-download {
+    order: 2;
+    grid-column: 3;
+    justify-self: end;
+  }
+
+  .transcript-content > .markdown-download:first-child {
+    grid-column: 1 / -1;
+    justify-self: start;
+    margin-bottom: 1.5rem;
+  }
+
+  .transcript-content > h2 {
+    margin-top: 1.5rem;
+  }
+
+  .transcript-content > p:first-child:has(+ ul),
+  .transcript-entry > h2 + p:has(+ ul) {
+    margin-top: 0;
+    font-size: 1rem;
+    margin-bottom: 0.4rem;
+    color: rgb(245 241 226 / 0.72);
+    font-weight: 700;
+  }
+
+  .transcript-content > p:first-child:has(a):not(:has(+ ul)),
+  .transcript-entry > h2 + p:has(a):not(:has(+ ul)) {
+    margin-top: 0;
+    margin-bottom: 0;
+    color: rgb(245 241 226 / 0.72);
+    font-size: 0.95rem;
+    line-height: 1.45;
+  }
+
+  .transcript-content > p:first-child:has(a):not(:has(+ ul)) a,
+  .transcript-entry > h2 + p:has(a):not(:has(+ ul)) a {
+    display: block;
+    width: fit-content;
+    font-weight: 700;
+  }
+
+  .transcript-content > p:first-child + ul,
+  .transcript-entry > h2 + p + ul {
+    margin-top: 0;
+    margin-bottom: 1.25rem;
+    font-size: 0.95rem;
+    line-height: 1.45;
+  }
+
+  .transcript-content > p:first-child + ul li,
+  .transcript-entry > h2 + p + ul li {
+    margin-bottom: 0.25rem;
+  }
+
+  .transcript-content > p:first-child:not(:has(+ ul)):not(:has(a)),
+  .transcript-content > p:first-child + ul + p,
+  .transcript-content > p:first-child:has(a):not(:has(+ ul)) + p,
+  .transcript-entry > h2 + p:not(:has(+ ul)):not(:has(a)),
+  .transcript-entry > h2 + p:has(a):not(:has(+ ul)) + p,
+  .transcript-entry > h2 + p + ul + p {
+    color: #ef4444;
+    font-size: 0.95rem;
+  }
+
+  .transcript-content p:has(> .duration-time),
+  .transcript-entry p:has(> .duration-time) {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 0.95rem;
+  }
+
+  .transcript-timestamp {
+    color: #ef4444 !important;
+  }
+
+  .transcript-post .transcript-content p:has(> .transcript-timestamp) {
+    margin-top: 0;
+    margin-bottom: 0.65rem;
+    color: #ef4444 !important;
+    font-size: 0.9rem;
+    letter-spacing: 0;
+  }
+
+  .transcript-post .transcript-content p:has(> .transcript-timestamp) + p {
+    margin-top: 0;
+  }
+
+  .duration-label {
+    color: rgb(245 241 226) !important;
+    font-weight: 700;
+  }
+
+  .duration-time {
+    color: #ef4444 !important;
+  }
+
+  .transcript-entry {
+    margin-top: 3rem;
+  }
+
+  .transcript-entry:first-child {
+    margin-top: 0;
+  }
+
+  .transcript-entry-header {
+    margin-bottom: 2rem;
+  }
+
+  .transcript-entry-content {
+    margin-top: 0;
+  }
+
+  .sequence-index {
+    margin-top: 4rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid rgb(56 189 248 / 0.5);
+  }
+
+  .sequence-index h2 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+  }
+
+  .sequence-index ol {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .sequence-index li + li {
+    margin-top: 0.35rem;
+  }
+
+  .sequence-index a {
+    display: inline-flex;
+    gap: 0.35rem;
+    align-items: baseline;
+    color: rgb(245 241 226 / 0.86);
+    line-height: 1.35;
+    text-decoration: none;
+    border-bottom: 0 !important;
+  }
+
+  .sequence-index a:hover {
+    color: #38bdf8;
+  }
+
+  .sequence-index time {
+    color: rgb(245 241 226 / 0.55);
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+
+  .transcript-entry > h2 {
+    margin-bottom: 1.25rem;
+  }
+
+  .transcript-entry > h2 a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .transcript-entry-title {
+    display: grid;
+    gap: 0.15rem;
+  }
+
+  .transcript-entry-title-date,
+  .transcript-entry-title-source {
+    font-size: 0.72em;
+    line-height: 1.1;
+    color: rgb(245 241 226 / 0.72);
+  }
+
+  .transcript-entry-title-name {
+    line-height: 1.2;
+  }
+
+  .transcript-entry > h2 a:hover {
+    color: #38bdf8;
+  }
+
+  .transcript-content h2 {
+    margin-bottom: 0.35rem;
+  }
+
+  @media (max-width: 640px) {
+    .transcript-content {
+      grid-template-columns: 1fr;
+    }
+
+    .transcript-content > p:first-child:has(a):not(:has(+ ul)),
+    .transcript-content > p:first-child:has(a):not(:has(+ ul)) + p:has(> .duration-time),
+    .transcript-content > p:first-child:has(> .duration-time),
+    .transcript-content > .markdown-download {
+      grid-column: 1;
+    }
+  }
+
+  .transcript-content h3 {
+    margin-top: 1.75rem;
+    margin-bottom: 0.25rem;
+    padding-top: 1rem;
+    border-top: 1px solid rgb(56 189 248 / 0.18);
+    font-size: 1.25rem;
+  }
+
+  .transcript-post .transcript-content h3 + p {
+    margin-top: 0;
+    margin-bottom: 0.65rem;
+    color: #ef4444 !important;
+    font-size: 0.9rem;
+    letter-spacing: 0;
+  }
+
+  .transcript-post .transcript-content h3 + p + p {
+    margin-top: 0;
+  }
+
+  .light .transcript-content h3 {
+    border-color: rgb(56 189 248 / 0.25);
+  }
+
+  .light .transcript-post .transcript-content h3 + p {
+    color: #dc2626 !important;
+  }
+
+  .light .transcript-content p:has(> .duration-time),
+  .light .transcript-entry p:has(> .duration-time) {
+    color: inherit;
+  }
+
+  .light .duration-label {
+    color: #111827 !important;
+  }
+
+  .light .transcript-timestamp {
+    color: #dc2626 !important;
+  }
+
+  .light .transcript-post .transcript-content p:has(> .transcript-timestamp) {
+    color: #dc2626 !important;
+  }
+
+  .light .duration-time {
+    color: #dc2626 !important;
+  }
+
+  .light .markdown-download {
+    color: #dc2626;
+  }
+
+  .light .markdown-download:hover {
+    color: #b91c1c;
+  }
+
+  .light .sequence-index-link {
+    color: #0284c7;
+    border-color: rgb(2 132 199 / 0.3);
+  }
+
+  .light .sequence-index-link:hover {
+    border-color: #0284c7;
+  }
+
+  .light .sequence-index {
+    border-color: rgb(56 189 248 / 0.35);
+  }
+
+  .light .sequence-index a {
+    color: #1a1a1a;
+  }
+
+  .light .sequence-index a:hover {
+    color: #0284c7;
+  }
+
+  .light .sequence-index time {
+    color: #666;
+  }
+</style>

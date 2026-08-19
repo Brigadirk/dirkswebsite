@@ -73,6 +73,22 @@
     color: #000 !important;
   }
 
+  .katex {
+    color: inherit;
+    font-size: 1em;
+  }
+
+  .katex-display {
+    margin: 1.25rem 0;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: 0.25rem 0;
+  }
+
+  .prose .katex-display {
+    max-width: 100%;
+  }
+
   /* Gay mode - FABULOUS */
   .gay body {
     background: linear-gradient(135deg, #FF69B4 0%, #FFD700 25%, #FF69B4 50%, #9B59B6 75%, #FF69B4 100%);

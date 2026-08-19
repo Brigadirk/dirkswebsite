@@ -2,10 +2,9 @@
 import type { CollectionEntry } from 'astro:content';
 import Layout from './Layout.astro';
 import FormattedDate from '../components/FormattedDate.astro';
-import AudioPlayer from '../components/AudioPlayer.astro';
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, updatedDate, audioFile } = Astro.props;
+const { title, description, pubDate, updatedDate } = Astro.props;
 ---
 
 <Layout title={title} description={description}>
@@ -33,8 +32,6 @@ const { title, description, pubDate, updatedDate, audioFile } = Astro.props;
 
       <!-- Thin red dividing line -->
       <div class="h-px w-full bg-bauhaus-red/30"></div>
-
-      {audioFile && <AudioPlayer src={audioFile} />}
     </header>
 
     <!-- Article content -->

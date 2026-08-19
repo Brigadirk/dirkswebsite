@@ -1,0 +1,129 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
+import { formatDate, sortDeutschlandPosts, titleWithoutDate } from '../../lib/deutschland';
+
+const posts = sortDeutschlandPosts(await getCollection('deutschland'));
+---
+
+<Layout title={`Deutschland | ${SITE_TITLE}`} description={SITE_DESCRIPTION}>
+  <section class="mb-10">
+    <h1 class="text-5xl md:text-7xl font-bold text-bauhaus-cream tracking-tighter mb-4">
+      Deutschland
+    </h1>
+    <div class="h-1 w-48 bg-sky-400"></div>
+  </section>
+
+  <p class="deutschland-intro">
+    I like the work of David Deutsch. Aside from his excellent books "The Beginning of Infinity" and
+    "The Fabric of Reality", a lot of his ideas are scattered among various podcast appearances.
+    Since I often cannot remember where and when something was said that might be of interest to me,
+    I've taken it upon myself and my AI to get all of it together. All the credit goes to David Deutsch
+    as well as the various podcasters and showmakers, to whom I've linked wherever possible. There are
+    still some mistakes found here and there, and I've only thus far had the time to scan through most
+    of the transcripts to correct them. If there are any mistakes I haven't caught yet do let me know.
+  </p>
+
+  <ol class="deutschland-list">
+    <li class="featured">
+      <a href="/deutschland/all/">
+        <span>All</span>
+      </a>
+      <a class="download-link" href="/deutschland/all.md" download="deutschland-complete-sequence.md">Markdown</a>
+    </li>
+    {posts.map((post) => (
+      <li>
+        <a href={`/deutschland/${post.id}/`}>
+          <time datetime={formatDate(post.data.pubDate)}>{formatDate(post.data.pubDate)}</time>
+          <span>-</span>
+          <span>{titleWithoutDate(post.data.title)}</span>
+        </a>
+      </li>
+    ))}
+  </ol>
+</Layout>
+
+<style>
+  .deutschland-intro {
+    max-width: 46rem;
+    margin: -1.35rem 0 1.75rem;
+    color: rgb(245 241 226 / 0.78);
+    font-size: 0.98rem;
+    line-height: 1.65;
+  }
+
+  .deutschland-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .deutschland-list li + li {
+    margin-top: 0.35rem;
+  }
+
+  .deutschland-list li {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem 0.7rem;
+    align-items: baseline;
+  }
+
+  .deutschland-list .featured {
+    margin-bottom: 1.1rem;
+  }
+
+  .deutschland-list a {
+    display: inline-flex;
+    gap: 0.35rem;
+    align-items: baseline;
+    color: rgb(245 241 226 / 0.86);
+    line-height: 1.35;
+    text-decoration: none;
+    transition: color 160ms ease;
+  }
+
+  .deutschland-list .download-link {
+    color: #ef4444;
+    font-size: 0.82rem;
+  }
+
+  .deutschland-list a:hover {
+    color: #38bdf8;
+  }
+
+  .deutschland-list .download-link:hover {
+    color: #f87171;
+  }
+
+  .deutschland-list time {
+    color: rgb(245 241 226 / 0.55);
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+
+  :global(.light) .deutschland-list a {
+    color: #1a1a1a;
+  }
+
+  :global(.light) .deutschland-intro {
+    color: #3f3f3f;
+  }
+
+  :global(.light) .deutschland-list a:hover {
+    color: #0284c7;
+  }
+
+  :global(.light) .deutschland-list .download-link {
+    color: #dc2626;
+  }
+
+  :global(.light) .deutschland-list .download-link:hover {
+    color: #b91c1c;
+  }
+
+  :global(.light) .deutschland-list time {
+    color: #666;
+  }
+</style>

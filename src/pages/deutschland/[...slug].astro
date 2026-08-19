@@ -1,0 +1,25 @@
+---
+import { type CollectionEntry, getCollection, render } from 'astro:content';
+import TranscriptPost from '../../layouts/TranscriptPost.astro';
+import { markdownFilenameForPost } from '../../lib/deutschland';
+
+export async function getStaticPaths() {
+	const posts = await getCollection('deutschland');
+	return posts.map((post) => ({
+		params: { slug: post.id },
+		props: post,
+	}));
+}
+
+type Props = CollectionEntry<'deutschland'>;
+
+const post = Astro.props;
+const { Content } = await render(post);
+---
+
+<TranscriptPost {...post.data}>
+	<Content />
+	<a class="markdown-download" href={`/deutschland/${post.id}.md`} download={markdownFilenameForPost(post)}>
+		Markdown
+	</a>
+</TranscriptPost>
