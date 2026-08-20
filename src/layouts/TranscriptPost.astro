@@ -373,8 +373,26 @@ const parts = titleParts(title, pubDate);
     border-color: rgb(56 189 248 / 0.25);
   }
 
+  .light .transcript-post .prose-bauhaus a {
+    color: #0369a1 !important;
+    border-color: rgb(3 105 161 / 0.35) !important;
+  }
+
+  .light .transcript-post .prose-bauhaus a:hover {
+    color: #075985 !important;
+    border-color: #075985 !important;
+  }
+
+  .light .transcript-post .prose-bauhaus strong {
+    color: #1a1a1a !important;
+  }
+
+  .light .transcript-post .prose-bauhaus em {
+    color: #333 !important;
+  }
+
   .light .transcript-post .transcript-content h3 + p {
-    color: #dc2626 !important;
+    color: #b91c1c !important;
   }
 
   .light .transcript-content p:has(> .duration-time),
@@ -387,32 +405,34 @@ const parts = titleParts(title, pubDate);
   }
 
   .light .transcript-timestamp {
-    color: #dc2626 !important;
+    color: #b91c1c !important;
   }
 
   .light .transcript-post .transcript-content p:has(> .transcript-timestamp) {
-    color: #dc2626 !important;
+    color: #b91c1c !important;
   }
 
   .light .duration-time {
-    color: #dc2626 !important;
+    color: #b91c1c !important;
   }
 
-  .light .markdown-download {
-    color: #dc2626;
+  .light .transcript-post .prose-bauhaus .markdown-download {
+    color: #b91c1c !important;
+    border-color: transparent !important;
   }
 
-  .light .markdown-download:hover {
-    color: #b91c1c;
+  .light .transcript-post .prose-bauhaus .markdown-download:hover {
+    color: #991b1b !important;
   }
 
   .light .sequence-index-link {
-    color: #0284c7;
-    border-color: rgb(2 132 199 / 0.3);
+    color: #0369a1;
+    border-color: rgb(3 105 161 / 0.35);
   }
 
   .light .sequence-index-link:hover {
-    border-color: #0284c7;
+    color: #075985;
+    border-color: #075985;
   }
 
   .light .sequence-index {
@@ -424,7 +444,7 @@ const parts = titleParts(title, pubDate);
   }
 
   .light .sequence-index a:hover {
-    color: #0284c7;
+    color: #0369a1;
   }
 
   .light .sequence-index time {
