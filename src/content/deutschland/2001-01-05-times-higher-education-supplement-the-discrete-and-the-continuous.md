@@ -7,6 +7,12 @@ pubDate: 2001-01-05
 [Read the article on David Deutsch's website](https://www.daviddeutsch.org.uk/wp-content/DiscreteAndContinuous.html)
 [Source collection](https://deranfangderunendlichkeit.de/mehr)
 
-## About this article
+## Searchable English notes
 
-Deutsch traces the old conflict between a continuous world and a discrete one from Zeno to quantum physics. He argues that observable quantities can be discrete within each universe while change remains continuous across the multiverse.
+*This page contains English notes, not a verbatim reproduction.*
+
+Deutsch begins with Zeno's paradox. If motion takes place through an infinitely divisible continuum, any journey seems to require infinitely many prior actions. A discrete space avoids that infinity but creates another problem: how can anything cross from one point to the next when nothing lies between them?
+
+Planck's quantization of energy, Bohr's atomic model, and Einstein's account of the photoelectric effect made discreteness central to physics. Yet quantum theory describes change as continuous. Deutsch rejects the stock answer that an object is simply both particle and wave, and he also rejects the idea that observation creates a definite reality.
+
+His proposed reconciliation uses the multiverse. Observable quantities are discrete within each universe, while the multiverse as a whole is continuous. A transition between discrete values does not occur wholly inside one universe. Quantum computers and quantum cryptography test and apply the same theory.
