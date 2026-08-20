@@ -40,7 +40,7 @@ const posts = sortDeutschlandPosts(await getCollection('deutschland'));
           id="deutschland-query"
           type="search"
           name="q"
-          placeholder="Try ‘epistemology’ or ‘quantum computation’"
+          placeholder="Try 'epistemology' or 'quantum computation'"
           autocomplete="off"
           enterkeyhint="search"
           aria-controls="deutschland-posts"
@@ -61,6 +61,12 @@ const posts = sortDeutschlandPosts(await getCollection('deutschland'));
     </form>
     <p class="deutschland-no-results" hidden>
       Nothing matched. Try fewer words or a different spelling.
+    </p>
+    <p class="deutschland-publisher-search" data-deutschland-publisher-search hidden>
+      Need the exact wording?
+      <a href="https://www.google.com/search" target="_blank" rel="noreferrer">
+        Search the publishers' originals with Google.
+      </a>
     </p>
   </section>
 
@@ -89,6 +95,7 @@ const posts = sortDeutschlandPosts(await getCollection('deutschland'));
     searchDeutschlandIndex,
     type DeutschlandSearchIndex,
   } from '../../lib/deutschland-search';
+  import { deutschlandPublisherSearchUrl } from '../../lib/deutschland-publisher-search';
 
   const searchRoot = document.querySelector<HTMLElement>('[data-deutschland-search]');
   const form = searchRoot?.querySelector<HTMLFormElement>('form');
@@ -96,9 +103,21 @@ const posts = sortDeutschlandPosts(await getCollection('deutschland'));
   const clearButton = searchRoot?.querySelector<HTMLButtonElement>('.deutschland-search-clear');
   const status = searchRoot?.querySelector<HTMLElement>('#deutschland-search-status');
   const noResults = searchRoot?.querySelector<HTMLElement>('.deutschland-no-results');
+  const publisherSearch = searchRoot?.querySelector<HTMLElement>('[data-deutschland-publisher-search]');
+  const publisherSearchLink = publisherSearch?.querySelector<HTMLAnchorElement>('a');
   const list = document.querySelector<HTMLOListElement>('#deutschland-posts');
 
-  if (searchRoot && form && input && clearButton && status && noResults && list) {
+  if (
+    searchRoot &&
+    form &&
+    input &&
+    clearButton &&
+    status &&
+    noResults &&
+    publisherSearch &&
+    publisherSearchLink &&
+    list
+  ) {
     const originalItems = Array.from(list.children) as HTMLElement[];
     const postItems = new Map(
       originalItems
@@ -141,6 +160,12 @@ const posts = sortDeutschlandPosts(await getCollection('deutschland'));
       window.history.replaceState(null, '', `${url.pathname}${url.search}${url.hash}`);
     };
 
+    const updatePublisherSearch = (query: string) => {
+      const canSearch = query.length >= 2;
+      publisherSearch.hidden = !canSearch;
+      if (canSearch) publisherSearchLink.href = deutschlandPublisherSearchUrl(query);
+    };
+
     const restoreArchive = () => {
       list.replaceChildren(...originalItems);
       noResults.hidden = true;
@@ -174,7 +199,7 @@ const posts = sortDeutschlandPosts(await getCollection('deutschland'));
 
       list.replaceChildren(...matchedItems);
       noResults.hidden = matchedItems.length > 0;
-      status.textContent = `${matchedItems.length} ${matchedItems.length === 1 ? 'entry' : 'entries'} matched “${query}”.`;
+      status.textContent = `${matchedItems.length} ${matchedItems.length === 1 ? 'entry' : 'entries'} matched "${query}".`;
     };
 
     const runSearch = async (rawQuery: string) => {
@@ -182,6 +207,7 @@ const posts = sortDeutschlandPosts(await getCollection('deutschland'));
       const sequence = ++searchSequence;
       clearButton.hidden = query.length === 0;
       updateQueryInUrl(query);
+      updatePublisherSearch(query);
 
       if (query.length === 0) {
         setSearching(false);
@@ -216,7 +242,9 @@ const posts = sortDeutschlandPosts(await getCollection('deutschland'));
 
     const queueSearch = () => {
       searchSequence += 1;
-      clearButton.hidden = input.value.trim().length === 0;
+      const query = input.value.trim();
+      clearButton.hidden = query.length === 0;
+      updatePublisherSearch(query);
       window.clearTimeout(debounceTimer);
       debounceTimer = window.setTimeout(() => void runSearch(input.value), 120);
     };
@@ -359,6 +387,21 @@ const posts = sortDeutschlandPosts(await getCollection('deutschland'));
     color: rgb(245 241 226 / 0.78);
   }
 
+  .deutschland-publisher-search {
+    margin: 0.65rem 0 0;
+    color: rgb(245 241 226 / 0.65);
+    font-size: 0.8rem;
+    line-height: 1.4;
+  }
+
+  .deutschland-publisher-search a {
+    color: #38bdf8;
+  }
+
+  .deutschland-publisher-search a:hover {
+    color: #7dd3fc;
+  }
+
   .deutschland-search-match {
     color: #ef4444;
     font-size: 0.75rem;
@@ -449,6 +492,18 @@ const posts = sortDeutschlandPosts(await getCollection('deutschland'));
 
   :global(.light) .deutschland-no-results {
     color: #3f3f3f;
+  }
+
+  :global(.light) .deutschland-publisher-search {
+    color: #555;
+  }
+
+  :global(.light) .deutschland-publisher-search a {
+    color: #0284c7;
+  }
+
+  :global(.light) .deutschland-publisher-search a:hover {
+    color: #0369a1;
   }
 
   @media (max-width: 40rem) {
