@@ -4,6 +4,7 @@ description: 'An interview / discussion from The TED Interview, featuring Chris 
 pubDate: 2018-10-23
 ---
 
+[Official and transcript](https://www.ted.com/talks/the_ted_interview_david_deutsch_on_the_infinite_reach_of_knowledge)
 [YouTube](https://www.youtube.com/watch?v=cEfG1PHNB64)
 [Apple Podcasts](https://podcasts.apple.com/us/podcast/david-deutsch-on-the-infinite-reach-of-knowledge/id1437306870?i=1000422419366)
 

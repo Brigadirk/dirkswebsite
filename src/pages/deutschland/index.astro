@@ -17,12 +17,14 @@ const posts = sortDeutschlandPosts(await getCollection('deutschland'));
 
   <p class="deutschland-intro">
     I like the work of David Deutsch. Aside from his excellent books "The Beginning of Infinity" and
-    "The Fabric of Reality", a lot of his ideas are scattered among various podcast appearances.
+    "The Fabric of Reality", a lot of his ideas are scattered among podcasts, interviews, articles,
+    and radio appearances.
     Since I often cannot remember where and when something was said that might be of interest to me,
     I've taken it upon myself and my AI to get all of it together. All the credit goes to David Deutsch
-    as well as the various podcasters and showmakers, to whom I've linked wherever possible. There are
-    still some mistakes found here and there, and I've only thus far had the time to scan through most
-    of the transcripts to correct them. If there are any mistakes I haven't caught yet do let me know.
+    as well as the interviewers, writers, publishers, podcasters, and showmakers, to whom I've linked
+    wherever possible. There are still some mistakes found here and there, and I've only thus far had
+    the time to scan through most of the transcripts to correct them. If there are any mistakes I
+    haven't caught yet do let me know.
   </p>
 
   <section class="deutschland-search" data-deutschland-search>
@@ -44,9 +46,11 @@ const posts = sortDeutschlandPosts(await getCollection('deutschland'));
         </button>
       </div>
       <div class="deutschland-search-meta">
-        <p id="deutschland-search-help">Search titles and transcript text. Small typos are fine.</p>
+        <p id="deutschland-search-help">
+          Search titles, descriptions, article notes, and transcript text. Small typos are fine.
+        </p>
         <p id="deutschland-search-status" role="status" aria-live="polite">
-          {posts.length} transcripts
+          {posts.length} entries
         </p>
       </div>
     </form>
@@ -96,7 +100,7 @@ const posts = sortDeutschlandPosts(await getCollection('deutschland'));
         .filter((item) => item.dataset.searchPost)
         .map((item) => [item.dataset.searchPost as string, item]),
     );
-    const transcriptCount = postItems.size;
+    const entryCount = postItems.size;
     let searchIndexPromise: Promise<DeutschlandSearchIndex> | undefined;
     let debounceTimer: number | undefined;
     let searchSequence = 0;
@@ -165,7 +169,7 @@ const posts = sortDeutschlandPosts(await getCollection('deutschland'));
 
       list.replaceChildren(...matchedItems);
       noResults.hidden = matchedItems.length > 0;
-      status.textContent = `${matchedItems.length} ${matchedItems.length === 1 ? 'transcript' : 'transcripts'} matched “${query}”.`;
+      status.textContent = `${matchedItems.length} ${matchedItems.length === 1 ? 'entry' : 'entries'} matched “${query}”.`;
     };
 
     const runSearch = async (rawQuery: string) => {
@@ -177,7 +181,7 @@ const posts = sortDeutschlandPosts(await getCollection('deutschland'));
       if (query.length === 0) {
         setSearching(false);
         restoreArchive();
-        status.textContent = `${transcriptCount} transcripts`;
+        status.textContent = `${entryCount} entries`;
         return;
       }
 
