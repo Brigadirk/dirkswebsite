@@ -11,17 +11,6 @@ const posts = (await getCollection('blog')).sort(
 ---
 
 <Layout title={SITE_TITLE} description={SITE_DESCRIPTION}>
-  <figure class="homepage-art">
-    <img
-      src="/chimpanzee-anatomy-lesson-dirks-website-wordart-90s.png"
-      alt="A candlelit anatomy lesson conducted by chimpanzees, with Dirk's Website in colourful 1990s word art."
-      width="1672"
-      height="941"
-      fetchpriority="high"
-      decoding="async"
-    />
-  </figure>
-
   <!-- Blog posts grid -->
   <div class="space-y-0">
     {posts.map((post, index) => (
@@ -59,19 +48,6 @@ const posts = (await getCollection('blog')).sort(
 
 <!-- Light mode overrides -->
 <style>
-  .homepage-art {
-    margin: 0 0 2rem;
-    overflow: hidden;
-    border: 1px solid rgb(56 189 248 / 0.42);
-    background: #070d16;
-  }
-
-  .homepage-art img {
-    display: block;
-    width: 100%;
-    height: auto;
-  }
-
   :global(.light) h1 {
     color: #1a1a1a;
   }
