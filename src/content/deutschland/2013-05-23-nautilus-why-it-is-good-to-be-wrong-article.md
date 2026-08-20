@@ -8,6 +8,12 @@ pubDate: 2013-05-23
 [Watch the separate interview in Deutschland](/deutschland/2013-06-25-nautilus-why-it-is-good-to-be-wrong/)
 [Source collection](https://deranfangderunendlichkeit.de/mehr)
 
-## About this article
+## Searchable English notes
 
-Deutsch explains fallibilism: people can be mistaken in anything they think or do, yet criticism lets knowledge grow. This article is distinct from the Nautilus video interview published two days earlier.
+*This page contains English notes, not a verbatim reproduction. The article is distinct from the Nautilus video interview published separately.*
+
+Deutsch defends fallibilism, the claim that people can be wrong about anything. This includes perception, memory, logic, mathematics, expert judgment, probability, and fallibilism itself. The point is not that knowledge is impossible. It is that no source or method can certify an idea against all future criticism.
+
+A thought experiment about papal infallibility shows the problem. Before obeying an allegedly infallible statement, a believer must decide whether the speaker was really the pope, whether the statement met the formal rules, whether it was heard and translated correctly, and whether it was a rehearsal. Fallible reason has already done the work before authority can be applied.
+
+The same argument rules out direct experience, expert status, and high probability as foundations. When a physician proposes a treatment, the useful question is how severely the proposal has been criticized and tested, not who is more likely to be right. Knowledge grows through explanations, experiments, error detection, and correction.

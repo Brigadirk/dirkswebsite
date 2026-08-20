@@ -27,6 +27,11 @@ const posts = sortDeutschlandPosts(await getCollection('deutschland'));
     haven't caught yet do let me know.
   </p>
 
+  <p class="deutschland-intro deutschland-coverage">
+    Every entry is searchable in English. When I cannot publish the complete work locally, its page
+    indexes the questions, claims, names, and technical terms and links to the complete source.
+  </p>
+
   <section class="deutschland-search" data-deutschland-search>
     <form role="search">
       <label for="deutschland-query">Search the archive</label>
@@ -257,6 +262,10 @@ const posts = sortDeutschlandPosts(await getCollection('deutschland'));
     list-style: none;
     margin: 0;
     padding: 0;
+  }
+
+  .deutschland-coverage {
+    margin-top: -1rem;
   }
 
   .deutschland-search {

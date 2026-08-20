@@ -7,6 +7,12 @@ pubDate: 2017-03-09
 [Read the article at The Economist](https://www.economist.com/technology-quarterly/2017/03/09/david-deutsch-father-of-quantum-computing)
 [Source collection](https://deranfangderunendlichkeit.de/mehr)
 
-## About this interview
+## Searchable source record
 
-The profile looks at Deutsch's role in founding quantum computation and his reaction to laboratory experiments that began turning its once-theoretical machinery into working devices.
+The Economist publishes this English Technology Quarterly profile of David Deutsch and identifies him as a founder of quantum computing. The complete feature is available through the official link above under the publisher's access controls.
+
+I have not mirrored or transformed the full text here. The Economist requires written permission for republication, derivative works, and AI-derived use.
+
+### Search aliases
+
+David Deutsch, quantum computing, quantum computation, quantum information, physicist, Technology Quarterly.
