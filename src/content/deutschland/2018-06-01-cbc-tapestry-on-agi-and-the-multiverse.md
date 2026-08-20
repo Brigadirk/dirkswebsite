@@ -4,7 +4,7 @@ description: 'An interview / discussion from CBC Tapestry, featuring Mary Hynes,
 pubDate: 2018-06-01
 ---
 
-[Official](https://www.daviddeutsch.org.uk/papersarticles/)
+[Official](https://www.cbc.ca/radio/tapestry/the-new-human-1.4696724/oxford-physicist-predicts-ai-will-be-human-in-all-but-name-1.4696754)
 
 <span class="duration-label">Duration:</span> <span class="duration-time">00:37:40</span>
 
