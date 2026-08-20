@@ -39,6 +39,14 @@
     color: #222 !important;
   }
 
+  .light .text-bauhaus-yellow {
+    color: #8a5a00 !important;
+  }
+
+  .light .text-bauhaus-yellow\/60 {
+    color: #92400e !important;
+  }
+
   /* Force black text in light mode for all prose content */
   .light .prose,
   .light .prose p,
@@ -71,6 +79,57 @@
   .light article h2,
   .light article h3 {
     color: #000 !important;
+  }
+
+  .light .prose a,
+  .light .prose-bauhaus a {
+    color: #0369a1 !important;
+    border-color: rgb(3 105 161 / 0.35) !important;
+  }
+
+  .light .prose a:hover,
+  .light .prose-bauhaus a:hover {
+    color: #075985 !important;
+    border-color: #075985 !important;
+  }
+
+  .light .prose strong,
+  .light .prose-bauhaus strong {
+    color: #1a1a1a !important;
+  }
+
+  .light .prose em,
+  .light .prose-bauhaus em {
+    color: #333 !important;
+  }
+
+  .light .prose code,
+  .light .prose-bauhaus code {
+    background: rgb(0 0 0 / 0.07) !important;
+    color: #991b1b !important;
+  }
+
+  .light .prose pre,
+  .light .prose-bauhaus pre {
+    background: rgb(0 0 0 / 0.05) !important;
+  }
+
+  .light .prose pre code,
+  .light .prose-bauhaus pre code {
+    background: transparent !important;
+    color: #1a1a1a !important;
+  }
+
+  .light .prose blockquote,
+  .light .prose-bauhaus blockquote {
+    background: rgb(0 0 0 / 0.03) !important;
+    color: #444 !important;
+  }
+
+  .light .prose th,
+  .light .prose-bauhaus th {
+    background: rgb(0 0 0 / 0.06) !important;
+    color: #1a1a1a !important;
   }
 
   .katex {
