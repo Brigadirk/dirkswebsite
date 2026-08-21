@@ -7,6 +7,9 @@ dist/
 drafts/
 src/content/Drafts/
 
+# locally saved source material
+private/
+
 # dependencies
 node_modules/
 
