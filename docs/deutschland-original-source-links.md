@@ -1,6 +1,6 @@
 # Deutschland original-source links
 
-These are the 18 source links from the Deutschland acquisition list. Use the checkboxes to track which complete originals you have saved locally. Put downloaded HTML, PDF, or text files under `private/deutschland-inbox/`; the `private/` directory is ignored by Git.
+These are the 19 source links from the Deutschland acquisition list. Use the checkboxes to track which complete originals you have saved locally. Put downloaded HTML, PDF, or text files under `private/deutschland-inbox/`; the `private/` directory is ignored by Git.
 
 ## English originals
 
@@ -21,6 +21,7 @@ These are the 18 source links from the Deutschland acquisition list. Use the che
 | [x]  | 2015-10-07 | Nature                            | Q&A: David Deutsch                                    | `2015-10-07-nature-q-and-a-david-deutsch`                                      | [Open](https://www.nature.com/articles/526S16a)                                                                                                                                                                                                                                                                                                             |
 | [x]  | 2017-03-09 | The Economist                     | David Deutsch, Father of Quantum Computing            | `2017-03-09-the-economist-david-deutsch-father-of-quantum-computing`           | [Open](https://www.economist.com/technology-quarterly/2017/03/09/david-deutsch-father-of-quantum-computing)                                                                                                                                                                                                                                                 |
 | [x]  | 2018-01-02 | CBC The Current                   | Is There a Limit to What We Can Know?                 | `2018-01-02-cbc-the-current-is-there-a-limit-to-what-we-can-know`              | [Transcript](https://www.cbc.ca/radio/thecurrent/the-current-for-tuesday-january-2-2018-1.4469360/january-2-2018-full-episode-transcript-1.4470329#segment3), [audio](https://www.cbc.ca/radio/thecurrent/the-current-for-tuesday-january-2-2018-1.4469360/here-s-a-brain-teaser-is-there-a-limit-to-what-we-can-know-scientists-say-they-know-so-1.4469365) |
+| [x]  | 2026-08-23 | Lucas di Grassi (YouTube)         | A Conversation with David Deutsch                     | `2026-08-23-lucas-di-grassi-a-conversation-with-david-deutsch`                 | [Watch](https://www.youtube.com/watch?v=iQbGknvjyFM)                                                                                                                                                                                                                                                                                                         |
 
 ## German originals
 
