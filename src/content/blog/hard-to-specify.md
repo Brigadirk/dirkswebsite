@@ -58,7 +58,13 @@ We can give the function the test and its result. That still leaves "variation" 
 
 Turning explanations into bit strings does not provide one. Take `x = 0101` and `y = 0100`. If "variation" means changing exactly one bit, `y` qualifies. Suppose instead that it means a one-place cyclic rotation: shift every bit left and move the first bit to the end. Then `x` becomes `1010`, not `y`. Both rules are exact. The strings cannot choose between them. The rule supplies the answer.
 
-English statements make the gap larger. Before a program can vary meanings, it needs a theory of what the strings mean.
+A textual change need not vary the explanation either. Compare:
+
+`C`: "The door opened because Dennis entered the correct code."
+
+`D`: "The door opened because Dennis entered the right code."
+
+In this context, "correct" and "right" are synonyms. `C` and `D` are different strings, but they express the same explanation. Before a program can vary meanings, it needs a theory of what the strings mean.
 
 ## Explanatory success
 
