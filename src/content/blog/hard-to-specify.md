@@ -4,15 +4,15 @@ description: 'Why two explanation strings cannot determine a hard-to-vary rankin
 pubDate: 2026-08-24
 ---
 
-In [*The Beginning of Infinity*](https://books.google.com/books?id=zJZPEAAAQBAJ&pg=PA30), David Deutsch writes that a good explanation is "hard to vary while still accounting for what it purports to account for." Put roughly, if you change its details, it stops explaining what it was meant to explain.
+In [*The Beginning of Infinity*](https://books.google.com/books?id=zJZPEAAAQBAJ&pg=PA30), David Deutsch writes that a good explanation is "hard to vary while still accounting for what it purports to account for." Put roughly, if you change anything in an explanation that is hard to vary, it stops explaining what it was meant to explain. In other words, every part of your explanation is important and cannot be otherwise.
 
-Dennis Hackethal [argues that this criterion is too vague to apply](https://blog.dennishackethal.com/posts/hard-to-vary-or-hardly-usable). On his website, Veritula, he offers a [\$3,600 bounty](https://veritula.com/bounties/8) for a program that can apply HTV. I contributed \$300. Among other things, the program must:
+Dennis Hackethal [argues that this criterion is too vague to apply](https://blog.dennishackethal.com/posts/hard-to-vary-or-hardly-usable). On his website, Veritula, he offers a [\$3,600 bounty](https://veritula.com/bounties/8) for a program that can apply HTV. (I contributed \$300.) Among other things, the program must:
 
 - accept "two strings representing arbitrary explanations in natural language (English)";
 - return "a ranking indicating which explanation is better, worse, or equal";
 - be rigorous, sufficiently specified, non-arbitrary, and fully testable.
 
-This is not a bounty entry. It shows why the two-input requirement cannot be met as written.
+This is not a bounty entry. But I think I can show why the two-input requirement cannot be met as written.
 
 I read "two strings" literally. The strings are the only case-specific inputs. A fact read from a database, sensor, or anywhere else is another input, whether or not it appears in the function signature.
 
@@ -20,7 +20,7 @@ No function of those two strings can always provide such a ranking.
 
 ## Dennis opens a door
 
-Dennis enters David Deutsch's birthday, `18-05-1953`, into the keypad beside a locked door. The door opens. Why? Keep that question and event fixed while comparing two explanations:
+Here is an example. Suppose Dennis enters David Deutsch's birthday, `18-05-1953`, into a keypad beside a locked door. The door opens. Why? Keep that question and event fixed while comparing two explanations:
 
 `A`: "The door opened because Dennis entered `18-05-1953`, the lock's only accepted code."
 
