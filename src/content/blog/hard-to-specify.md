@@ -48,13 +48,15 @@ The question, the first opening of the door, and the two statements are the same
 
 `S(A -> B | T1) != S(A -> B | T2)`
 
+An HTV ranker must first decide whether `B`, treated as a variation of `A`, still accounts for the event. Call the function making that decision `G`. With only the two permitted inputs, it would be `G(A, B)`.
+
 To be correct in both cases, `G(A, B)` would have to return different statuses for the same inputs. It cannot. Once we supply the test and its result, we are no longer evaluating `G(A, B)` but `G(A, B, T)`. An HTV ranker needs that extra input because "still accounting for what it purports to account for" is part of Deutsch's criterion. A ranker of the required form, `F(A, B)`, lacks necessary information before the *ceteris paribus* comparison can begin.
 
 ## Variation
 
 We can give the function the test and its result. That still leaves "variation" undefined.
 
-Turning explanations into bit strings does not provide one. Take `x = 0101` and `y = 0100`. If "variation" means changing exactly one bit, `y` qualifies. If it means cyclically rotating the bits, `y` does not. Both rules are exact. The strings cannot choose between them. The rule supplies the answer.
+Turning explanations into bit strings does not provide one. Take `x = 0101` and `y = 0100`. If "variation" means changing exactly one bit, `y` qualifies. Suppose instead that it means a one-place cyclic rotation: shift every bit left and move the first bit to the end. Then `x` becomes `1010`, not `y`. Both rules are exact. The strings cannot choose between them. The rule supplies the answer.
 
 English statements make the gap larger. Before a program can vary meanings, it needs a theory of what the strings mean.
 
