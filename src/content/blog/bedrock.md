@@ -17,13 +17,13 @@ The comedy classic [*Office Space*](https://www.20thcenturystudios.com/movies/of
 >
 > "I don't know. But I really don't like it, and, uh, I'm not gonna go."
 
-Joanna expects Peter to follow the usual sequence of Bad Things until one scares him back to work. He refuses. The rest of us get to enjoy the fantasy of being such a bad boy.
+Joanna expects Peter to follow the usual sequence of Bad Things until one scares him back to work. He refuses. The viewers get to enjoy the fantasy of being such a bad boy.
 
 Physicist David Deutsch uses [*moral philosophy*](https://www.thebeginningofinfinity.com/book/glossary/#Moral_philosophy) broadly: deciding what to do next, what sort of life to lead, what sort of world to want. Peter's moral philosophy takes one step: "I don't like it."
 
 Joanna has her own little rebellion. She hates waitressing and does the bare minimum to keep her job. But hers stops short of Peter's. Stop going, get fired. Get fired, lose income. Lose income, lose the apartment. Why is that bad? It just is.
 
-Peter stops at his first feeling. Joanna follows the consequences until fear wins. Peter's "I don't like it" survives every question he bothers to ask; Joanna's hatred of waitressing does not get the last word. She reasons by setting one feeling against another.
+Peter stops at his first feeling. Joanna follows the consequences until fear wins. Peter's "I don't like it" survives every question he bothers to ask; but Joanna's hatred of waitressing is not decisive. She reasons by setting one feeling against another.
 
 The difference is not that Joanna reasons while Peter only vibes. Both reason and both stop. Asking one more question is itself a decision. Joanna goes further, but only until she would rather stop asking.
 
@@ -131,8 +131,8 @@ At the end of [*Yet Do I Marvel*](https://poets.org/poem/yet-do-i-marvel), Count
 
 Whitman takes the question all the way down. After cataloguing everything that makes life look empty and useless, he asks what good remains. His answer hits bedrock: [*"That you are here—that life exists and identity, / That the powerful play goes on, and you may contribute a verse."*](https://whitmanarchive.org/item/ppp.00707_00828) Life and identity are where the questioning stops; contributing a verse is what follows. E. E. Cummings goes straight there: [*"since feeling is first"*](https://poets.org/poem/feeling-first).
 
-Consciousness is no bonus feature. It gives reason a reason. A mind that can question anything needs something it is not questioning now. Bedrock can be criticized tomorrow. Today, it makes tomorrow worth reaching.
+Consciousness is no bonus feature. It gives reason a reason. A mind that can question anything needs something it is not questioning now. Bedrock can be criticized tomorrow. Today, it makes tomorrow worth it.
 
-I have not solved the hard problem of consciousness: why is there anything it is like to be me? I have tied it to another question. How can I criticize my own reasons? Both turn on mattering. From the inside, mattering is care. A mind without care can still calculate, infer, and evaluate. It would not care whether it did any of it.
+I have not yet solved the hard problem of consciousness: why is there anything it is like to be me? I have tied it to another question. How can I criticize my own reasons? Both turn on mattering. From the inside, mattering is care. A mind without care can still calculate, infer, and evaluate. It would not care whether it did any of it.
 
 *Thanks to Logan Chipkin, Dennis Hackethal, and Tyler Mills for their feedback on this essay.*
