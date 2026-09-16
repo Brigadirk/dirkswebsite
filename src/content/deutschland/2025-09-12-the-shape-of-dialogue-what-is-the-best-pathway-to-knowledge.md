@@ -51,13 +51,37 @@ So just to drill down on that, why is error correction so important?
 
 <span class="transcript-timestamp">00:02:24 - 00:02:41</span>
 
-Because errors are inevitable. So I'm a fallibilist, like Karl Popper. So I believe that there's nothing infallible in the world. There's no touchstone of truth that we can find somewhere in the garden and pick up and ...
+Because errors are inevitable. So I'm a fallibilist, like Karl Popper. So I believe that there's nothing infallible in the world. There's no touchstone of truth that we can find somewhere in the garden and pick up and say, you know, is this true or not? And it'd be infallible.
 
 ### Michael Goldwater
 
-<span class="transcript-timestamp">00:02:41 - 00:04:19</span>
+<span class="transcript-timestamp">00:02:41 - 00:03:00</span>
 
-Say, you know, is this true or not? And it'd be infallible. Sorry, whenever you say that when I'm listening to you on your podcasts, I always think of the Pope. Yes. Surely you must say, except for the Pope. No. As I have often explained, even if the Pope is infallible, your theory that the Pope has said a particular thing is fallible. Your theory that that is the Pope, you heard saying it, is fallible. Even if you break into the Vatican and hide somewhere, and by the way, he has to be sitting in the throne for it to be infallible. I didn't know that. If he's not sitting in the throne, it doesn't count. He's fallible. So he's sitting in the throne, you're hiding in the room, you see him sitting in the throne, and he says a thing. You still can't be sure, you're not infallibly sure, because you don't know that this is the day on which he's going to be. Maybe he's doing a dress rehearsal. Or it could be a fake Pope. It could be a stand-in for the Pope. So these are all examples of the fact that in order to conclude that something is true on the grounds of papal infallibility, you have to assume fallibly a lot of other conditions, and you can't get past that. There's no way of getting past that completely. So we come to knowledge through fallibility, is that what you're saying?
+Sorry, whenever you say that when I'm listening to you on your podcasts, I always think of the Pope. Yes. Surely you must say, except for the Pope.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:03:00 - 00:03:20</span>
+
+No. As I have often explained, even if the Pope is infallible, your theory that the Pope has said a particular thing is fallible. Your theory that that is the Pope, you heard saying it, is fallible. Even if you break into the Vatican and hide somewhere, and by the way, he has to be sitting in the throne for it to be infallible.
+
+### Michael Goldwater
+
+<span class="transcript-timestamp">00:03:20 - 00:03:22</span>
+
+I didn't know that.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:03:22 - 00:04:10</span>
+
+If he's not sitting in the throne, it doesn't count. He's fallible. So he's sitting in the throne, you're hiding in the room, you see him sitting in the throne, and he says a thing. You still can't be sure, you're not infallibly sure, because you don't know that this is the day on which he's going to be. Maybe he's doing a dress rehearsal. Or it could be a fake Pope. It could be a stand-in for the Pope. So these are all examples of the fact that in order to conclude that something is true on the grounds of papal infallibility, you have to assume fallibly a lot of other conditions, and you can't get past that. There's no way of getting past that completely.
+
+### Michael Goldwater
+
+<span class="transcript-timestamp">00:04:10 - 00:04:19</span>
+
+So we come to knowledge through fallibility, is that what you're saying?
 
 ### David Deutsch
 
@@ -189,7 +213,73 @@ Yes. Right. So the set of information is not infinite but almost infinite. Yes. 
 
 <span class="transcript-timestamp">00:13:28 - 00:15:27</span>
 
-Right. Right. And it's the same for knowledge. Right. But only humans can have knowledge. No. So there I'm, if you think about the definition I gave, DNA contains knowledge. So I would have thought that was information. No, because a gene containing information, there are two kinds of genes. There are those that contain knowledge and those that don't. Oh, really? So the ones that don't are, you know, that sort of junk DNA or whatever. The DNA that constitutes genes has a physical effect. I see what you mean. It causes a cause. So if I have a gene for, I don't know, manufacturing insulin, then... Well, I've obviously got the gene for red hair. So... Indeed. Indeed. And that causes it by a chemical process which one can trace the causal chain back to that knowledge. Right. Right. So, yes, okay, that's very interesting. What's explanatory knowledge? So knowledge itself, there are two categories. There's explanatory and non-explanatory knowledge. The knowledge in genes is non-explanatory because it does not express its causal power in a code. So it doesn't say... When you're looking at a distant object, the reason you change the side, change the tension in the muscles around your eye lens is that this will bring the light from the distant object into focus. There's nothing in the gene that says that. It just says, when you're looking at... It doesn't even say that in words. It's not in English. I can't read...
+Right. Right. And it's the same for knowledge. Right. But only humans can have knowledge.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:13:40 - 00:13:50</span>
+
+No. So there I'm, if you think about the definition I gave, DNA contains knowledge.
+
+### Michael Goldwater
+
+<span class="transcript-timestamp">00:13:50 - 00:13:55</span>
+
+So I would have thought that was information.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:13:55 - 00:14:20</span>
+
+No, because a gene containing information, there are two kinds of genes. There are those that contain knowledge and those that don't.
+
+### Michael Goldwater
+
+<span class="transcript-timestamp">00:14:20 - 00:14:22</span>
+
+Oh, really?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:14:22 - 00:14:40</span>
+
+So the ones that don't are, you know, that sort of junk DNA or whatever. The DNA that constitutes genes has a physical effect.
+
+### Michael Goldwater
+
+<span class="transcript-timestamp">00:14:40 - 00:14:45</span>
+
+I see what you mean.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:14:45 - 00:15:05</span>
+
+It causes a cause. So if I have a gene for, I don't know, manufacturing insulin, then...
+
+### Michael Goldwater
+
+<span class="transcript-timestamp">00:15:05 - 00:15:08</span>
+
+Well, I've obviously got the gene for red hair. So...
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:15:08 - 00:15:20</span>
+
+Indeed. Indeed. And that causes it by a chemical process which one can trace the causal chain back to that knowledge.
+
+### Michael Goldwater
+
+<span class="transcript-timestamp">00:15:20 - 00:15:27</span>
+
+Right. Right. So, yes, okay, that's very interesting. What's explanatory knowledge?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:15:22 - 00:15:27</span>
+
+So knowledge itself, there are two categories. There's explanatory and non-explanatory knowledge. The knowledge in genes is non-explanatory because it does not express its causal power in a code. So it doesn't say... When you're looking at a distant object, the reason you change the side, change the tension in the muscles around your eye lens is that this will bring the light from the distant object into focus. There's nothing in the gene that says that. It just says, when you're looking at... It doesn't even say that in words. It's not in English. I can't read...
 
 ### David Deutsch
 

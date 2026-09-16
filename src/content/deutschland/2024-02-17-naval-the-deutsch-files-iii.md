@@ -11,7 +11,8 @@ pubDate: 2024-02-17
 <span class="duration-label">Duration:</span> <span class="duration-time">00:59:18</span>
 
 ## Transcript
-### Naval Ravikant
+
+### Brett Hall
 
 <span class="transcript-timestamp">00:00:00 - 00:01:04</span>
 
@@ -21,37 +22,37 @@ On exactly that, the fact that the more that we summarize what I think is an exc
 
 <span class="transcript-timestamp">00:01:04 - 00:01:48</span>
 
-No, of course not. So as you say, I mean, as soon as you see a claim that somebody has proved something, then you know, proved it from what? This isn't going to be Popper, it isn't going to be me. I've proved that if quantum theory is true, then the Turing conjecture is true in physics. You know, that's what you can do with the proof. Proving something about AGI is inherently impossible if we don't have a theory of AGI, that you know, you can't prove something about something that you can't define. And anyway, proof isn't what these kinds of things are about. These kinds of things are about argument. And Popper, I can't recall Popper specifically saying anything about AI.
+No, of course not. So as you say, I mean, as soon as you see a claim that somebody has proved something, then you know, proved it from what? This isn't going to be Popper, it isn't going to be me. I've proved that if quantum theory is true, then the Turing conjecture is true in physics. You know, that's what you can do with the proof. Proving something about AGI is inherently impossible if we don't have a theory of AGI, that you know, you can't prove something about something that you can't define. And anyway, proof isn't what these kinds of things are about. These kinds of things are about argument. And Popper, I can't recall Popper specifically saying anything about AI. It wasn't a thing in those days.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:01:48 - 00:02:20</span>
 
-It wasn't a thing in those days. This word proof is something we haven't talked about during our conversations. But you do hear it deployed quite often, you know, such and such has been proved as if to say, this stands in contrast to our notion of conjectural knowledge or fallibility. After all, once something has been proved, can't we carve it into stone and there it sits for all time? Is the notion of proof on a different level to the rest of our conjectural knowledge? Because it sounds, I think, to the typical layperson as if it is.
+This word proof is something we haven't talked about during our conversations. But you do hear it deployed quite often, you know, such and such has been proved as if to say, this stands in contrast to our notion of conjectural knowledge or fallibility. After all, once something has been proved, can't we carve it into stone and there it sits for all time? Is the notion of proof on a different level to the rest of our conjectural knowledge? Because it sounds, I think, to the typical layperson as if it is.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:02:21 - 00:03:03</span>
 
-Yeah, well, it isn't. The difference between mathematics and other fields, as I've often said, is not in the way we find knowledge about them, but in the subject matter. The subject matter of mathematics is necessary truth. So when we make a discovery in mathematics, we're making a conjecture about what is necessary truth. So we're making a conjecture that something or other that we have defined is a necessary truth. But there isn't a difference in the way we create knowledge in our minds about mathematics or computer science or psychology or physics. They're all the same ...
+Yeah, well, it isn't. The difference between mathematics and other fields, as I've often said, is not in the way we find knowledge about them, but in the subject matter. The subject matter of mathematics is necessary truth. So when we make a discovery in mathematics, we're making a conjecture about what is necessary truth. So we're making a conjecture that something or other that we have defined is a necessary truth. But there isn't a difference in the way we create knowledge in our minds about mathematics or computer science or psychology or physics. They're all the same epistemologically.
 
 ### Naval Ravikant
 
 <span class="transcript-timestamp">00:03:03 - 00:04:38</span>
 
-Epistemologically. One topic that I kind of want to get into a little bit, if I can switch for a moment, is the topic of creativity. And I know that it's very poorly defined and something that we don't quite have a grasp of. And on AirChat yesterday, I was talking to people and I made some comment about as long as you have room for creativity, you have room for free will, because we don't know where creativity comes from. And so that allows you to have this freedom of operation based on your creative theories. I was making the point that true creativity is not from observation, it's not from induction, it's not from some algorithm that we know yet how to run, and it's not just mixing things together. And immediately the response was someone said, well, can you give me some examples of this creativity you're talking about? I think to people, they feel like when we talk about this form of creativity, we're just talking purely about scientific creativity like Einstein. And I think some of these examples that we use are so far out there that people think, well, they're not talking about creativity, they're talking about scientific discovery, which is not what they're talking about. And so most people seem to automatically fall into this trap that creativity is observation or recombination. And I wonder if we can just explore what creativity is, some real world examples that are just more down to earth. And just kind of, I'd love to once and for all put to bed this idea that is recombination. I think you've done a great job showing that it's not observation, but I think the recombination metaphor keeps coming back, frankly, because of authorities like Steve Jobs, who authoritatively said creativity is just mixing things together.
+One topic that I kind of want to get into a little bit, if I can switch for a moment, is the topic of creativity. And I know that it's very poorly defined and something that we don't quite have a grasp of. And on AirChat yesterday, I was talking to people and I made some comment about as long as you have room for creativity, you have room for free will, because we don't know where creativity comes from. And so that allows you to have this freedom of operation based on your creative theories. I was making the point that true creativity is not from observation, it's not from induction, it's not from some algorithm that we know yet how to run, and it's not just mixing things together. And immediately the response was someone said, well, can you give me some examples of this creativity you're talking about? I think to people, they feel like when we talk about this form of creativity, we're just talking purely about scientific creativity like Einstein. And I think some of these examples that we use are so far out there that people think, well, they're not talking about creativity, they're talking about scientific discovery, which is not what they're talking about. And so most people seem to automatically fall into this trap that creativity is observation or recombination. And I wonder if we can just explore what creativity is, some real world examples that are just more down to earth. And just kind of, I'd love to once and for all put to bed this idea that is recombination. I think you've done a great job showing that it's not observation, but I think the recombination metaphor keeps coming back, frankly, because of authorities like Steve Jobs, who authoritatively said creativity is just mixing things together. And that's a quote you find on posters everywhere.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:04:38 - 00:06:30</span>
 
-And that's a quote you find on posters everywhere. Yeah, well, it's only the word just that is false there. So like I said yesterday, you know, it's like saying humans are just atoms. We are just atoms in the sense that there isn't any magic thing in addition to atoms that makes us but that's not to say that we are just atoms. If you take a snapshot of North America a thousand years ago, and then take another snapshot today, the difference between the look of Manhattan Island then and now cannot be explained without invoking creativity. Nothing but creativity could have produced that there are no natural processes that will ever produce something like a skyscraper. So to explain the phenomenon that happened on Manhattan Island, you need to invoke creativity. But now somebody will say, now point to some creativity. And I can zoom down on a particular architect with his old fashioned draftsman's board and his paper and his ruler and his compass and his brain. And I can examine those with a microscope. And somebody will ask me, well, at which point did creativity happen? What was creative about what that architect did, that was not just atoms and, if you like, bringing together ideas that had happened before? Well, if all our ideas are just recombinations of ideas that have happened before, then there's nothing new about the skyscraper that wasn't already there when our ancestors were banging rocks together. But there is. They didn't and couldn't build skyscrapers and we can and do. At least I can't, but the human species can. The other side, they'll say, well, yeah, you can't go
+Yeah, well, it's only the word just that is false there. So like I said yesterday, you know, it's like saying humans are just atoms. We are just atoms in the sense that there isn't any magic thing in addition to atoms that makes us but that's not to say that we are just atoms. If you take a snapshot of North America a thousand years ago, and then take another snapshot today, the difference between the look of Manhattan Island then and now cannot be explained without invoking creativity. Nothing but creativity could have produced that there are no natural processes that will ever produce something like a skyscraper. So to explain the phenomenon that happened on Manhattan Island, you need to invoke creativity. But now somebody will say, now point to some creativity. And I can zoom down on a particular architect with his old fashioned draftsman's board and his paper and his ruler and his compass and his brain. And I can examine those with a microscope. And somebody will ask me, well, at which point did creativity happen? What was creative about what that architect did, that was not just atoms and, if you like, bringing together ideas that had happened before? Well, if all our ideas are just recombinations of ideas that have happened before, then there's nothing new about the skyscraper that wasn't already there when our ancestors were banging rocks together. But there is. They didn't and couldn't build skyscrapers and we can and do. At least I can't, but the human species can.
 
 ### Naval Ravikant
 
 <span class="transcript-timestamp">00:06:30 - 00:06:45</span>
 
-Straight from banging rocks to skyscrapers, but they went from banging rocks to figuring out how to shape rocks to build tools. And then they recombine that knowledge of building tools and digging and so on and so forth. So it was just all, it was step-by-step recombination, almost like an evolutionary process.
+The other side, they'll say, well, yeah, you can't go straight from banging rocks to skyscrapers, but they went from banging rocks to figuring out how to shape rocks to build tools. And then they recombine that knowledge of building tools and digging and so on and so forth. So it was just all, it was step-by-step recombination, almost like an evolutionary process.
 
 ### David Deutsch
 
@@ -75,13 +76,13 @@ It's not only faster, it is explanatory, which means that because it's explanato
 
 <span class="transcript-timestamp">00:10:06 - 00:10:23</span>
 
-So basically, the creative guesses that humans make because they're explanatory in nature, they can leap through the entire idea space and form interconnections between any two ideas or any two states, whereas biological evolution has to traverse through the physical world limitations...
+So basically, the creative guesses that humans make because they're explanatory in nature, they can leap through the entire idea space and form interconnections between any two ideas or any two states, whereas biological evolution has to traverse through the physical world limitations... And what the organism is capable of right now.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:10:23 - 00:10:59</span>
 
-And what the organism is capable of right now. Yes, and it has to traverse it while staying alive; it has to be a viable organism all the way through. Whereas if you want a new design of airplane and you say maybe it would be better to have the tail plane as a single object rather than this thing with wings, then you know, I've just said that in one sentence and if that's a good idea, it could be criticized by an aeronautical engineer and so on. But to make that change incrementally will probably produce a whole series of airplanes that won't fly.
+Yes, and it has to traverse it while staying alive; it has to be a viable organism all the way through. Whereas if you want a new design of airplane and you say maybe it would be better to have the tail plane as a single object rather than this thing with wings, then you know, I've just said that in one sentence and if that's a good idea, it could be criticized by an aeronautical engineer and so on. But to make that change incrementally will probably produce a whole series of airplanes that won't fly.
 
 ### Naval Ravikant
 
@@ -105,31 +106,31 @@ So in that sense, the biological system is a highly focused analog computer that
 
 <span class="transcript-timestamp">00:11:42 - 00:12:33</span>
 
-So the DNA system is entirely digital. This incremental thing is not a continuous change. So one mutation is still a quantum difference. If you had a difference that involved less than one base pair, then the whole DNA would fall apart. If you try to replace adenine by glucose, then the whole thing wouldn't work as DNA at all. Although we speak of evolution as happening incrementally, it's incrementally in discrete steps. So both thinking and biological evolution happen in discrete steps. Biological evolution happens though in very small steps, which are undesigned. So there's no designer that designs the next
+So the DNA system is entirely digital. This incremental thing is not a continuous change. So one mutation is still a quantum difference. If you had a difference that involved less than one base pair, then the whole DNA would fall apart. If you try to replace adenine by glucose, then the whole thing wouldn't work as DNA at all. Although we speak of evolution as happening incrementally, it's incrementally in discrete steps. So both thinking and biological evolution happen in discrete steps. Biological evolution happens though in very small steps, which are undesigned. So there's no designer that designs the next mutation. It's random.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:12:33 - 00:13:59</span>
 
-Mutation. It's random. It strikes me that the SETI project is looking for biomarkers. They're out there searching for evidence of biology. But the way you've poetically framed this idea of, well, there are billions of asteroids out there right now across the universe crashing into billions of planets right now. But here might be the one place where if you had the telescope pointed from another planet towards us, you would see the repelling of asteroids. This would be an indication of intelligence. There's no other explanation. There's no biological explanation. There's no random chance. There's no magic. It must be explanatory creativity that does that thing. And talking about Manhattan before, everywhere across the earth are rocks being eroded and inevitably being eroded by weathering and rain and whatever. But in some places, the cities of the world, there are rocks, call them buildings, which are not being so eroded or really so far as they are. They're being constantly repaired again by explanatory knowledge. And so that introduces this idea of knowledge as resilient information, the very thing that will outlive even the rocks. So long as we can continue to survive, then the knowledge that we have will continue to survive, outlasting the longest existing things in the cosmos.
+It strikes me that the SETI project is looking for biomarkers. They're out there searching for evidence of biology. But the way you've poetically framed this idea of, well, there are billions of asteroids out there right now across the universe crashing into billions of planets right now. But here might be the one place where if you had the telescope pointed from another planet towards us, you would see the repelling of asteroids. This would be an indication of intelligence. There's no other explanation. There's no biological explanation. There's no random chance. There's no magic. It must be explanatory creativity that does that thing. And talking about Manhattan before, everywhere across the earth are rocks being eroded and inevitably being eroded by weathering and rain and whatever. But in some places, the cities of the world, there are rocks, call them buildings, which are not being so eroded or really so far as they are. They're being constantly repaired again by explanatory knowledge. And so that introduces this idea of knowledge as resilient information, the very thing that will outlive even the rocks. So long as we can continue to survive, then the knowledge that we have will continue to survive, outlasting the longest existing things in the cosmos.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:13:59 - 00:14:20</span>
 
-Yes, very nicely put. And Shakespeare, by the way, also said the same thing in his sonnet. "So long lives this, and this gives life to thee." So he's saying that his sonnet will outlive anything. And he's right. Right. Shall I compare thee to a summer's day...
+Yes, very nicely put. And Shakespeare, by the way, also said the same thing in his sonnet. "So long lives this, and this gives life to thee." So he's saying that his sonnet will outlive anything. And he's right.
 
 ### Naval Ravikant
 
 <span class="transcript-timestamp">00:14:20 - 00:14:33</span>
 
-Thou art more lovely and more temperate? Yes, that was a great one. It's also similar to Ozymandias, if you read that one by Shelley, where it's the artist's conception that survives
+Right. Shall I compare thee to a summer's day... Thou art more lovely and more temperate? Yes, that was a great one. It's also similar to Ozymandias, if you read that one by Shelley, where it's the artist's conception that survives the empire and the king.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:14:33 - 00:14:43</span>
 
-The empire and the king. Yes, exactly. And it's simply literally true that knowledge-laden information is more resilient than any physical object.
+Yes, exactly. And it's simply literally true that knowledge-laden information is more resilient than any physical object.
 
 ### Naval Ravikant
 
@@ -177,13 +178,13 @@ I think we could add disasters that are very difficult to come back from. Now, e
 
 <span class="transcript-timestamp">00:25:14 - 00:26:49</span>
 
-They manage to weave their way through this thicket of thwarting that is trying to make them not make progress, and they do make progress anyway. But if we succeeded in making a generation that didn't do that, then at best we'd have stasis, and the stasis will eventually be disastrous. I'm not saying that emancipating children is something that can be done by fiat. It can't be done overnight by just saying we're going to do it, any more than we can instill scientific creativity in a person in the street who is not interested in science. That's not known. That's like arbitrarily programming somebody to be disobedient. It's inherently impossible. But to emancipate children from the institutions of society that are admittedly, openly designed to do those two things, namely create obedience and to replicate existing theories, that we can do. That it is known how to do. There are people who do it. Most of the parents who object to school do not really object to the underlying epistemology of school. They still believe what Popper called the bucket theory of knowledge or the bucket theory of the mind. They only think that the school has been pouring bad stuff into their children, and they want to pour good stuff into their children. Whereas what I advocate is to give children access to whatever they want to pour into themselves. And pouring is the wrong metaphor
+They manage to weave their way through this thicket of thwarting that is trying to make them not make progress, and they do make progress anyway. But if we succeeded in making a generation that didn't do that, then at best we'd have stasis, and the stasis will eventually be disastrous. I'm not saying that emancipating children is something that can be done by fiat. It can't be done overnight by just saying we're going to do it, any more than we can instill scientific creativity in a person in the street who is not interested in science. That's not known. That's like arbitrarily programming somebody to be disobedient. It's inherently impossible. But to emancipate children from the institutions of society that are admittedly, openly designed to do those two things, namely create obedience and to replicate existing theories, that we can do. That it is known how to do. There are people who do it. Most of the parents who object to school do not really object to the underlying epistemology of school. They still believe what Popper called the bucket theory of knowledge or the bucket theory of the mind. They only think that the school has been pouring bad stuff into their children, and they want to pour good stuff into their children. Whereas what I advocate is to give children access to whatever they want to pour into themselves. And pouring is the wrong metaphor because they create it internally.
 
 ### Naval Ravikant
 
 <span class="transcript-timestamp">00:26:49 - 00:27:09</span>
 
-Because they create it internally. So in your model, it's closer to an unschooling than a homeschooling because homeschooling is attempting to replicate the school in a home context. Unschooling might be here's a library, here's your musical instruments, here's your access to other kids and you choose.
+So in your model, it's closer to an unschooling than a homeschooling because homeschooling is attempting to replicate the school in a home context. Unschooling might be here's a library, here's your musical instruments, here's your access to other kids and you choose.
 
 ### David Deutsch
 
@@ -203,11 +204,17 @@ What about the argument that brains are more plastic?
 
 Yeah, that was your second argument. Well, first of all, it's rather ironic given that the existing pattern of education, as I say, is explicitly designed to waste all that plasticity by making everybody have the same ideas. Schools advertise saying, you know, we're going to make your children all get A's. In other words, we're going to make your children all alike. And let's imagine a school with a good ethos. It would be advertising, we're going to make your children all different. We're going to make them more different than you can imagine. All our alumni are radically different people from each other. Of course, you know, we also think, hope, expect that they will all be ...
 
-### Naval Ravikant
+### David Deutsch
 
 <span class="transcript-timestamp">00:28:42 - 00:29:35</span>
 
-Nice people despite being radically different from each other. This plasticity notion, and this will likely upset our educationalists who might be listening and neuroscientists who might be listening, evokes the notion of hardware. So I don't know what you think about this, that there is this golden window, supposedly early on in life, where unless you get taught the language or unless you get taught the mathematics, then the window closes. And the parallel or the mirror image of this is you can't teach an old dog new tricks. So at one end is the golden opportunity for learning, and the other end, learning is closed off from you. Now, I've got my own stock answer of this, but the cultural answer seems to be it is brain decay that goes on. You start out with a brain that is a sponge, and by the end, all hope is almost lost to you to learn anything new. What do you think about that?
+Nice people despite being radically different from each other.
+
+### Brett Hall
+
+<span class="transcript-timestamp">00:28:42 - 00:29:35</span>
+
+This plasticity notion, and this will likely upset our educationalists who might be listening and neuroscientists who might be listening, evokes the notion of hardware. So I don't know what you think about this, that there is this golden window, supposedly early on in life, where unless you get taught the language or unless you get taught the mathematics, then the window closes. And the parallel or the mirror image of this is you can't teach an old dog new tricks. So at one end is the golden opportunity for learning, and the other end, learning is closed off from you. Now, I've got my own stock answer of this, but the cultural answer seems to be it is brain decay that goes on. You start out with a brain that is a sponge, and by the end, all hope is almost lost to you to learn anything new. What do you think about that?
 
 ### David Deutsch
 
@@ -221,7 +228,7 @@ Well, I don't know the fact of the matter about how the brain works, and I don't
 
 They overlap enough to be able to communicate well, very well sometimes, never perfectly. And sometimes they find it hard to communicate even imperfectly, even though they have ostensibly gone through the same learning process. But every physicist is different. Every physicist has a different problem situation, has a different set of ideas that they think of as what physics is. And they differ from each other. So, if they want to work together, they often have to work at understanding what each other mean. Now, plasticity, if it's true that the brain sort of works faster or whatever, lays down memories more easily or something when one is young for hardware reasons, I don't see how that changes anything. You might want a person to have an intuitive knowledge of piano playing, but that's what you want. That may not be what they want. And there's an infinite number of things that somebody might want them to be proficient at. And it's impossible. There is no one who is proficient at all the things that society thinks children should grow up proficient at.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:33:43 - 00:34:45</span>
 
@@ -237,13 +244,13 @@ It could be. And it sounds plausible. And I like the theory because as it were, 
 
 <span class="transcript-timestamp">00:38:13 - 00:38:14</span>
 
-If you add up all those things...
+If you add up all those things... It will take several lifetimes.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:38:14 - 00:39:31</span>
 
-It will take several lifetimes. Yeah, I find it remarkable. Whatever the topic du jour happens to be, we go through these fads of, well, now let's force nutrition onto the children. That's extremely important. Social justice is one that's come up recently. And almost every year, there's the history wars. It's like, what version of history are we going to? And nothing's ever taken away from the curriculum, really. Modified, perhaps, but not eliminated. And there are these turf wars between certainly nations about who has the best mathematics syllabus and that kind of thing. I suppose one thing that young people are ever eager to do is to emulate people they admire, of course. And so I think there are a number of people out there, young, who would admire, especially yourself. And they would think, I would like to be able to do that thing. I would like to be able to contribute to that thing. What would be a way in which a young person could pursue that? You wouldn't want to prescribe a syllabus. And you might very well just say, just pursue what's fun. But is there anything more concrete that you could hang on to that rather than just do what you like, almost?
+Yeah, I find it remarkable. Whatever the topic du jour happens to be, we go through these fads of, well, now let's force nutrition onto the children. That's extremely important. Social justice is one that's come up recently. And almost every year, there's the history wars. It's like, what version of history are we going to? And nothing's ever taken away from the curriculum, really. Modified, perhaps, but not eliminated. And there are these turf wars between certainly nations about who has the best mathematics syllabus and that kind of thing. I suppose one thing that young people are ever eager to do is to emulate people they admire, of course. And so I think there are a number of people out there, young, who would admire, especially yourself. And they would think, I would like to be able to do that thing. I would like to be able to contribute to that thing. What would be a way in which a young person could pursue that? You wouldn't want to prescribe a syllabus. And you might very well just say, just pursue what's fun. But is there anything more concrete that you could hang on to that rather than just do what you like, almost?
 
 ### David Deutsch
 
@@ -261,13 +268,13 @@ Another question I had, it seems like your deeply optimistic viewpoint about chi
 
 <span class="transcript-timestamp">00:42:50 - 00:45:17</span>
 
-Well, okay, that's again more than one question, but let me ask the second one first. Now, twin studies are only persuasive if you already believe the bucket theory of the mind or the mechanical theory of how thinking works. So the idea is, is the content of your thoughts determined more by the content of your DNA or more by what people do to you? Apart from harm that is done to you, the main content of your thought is created by you. Why did you switch on the TV and watch that documentary about Faraday? Well, who knows? It's not encoded in your DNA that you will on a particular day watch a particular documentary, nor was it inculcated in you by your environment, by whether you were allowed to eat ice cream whenever you like or not. It's an unpredictable feature of your genes and environment that you end up at a certain place. But then the important thing that happens is that you think about that and you create a new thing. And if you are inspired by that documentary to try to be like Faraday, then it's not the documentary that has done this to you. The documentary was seen by another million people and it had no effect on any of them, or it had a different, shall we say it had a different effect on all of them. The effect on you was created by you. So if you have this view of what human thought is, then it's totally unsurprising that two people who look alike but are educated by different people in the same culture are going to have similarities in their thoughts. The ones who never had a TV and never watched a Faraday documentary are going to have different thoughts from the ones who did, or maybe not. Maybe it's the one who didn't watch the TV documentary who becomes interested in Faraday. And if they're similar, it's because people who look alike are treated in a similar way. There's a sort of compulsion to deny this among people who believe in nurture rather than nature. They say, okay, well, how would it affect it? I don't know. But it's not surprising that there are ways in which people who look alike
+Well, okay, that's again more than one question, but let me ask the second one first. Now, twin studies are only persuasive if you already believe the bucket theory of the mind or the mechanical theory of how thinking works. So the idea is, is the content of your thoughts determined more by the content of your DNA or more by what people do to you? Apart from harm that is done to you, the main content of your thought is created by you. Why did you switch on the TV and watch that documentary about Faraday? Well, who knows? It's not encoded in your DNA that you will on a particular day watch a particular documentary, nor was it inculcated in you by your environment, by whether you were allowed to eat ice cream whenever you like or not. It's an unpredictable feature of your genes and environment that you end up at a certain place. But then the important thing that happens is that you think about that and you create a new thing. And if you are inspired by that documentary to try to be like Faraday, then it's not the documentary that has done this to you. The documentary was seen by another million people and it had no effect on any of them, or it had a different, shall we say it had a different effect on all of them. The effect on you was created by you. So if you have this view of what human thought is, then it's totally unsurprising that two people who look alike but are educated by different people in the same culture are going to have similarities in their thoughts. The ones who never had a TV and never watched a Faraday documentary are going to have different thoughts from the ones who did, or maybe not. Maybe it's the one who didn't watch the TV documentary who becomes interested in Faraday. And if they're similar, it's because people who look alike are treated in a similar way. There's a sort of compulsion to deny this among people who believe in nurture rather than nature. They say, okay, well, how would it affect it? I don't know. But it's not surprising that there are ways in which people who look alike Acquire similar attributes.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:45:17 - 00:45:42</span>
 
-Acquire similar attributes. The trivial way that you've pointed out yourself when talking about this is if the beautiful people, the people who appear on the front of magazines are obviously going to be treated in a certain way. So if you have twins like that, these two model-like people, they're going to be treated in one way. These other two twins that maybe aren't quite so attractive are going to be treated in a different way. So that's a trivial way in which that kind of thing can happen.
+The trivial way that you've pointed out yourself when talking about this is if the beautiful people, the people who appear on the front of magazines are obviously going to be treated in a certain way. So if you have twins like that, these two model-like people, they're going to be treated in one way. These other two twins that maybe aren't quite so attractive are going to be treated in a different way. So that's a trivial way in which that kind of thing can happen.
 
 ### David Deutsch
 
@@ -303,13 +310,13 @@ Yeah, there are many such things. As you know, I think that AGI, when it is atta
 
 <span class="transcript-timestamp">00:52:42 - 00:53:08</span>
 
-I think, you know, historians haven't had this concept, so they haven't, like, directed their attention. I guess that Florence and ancient Athens were sort of powered by optimism. But I, you know, I don't know much about history. And I also conjecture that there are many other cases that are not as spectacular, that were also like that. So there's one final topic I've been wanting to discuss with you, ...
+I think, you know, historians haven't had this concept, so they haven't, like, directed their attention. I guess that Florence and ancient Athens were sort of powered by optimism. But I, you know, I don't know much about history. And I also conjecture that there are many other cases that are not as spectacular, that were also like that.
 
 ### Naval Ravikant
 
 <span class="transcript-timestamp">00:53:08 - 00:54:34</span>
 
-But I don't even have it well formed, but I'll throw out a few boundaries around it. You've studied science and the world as much as you can, as much as any one person can. But it seems that there's a central mystery at the heart of it all, which is existence itself. And that one seems almost insoluble. Perhaps it is, perhaps it's soluble by constructor theory. But most people, I think, would say that there is just a mystery of why is there anything at all? Why do we even exist? And then there's some people who go down the consciousness route and say, well, it's a consciousness-centric view. Consciousness is all that exists. There is a guy here who lives in Oxford, actually, Rupert Spira, who's gotten quite famous. He's a global speaker. He's actually doing a tour in the U.S. right now. And my wife actually just went to see him yesterday while I was talking to you; she was talking to him. And he is one of these quote-unquote enlightened people where he has seen through the falseness of the separate self, lives in universal consciousness, seems very happy all the time, says that we're all just part of God's being and that science sort of misses the whole point by exploring all the details. But they miss the central mystery of consciousness and awareness and should realize that we are all one single awareness. As you've gotten along in life, have you developed any understandings, beliefs or thoughts? How do you even approach this topic or subject? Is it interesting to you? Spirituality, religion, your own Jewish history, science, where do these intersect? What is all this stuff in your view of the world?
+So there's one final topic I've been wanting to discuss with you, ... But I don't even have it well formed, but I'll throw out a few boundaries around it. You've studied science and the world as much as you can, as much as any one person can. But it seems that there's a central mystery at the heart of it all, which is existence itself. And that one seems almost insoluble. Perhaps it is, perhaps it's soluble by constructor theory. But most people, I think, would say that there is just a mystery of why is there anything at all? Why do we even exist? And then there's some people who go down the consciousness route and say, well, it's a consciousness-centric view. Consciousness is all that exists. There is a guy here who lives in Oxford, actually, Rupert Spira, who's gotten quite famous. He's a global speaker. He's actually doing a tour in the U.S. right now. And my wife actually just went to see him yesterday while I was talking to you; she was talking to him. And he is one of these quote-unquote enlightened people where he has seen through the falseness of the separate self, lives in universal consciousness, seems very happy all the time, says that we're all just part of God's being and that science sort of misses the whole point by exploring all the details. But they miss the central mystery of consciousness and awareness and should realize that we are all one single awareness. As you've gotten along in life, have you developed any understandings, beliefs or thoughts? How do you even approach this topic or subject? Is it interesting to you? Spirituality, religion, your own Jewish history, science, where do these intersect? What is all this stuff in your view of the world?
 
 ### David Deutsch
 

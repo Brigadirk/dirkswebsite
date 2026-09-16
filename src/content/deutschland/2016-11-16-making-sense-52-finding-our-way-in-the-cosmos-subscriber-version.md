@@ -116,19 +116,19 @@ Isn't that change occurring in you assuming that there's no one else who will ev
 
 <span class="transcript-timestamp">00:29:00 - 00:29:34</span>
 
-In you? It's well for example suppose you're telling your children about morality do you say okay well when you're in that library situation it's okay to steal the book because no one will ever find out right or do you say no you shouldn't even in that situation if the first then it's affecting your child as well yeah and if the second then you are lying to a child right which itself has vast implications. Yeah no I'm totally with you there I just let's linger
+In you? It's well for example suppose you're telling your children about morality do you say okay well when you're in that library situation it's okay to steal the book because no one will ever find out right or do you say no you shouldn't even in that situation if the first then it's affecting your child as well yeah and if the second then you are lying to a child right which itself has vast implications.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">00:29:34 - 00:30:10</span>
 
-On this one point that again it's I understand it's disconcertingly far afield but I just think it's interesting so if you could apply a painless local anesthetic to the child for the purposes of receiving a vaccine that would be a better thing to do and it's being better is the measure of it's or the claim that it's better is synonymous with the claim that it's good to reduce needless suffering and the suffering is both needless and in fact probably harmful
+Yeah no I'm totally with you there I just let's linger on this one point that again it's I understand it's disconcertingly far afield but I just think it's interesting so if you could apply a painless local anesthetic to the child for the purposes of receiving a vaccine that would be a better thing to do and it's being better is the measure of it's or the claim that it's better is synonymous with the claim that it's good to reduce needless suffering and the suffering is both needless and in fact probably harmful for the child to whatever degree.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:30:10 - 00:30:24</span>
 
-For the child to whatever degree. Yes I'd say that my first the first line of my critique would be that it violates the human rights of the child but okay there are all these other things which are related.
+Yes I'd say that my first the first line of my critique would be that it violates the human rights of the child but okay there are all these other things which are related.
 
 ### Sam Harris
 
@@ -146,49 +146,49 @@ As I said that they if it's a matter of knowledge if we know this then we have a
 
 <span class="transcript-timestamp">00:33:40 - 00:34:01</span>
 
-It was so what if you can't or what if the benefits you're conferring on someone is so out of reach to them so let's say let's say you have people with severe autism who really can't consent to much of anything and you can't really explain the benefits you're about to give them but the benefit you're about to give them is a cure for autism yes well this reminds me of a you know
+It was so what if you can't or what if the benefits you're conferring on someone is so out of reach to them so let's say let's say you have people with severe autism who really can't consent to much of anything and you can't really explain the benefits you're about to give them but the benefit you're about to give them is a cure for autism
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:34:01 - 00:34:22</span>
 
-Cure for lesbianism or something I mean there are people who think that raping somebody will do them good under various circumstances but you can't base either a legal system or a moral system on saying that if one thinks that that's true once you do it well no but clearly in that case it's
+yes well this reminds me of a you know cure for lesbianism or something I mean there are people who think that raping somebody will do them good under various circumstances but you can't base either a legal system or a moral system on saying that if one thinks that that's true once you do it
 
 ### Sam Harris
 
 <span class="transcript-timestamp">00:34:23 - 00:34:31</span>
 
-Certainly sounds like it's on its face to be a delusional and unethical claim yes we're
+well no but clearly in that case it certainly sounds like it's on its face to be a delusional and unethical claim
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:34:31 - 00:34:37</span>
 
-Considering all sorts of implausible things here what I hear you doing is using the ...
+yes we're considering all sorts of implausible things here what I hear you doing is using the
 
-### Sam Harris
+### David Deutsch
 
 <span class="transcript-timestamp">00:34:37 - 00:34:46</span>
 
-Principle of consent and human rights to trump everything else that it's more epistemology
+principle of consent and human rights to trump everything else that it's more epistemology
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:34:46 - 00:35:30</span>
 
-Because I don't think human rights are fundamental either they are they are just a way of implementing institutions that promote the growth of knowledge and the reason why knowledge trumps everything else here is fallibilism in all these cases where we have a theory that something is better we're implementing a moral theory and we might be mistaken about that and the it must be a fundamental fact of morality of finding an objective truth of morality that it's immoral to close off the paths to correction of a theory if it turns out to be false
+because I don't think human rights are fundamental either they are they are just a way of implementing institutions that promote the growth of knowledge and the reason why knowledge trumps everything else here is fallibilism in all these cases where we have a theory that something is better we're implementing a moral theory and we might be mistaken about that and the it must be a fundamental fact of morality of finding an objective truth of morality that it's immoral to close off the paths to correction of a theory if it turns out to be false
 
 ### Sam Harris
 
 <span class="transcript-timestamp">00:35:30 - 00:36:11</span>
 
-Oh yeah I'm totally with you there but so but that seems to be asserting my you know underlying claim which is human flourishing conceived as broadly as you want and it's a definition that is continually open in the manner you just described for refinement and you know fallibilism that is the point and you know we want to move in the direction of better and better worlds with better and better experiences and who knows how far that can go but we know it's possible to move in the wrong direction and we never want to we never want to tie our hands and make it impossible to correct
+Oh yeah I'm totally with you there but so but that seems to be asserting my you know underlying claim which is human flourishing conceived as broadly as you want and it's a definition that is continually open in the manner you just described for refinement and you know fallibilism that is the point and you know we want to move in the direction of better and better worlds with better and better experiences and who knows how far that can go but we know it's possible to move in the wrong direction and we never want to we never want to tie our hands and make it impossible to correct course
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:36:11 - 00:37:22</span>
 
-Course yes so if once you have an institution that allows that this is why consent isn't just a you know a nice thing to have it's a fundamental feature of the way we handle ideas if you have a system that allows people to enforce an idea on another person who disagrees with the idea then the means of correcting errors are closed off you know you imagined people who had a disability or something and couldn't but could be cured of that disability but they couldn't be explained to them and so on well the thing is either those people are in a constant state of suffering in which case applying the thing to them won't change that or there is a thing that they prefer to some other thing and then there will be a path towards the better state that involves just doing things that they prefer like if it involves an injection then it might involve either an anesthetic or getting into a certain mood in which an injection doesn't matter
+yes so if once you have an institution that allows that this is why consent isn't just a you know a nice thing to have it's a fundamental feature of the way we handle ideas if you have a system that allows people to enforce an idea on another person who disagrees with the idea then the means of correcting errors are closed off you know you imagined people who had a disability or something and couldn't but could be cured of that disability but they couldn't be explained to them and so on well the thing is either those people are in a constant state of suffering in which case applying the thing to them won't change that or there is a thing that they prefer to some other thing and then there will be a path towards the better state that involves just doing things that they prefer like if it involves an injection then it might involve either an anesthetic or getting into a certain mood in which an injection doesn't matter
 
 ### Sam Harris
 
@@ -206,19 +206,19 @@ A way of telling them that you're doing this and it's still working presumably
 
 <span class="transcript-timestamp">00:40:22 - 00:40:46</span>
 
-But what if what if in fact is true that the placebo effect is ruined if you if you tell someone that might be what's happening to them or that you've done this thing it's not medically necessary but we're gonna leave this tube in for a few minutes because you're gonna feel better about it afterwards what if that actually cancels the effect again um the universe
+But what if what if in fact is true that the placebo effect is ruined if you if you tell someone that might be what's happening to them or that you've done this thing it's not medically necessary but we're gonna leave this tube in for a few minutes because you're gonna feel better about it afterwards what if that actually cancels the effect
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:40:46 - 00:41:27</span>
 
-Hasn't got it in for us it doesn't like us at all it doesn't care about us but it hasn't got it in for us if what you just said is the case then you could for example there'll be a way of getting around it for example you could say to them you could say to the patient look there is a way of reducing the amount of perceived suffering of this procedure but it involves a placebo but it won't work if we tell you what the placebo is so um you know do you give us permission to use this placebo and of course the patient will say yes but what can you if that doesn't work
+again um the universe hasn't got it in for us it doesn't like us at all it doesn't care about us but it hasn't got it in for us if what you just said is the case then you could for example there'll be a way of getting around it for example you could say to them you could say to the patient look there is a way of reducing the amount of perceived suffering of this procedure but it involves a placebo but it won't work if we tell you what the placebo is so um you know do you give us permission to use this placebo and of course the patient will say yes but what can you if that doesn't work can you really some other way
 
 ### Sam Harris
 
 <span class="transcript-timestamp">00:41:28 - 00:42:25</span>
 
-Can you really some other way but is that really consent because what if we just we run the alternate experiment what if we say we pose it like that to people and then you know 99 percent say sure you know sign me up but we have a another condition where we just now we're just doing research on compliance and we say we tell them exactly what the placebo is in this case we're going to leave the tube in you for five minutes not doing anything and you're going to for that for those full five minutes those will be five minutes where you would have been saying when's this going to be over already and you could have been off the table and driving home but you know now you're still on the table with this tube in you but that's the placebo let's say the people who sign up for that drops down to 17 so now we know that there's all these people in the first condition who are only consenting because you have masked what the placebo is and so in fact they're not really consenting to the thing you're doing
+but is that really consent because what if we just we run the alternate experiment what if we say we pose it like that to people and then you know 99 percent say sure you know sign me up but we have a another condition where we just now we're just doing research on compliance and we say we tell them exactly what the placebo is in this case we're going to leave the tube in you for five minutes not doing anything and you're going to for that for those full five minutes those will be five minutes where you would have been saying when's this going to be over already and you could have been off the table and driving home but you know now you're still on the table with this tube in you but that's the placebo let's say the people who sign up for that drops down to 17 so now we know that there's all these people in the first condition who are only consenting because you have masked what the placebo is and so in fact they're not really consenting to the thing you're doing
 
 ### David Deutsch
 
@@ -452,13 +452,13 @@ The way it seems to me is more that there's you're ceasing to do something that 
 
 <span class="transcript-timestamp">01:13:18 - 01:13:25</span>
 
-Yes so you cease to do that yeah creative yes well I feel like you haven't we haven't totally
+Yes so you cease to do that yeah creative
 
 ### Sam Harris
 
 <span class="transcript-timestamp">01:13:25 - 01:13:31</span>
 
-Nailed what we might disagree about because I'm just feeling an ocean of agreement yeah just as a ...
+yes well I feel like you haven't we haven't totally nailed what we might disagree about because I'm just feeling an ocean of agreement yeah just as a ...
 
 ### David Deutsch
 
@@ -518,13 +518,13 @@ Meter wouldn't register that yes I mean I've slightly lost track of exactly what
 
 <span class="transcript-timestamp">01:23:47 - 01:24:30</span>
 
-You but it seems like a narrow definition of happiness that that a scientist and an artist could easily sign on to but many people who can still register differences in their happiness changes in their well-being would not really recognize so for instance what has happened when you're going along you're very happy you're as fulfilled as you've ever been but then you know your wife dies or your child dies and now you're not as happy for obvious reasons but those reasons aren't best summarized by a sudden lack of creativity on your part I think they are I
+You but it seems like a narrow definition of happiness that that a scientist and an artist could easily sign on to but many people who can still register differences in their happiness changes in their well-being would not really recognize so for instance what has happened when you're going along you're very happy you're as fulfilled as you've ever been but then you know your wife dies or your child dies and now you're not as happy for obvious reasons but those reasons aren't best summarized by a sudden lack of creativity on your part
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:24:30 - 01:24:49</span>
 
-Think that the reason why you're unhappy is that your the um your previous methods of making progress in thinking were tied to these people who have died and you can't just instantly replace what you would have got from them by something else
+I think they are I think that the reason why you're unhappy is that your the um your previous methods of making progress in thinking were tied to these people who have died and you can't just instantly replace what you would have got from them by something else
 
 ### Sam Harris
 
@@ -554,49 +554,49 @@ Yes I'm not denying that there's a that there are objectively better and worse s
 
 <span class="transcript-timestamp">01:28:16 - 01:28:21</span>
 
-Well no no because I think okay well let's just so then so then the image for me of ...
+Well no no because I think okay well let's just so then so then the image for me of the moral landscape again
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:28:22 - 01:28:40</span>
 
-The moral landscape again you can't download this worst possible state into me just by itself without looking at the details of what is actually happening any more than you can download Mozart's happiness oh yeah so I'll grant you that so but let's let's just say that ...
+you can't download this worst possible state into me just by itself without looking at the details of what is actually happening any more than you can download Mozart's happiness
 
 ### Sam Harris
 
 <span class="transcript-timestamp">01:28:40 - 01:29:19</span>
 
-So we have a universe of a finite number of beings we'll talk about the worst possible misery for everyone at time t which is you know which is obviously defined by who everyone consists of so there's all whatever beings are here are here and each is as miserable as he or she or it can possibly be given the sort of being it is and given its entanglement with all other beings so listen we just we just make this as bad as it can be there may be some vagaries here where you know if you make something really really bad for one being things get a little bit
+oh yeah so I'll grant you that so but let's let's just say that so we have a universe of a finite number of beings we'll talk about the worst possible misery for everyone at time t which is you know which is obviously defined by who everyone consists of so there's all whatever beings are here are here and each is as miserable as he or she or it can possibly be given the sort of being it is and given its entanglement with all other beings so listen we just we just make this as bad as it can be there may be some vagaries here where you know if you make something really really bad for one being things get a little bit better for another being given how they're entangled with each other
 
-### David Deutsch
+### Sam Harris
 
 <span class="transcript-timestamp">01:29:19 - 01:29:23</span>
 
-Better for another being given how they're entangled with each other no no never mind that never mind
+no no never mind that never mind
 
 ### Sam Harris
 
 <span class="transcript-timestamp">01:29:24 - 01:30:22</span>
 
-Yeah let's just make it you know you know if there's one worst possible there are a finite number of worst possible states for all these beings to be in yeah and if we change that if we if we start making life better for them you know all together or even just some of them that's moving in a direction that we will call good and there is no other way to so what I'm claiming here is that any theory you have about goodness has to entail moving away from that worst possible misery for everyone if it's going to be Kant's categorical imperative it's going to be deontology if it's going to be religion if it's going to be consequentialism it's going to be virtue ethics it's going to be something that has yet to be invented it has to recognize that navigation in this space of possible experiences away from the worst possible misery for everyone
+Yeah let's just make it you know you know if there's one worst possible there are a finite number of worst possible states for all these beings to be in yeah and if we change that if we if we start making life better for them you know all together or even just some of them that's moving in a direction that we will call good and there is no other way to so what I'm claiming here is that any theory you have about goodness has to entail moving away from that worst possible misery for everyone if it's going to be Kant's categorical imperative it's going to be deontology if it's going to be religion if it's going to be consequentialism it's going to be virtue ethics it's going to be something that has yet to be invented it has to recognize that navigation in this space of possible experiences away from the worst possible misery for everyone is what is in fact the cash value of goodness
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:30:23 - 01:32:01</span>
 
-Is what is in fact the cash value of goodness yeah though once you're more than a millimeter away from this worst possible state there are lots of ways of getting better and some of them are better than others and a lot of you know once you get as far away from that as we are uh many things affect what people think is right and wrong good or what people think is flourishing and the worst possible state if it could exist I'm not sure that it can but if it could exist if it's if it's unique or if there's some equally bad ones which everyone would agree were equally bad and the worst they have the property that you can move away from it without creativity because you can simply download any other state into those people's brains but once you get a certain distance away and that sort of amount of getting better isn't worth very much it's um you know it's saying okay you're cured you know you're cured of cancer now you are happy and the person isn't because they were happy before and now they're back in the state um that they were in and or you know you let someone out of prison and they go back to their old life uh and the fact that it's all better than the worst possible one doesn't actually resolve disagreements about what is worse or better well yeah so that but then that's why my
+yeah though once you're more than a millimeter away from this worst possible state there are lots of ways of getting better and some of them are better than others and a lot of you know once you get as far away from that as we are uh many things affect what people think is right and wrong good or what people think is flourishing and the worst possible state if it could exist I'm not sure that it can but if it could exist if it's if it's unique or if there's some equally bad ones which everyone would agree were equally bad and the worst they have the property that you can move away from it without creativity because you can simply download any other state into those people's brains but once you get a certain distance away and that sort of amount of getting better isn't worth very much it's um you know it's saying okay you're cured you know you're cured of cancer now you are happy and the person isn't because they were happy before and now they're back in the state um that they were in and or you know you let someone out of prison and they go back to their old life uh and the fact that it's all better than the worst possible one doesn't actually resolve disagreements about what is worse or better
 
 ### Sam Harris
 
 <span class="transcript-timestamp">01:32:02 - 01:32:27</span>
 
-My metaphor of the moral landscape seems relevant to me here because I acknowledge that there are there are peaks and valleys here which we may disagree about and we and we it may in fact both be right so for instance there could be an equivalent peak some distance from where we are where human beings just like ourselves could live very different lives that would strike us as ...
+well yeah so that but then that's why my metaphor of the moral landscape seems relevant to me here because I acknowledge that there are there are peaks and valleys here which we may disagree about and we and we it may in fact both be right so for instance there could be an equivalent peak some distance from where we are where human beings just like ourselves could live very different lives that would strike us as morally perverse
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:32:27 - 01:32:34</span>
 
-Morally perverse and yeah in that case there's an even better peak which is better than either
+and yeah in that case there's an even better peak which is better than either
 
 ### Sam Harris
 
@@ -608,13 +608,13 @@ Exactly exactly so and we'll never discover it because we just are unlucky or we
 
 <span class="transcript-timestamp">01:32:47 - 01:32:52</span>
 
-General purpose I don't think that's possible well you'd have to augment you'd have to you'd
+General purpose I don't think that's possible
 
 ### Sam Harris
 
 <span class="transcript-timestamp">01:32:52 - 01:33:18</span>
 
-Have to give us more memory and more processing yes and all the rest yeah we already do that routinely right so but in any case it's just it's just a contingent fact of the history of the cosmos that Homo sapiens will not explore this one peak that could be explored with the right technology and it is better it's better in every in every rational way we could talk about better and worse than what we've done
+well you'd have to augment you'd have to you'd have to give us more memory and more processing yes and all the rest yeah we already do that routinely right so but in any case it's just it's just a contingent fact of the history of the cosmos that Homo sapiens will not explore this one peak that could be explored with the right technology and it is better it's better in every in every rational way we could talk about better and worse than what we've done
 
 ### David Deutsch
 
@@ -632,13 +632,13 @@ Right but yeah and so this could continually recede so like some peaks are yes w
 
 <span class="transcript-timestamp">01:33:32 - 01:33:52</span>
 
-Based on you know more computational power given to us yes well I actually I think that the real fact is that whenever we make a great discovery it creates more problems so the same is true of morality we get better and then we find that that getting better itself
+Based on you know more computational power given to us yes well I actually I think that the real fact is that whenever we make a great discovery it creates more problems so the same is true of morality we get better and then we find that that getting better itself creates more problems
 
 ### Sam Harris
 
 <span class="transcript-timestamp">01:33:52 - 01:34:01</span>
 
-Creates more problems right but they're not problems they're more refined problems you're trying to figure out whether you should be a vegetarian not whether you can rape all of your ...
+right but they're not problems they're more refined problems you're trying to figure out whether you should be a vegetarian not whether you can rape all of your ...
 
 ### David Deutsch
 
@@ -656,43 +656,43 @@ Right right but that but that those are kind of local wrinkles based on just how
 
 <span class="transcript-timestamp">01:34:21 - 01:34:47</span>
 
-Creating order in our world. I mean, we are still apes yeah all problems are parochial but I think the fact that improvements create new problems is a universal fact and it'll always be true so we will a peak will only look like a peak when we're approaching it when we're at it we'll see lots of problems there right but I but you can imagine how ethereal
+Creating order in our world. I mean, we are still apes yeah all problems are parochial but I think the fact that improvements create new problems is a universal fact and it'll always be true so we will a peak will only look like a peak when we're approaching it when we're at it we'll see lots of problems there
 
 ### Sam Harris
 
 <span class="transcript-timestamp">01:34:48 - 01:35:26</span>
 
-And high-class these problems could become right I mean imagine perspective yeah yeah but even from the perspective of I mean because certainly certainly you've been in some state of high creativity and high pleasure and very low physical complication where if that could just endure for the longest time the kinds of problems you would be noticing are the fun problems of which is more beautiful a or b as opposed to you know I can't get the cockroaches
+right but I but you can imagine how ethereal and high-class these problems could become right I mean imagine perspective yeah yeah but even from the perspective of I mean because certainly certainly you've been in some state of high creativity and high pleasure and very low physical complication where if that could just endure for the longest time the kinds of problems you would be noticing are the fun problems of which is more beautiful a or b as opposed to you know I can't get the cockroaches out of my kitchen and I'm driving me crazy
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:35:26 - 01:35:58</span>
 
-Out of my kitchen and I'm driving me crazy I don't know I mean I think I'm agnostic on that one I how well for example will there always be existential problems I don't know I don't know why there should be a limit on the size of mistake we can make well that's yeah that is a problem yeah um so I think that there always is there always is a way we can ...
+I don't know I mean I think I'm agnostic on that one I how well for example will there always be existential problems I don't know I don't know why there should be a limit on the size of mistake we can make well that's yeah that is a problem yeah um so I think that there always is there always is a way we can ...
 
 ### Sam Harris
 
 <span class="transcript-timestamp">01:35:58 - 01:36:16</span>
 
-Improve but we may not take that way but by your own description we tend to successfully automate the solutions to these problems in a way that doesn't require any more work so that like you don't have to you don't have to reinvent clothing you just buy a new jacket when you need one and ...
+Improve but we may not take that way but by your own description we tend to successfully automate the solutions to these problems in a way that doesn't require any more work so that like you don't have to you don't have to reinvent clothing you just buy a new jacket when you need one and the problem is solved
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:36:16 - 01:37:10</span>
 
-The problem is solved yeah but uh you know in a few billion years time uh we'll have an existential problem that we have to get out of the solar system or because the sun is going to become a red giant right and uh who knows what kinds of moral problems will be raised by presumably not the problem of who gets to leave because by that time we'll have very powerful machinery but you know I don't know maybe by that time there are whole classes of severity that will not be known anymore um but as I said I don't see why that should be I how can there be a limit on the size of mistake we can make um that that would seem to be an engine for producing truth which can't exist uh without creativity so I don't know I don't know um well may that be our biggest
+yeah but uh you know in a few billion years time uh we'll have an existential problem that we have to get out of the solar system or because the sun is going to become a red giant right and uh who knows what kinds of moral problems will be raised by presumably not the problem of who gets to leave because by that time we'll have very powerful machinery but you know I don't know maybe by that time there are whole classes of severity that will not be known anymore um but as I said I don't see why that should be I how can there be a limit on the size of mistake we can make um that that would seem to be an engine for producing truth which can't exist uh without creativity so I don't know I don't know um well may that be our biggest
 
 ### Sam Harris
 
 <span class="transcript-timestamp">01:37:10 - 01:38:51</span>
 
-Problem yeah yeah yeah how to escape a red giant in time yeah it'll take me re-listening to this to see where and to what degree I've lost the thread of our disagreement but I'm not sure I think my summary of our disagreement insofar as I understand it is that you are allergic to the concept of there being a foundation to knowledge moral moral or otherwise and you follow Popper in this line and I basically I think I agree with you insofar as what you tend to mean by foundation except I view this claim about reality exceeding our knowledge which is to say reality exists whether we know about it or not and this includes possible experiences I feel like that's the only foundation I need to get the ball rolling in and then I'm happy to have it roll in a Popperian sense of it being open-ended kind of endlessly open-ended and requiring continuous correction to our theories and the way I've thought about it without really thinking about Popper but I do think about morality as just a navigation problem and just forget about the concept of moral truth or truth at all we are conscious systems that are moving in a space of possible experience and we will continually discover that some are better and some are worse some are more creative some are less so and we're not wrong to be wanting to move away from the ...
+Problem yeah yeah yeah how to escape a red giant in time yeah it'll take me re-listening to this to see where and to what degree I've lost the thread of our disagreement but I'm not sure I think my summary of our disagreement insofar as I understand it is that you are allergic to the concept of there being a foundation to knowledge moral moral or otherwise and you follow Popper in this line and I basically I think I agree with you insofar as what you tend to mean by foundation except I view this claim about reality exceeding our knowledge which is to say reality exists whether we know about it or not and this includes possible experiences I feel like that's the only foundation I need to get the ball rolling in and then I'm happy to have it roll in a Popperian sense of it being open-ended kind of endlessly open-ended and requiring continuous correction to our theories and the way I've thought about it without really thinking about Popper but I do think about morality as just a navigation problem and just forget about the concept of moral truth or truth at all we are conscious systems that are moving in a space of possible experience and we will continually discover that some are better and some are worse some are more creative some are less so and we're not wrong to be wanting to move away from the worst possible misery for everyone
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:38:51 - 01:39:04</span>
 
-Worst possible misery for everyone and up some peak we'll be changing our opinion of what constitutes better and worse and we'll be doing that by the methods of reason right uh not I think
+and up some peak we'll be changing our opinion of what constitutes better and worse and we'll be doing that by the methods of reason right uh not I think
 
 ### Sam Harris
 
@@ -740,19 +740,19 @@ Connections so there are things that we can discover about the brain based on th
 
 <span class="transcript-timestamp">01:47:24 - 01:47:39</span>
 
-That is that is a big accolade no no no but it could it could it might might also be given to Mein Kampf for some other book oh yeah okay the book achieved. It's a highly worthwhile and ...
+That is that is a big accolade no no no but it could it could it might might also be given to Mein Kampf for some other book oh yeah okay the book achieved. It's a highly worthwhile and necessary part
 
 ### Sam Harris
 
 <span class="transcript-timestamp">01:47:39 - 01:48:18</span>
 
-Necessary part I like the book achieved as far as that reminds me I know someone who works in Hollywood who's constantly in the experience of going to movie screenings and coming out of them just hoping not to run into the filmmaker because he hated the film and you know this person is a friend or a colleague and he doesn't know what to say and how to marshal his euphemism so as not to be totally dishonest but also not totally insulting and I was with him at one of these screenings and I knew he absolutely hated this movie and we run right into the filmmaker as we're walking out and he looked he looked earnestly into the eyes of ...
+I like the book achieved as far as that reminds me I know someone who works in Hollywood who's constantly in the experience of going to movie screenings and coming out of them just hoping not to run into the filmmaker because he hated the film and you know this person is a friend or a colleague and he doesn't know what to say and how to marshal his euphemism so as not to be totally dishonest but also not totally insulting and I was with him at one of these screenings and I knew he absolutely hated this movie and we run right into the filmmaker as we're walking out and he looked he looked earnestly into the eyes of the filmmaker and said you must be very proud
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:48:18 - 01:48:28</span>
 
-The filmmaker and said you must be very proud okay that's nothing like what I said well anyway
+okay that's nothing like what I said well anyway
 
 ### Sam Harris
 

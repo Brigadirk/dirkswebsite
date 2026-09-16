@@ -10,6 +10,7 @@ pubDate: 2024-01-26
 <span class="duration-label">Duration:</span> <span class="duration-time">01:14:28</span>
 
 ## Transcript
+
 ### Naval Ravikant
 
 <span class="transcript-timestamp">00:00:00 - 00:00:21</span>
@@ -22,7 +23,7 @@ So let's go through the fabric of reality, the four theories. Feel free to start
 
 Well, I don't know, we can start with computers. As I said in the book, it's hard actually to speak about any one of those things without mentioning the other three. But if we start with computers, I think there's something really fundamental that Turing discovered or rediscovered because I think that Babbage and Lovelace also understood it more or less. That's the universality of computation, that computation is physically universal. So there are several ways of putting this, like a computer can mimic any physical object or a computer can perform the computations that any other computer can perform. Now putting it the second way, it sounds like it's a statement about all kinds of different computers and has nothing to do with trees and garages and windows and so on, but actually it has to do with everything. And therefore people still even today are saying things like how do we know the brain is a computer? You're just assuming the brain is a computer. Like in the 19th century, people thought the brain was a steam engine and I think Searle is one of the people who says that kind of thing or has said that kind of thing. In order to understand Turing's discovery, you've got to understand several things about it. One of which is that it's a theory of physics and that is denied almost wholesale by mathematicians. So mathematicians are used to the theory of computation being a branch of mathematics. They love the theorems that you can prove and the theorems that you can't prove and so on. And it's not that they don't want to admit, it's not quite it. It's that learning to be a mathematician apparently means adopting a certain worldview that makes it very hard to understand that computation is a physical process and is governed by laws of physics, which could be different. Whereas the laws of logic, they think, couldn't be different. And therefore things like whether P equals NP and whether the brain is a computer and so on isn't a matter of physics, but it is. And the best physics we know, which could be wrong, says that computers are universal, that in a certain sense Turing's computers are universal and in a certain sense quantum computers are universal or will be when they're built, if they're built.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:02:51 - 00:03:09</span>
 
@@ -52,7 +53,7 @@ Yeah, it's more of another way of approaching it. So people do credit Popper wit
 
 It's the wrong way of thinking about Christianity, but then when it comes to religions, people then, because of this epistemological error, because of this complete disregard of problems as the origin of the growth of knowledge, the more important the thing they want to say they know, the more they want to justify what they think is the origin of it. So, you have people waging wars and torturing each other to death because of their interpretation of what somebody who may not have existed said thousands of years ago, and probably, even if he did say it, probably didn't mean it in the way they mean today. We know because people do exactly this for people who lived 100 years ago, or indeed people who are alive today. So, it's a farce, but it's also a tragedy, as Karl Marx said. The simple epistemological error leads to unlimited suffering, and it's a common error. So, that, I think, if I had to pick something that most people don't get about epistemology, it's that the growth of knowledge begins with problems.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:09:57 - 00:10:24</span>
 
@@ -64,7 +65,7 @@ Let's linger on that and focus a little bit more on the notion, therefore, of a 
 
 Yes, and not only about phenomena, about anything, about morality and pure mathematics and you name it. So, yes, there can't be any one definition of the concept problem, and Popper doesn't do definitions quite rightly, but I think thinking of a problem as a clash, and it's gotta be a clash of ideas, or interpretations, or theories, or so on, is illuminating. Because if you think of it that way, then you start with the idea that they can't both be true. I mean, that's what the problem consists of, is realizing that they can't both be true. It's important to realize they could both be false, rather than say, you know, we've gotta find the true one. Usually they are both false, but usually there are important errors to correct, and usually there are important errors more in one of the clashing ideas than in the other. Popper also stresses, and this is also quite important, speaking of clashes, that a clash of ideas is very beneficial even if they are never resolved, even if the parties with the ideas never agree. Because when the ideas come into conflict with each other, almost without the people knowing it or wanting it, they get changed. Because even if you come out of an argument saying, oh, I've really showed it to them, right, what you mean is you've thought of a new angle, which you didn't have before going into discussion. You thought of a new angle on your own view, which makes you more sure of it than before. And although, you know, it's not good to be sure of things, but this change, this way of changing the confrontation between ideas as being beneficial because they cause change in the ideas, is also a beneficial side effect of Popper's concept of a problem.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:12:20 - 00:12:45</span>
 
@@ -124,7 +125,7 @@ Or genes encapsulate knowledge as the growth of knowledge and therefore the repl
 
 You can put it that way if you think of knowledge as information that has causal properties, but not everyone does. So you can think, as Dawkins had a very nice way of... So there are theoretical biologists who try to develop numerical measures of fitness so that they can say genes evolved to maximise fitness. And fitness has got something to do with how many of your grandchildren survive and they're a very complicated mathematical thing. And Dawkins said, now I won't be able to say it as well as he did, something like fitness is that quantity which appears to be maximised if what is actually maximised is the survival of genes. So this is a very simple theory at one level. I said the other day that in a sense, Darwin could have written his theory on one page, but it needed a book to explain it and he still hasn't entirely succeeded. And the Neo-Darwinians had to improve on it a little because he didn't have a concept of gene because they hadn't been invented. Or maybe they had with Mendel, but he didn't really know that, even though they were contemporary.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:19:02 - 00:19:48</span>
 
@@ -136,7 +137,7 @@ One part of what I got from The Beginning of Infinity, which I didn't even reali
 
 In both cases, there's a mystery. I think in the case of evolution, that mystery is not as important to the foundations of the theory as the question of what is a person, what is knowledge has to do with artificial general intelligence. But in regard to evolution, it is a fact that despite having enormous amounts of computer power available, we do not know how to make an artificial ecosystem as a simulation on a computer. What always happens is when they try to make such a system is that the functionality of the simulated organisms improves and improves and improves, and then stops improving. And real evolution is nothing like that. Real evolution is going on all the time, changing, making new branches. There are new species evolving all the time, and it's just going faster and faster, and there's no end in sight to it. It's open-ended.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:20:47 - 00:21:13</span>
 
@@ -160,7 +161,7 @@ They don't have their own problems. The problem is imposed from the outside. And
 
 So another example I use to illustrate this, an example from physics, is that Newton's theory of gravity had an arbitrary constant in it, which we now call capital G. I think historically it wasn't G. It was mg in the mass of the Earth times g or something, which was the fundamental constant. It's neither here nor there, but it had a constant which Newton didn't know. And then later Cavendish invented this very clever experiment to determine this constant. Now, I think Newton's discovery was not incomplete by not knowing that constant. His discovery was an explanation. And that explanation is the same before and after Cavendish. Cavendish no doubt used tremendous creativity to design the Cavendish apparatus and to make it measure g with an accuracy that you'd be amazed was possible in those days. He did that. That involved creativity, but that wasn't creativity about gravity. That was creativity about brass balls and whatever he did it with, wires and so on. Incredibly sophisticated. By the way, experimentation in science is hard. I don't know if that comes up anywhere in the four strands, but that's another thing that people just don't realize. They don't realize that mistakes happen all the time. And to do an experiment where you can form a good explanation that you have measured the thing that you're saying you have measured is very difficult. And sometimes beyond our technology or our knowledge at the moment. And so people just do a bad experiment and publish that. So that's another thing that happens that people don't get.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:24:20 - 00:25:03</span>
 
@@ -190,7 +191,7 @@ Now that I think of it, the misconceptions about quantum theory, although in som
 
 Well, maybe I'm wrong to psychologize. I mean, I don't really know why these things have happened.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:31:15 - 00:31:43</span>
 
@@ -316,11 +317,17 @@ So one of the sort of spin-offs in regard to free will is that although we don't
 
 It's just wrong.
 
+### Brett Hall
+
+<span class="transcript-timestamp">00:39:30 - 00:40:25</span>
+
+Some say that it's compassionate to not subscribe free will to people because of exactly what you've said. The murderer is a victim and they cannot help but do what they do. There are those who don't necessarily argue from physics, but from some sort of folk psychology, maybe not folk psychology, but a certain psychological theory.
+
 ### Naval Ravikant
 
 <span class="transcript-timestamp">00:39:30 - 00:40:25</span>
 
-Some say that it's compassionate to not subscribe free will to people because of exactly what you've said. The murderer is a victim and they cannot help but do what they do. There are those who don't necessarily argue from physics, but from some sort of folk psychology, maybe not folk psychology, but a certain psychological theory. Yeah, I think there's, if I understand you correctly, and correct me if I'm wrong, please, I wanna understand this. I think there's two things you're saying here. One is that some theories only emerge at certain levels. They're not visible or available to you at lower levels. Thermodynamics is an example. Watching a single molecule or atom in isolation will not tell you anything about irreversibility or statistical irreversibility, and that can only be seen at a macro level, so at a higher level. And so some theories are equally valid and they're not capable of being reduced any further, but they're equally valid at their own levels.
+Yeah, I think there's, if I understand you correctly, and correct me if I'm wrong, please, I wanna understand this. I think there's two things you're saying here. One is that some theories only emerge at certain levels. They're not visible or available to you at lower levels. Thermodynamics is an example. Watching a single molecule or atom in isolation will not tell you anything about irreversibility or statistical irreversibility, and that can only be seen at a macro level, so at a higher level. And so some theories are equally valid and they're not capable of being reduced any further, but they're equally valid at their own levels.
 
 ### David Deutsch
 
@@ -338,7 +345,19 @@ No matter how much computation power you had?
 
 <span class="transcript-timestamp">00:41:12 - 00:41:26</span>
 
-Well, depends on what you mean by no matter how much. I mean, to find out within the universe, within the limits of the universe. Within the universe, it's hopeless. There may be a mathematical computation that is enormously bigger than the universe.
+Well, depends on what you mean by no matter how much. I mean, to find out
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">00:41:12 - 00:41:26</span>
+
+within the universe, within the limits of the universe.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:41:12 - 00:41:26</span>
+
+Within the universe, it's hopeless. There may be a mathematical computation that is enormously bigger than the universe.
 
 ### Naval Ravikant
 
@@ -352,7 +371,7 @@ So people point to, well, it's all particle collisions, particle collisions expl
 
 Yes, it's the latter, it's the latter that I'm talking about. Because even if you could predict, which you can't...
 
-### Naval Ravikant
+### David Deutsch
 
 <span class="transcript-timestamp">00:41:51 - 00:41:52</span>
 
@@ -430,7 +449,7 @@ So let's talk a little bit about knowledge. What is knowledge in your world view
 
 Yeah, in the course of my philosophical meanderings, I've settled on several different conceptions of knowledge, which I think are, they all refer to the same thing. It's just a different way of characterizing what that thing is, but I think they all come to the same thing. What I've recently found most helpful, thanks to constructor theory, is that knowledge is a form of information which is necessary for a physical transformation. So if a physical transformation will only happen when a certain type of information is there, then I call that information knowledge. And that nicely focuses on the knowledge in genes and the knowledge in ideas. And there's other knowledge, which is stored knowledge, like in computers or books. Knowledge can be created, but so far, the only things we know of that can create it are evolution and human thought. It's very tantalizing that there were once several species on earth that could do this, and they all went extinct, all but us.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:50:14 - 00:50:28</span>
 
@@ -442,11 +461,17 @@ Then interestingly, you take that notion that you've just mentioned about knowle
 
 The wealth of an entity, let's say, of a person or of a country or whatever, or of the world, can be defined as, in constructor theoretic terms, as the set of all the possible transformations that it could bring about, like in brackets, if it wanted to. It's never gonna bring about all those because they're exponentially more or exponentially too many of them.
 
+### David Deutsch
+
+<span class="transcript-timestamp">00:50:51 - 00:51:11</span>
+
+It has to have the right problems.
+
 ### Naval Ravikant
 
 <span class="transcript-timestamp">00:50:51 - 00:51:11</span>
 
-It has to have the right problems. And if it has the right problems, then it can use the knowledge plus the physical assets that it has to cause physical transformations. Then if it had the right problems and the right solutions, then it grows wealth. And if in the process, it has to make more creative leaps to do so, it grows knowledge, which also grows wealth.
+And if it has the right problems, then it can use the knowledge plus the physical assets that it has to cause physical transformations. Then if it had the right problems and the right solutions, then it grows wealth. And if in the process, it has to make more creative leaps to do so, it grows knowledge, which also grows wealth.
 
 ### David Deutsch
 
@@ -466,7 +491,7 @@ Fairly distinct, yeah.
 
 Or don't overlap, yeah.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:52:03 - 00:52:34</span>
 
@@ -478,11 +503,17 @@ You said there, and in fact, that's the third time, Einstein created general rel
 
 It's the same saying that they were only doing that. They were doing that, they were putting together bits of other knowledge and varying them. That's not all they were doing because if you try and do that now, you won't do it. It's the same argument as saying humans are only atoms. Well, yeah, humans are only atoms and trees are only atoms and so on. And what's important about humans is not that they're atoms. One day maybe we'll download our minds into silicon and not carbon, and then maybe people will be saying, oh, we're only silicon.
 
+### Brett Hall
+
+<span class="transcript-timestamp">00:53:16 - 00:54:14</span>
+
+Civilization just looking around cries out for an explanation. If you're going to deny that humans are special, then explain why it is humans and not the bees that are creating the...
+
 ### Naval Ravikant
 
 <span class="transcript-timestamp">00:53:16 - 00:54:14</span>
 
-Civilization just looking around cries out for an explanation. If you're going to deny that humans are special, then explain why it is humans and not the bees that are creating the... Or another way to put it, the combinatorics of discovering relativity just by having some tools is so large, it's instead of monkeys with typewriters and those monkeys with calculators, they're gonna come up with relativity. It's still an impossibility. Yes. We talked wealth, we talked knowledge. Oh, let's talk optimism. The Beginning of Infinity starts out with the principle of optimism or enters into it very early on. This seems to be the fundamental binding principle of that book as The Beginning of Infinity of the growth of knowledge. And so the principle of optimism, error correction, universal explainers, all of these seem to go together. Is the principle of optimism the most important takeaway from all of this? Is it the most important synthesis? Is it the philosophical basis for how we should probably structure our societies and live our lives?
+Or another way to put it, the combinatorics of discovering relativity just by having some tools is so large, it's instead of monkeys with typewriters and those monkeys with calculators, they're gonna come up with relativity. It's still an impossibility. Yes. We talked wealth, we talked knowledge. Oh, let's talk optimism. The Beginning of Infinity starts out with the principle of optimism or enters into it very early on. This seems to be the fundamental binding principle of that book as The Beginning of Infinity of the growth of knowledge. And so the principle of optimism, error correction, universal explainers, all of these seem to go together. Is the principle of optimism the most important takeaway from all of this? Is it the most important synthesis? Is it the philosophical basis for how we should probably structure our societies and live our lives?
 
 ### David Deutsch
 
@@ -562,7 +593,7 @@ So besides this sort of holistic or unifying approach that it seems to be taking
 
 Well, yes, Chiara Marletto has a version of thermodynamics, which is constructor theoretic and which explains what it means for, say, the second law to hold at a microscopic level. We said earlier that looking at an atom, you can't tell whether it's reversible or irreversible. So what we can do in constructor theory, she wrote a paper about this, is you can go back to a version of thermodynamics invented like 100 years ago called Carathéodory, which depends on the distinction between an adiabatic process and non-adiabatic process. And this, he didn't try to express it in terms of physical objects. He just said by fiat, some processes are adiabatic, some not, and the adiabatic ones have these properties and the ones not have those properties. From that, you can define the difference between work and heat, you can define the second law, the first law. By the way, one of the nice things about Chiara's theory is that it expresses the first law in terms of information, whereas ordinary statistical thermodynamics only manages to express the second law in terms of information. But Chiara's theory does the first law as well. Still don't know what to make of the third law. We're not really clear in our own minds about what it means for a transformation to be impossible.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">01:08:01 - 01:08:58</span>
 
@@ -574,11 +605,17 @@ Whenever I hear the word can or can't now, I'm automatically put in the mind of 
 
 Yeah, well, of course, I think thinking of progress is inevitable, it's very dangerous. It causes people to ignore dangers. What will happen is up to us. It's not up to the law of physics or God or something. We can screw up, we can destroy ourselves if we make the wrong choices. As I said earlier, there's no one here but us humans. We could do it all wrong. In the past, we've often done it all wrong. So it's not as though this optimism didn't stop the fall of Athens or the fall of Florence and so on. And nothing like that is gonna stop the fall of our civilization, we've got to do it.
 
+### Brett Hall
+
+<span class="transcript-timestamp">01:09:37 - 01:10:28</span>
+
+Yeah, it seems like this, there's almost a sense in which techno-optimism and inevitability of progress has pessimism built in because it says that we're just along for the ride, we don't have a choice to make. And so whatever the great machine is, the intelligent machine, the superintelligence that is dragging us towards some better place, well, people are by the by. But I think it also misunderstands the universality of people.
+
 ### Naval Ravikant
 
 <span class="transcript-timestamp">01:09:37 - 01:10:28</span>
 
-Yeah, it seems like this, there's almost a sense in which techno-optimism and inevitability of progress has pessimism built in because it says that we're just along for the ride, we don't have a choice to make. And so whatever the great machine is, the intelligent machine, the superintelligence that is dragging us towards some better place, well, people are by the by. But I think it also misunderstands the universality of people. So this is very related to my two questions, which are just bringing it back to the individual and somewhat philosophical. And you can even make it personal or not. But if you're an individual in the world today, and if you wanna make a difference to make a better world, how should these principles and these four strands of fabric of reality inform your thinking? What should you be doing to make a better world? And then what should you be doing for yourself to live a better life?
+So this is very related to my two questions, which are just bringing it back to the individual and somewhat philosophical. And you can even make it personal or not. But if you're an individual in the world today, and if you wanna make a difference to make a better world, how should these principles and these four strands of fabric of reality inform your thinking? What should you be doing to make a better world? And then what should you be doing for yourself to live a better life?
 
 ### David Deutsch
 

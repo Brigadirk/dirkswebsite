@@ -39,67 +39,67 @@ David is a fellow of the Royal Society, winner of the Dirac Prize in 1998 for qu
 
 <span class="transcript-timestamp">00:12:23 - 00:13:21</span>
 
-The first time this seems to crop up actually is in chapter one, the Reach of Explanations. And there we get the concept of good explanations, good explanations being actual explanations that account for what is out there in the world and how it works that are hard to vary. These hard to vary explanations. Now I'm convinced and most people who hear about it become convinced over time, but I think there's a lot of people who think, well, science, isn't it just about testable theories? Why isn't testable theories enough? So there was a lot about explanations even in my first book. And some careful readers pointed out that I'd never actually explained what an explanation is in fabric of reality. In fact, I seem to have taken a bit of a cop-out path by just saying about explanations that there isn't any closed list of attributes that an explanation must have.
+The first time this seems to crop up actually is in chapter one, the Reach of Explanations. And there we get the concept of good explanations, good explanations being actual explanations that account for what is out there in the world and how it works that are hard to vary. These hard to vary explanations. Now I'm convinced and most people who hear about it become convinced over time, but I think there's a lot of people who think, well, science, isn't it just about testable theories? Why isn't testable theories enough?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:13:22 - 00:14:14</span>
 
-That's because it seemed to me that, and I think it does seem to many people that the difference between an explanation and a prediction is obvious. But to most people, it was quite opaque. So I thought about it and this is indeed one of the few things that I will acknowledge is kind of a bit of an innovation in The Beginning of Infinity. I thought about what exactly makes the difference. And I thought of some examples such as the explanation of the seasons as opposed to predicting them. And then I think that the example that I like best, although again, not everyone does, is the example of the conjurer. Yes.
+So there was a lot about explanations even in my first book. And some careful readers pointed out that I'd never actually explained what an explanation is in fabric of reality. In fact, I seem to have taken a bit of a cop-out path by just saying about explanations that there isn't any closed list of attributes that an explanation must have. That's because it seemed to me that, and I think it does seem to many people that the difference between an explanation and a prediction is obvious. But to most people, it was quite opaque. So I thought about it and this is indeed one of the few things that I will acknowledge is kind of a bit of an innovation in The Beginning of Infinity. I thought about what exactly makes the difference. And I thought of some examples such as the explanation of the seasons as opposed to predicting them. And then I think that the example that I like best, although again, not everyone does, is the example of the conjurer. Yes. Where you go in and you go in to see this conjuring performance and you see some cups and balls and the conjurer puts the ball under the cup. And after a while, you begin to predict that the cup where he puts the ball under is not going to be the one where it ends up.
 
 ### Brett Hall
 
 <span class="transcript-timestamp">00:14:15 - 00:14:38</span>
 
-Where you go in and you go in to see this conjuring performance and you see some cups and balls and the conjurer puts the ball under the cup. And after a while, you begin to predict that the cup where he puts the ball under is not going to be the one where it ends up. But that doesn't mean you can explain what's going on in the trick.
+But that doesn't mean you can explain what's going on in the trick.
 
 ### David Deutsch
 
-<span class="transcript-timestamp">00:14:38 - 00:14:45</span>
+<span class="transcript-timestamp">00:14:38 - 00:15:08</span>
 
-Yeah, exactly. So you can predict quite confidently that the ball isn't there and there you are.
-
-### Brett Hall
-
-<span class="transcript-timestamp">00:14:45 - 00:15:08</span>
-
-It's vindicated. But that's not what you mean by how is the trick done. What you mean is what has happened to bring about the thing you saw. So you're not asking for an account of the thing you saw, even a perfect prediction of the thing you saw. You're asking about the thing you didn't see.
-
-### David Deutsch
-
-<span class="transcript-timestamp">00:15:08 - 00:15:23</span>
-
-Yes. And this comes up so often throughout the book really. And I think it's a subtle point easily missed. And of course, the other example that you use and that you often go to is this idea of dinosaurs.
+Yeah, exactly. So you can predict quite confidently that the ball isn't there and there you are. It's vindicated. But that's not what you mean by how is the trick done. What you mean is what has happened to bring about the thing you saw. So you're not asking for an account of the thing you saw, even a perfect prediction of the thing you saw. You're asking about the thing you didn't see.
 
 ### Brett Hall
 
-<span class="transcript-timestamp">00:15:23 - 00:15:42</span>
+<span class="transcript-timestamp">00:15:08 - 00:15:42</span>
 
-The one thing that you actually can't observe is indeed the one thing that you're invoking as actually existing and causing the phenomena that you do observe. And in all these cases, that unobserved thing is the thing that you're really interested in. It's the only reason you're interested in any kind of prediction at all.
+Yes. And this comes up so often throughout the book really. And I think it's a subtle point easily missed. And of course, the other example that you use and that you often go to is this idea of dinosaurs. The one thing that you actually can't observe is indeed the one thing that you're invoking as actually existing and causing the phenomena that you do observe.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:15:42 - 00:16:02</span>
 
-Yes. And now this concept of then hard to vary where all the parts of the explanation have some functional role. And this is really what makes the explanation a good explanation as opposed to any arbitrary account that could be easily varied, mythological accounts and so on, magical accounts.
+Quite so. And in all these cases, that unobserved thing is the thing that you're really interested in. It's the only reason you're interested in any kind of prediction at all.
 
 ### Brett Hall
 
-<span class="transcript-timestamp">00:16:02 - 00:17:09</span>
+<span class="transcript-timestamp">00:16:02 - 00:16:20</span>
 
-Did that come to you? Did you have that in mind during The Fabric of Reality writing it then? Or did it only come later in light of people saying, you know, can you sharpen up what you mean by explanation? It's the latter. Like I said, while I was writing The Fabric of Reality, I kind of thought that these were, rather foolishly, I thought that these were words that had an uncontroversial meaning. And it didn't occur to me that most people would not have this meaning in mind. Although many people did. So in that sense, it wasn't something I invented. It was something that I realized needs to be elaborated, to be written down more clearly. And then I started to think about, well, things that are explanations and things that aren't explanations and like the ancient myths and so on. And then I thought with the conjurer, there are circumstances where the conjurer did it, is the explanation that the person wants.
+Yes. And now this concept of then hard to vary where all the parts of the explanation have some functional role. And this is really what makes the explanation a good explanation as opposed to any arbitrary account that could be easily varied, mythological accounts and so on, magical accounts. Did that come to you? Did you have that in mind during The Fabric of Reality writing it then? Or did it only come later in light of people saying, you know, can you sharpen up what you mean by explanation?
 
 ### David Deutsch
 
-<span class="transcript-timestamp">00:17:11 - 00:17:40</span>
+<span class="transcript-timestamp">00:16:20 - 00:17:40</span>
 
-You can imagine a person who believes in magic and is sort of slowly coming out of that state of mind, like James Randi's family, when his story, when he was a teenager and when he first exposed a fake psychic and was horrified to find that most of the people in the audience didn't want to know the truth. Right, yeah. That happened more than once.
+It's the latter. Like I said, while I was writing The Fabric of Reality, I kind of thought that these were, rather foolishly, I thought that these were words that had an uncontroversial meaning. And it didn't occur to me that most people would not have this meaning in mind. Although many people did. So in that sense, it wasn't something I invented. It was something that I realized needs to be elaborated, to be written down more clearly. And then I started to think about, well, things that are explanations and things that aren't explanations and like the ancient myths and so on. And then I thought with the conjurer, there are circumstances where the conjurer did it, is the explanation that the person wants. You can imagine a person who believes in magic and is sort of slowly coming out of that state of mind, like James Randi's family, when his story, when he was a teenager and when he first exposed a fake psychic and was horrified to find that most of the people in the audience didn't want to know the truth. Right, yeah. That happened more than once.
 
 ### Brett Hall
 
-<span class="transcript-timestamp">00:17:40 - 00:19:16</span>
+<span class="transcript-timestamp">00:17:40 - 00:18:40</span>
 
-There was a famous, I don't know if you know the famous story that he was on Australian television. He did the same to the spoon bender, Yuri Geller, on one of our daytime lunchtime talkback television shows. And the audience was very upset with him and indeed the host was as well and stormed off the set and did the same thing to Randi. Wow, right. So there you have it. That anger would happen, I suppose, whether or not he revealed how he did it. It was the fact that he was revealing that he did do it that was the thing that angered them. And that was the relevant explanation in context. So that's why I have to say it's an explanation is hard to vary. While still solving the problem that it purports to solve. Which might be different for different people as well in the same situation. So you mentioned that piece of prosaic terminology explanation that we all use, but I think that you've put a spin on it that is quite helpful. But turning to another word, a word that you in fact don't use, and it brings me to chapter two. Don't worry, I'm not going to go through every single chapter chronologically, but there are just a few of them. But chapter two is titled closer to reality. But Karl Popper had this term verisimilitude, which means something like closer to truth. And it seems to me you've deliberately avoided that word. But why? Is it because it contains a misconception, it's misleading, or it's a needless neologism? What would be the reason to avoid such a word?
+There was a famous, I don't know if you know the famous story that he was on Australian television. He did the same to the spoon bender, Yuri Geller, on one of our daytime lunchtime talkback television shows. And the audience was very upset with him and indeed the host was as well and stormed off the set and did the same thing to Randi. Wow, right.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:18:40 - 00:19:00</span>
+
+So there you have it. That anger would happen, I suppose, whether or not he revealed how he did it. It was the fact that he was revealing that he did do it that was the thing that angered them. And that was the relevant explanation in context. So that's why I have to say it's an explanation is hard to vary. While still solving the problem that it purports to solve. Which might be different for different people as well in the same situation.
+
+### Brett Hall
+
+<span class="transcript-timestamp">00:19:00 - 00:19:16</span>
+
+So you mentioned that piece of prosaic terminology explanation that we all use, but I think that you've put a spin on it that is quite helpful. But turning to another word, a word that you in fact don't use, and it brings me to chapter two. Don't worry, I'm not going to go through every single chapter chronologically, but there are just a few of them. But chapter two is titled closer to reality. But Karl Popper had this term verisimilitude, which means something like closer to truth. And it seems to me you've deliberately avoided that word. But why? Is it because it contains a misconception, it's misleading, or it's a needless neologism? What would be the reason to avoid such a word?
 
 ### David Deutsch
 
@@ -141,21 +141,27 @@ That would bring me to my next question. Describing people, for example, as chem
 
 <span class="transcript-timestamp">00:24:29 - 00:25:49</span>
 
-I think the description of humans as a chemical scum on Earth is not accurate in the problem situation in which Hawking used that term. We are certainly made of chemicals, but so is the rest of the Earth. And so is all other matter in the universe. So to single us out as a scum, if you're going to take these terms in the context of trying to describe something purely in terms, in reductionist terms of their constituents, then it is simply false to add a pejorative term. That pejorative term comes from a different problem situation and a different vocabulary is needed. It would be enough to say we are chemicals like everything else in the universe. And then you see that it would be silly to call the Earth a chemical scum or the Sun or the solar system or the Milky Way galaxy as a chemical scum, though in the sense in which we are, it is too. So we are a special, a very special kind of chemical.
+I think the description of humans as a chemical scum on Earth is not accurate in the problem situation in which Hawking used that term. We are certainly made of chemicals, but so is the rest of the Earth. And so is all other matter in the universe. So to single us out as a scum, if you're going to take these terms in the context of trying to describe something purely in terms, in reductionist terms of their constituents, then it is simply false to add a pejorative term. That pejorative term comes from a different problem situation and a different vocabulary is needed. It would be enough to say we are chemicals like everything else in the universe. And then you see that it would be silly to call the Earth a chemical scum or the Sun or the solar system or the Milky Way galaxy as a chemical scum, though in the sense in which we are, it is too.
 
 ### Brett Hall
 
 <span class="transcript-timestamp">00:25:49 - 00:26:12</span>
 
-But then would that entail that the Earth is special by virtue of the fact that it is uniquely suited to ensuring that this set of chemicals called us is able to survive off into some future that we are only sustained by the existence of this planet and will only continue to be sustained by this planet.
+So we are a special, a very special kind of chemical. But then would that entail that the Earth is special by virtue of the fact that it is uniquely suited to ensuring that this set of chemicals called us is able to survive off into some future that we are only sustained by the existence of this planet and will only continue to be sustained by this planet.
+
+### Brett Hall
+
+<span class="transcript-timestamp">00:26:12 - 00:26:24</span>
+
+So therefore we better look after the environment or else we're going to go extinct.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:26:12 - 00:26:24</span>
 
-So therefore we better look after the environment or else we're going to go extinct. Yeah. So you're putting that in a deliberately exaggerated way that makes it much more wrong.
+Yeah. So you're putting that in a deliberately exaggerated way that makes it much more wrong.
 
-### Brett Hall
+### David Deutsch
 
 <span class="transcript-timestamp">00:26:25 - 00:27:55</span>
 
@@ -165,7 +171,13 @@ You could have said that with one-tenth the emphasis and it would still be wrong
 
 <span class="transcript-timestamp">00:27:55 - 00:29:45</span>
 
-There are very, very few places on Earth that humans can live comfortably without technology, that is without ideas provided by them and not provided by the Earth. So I don't know, maybe some South Sea islands with suitable coconuts or whatever they have there. And even that would be a trap because we are so constituted that if we did live in such an environment for some generations, our numbers would increase to the point where we were living in misery again. So the Earth is, living on Earth, what has been provided is really just the bare necessities for us to live somewhere, originally the great Rift Valley or something, and the rest has to be provided by us. Yes, so the Earth is not adapted to life, but life can adapt itself to the Earth. But the only thing that is going to survive in the long run in terms of regular life, not intelligent life like ourselves, are the genes. The genes are going to want to try and make themselves survive. And the animals won't care, or the other species don't have this concept of caring into the infinite future about their own survival. However, we do. So we want to adapt ourselves to the Earth in some way, or if not the Earth in something far larger, we want to adapt ourselves to the universe in which we find ourselves. And the one thing that enables us to do that is of course solving our problems continually to create the knowledge in order to enable us to do so.
+There are very, very few places on Earth that humans can live comfortably without technology, that is without ideas provided by them and not provided by the Earth. So I don't know, maybe some South Sea islands with suitable coconuts or whatever they have there. And even that would be a trap because we are so constituted that if we did live in such an environment for some generations, our numbers would increase to the point where we were living in misery again. So the Earth is, living on Earth, what has been provided is really just the bare necessities for us to live somewhere, originally the great Rift Valley or something, and the rest has to be provided by us. Yes, so the Earth is not adapted to life.
+
+### Brett Hall
+
+<span class="transcript-timestamp">00:27:55 - 00:29:45</span>
+
+but life can adapt itself to the Earth. But the only thing that is going to survive in the long run in terms of regular life, not intelligent life like ourselves, are the genes. The genes are going to want to try and make themselves survive. And the animals won't care, or the other species don't have this concept of caring into the infinite future about their own survival. However, we do. So we want to adapt ourselves to the Earth in some way, or if not the Earth in something far larger, we want to adapt ourselves to the universe in which we find ourselves. And the one thing that enables us to do that is of course solving our problems continually to create the knowledge in order to enable us to do so.
 
 ### Brett Hall
 
@@ -173,7 +185,7 @@ There are very, very few places on Earth that humans can live comfortably withou
 
 And you have the great dichotomy of saying, problems are inevitable, but problems are soluble. And here I have heard over the years people push back against this, especially the second part that problems are soluble.
 
-### David Deutsch
+### Brett Hall
 
 <span class="transcript-timestamp">00:30:00 - 00:30:17</span>
 
@@ -255,27 +267,39 @@ We were just talking about how the nature of physical laws and whether or not, a
 
 <span class="transcript-timestamp">00:45:02 - 00:47:25</span>
 
-Yes. Of course, if somebody insists on the non-existence of explanations, like exactly like insistence on the non-existence of anything, you can't be proved wrong. But I think the motivation for denying the existence of laws is the old mistake of empiricism. It is the assumption that raw facts or raw sensory impressions have a privileged status in that we can access them directly. And people contrast this with things like laws and explanations in general, which they say we can't access directly. So they have some kind of a lesser reality and we can in principle not insist on their being real. One can insist on their not being real and it doesn't make any difference. The trouble with that is that exactly the same is true of sense impressions as well. And so this argument that abstractions don't really exist or that laws don't really exist and so on are hidden in there is the assumption that sense impressions or that kind of thing do really exist in some sense of really, which is itself a mistake that all knowledge is conjectural, all observations are theory laden. There is nothing that is an authoritative source of knowledge. Everything is conjecture. And so once you've realized that everything is conjecture, but that knowledge can still exist, then the reason for making a distinction between different kinds of existence, well, no, there is a distinction between different kinds of existence, but the justification, the motivation for denying that certain things exist, even if we need them in our explanations, goes away. And this, once one becomes at least somewhat familiar with the worldview that you've presented in your books and with Popper's worldview, it's very difficult to try and reimagine what people mean by directly observe.
+Yes. Of course, if somebody insists on the non-existence of explanations, like exactly like insistence on the non-existence of anything, you can't be proved wrong. But I think the motivation for denying the existence of laws is the old mistake of empiricism. It is the assumption that raw facts or raw sensory impressions have a privileged status in that we can access them directly. And people contrast this with things like laws and explanations in general, which they say we can't access directly. So they have some kind of a lesser reality and we can in principle not insist on their being real. One can insist on their not being real and it doesn't make any difference. The trouble with that is that exactly the same is true of sense impressions as well. And so this argument that abstractions don't really exist or that laws don't really exist and so on are hidden in there is the assumption that sense impressions or that kind of thing do really exist in some sense of really, which is itself a mistake that all knowledge is conjectural, all observations are theory laden. There is nothing that is an authoritative source of knowledge. Everything is conjecture. And so once you've realized that everything is conjecture, but that knowledge can still exist, then the reason for making a distinction between different kinds of existence, well, no, there is a distinction between different kinds of existence, but the justification, the motivation for denying that certain things exist, even if we need them in our explanations, goes away.
 
 ### Brett Hall
 
 <span class="transcript-timestamp">00:47:25 - 00:50:05</span>
 
-I struggle now to try and conceive of what one really means when they say, well, there are certain things you can just observe, you can just see, but on explaining to them, well, let's think about what that whole process of seeing actually consists of photons being absorbed and then re-emitted back towards the eye and then being converted into electrical signals, which then go into your brain. This whole concept of direct observation actually itself vanishes into a cloud of explanation, not so much a cloud, but a kind of way of understanding the world that denies the possibility of direct observation. I don't even know what someone really intends by this terminology, this way of denying the reality of things, which we don't have direct access to. When we don't have direct access to anything, even I would tentatively argue that even the contents of our own minds. I agree. In a way, the contents of our own minds are quite a highly sophisticated kind of knowledge that we only know through an extensive chain of interpretations, some of which are notoriously unreliable. Even in everyday language, we know what we mean when we say you're just fooling yourself or the content of those ideas is incompatible with empiricism, with the idea that knowledge, reliable knowledge comes from the senses. I think people regard that as just one of those things. It's one of the mysteries of nature. It's the problem of induction or something like that. You say it's hard to imagine what people mean when they talk about direct observation. It's interesting that that concept of direct observation also had to be invented at one time. In fact, it was quite a liberation when it was first invented, like in various stages. Empiricism in the John Locke sense is relatively recent, but the idea that we can gain knowledge by looking at the world, which is false, was these concepts of knowledge and looking and reliable and that kind of thing, they're not built into our genes. Somebody invented those concepts and at the time when they invented them, they were an improvement on something that was more vague and more false than that.
+And this, once one becomes at least somewhat familiar with the worldview that you've presented in your books and with Popper's worldview, it's very difficult to try and reimagine what people mean by directly observe. I struggle now to try and conceive of what one really means when they say, well, there are certain things you can just observe, you can just see, but on explaining to them, well, let's think about what that whole process of seeing actually consists of photons being absorbed and then re-emitted back towards the eye and then being converted into electrical signals, which then go into your brain. This whole concept of direct observation actually itself vanishes into a cloud of explanation, not so much a cloud, but a kind of way of understanding the world that denies the possibility of direct observation. I don't even know what someone really intends by this terminology, this way of denying the reality of things, which we don't have direct access to. When we don't have direct access to anything, even I would tentatively argue that even the contents of our own minds.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:47:25 - 00:50:05</span>
+
+I agree. In a way, the contents of our own minds are quite a highly sophisticated kind of knowledge that we only know through an extensive chain of interpretations, some of which are notoriously unreliable. Even in everyday language, we know what we mean when we say you're just fooling yourself or the content of those ideas is incompatible with empiricism, with the idea that knowledge, reliable knowledge comes from the senses. I think people regard that as just one of those things. It's one of the mysteries of nature. It's the problem of induction or something like that. You say it's hard to imagine what people mean when they talk about direct observation. It's interesting that that concept of direct observation also had to be invented at one time. In fact, it was quite a liberation when it was first invented, like in various stages. Empiricism in the John Locke sense is relatively recent, but the idea that we can gain knowledge by looking at the world, which is false, was these concepts of knowledge and looking and reliable and that kind of thing, they're not built into our genes. Somebody invented those concepts and at the time when they invented them, they were an improvement on something that was more vague and more false than that.
+
+### Brett Hall
+
+<span class="transcript-timestamp">00:50:05 - 00:50:20</span>
+
+Trust the authority or something similar. For example,
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:50:05 - 00:50:20</span>
 
-Trust the authority or something similar. For example, yes, but there was a time when you didn't even have to say trust the authorities. Trusting the authorities was just the way that the world was and nobody bothered to put that into words.
+yes, but there was a time when you didn't even have to say trust the authorities. Trusting the authorities was just the way that the world was and nobody bothered to put that into words.
 
-### Brett Hall
+### David Deutsch
 
 <span class="transcript-timestamp">00:50:20 - 00:50:30</span>
 
 That reminds me of the divine right of kings, which is a concept that was invented only after the authority of kings was questioned.
 
-### David Deutsch
+### Brett Hall
 
 <span class="transcript-timestamp">00:50:30 - 00:50:47</span>
 
@@ -293,7 +317,7 @@ How do you understand the nature of mind? I sometimes think of it as this abstra
 
 Yes. It's an unusual kind of knowledge. We have yet another classification. A mind is a kind of knowledge, you might say, but it's a kind of knowledge that doesn't only have to be instantiated, but as you have just said, it has to be running. Now, what does that mean? Running how fast? Running in what? Because running in the wrong kind of computer would make it gibberish, or in a kind of computer that has the wrong mapping to reality. We don't know how it works. We don't know how the mind is characterized by creativity. I think we can go that far. At least the human mind is characterized by creativity, but we don't know what creativity is. We don't know what the distinction is between a computer program that is running creatively and one that is not running creatively. One day we will know, but we don't know yet. I think also there are, and again, minds, that minds exist is common sense, even though we don't know how they work or what specifically they are. So more recent ideas that maybe minds don't exist, that had to be invented too. It is not at all common sense, and it doesn't at all follow from any good philosophy, but we don't know. One of the things I think that is a misconception that dates from a very long time ago is that a mind is mostly consistent, that it consists of the ideas in the mind are mostly consistent, and when they're inconsistent, that's a kind of emergency, and we have to fix that because that means that it's not a proper mind really. It contains inconsistencies, and therefore that's no different from a load of propositions written down on a piece of paper.
 
-### Brett Hall
+### David Deutsch
 
 <span class="transcript-timestamp">00:53:35 - 00:55:02</span>
 
@@ -453,13 +477,13 @@ No, I don't know what it is.
 
 <span class="transcript-timestamp">01:16:56 - 01:17:08</span>
 
-Okay. So this is the American military, specifically, I think the Navy, who've released these videos of what they say are unidentified objects of some kind.
+Okay. So this is the American military, specifically, I think the Navy, who've released these videos of what they say are unidentified objects of some kind. And I know this is ridiculous. They say things like they're violating laws of physics, or at least they are evidence of technology, which is not explicable given the current state of technology. You haven't heard about these things, seen anything about these things, nor have any opinion on these things?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:17:08 - 01:19:02</span>
 
-And I know this is ridiculous. They say things like they're violating laws of physics, or at least they are evidence of technology, which is not explicable given the current state of technology. You haven't heard about these things, seen anything about these things, nor have any opinion on these things? Now that you mention it, I've seen things on Twitter, which are now explicable in the light of is it the American military or something having said something about UFOs? I see. Okay, well, the opportunities for error are enormous. And to perform a scientific experiment, that is a crucial test of sophisticated scientific theories, is very, very difficult and universally, almost universally underestimated. It's sort of taken for granted that Einstein did a very difficult thing, but it's not so much understood that Stern and Gerlach, who did experiments on quantum superpositions of particles in different positions, they did an amazing thing as well. Yes. Good experiments are rare, and they require usually a great deal of skill and creativity. And it's not the kind of thing that military pilots or policemen are typically cognizant of. Yes. So I think when people like that report a thing that, quote, violates the laws of physics, I would consider it unreasonable to go for any explanation of that other than human error.
+Now that you mention it, I've seen things on Twitter, which are now explicable in the light of is it the American military or something having said something about UFOs? I see. Okay, well, the opportunities for error are enormous. And to perform a scientific experiment, that is a crucial test of sophisticated scientific theories, is very, very difficult and universally, almost universally underestimated. It's sort of taken for granted that Einstein did a very difficult thing, but it's not so much understood that Stern and Gerlach, who did experiments on quantum superpositions of particles in different positions, they did an amazing thing as well. Yes. Good experiments are rare, and they require usually a great deal of skill and creativity. And it's not the kind of thing that military pilots or policemen are typically cognizant of. Yes. So I think when people like that report a thing that, quote, violates the laws of physics, I would consider it unreasonable to go for any explanation of that other than human error.
 
 ### Brett Hall
 
@@ -467,7 +491,7 @@ And I know this is ridiculous. They say things like they're violating laws of ph
 
 Yes, yes. And of course, when you do look at the footage, there is no apparent violation of laws of physics, even if you grant that this thing is moving at a high velocity beyond anything that we might be capable of. That's still sub-light speed, so it hasn't violated relativity on the one hand.
 
-### David Deutsch
+### Brett Hall
 
 <span class="transcript-timestamp">01:19:19 - 01:19:30</span>
 
@@ -479,23 +503,35 @@ And by the way, even if you don't have an answer for what's going on there, well
 
 My last question is from my father, and I'll just ask you this before I go.
 
-### David Deutsch
+### Brett Hall
 
 <span class="transcript-timestamp">01:19:35 - 01:20:14</span>
 
-It's about dark energy. And we know the universe is accelerating in its expansion. It's behaving as if there is negative pressure on the outside of the observable universe. Isn't this evidence that the observable universe is actually inside of a much larger region itself of lower density, but magnificently greater size, perhaps infinite in size, and perhaps it's actually got zero density, perhaps this void beyond our universe, is the thing into which the universe is necessarily expanding because we've got positive pressure inside of our universe and outside of our universe that's negative pressure.
+It's about dark energy. And we know the universe is accelerating in its expansion. It's behaving as if there is negative pressure on the outside of the observable universe. Isn't this evidence that the observable universe is actually inside of a much larger region itself of lower density, but magnificently greater size, perhaps infinite in size, and perhaps it's actually got zero density, perhaps this void beyond our universe, is the thing into which the universe is necessarily expanding because we've got positive pressure inside of our universe and outside of our universe that's negative pressure. Could this be a solution?
 
-### Brett Hall
+### David Deutsch
 
 <span class="transcript-timestamp">01:20:14 - 01:21:59</span>
 
-Could this be a solution? So first of all, dark energy is just the name given to this anomalous expansion, which we haven't explained. So I think the reason that dark energy was chosen as a name is because of dark matter, where all the reasonable theories of it so far have postulated that it's a kind of matter and it's dark because it doesn't interact with photons and so on. With dark energy, we don't have such a thing. We don't know that there is a source of pressure or that these observations are caused by something pushing on the universe and so on. But with the prevailing theories of what dark energy does, never mind what it is, but what it does, the universe is not expanding into anything. The length scales in the universe are increasing intrinsically. And this is the same as was the case with the prevailing theories before dark energy. The universe initially had, well, at any rate, very near to the Big Bang. It was very small. There was a time when it was only the size of an atom. There was a time when it was only the size of a neutron and so on. And at that time, and now it's much bigger, the difference between then and now is not that it has expanded to fill a void. It has just expanded intrinsically. Some of the present theories say that it is in fact infinitely large and that it is infinitely large and homogeneous so that the total amount of matter in it is infinite.
+So first of all, dark energy is just the name given to this anomalous expansion, which we haven't explained. So I think the reason that dark energy was chosen as a name is because of dark matter, where all the reasonable theories of it so far have postulated that it's a kind of matter and it's dark because it doesn't interact with photons and so on. With dark energy, we don't have such a thing. We don't know that there is a source of pressure or that these observations are caused by something pushing on the universe and so on. But with the prevailing theories of what dark energy does, never mind what it is, but what it does, the universe is not expanding into anything. The length scales in the universe are increasing intrinsically. And this is the same as was the case with the prevailing theories before dark energy. The universe initially had, well, at any rate, very near to the Big Bang. It was very small. There was a time when it was only the size of an atom. There was a time when it was only the size of a neutron and so on. And at that time, and now it's much bigger, the difference between then and now is not that it has expanded to fill a void. It has just expanded intrinsically. Some of the present theories say that it is in fact infinitely large and that it is infinitely large and homogeneous so that the total amount of matter in it is infinite.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:21:59 - 01:23:25</span>
 
-I don't think that there are any theories. I mean, one could easily write down a theory in which the universe was inhomogeneous and we are in the only place in it that has matter. But that wouldn't help in any way with any of the existing theories. And more generally, by the way, theories of inhomogeneity in the universe, as far as I know, I'm not an expert on this, but I think they've only been invoked by people who want to say that there is no dark energy, that it's just a coincidence caused by inhomogeneities. Excellent. Okay. I think that absolutely answered the question. I think that will do for now, but I hope not for the last time. I'm making my way through The Fabric of Reality after all now at the moment. So perhaps at the end of that, we can speak again, if not sooner. So thank you very much for writing the books. I think there've been, well, the explanations that transform the world. I think they've been life-transforming for many people. So it's been wonderful to talk to you. Very gratifying today to have this conversation. So have a wonderful remainder of the day yourself. Same to you. It's always fun chatting.
+I don't think that there are any theories. I mean, one could easily write down a theory in which the universe was inhomogeneous and we are in the only place in it that has matter. But that wouldn't help in any way with any of the existing theories. And more generally, by the way, theories of inhomogeneity in the universe, as far as I know, I'm not an expert on this, but I think they've only been invoked by people who want to say that there is no dark energy, that it's just a coincidence caused by inhomogeneities. Excellent.
+
+### Brett Hall
+
+<span class="transcript-timestamp">01:21:59 - 01:23:25</span>
+
+Okay. I think that absolutely answered the question. I think that will do for now, but I hope not for the last time. I'm making my way through The Fabric of Reality after all now at the moment. So perhaps at the end of that, we can speak again, if not sooner. So thank you very much for writing the books. I think there've been, well, the explanations that transform the world. I think they've been life-transforming for many people. So it's been wonderful to talk to you. Very gratifying today to have this conversation. So have a wonderful remainder of the day yourself.
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:21:59 - 01:23:25</span>
+
+Same to you. It's always fun chatting.
 
 ### Brett Hall
 

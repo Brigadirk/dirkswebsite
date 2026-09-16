@@ -25,13 +25,13 @@ Hi, nice to be here.
 
 <span class="transcript-timestamp">00:01:16 - 00:01:34</span>
 
-Why don't we start with The Fabric of Reality? That's a few years back. But tell us what you tried to do with that book and what your thoughts are about it today. The reason I wrote the book is that I had thought that ...
+Why don't we start with The Fabric of Reality? That's a few years back. But tell us what you tried to do with that book and what your thoughts are about it today.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:01:34 - 00:02:40</span>
 
-Several things, several strands of knowledge that were in themselves considered to be deep, some of the deepest things we know, like the theory of knowledge itself and the theory of evolution, the theory of computation, quantum physics, those four things were actually intimately related to each other. So that you couldn't properly understand any of them without the others. And this was inspired actually several years before by a series of lectures given by my old boss, Bryce DeWitt, in Texas. And he gave some lectures called Quantum Theory of Everything, which was purely physics. But if you looked at the philosophy behind this idea that quantum theory, that there is a quantum theory that applies to everything, then it had much wider ramifications.
+The reason I wrote the book is that I had thought that several things, several strands of knowledge that were in themselves considered to be deep, some of the deepest things we know, like the theory of knowledge itself and the theory of evolution, the theory of computation, quantum physics, those four things were actually intimately related to each other. So that you couldn't properly understand any of them without the others. And this was inspired actually several years before by a series of lectures given by my old boss, Bryce DeWitt, in Texas. And he gave some lectures called Quantum Theory of Everything, which was purely physics. But if you looked at the philosophy behind this idea that quantum theory, that there is a quantum theory that applies to everything, then it had much wider ramifications.
 
 ### John Lobell
 

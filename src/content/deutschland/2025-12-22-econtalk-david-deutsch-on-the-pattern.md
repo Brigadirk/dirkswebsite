@@ -87,7 +87,19 @@ There's sort of a Freudian impulse to go to the psychological root of the phenom
 
 <span class="transcript-timestamp">00:23:22 - 00:26:39</span>
 
-Yeah, but you're a man of science, not just a man of science. I like to think of myself as somewhat rational, but you're a very serious physicist who's made many, many serious contributions to our understanding of the world and to the discipline of physics and to just posit something that seems without any rationality. I mean, economists would say things like, well, you hear this argument, the Jews would have positions of power or economic success. And so of course, it was the incentive of various groups to push them out or to bar them from certain professions or to force them into particular occupations where they wouldn't have to compete with them and so on. And I accept your point that that argument is lovely as far as it goes in some particular country in some particular century, but it can't be a good explanation for the whole phenomenon, which is a deep, very simple, by the way, insight, fantastic application of Occam's razor. I mean, it's a beautiful place to start, but you got nothing else for me other than, and I'm giving you a hard time for fun, but about something that's not funny, but you're basically saying, I'm just going to try to repeat it my own words for people who are hearing this for the first time and their heads kind of realign maybe, you're saying that throughout almost all of civilization, and certainly over the last thousand years, 2000 years, 2500 years, people are comfortable with the idea that Jews deserve to die. Is to be hurt. To be hurt. You know, beat up, brutalized or murdered. It's such a strange idea and so many people listening are going to say, well, I don't feel that way and I don't know anyone who feels that way. Sure, there are people who are critical, say, of Israel, to take an important example, but they don't hate, they don't want Jews to be killed, they're just offended by what Israel does, say, against Gazans. And that's what's explaining what's going on now. And you're saying, if I understand it correctly, I want to give you a chance to clarify, you're saying, no, no, no, no, no, that's a smokescreen. That's a red herring. That's a distraction. In fact, causation runs the other way. In their desire to hurt Jews, they'll cook up a reason, oh, this time it's Israel, another time it's deicide, some other time it's economic exploitation, it's Jews are landlords, they're exploiting the poor renters and that's why we looted their shops. They stabbed us in the back in World War I, that was the German explanation. If you said to a Nazi in 1938, why did Kristallnacht happen? They would say, well, the Jews deserved it. They ruined the country back in the World War I. And then Jews, by the way, respond very rationally. They say, no, no, no, we served in the German army, we were decorated, we were decorated at a higher rate than the average soldier.
+Yeah, but you're a man of science, not just a man of science. I like to think of myself as somewhat rational, but you're a very serious physicist who's made many, many serious contributions to our understanding of the world and to the discipline of physics and to just posit something that seems without any rationality. I mean, economists would say things like, well, you hear this argument, the Jews would have positions of power or economic success. And so of course, it was the incentive of various groups to push them out or to bar them from certain professions or to force them into particular occupations where they wouldn't have to compete with them and so on. And I accept your point that that argument is lovely as far as it goes in some particular country in some particular century, but it can't be a good explanation for the whole phenomenon, which is a deep, very simple, by the way, insight, fantastic application of Occam's razor. I mean, it's a beautiful place to start, but you got nothing else for me other than, and I'm giving you a hard time for fun, but about something that's not funny, but you're basically saying, I'm just going to try to repeat it my own words for people who are hearing this for the first time and their heads kind of realign maybe, you're saying that throughout almost all of civilization, and certainly over the last thousand years, 2000 years, 2500 years, people are comfortable with the idea that Jews deserve to die.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:23:22 - 00:26:39</span>
+
+Deserve to be hurt.
+
+### Russ Roberts
+
+<span class="transcript-timestamp">00:23:22 - 00:26:39</span>
+
+To be hurt. You know, beat up, brutalized or murdered. It's such a strange idea and so many people listening are going to say, well, I don't feel that way and I don't know anyone who feels that way. Sure, there are people who are critical, say, of Israel, to take an important example, but they don't hate, they don't want Jews to be killed, they're just offended by what Israel does, say, against Gazans. And that's what's explaining what's going on now. And you're saying, if I understand it correctly, I want to give you a chance to clarify, you're saying, no, no, no, no, no, that's a smokescreen. That's a red herring. That's a distraction. In fact, causation runs the other way. In their desire to hurt Jews, they'll cook up a reason, oh, this time it's Israel, another time it's deicide, some other time it's economic exploitation, it's Jews are landlords, they're exploiting the poor renters and that's why we looted their shops. They stabbed us in the back in World War I, that was the German explanation. If you said to a Nazi in 1938, why did Kristallnacht happen? They would say, well, the Jews deserved it. They ruined the country back in the World War I. And then Jews, by the way, respond very rationally. They say, no, no, no, we served in the German army, we were decorated, we were decorated at a higher rate than the average soldier.
 
 ### Russ Roberts
 
@@ -105,7 +117,19 @@ Yeah, well, carried out themselves is very rare. I mean, as you said, there are 
 
 <span class="transcript-timestamp">00:29:36 - 00:30:39</span>
 
-By the way, Henry Ford and Father Coughlin. We're hearing it right now, because America gives \$4 billion, which is a large number to me, but not a large number to Israel or to the United States budget, because Israel accepts \$4 billion of foreign aid, which is used to buy American arms and has strings that it's basically a subsidy to American weapons manufacturers. Because of that, America is being ruined. That's a very common meme on the internet right now. And it's irrational. It is, as are many other things in this complex of ideas. I just want to say, by the way, I'm against American aid. I was against it when I was living in America. Now that I live in Israel, I'm still against it. I don't think America should be giving aid to Israel. Israel's GDP is about \$550 billion. The \$4 billion it gets to the United States, it could easily finance on its own. And I think it should. So just want to get that in. Sorry, carry on.
+By the way, Henry Ford and Father Coughlin. We're hearing it right now, because America gives \$4 billion, which is a large number to me, but not a large number to Israel or to the United States budget, because Israel accepts \$4 billion of foreign aid, which is used to buy American arms and has strings that it's basically a subsidy to American weapons manufacturers. Because of that, America is being ruined. That's a very common meme on the internet right now. And it's irrational.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:29:36 - 00:30:39</span>
+
+It is, as are many other things in this complex of ideas.
+
+### Russ Roberts
+
+<span class="transcript-timestamp">00:29:36 - 00:30:39</span>
+
+I just want to say, by the way, I'm against American aid. I was against it when I was living in America. Now that I live in Israel, I'm still against it. I don't think America should be giving aid to Israel. Israel's GDP is about \$550 billion. The \$4 billion it gets to the United States, it could easily finance on its own. And I think it should. So just want to get that in. Sorry, carry on.
 
 ### David Deutsch
 

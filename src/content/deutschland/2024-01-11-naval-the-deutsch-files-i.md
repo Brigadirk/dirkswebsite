@@ -10,17 +10,30 @@ pubDate: 2024-01-11
 <span class="duration-label">Duration:</span> <span class="duration-time">00:54:53</span>
 
 ## Transcript
+
 ### Naval Ravikant
 
 <span class="transcript-timestamp">00:00:00 - 00:01:01</span>
 
-We don't really have an agenda. There's no goal to the conversation. Right. The closest we can come up with is just to have a spontaneous, free-flowing talk about anything you want to talk about. I think obviously you know how everyone thinks of your work now. It's becoming more well-known and I know you're too modest to acknowledge that. But I would say that at least for me, the most interesting piece, if it would come out, is just any wide-ranging free-form thoughts that you have because of the understanding that you have of your various theories and your view of the world. And maybe even just feel free to talk about how that has influenced your life, your outlook on life, how you think the world ought to be a little bit different or could be better, where we're headed. Just feel free to go very wide-ranging. It's really just about whatever we want to talk about. Yeah. And I think I mentioned to you in a private chat that we had about the fact that we've had two conversations already. Some things have changed, especially the ChatGPT stuff. Yeah, it's interesting. That is the most on top of everyone's mind thing right now.
+We don't really have an agenda. There's no goal to the conversation. Right. The closest we can come up with is just to have a spontaneous, free-flowing talk about anything you want to talk about. I think obviously you know how everyone thinks of your work now. It's becoming more well-known and I know you're too modest to acknowledge that. But I would say that at least for me, the most interesting piece, if it would come out, is just any wide-ranging free-form thoughts that you have because of the understanding that you have of your various theories and your view of the world. And maybe even just feel free to talk about how that has influenced your life, your outlook on life, how you think the world ought to be a little bit different or could be better, where we're headed. Just feel free to go very wide-ranging. It's really just about whatever we want to talk about.
+
+### Brett Hall
+
+<span class="transcript-timestamp">00:00:00 - 00:01:01</span>
+
+Yeah. And I think I mentioned to you in a private chat that we had about the fact that we've had two conversations already. Some things have changed, especially the ChatGPT stuff.
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">00:00:00 - 00:01:01</span>
+
+Yeah, it's interesting. That is the most on top of everyone's mind thing right now.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:01:01 - 00:01:04</span>
 
-That is the biggest thing that's happened. Correct.
+That is the biggest thing that's happened technologically.
 
 ### Naval Ravikant
 
@@ -34,7 +47,7 @@ Yeah. Should we just dive into that? Sure. What's your latest thinking on AI, AG
 
 So two big things to say. One is that fundamentally my view is unchanged, my view about AI, AGI, and so on. But the other thing is I use ChatGPT all the time, many times a day, and it's incredibly useful. And I'm still at the stage, even though I've had it since March, I'm still in the stage when I'm thinking, ah, doing so-and-so is too much trouble. Oh, I could ask ChatGPT. You know, I'm still in that stage when I'm discovering new uses for it. I think many of them are things where I could use Google, but it would take too long to be worth it. And ChatGPT is often very wrong. It often hallucinates or just is very sure about giving the wrong answer. And so you can't rely on it even slightly.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:02:08 - 00:02:24</span>
 
@@ -58,7 +71,7 @@ Is he moving through multiverses and through the multiverse?
 
 So he's touched on that several times.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:03:15 - 00:03:20</span>
 
@@ -98,7 +111,19 @@ Everybody tells me about Borges.
 
 <span class="transcript-timestamp">00:05:08 - 00:05:22</span>
 
-Can I send you a Borges story as well? OK. Borges is more fantasy. But again, Borges likes to play games with time and infinity. Very often he will change. His protagonists will change one thing about reality and then follow it to its logical conclusion in every possible way.
+Can I send you a Borges story as well?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:05:08 - 00:05:22</span>
+
+OK.
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">00:05:08 - 00:05:22</span>
+
+Borges is more fantasy. But again, Borges likes to play games with time and infinity. Very often he will change. His protagonists will change one thing about reality and then follow it to its logical conclusion in every possible way.
 
 ### David Deutsch
 
@@ -110,7 +135,13 @@ So that sounds like sci-fi rather than fantasy.
 
 <span class="transcript-timestamp">00:05:25 - 00:05:46</span>
 
-Borges is genre-less. It's very hard to pin him down in genre. There's a similar to Stephenson. Stephenson varies across books. Borges within the same story will cross genres. Right. They're short. That's the virtue. In terms of taking an injection to make yourself smarter, taking us back to ChatGPT, is it getting smarter? Would you use that word? Is it getting more intelligent?
+Borges is genre-less. It's very hard to pin him down in genre. There's a similar to Stephenson. Stephenson varies across books. Borges within the same story will cross genres. Right. They're short. That's the virtue.
+
+### Brett Hall
+
+<span class="transcript-timestamp">00:05:25 - 00:05:46</span>
+
+In terms of taking an injection to make yourself smarter, taking us back to ChatGPT, is it getting smarter? Would you use that word? Is it getting more intelligent?
 
 ### David Deutsch
 
@@ -154,7 +185,7 @@ He's a wrestler now.
 
 Yeah, so now he was a wrestler. And I just said he has a wrestler's build, which is what I call him in The Beginning of Infinity. So nobody knows what Plato means. It was a nickname. But it may have been Plato means Platon, means broad. And he was a wrestler. So put two and two together, he had a broad build like a wrestler. But then from then on, I tried three or four more prompts. I just couldn't get him to clothe Plato again. After it had got that wrong the first time, I couldn't get it, even though I explicitly told it. So the functionality is tremendously good. But the first black and white picture he had produced was pretty impressive. And I hadn't told it. I should have thought to tell it not to make Socrates stand out among the others, but then got down the wrong track. And I don't know how to make it not do that. It's got this you can personalize your prompts. I tried doing that and made it worse than four.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:09:43 - 00:10:00</span>
 
@@ -170,13 +201,13 @@ So I see no creativity. Now people say, oh, look, it did something I didn't pred
 
 <span class="transcript-timestamp">00:10:06 - 00:10:10</span>
 
-And people think that creativity is mixing things together. Yeah, yeah, exactly.
+And people think that creativity is mixing things together.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:10:10 - 00:10:44</span>
 
-So it can do that all right. It can also produce things you didn't expect. It can also not do what you said, as I've just described. But not in a creative way. It's in a way that makes it clear it didn't get what even the worst human artist can understand clearly if you say change this to that. And it was like pulling teeth getting ChatGPT to understand that. It makes mistakes, but they're not the same mistakes that a human would make at all. They're mistakes of kind of not getting what this is about.
+Yeah, yeah, exactly. So it can do that all right. It can also produce things you didn't expect. It can also not do what you said, as I've just described. But not in a creative way. It's in a way that makes it clear it didn't get what even the worst human artist can understand clearly if you say change this to that. And it was like pulling teeth getting ChatGPT to understand that. It makes mistakes, but they're not the same mistakes that a human would make at all. They're mistakes of kind of not getting what this is about.
 
 ### Naval Ravikant
 
@@ -190,7 +221,7 @@ So people argue that two things are going to happen here. First is that as you g
 
 I think it's precisely not how human babies learn. Human beings pick up the meaning. People have noted that the way it does maths is very like the way students who don't get it do maths, except it's got more compute power. So as you said, it might be able to pick up easily how to add one digit numbers and then slightly more difficulty, two digit numbers. In the same way, students who are given maths tests, if they do lots of practice, they can get to have a feel of what maths tests are like, but they don't learn any maths that way. One component of what learning maths really is, it's not learning to execute an algorithm and it's certainly not learning how to execute the four digit algorithm knowing one, two and three. The more you go on like that, of course, the more futile it gets because you more and more rarely need to multiply seven digit, eight digit numbers. And never does it know what multiplication is. You can ask it, it'll give you a sort of encyclopaedia definition of what it is. And if you then tell it, well, do that, it won't do it, unless you tell it in a different way. You've got to explain what it is to do. So, you know, if they prove the Riemann conjecture, then I'm wrong. I think they won't prove the Riemann conjecture or anything like it, but they may do amazing things in the course of trying.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:13:17 - 00:13:33</span>
 
@@ -268,7 +299,7 @@ Right, so it'll free people up to be creative. So it's a tool for removing drudg
 
 So I don't think there's such a thing as an ASI, because I think, as you know, there are very fundamental reasons, and there can't be anything beyond explanation, because explanatory universality rests on Turing universality, and that rests on physics. So whatever ASI was, you could reverse program it down to the Turing level, and then back up to the explanatory level. And so that can't possibly exist. An AGI that was interested in improving itself could do some, not reliably, any more than humans can, but humans can improve themselves.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:23:41 - 00:23:44</span>
 
@@ -280,7 +311,7 @@ I was speaking with Charles Bédard yesterday.
 
 Oh, cool. Yeah, he's a good guy.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:23:46 - 00:25:09</span>
 
@@ -292,7 +323,7 @@ Yeah, and he was explaining to me with great enthusiasm, which went over my head
 
 You can see it when you submit the paper to the referees. I mean, you will see that you are being disobedient. It's the same thing as if you hand in the wrong essay to the teacher.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:25:19 - 00:25:49</span>
 
@@ -304,7 +335,7 @@ Yes, and this is what, therefore, ChatGPT doesn't have. And, Naval, you're sayin
 
 It's like Popper's lecture, you know, when he said, observe.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:25:52 - 00:26:05</span>
 
@@ -328,7 +359,7 @@ Which are universal explainers, humans, and ancient humans having perhaps lower 
 
 Yeah, so I don't think so. I mean, they may have had less memory, so they would have run out of memory when they were younger. Maybe they had less ability to parse complex sentences. None of that is essential. I can speak in complex sentences, but I can also speak in very simple sentences. And, you know, it's just a matter of a factor of two or five inefficiency.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:29:36 - 00:30:05</span>
 
@@ -340,7 +371,7 @@ We talk about behavior passing, being able to explain the other extant great ape
 
 Well, it's definitely an open question. I mean, we know very little about human evolution. We don't know what all the steps were. We don't even know which were our ancestors and which were our cousins. You know, if I had to guess, I think the fact that all the known instances of this kind of thing are in apes and their descendants. And also because of my theory, this thing must have evolved in memetic animals. So birds have memes and so on, but none of the other memetic animals seems to have had these things that Homo erectus had. And there's evidence that, so I think my guess is it began once, maybe in fact, Homo erectus is the place where it began. And it was a very long lived species. It lasted like over a million years, something like that. And it split off, at least some people think, it split off into Neanderthals and other things. Well, maybe the immediate ancestor of Homo erectus was also an immediate ancestor of Neanderthals. I don't know. I mean, I don't think they know. If that's the case...
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:31:12 - 00:31:33</span>
 
@@ -352,17 +383,17 @@ So it seemed to be a very fluky thing like everything in evolution is, which cou
 
 Yeah, well, memetic animals are relatively common.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:31:37 - 00:31:39</span>
 
-Once you have animals, yes. Once you have animals...
+Once you have animals, yes.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:31:39 - 00:32:05</span>
 
-But you're saying there might be a further bottleneck. You know, it could be the other way around. It could be that we were unlucky. It could be that Homo erectus could have founded a civilization, and that could be two million years old by now. But they didn't know, they didn't know what they were. They didn't have any aspiration. They also had anti-rational memes, they must have. So it could be that it's a fluke, or it could be it's a fluke that it took so long.
+Once you have animals... But you're saying there might be a further bottleneck. You know, it could be the other way around. It could be that we were unlucky. It could be that Homo erectus could have founded a civilization, and that could be two million years old by now. But they didn't know, they didn't know what they were. They didn't have any aspiration. They also had anti-rational memes, they must have. So it could be that it's a fluke, or it could be it's a fluke that it took so long.
 
 ### Naval Ravikant
 
@@ -400,11 +431,17 @@ And there's no more problem to solve.
 
 Yeah, there's no more problem. So yeah, and this is depicted very well in that film. We should be careful about spoilers. It's rather a surprise ending to that film that he isn't happy at the end. So let's not spoil it for people, but this life lesson is in that film. Somebody among the script writers understood this lesson, or else maybe they just accurately took it from the guy in real life. I don't know whether the film is historically accurate.
 
+### Brett Hall
+
+<span class="transcript-timestamp">00:34:38 - 00:35:01</span>
+
+So this kind of is a life philosophy because a lot of people, the self-help gurus and so on out there will say that we should have a goal-driven life, you know, write down your goals on your dream board or something like that.
+
 ### Naval Ravikant
 
 <span class="transcript-timestamp">00:34:38 - 00:35:01</span>
 
-So this kind of is a life philosophy because a lot of people, the self-help gurus and so on out there will say that we should have a goal-driven life, you know, write down your goals on your dream board or something like that. Struggle, make the effort, get out of bed, do your morning routine and get to work. And you need to get to this goal. And then you can climb the ladder to the next one.
+Struggle, make the effort, get out of bed, do your morning routine and get to work. And you need to get to this goal. And then you can climb the ladder to the next one.
 
 ### David Deutsch
 
@@ -412,7 +449,7 @@ So this kind of is a life philosophy because a lot of people, the self-help guru
 
 Sounds terribly dangerous. And I don't know who has it worse, the ones that fail or the ones that succeed. I think maybe a lot of people just need inspiration and once they've got that, they do the right thing anyway, even if the ideology they're following isn't that, they're just doing the right thing anyway. Like Newton thought he was doing induction and he never did any induction, but he was inspired by that idea and therefore interpreted his own behavior when it wasn't anything like that. So I think people often get it right. I mean, there are a lot of happy people in the world, which there wouldn't be if they were really following the theories that they think they're following.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:35:40 - 00:35:53</span>
 
@@ -424,7 +461,7 @@ So is therefore spontaneity sort of a part of your life? Has that always been th
 
 I think that's the thing for one of my other examples is a failure, namely Vincent van Gogh, which I understand is Vincent van Gogh. He never sold a painting, refused to take the job that his brother offered him in the art gallery, which he would have been great at, but he wanted to paint his paintings and he wanted to paint them how he wanted to paint and he must have been a very difficult person to engage with, but that's what he wanted and that's what he did and then eventually he was killed. You know, I don't know how probable that was and then he was recognized after his death as a great genius. Well, how does that fit into the self-help thing? Did he help himself or not? If he died trying.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:36:41 - 00:36:52</span>
 
@@ -440,7 +477,13 @@ Yeah, no, I think it was a million dollars. This is completely different from ac
 
 <span class="transcript-timestamp">00:37:05 - 00:37:09</span>
 
-Why not take the million dollars? At least take it and then give it to someone that you like.
+Why not take the million dollars?
+
+### Brett Hall
+
+<span class="transcript-timestamp">00:37:05 - 00:37:09</span>
+
+At least take it and then give it to someone that you like.
 
 ### David Deutsch
 
@@ -496,7 +539,7 @@ How does this inform your human relationships with the people in your life where
 
 So everyone has a problem situation that is primarily what they're trying to solve. To me, relationships are for addressing one's own problem situation. It so happens, the way the world works because of epistemology and so on, it means that very often two people addressing each other's problems are far more than twice as efficient as each of them separately. So there's an enhancement factor. And the economy at large has an enhancement factor of probably trillions or something. There are things which can be obtained via the economy, like an iPhone, the enhancement in cost is enormous. If you want to go and see a movie, you can go with somebody. It may well be that it's more than twice as enjoyable if you go with a friend, but it's not gonna be trillions of times more enjoyable, but it's still worth doing. And there are things like having children and so on, which you can only do if you have a long-term relationship with a person with whom you have a common set of institutions for solving problems, and institutions of, yeah, so I think that isn't the point actually. The point is that when you are involved in a problem-solving relationship of any kind, and it works, and it's a good one, and it works, then it's perverse to call yourself constrained by that. It's rather like saying that in the economy, you're constrained by having to pay for things. When you're not, having to pay for things is the condition of consent. Like if it weren't for consent, you wouldn't get the things without paying. You'd have to at least rob somebody or whatever, but more to the point, you wouldn't be there in the first place. Things are only there because of this massive set of institutions of consent, which if you, I was gonna say if you play along with them, but that's not really even the word. If you identify with them, if you identify with these institutions and want to be the kind of person that can fit into them, then you get iPhones. It's the same with any kind of relationship, but when you're not getting something out of them, like maybe this Russian guy with his refusing the prize, there's nothing you want from the economy. You just want to stay in your log cabin and work on maths, and that's all you want. And any kind of human relationship or any kind of interaction with people is just an annoyance. Well, then that's what you do. That's what you'd have to do. And if you then were somehow forced into the normal relationship, you'd be unhappy. And you probably, well, I don't know. I don't want to say probably, but conditions for you producing good maths and for producing happiness for yourself are impaired by this thing which other people call freedom. So I gave a very long answer, but basically one isn't impaired by good relationships. One is enhanced by them.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:44:02 - 00:45:03</span>
 
@@ -508,7 +551,7 @@ Well, that ties into what is sometimes called clash of civilizations. Although I
 
 Yeah. Well, as you know, I can't prophesy. No one can. I just try to avoid it. I can't take seriously any threats to our civilization from the outside. That is, dictators, terrorists, and also AIs or AGIs or ASIs if they appear. Presumably the AGIs that appear, it is to be hoped that the first ones will in fact be part of our culture, be part of the enlightenment, and they will only enhance it. But if there is an existential, and I can't take seriously the existential threats from things like the weather either, because they're on a much longer time scale, and all the scare stories are really about is that it might prove to be more expensive than we think. It could be that it would be better to start today on major projects. That can't possibly be an existential threat. The only threat that could possibly be existential is if our civilization, the civilization of the enlightenment, makes bad enough mistakes. For example, fads and ideologies of denying and hating that very civilization. There have always been such fads. And following Roy Porter, I've talked about the fact that the enlightenment in itself had a rebellious anti-enlightenment built in from day one. And that anti-enlightenment has got descendants today, and things like woke and so on, or whatever you call them, are among the descendants of it. In principle, a thing like that could bring down civilization. I see no sign of it, I must say. I mean, I'm trying to avoid prophecy here. But although I think those things are acting in the direction of bringing down civilization, I don't see any actual sign that they are actually making progress in that.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:47:06 - 00:47:39</span>
 
@@ -526,7 +569,7 @@ If you want to draw an analogy with the mid-20th century, the place where we're 
 
 Nobody could have foreseen exactly how we were going to win. But that we would win and had to win was to some people obvious. And the British, as a nation, just flipped on a dime. They just believed one batch of things, one batch of ideologies. And then apparently, it seemed like a day later that they believed the opposite. There's a nice scene in the latest Churchill movie. I don't know if you've seen it, but it's where Churchill is very depressed and his colleagues in the Conservative Party are trying to push him to come to a deal with Hitler. And he has already seen since the early 30s that this is impossible. But very few will listen to him. And then he goes and meets some ordinary people. And I won't spoil it for you, but not a thing that happened in real life, although it could have happened.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:51:53 - 00:52:05</span>
 
@@ -538,7 +581,7 @@ So he's getting the common sense, clear vision from the so-called normal people.
 
 I think by that time, they had flipped as well.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:52:07 - 00:52:33</span>
 

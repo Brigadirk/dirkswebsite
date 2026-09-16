@@ -10,7 +10,8 @@ pubDate: 2023-08-11
 <span class="duration-label">Duration:</span> <span class="duration-time">00:34:01</span>
 
 ## Transcript
-### Naval Ravikant
+
+### Brett Hall
 
 <span class="transcript-timestamp">00:00:00 - 00:01:02</span>
 
@@ -22,11 +23,17 @@ One of the things that is counterintuitive and one of the misconceptions that I 
 
 Absolutely. Popper's philosophy is actually very broad in a sense because it's so deep. Popper only had one idea and that is that it all begins with problems and there's no royal road to solving them. And if you look at it the right way, that tells you to go to fallibilism and anti-authoritarianism and conjecture and criticism and so on. Then he applied that to lots of different things and he wrote dozens of books. People bought them and every philosopher has heard of him. But there I have to draw the line that's as much success as he had. Nobody actually got it. Even many of his supporters because people tended to get part of it. Although when someone is very creative and successful in a particular area, they tend to be a Popperian in that area and they usually insist that it's a special property of that area.
 
+### Brett Hall
+
+<span class="transcript-timestamp">00:02:04 - 00:03:29</span>
+
+They have to be. If you're going to make progress, the only possible way of doing it is finding the problem and purported solutions and then criticizing those solutions. So you're necessarily a Popperian if you're making progress, even if you don't know it.
+
 ### Naval Ravikant
 
 <span class="transcript-timestamp">00:02:04 - 00:03:29</span>
 
-They have to be. If you're going to make progress, the only possible way of doing it is finding the problem and purported solutions and then criticizing those solutions. So you're necessarily a Popperian if you're making progress, even if you don't know it. If I were to give an example of exactly what you're talking about, I interviewed Matt Ridley who was a hero of mine growing up because I read all of his popular science books. I remember his book Genome and his book The Rational Optimist and his most recent one which is about innovation. It's all about trial and error or variation and selection or as you say in science, conjecture and criticism. These are all just the same method. These are creative guesses and once you fully absorb this, it changes your view of the world. You just see that everything is creatively making guesses. We're not copying, we're not getting it from the environment. It's not something that's evident to us clearly in nature and then as we absorb it more and more as Bayesians or inductivists that we somehow come up with a truth. No, it's rather everything is a theory-laden guess. It's funny because I'm teaching this to my six year old because I want him to have the solid foundation and he now understands intuitively that yeah, everything is a guess. So every time we get to something and he asks why, I said, let's start making some guesses. So once you absorb this view of the world, it is evident everywhere. For example, in my domain in technology innovation, people think yes, I'm being creative, I'm guessing. The artists think they're being creative and they're guessing.
+If I were to give an example of exactly what you're talking about, I interviewed Matt Ridley who was a hero of mine growing up because I read all of his popular science books. I remember his book Genome and his book The Rational Optimist and his most recent one which is about innovation. It's all about trial and error or variation and selection or as you say in science, conjecture and criticism. These are all just the same method. These are creative guesses and once you fully absorb this, it changes your view of the world. You just see that everything is creatively making guesses. We're not copying, we're not getting it from the environment. It's not something that's evident to us clearly in nature and then as we absorb it more and more as Bayesians or inductivists that we somehow come up with a truth. No, it's rather everything is a theory-laden guess. It's funny because I'm teaching this to my six year old because I want him to have the solid foundation and he now understands intuitively that yeah, everything is a guess. So every time we get to something and he asks why, I said, let's start making some guesses. So once you absorb this view of the world, it is evident everywhere. For example, in my domain in technology innovation, people think yes, I'm being creative, I'm guessing. The artists think they're being creative and they're guessing.
 
 ### David Deutsch
 
@@ -76,7 +83,7 @@ One thing you bring up a lot, I would almost call it a Deutsch refutation becaus
 
 Another way of putting that though, rather than thinking of it as a method of refutation, is to think this is just what it means to take theory seriously. Rather than just as forms of words that one learns to say, like physics professors when asked something important about quantum theory, they have learned to say, ah, well, it's a particle and a wave at the same time. And if the student says, what does that mean? And the professor may well say, you get used to it. You will understand that eventually. But what they often say regrettably is that's the wrong question to ask. That's not a meaningful question. And you are not allowed to ask that question. But the question isn't based in a misunderstanding of quantum theory. It's the other way around. It's taking quantum theory seriously and saying, I want to understand quantum theory. And saying that it's both a particle and wave at the same time is not an answer to that question. It's a way of shutting up the questioner.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:11:50 - 00:12:20</span>
 
@@ -88,7 +95,7 @@ I used to get it's born as a particle, lives as a wave and dies as a particle. B
 
 Yes. And of course it can move back as well. If you have a more complex interference experiment, it's a particle then a wave then a particle. If you look at some of Vaidman's experiments, it's very hard to get your head around if you don't have the Everett interpretation because it totally depends on taking seriously this quantum entity that cannot be described as a particle or a wave.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:12:42 - 00:13:10</span>
 
@@ -100,7 +107,7 @@ If what we're saying of our good explanations is that they really are accounts o
 
 There are two answers to that question. One is in the book and one isn't. In the book I say there are many concepts, laws, explanations that are shared between Newton's theory and Einstein's theory of gravity. For example, both theories adopt the heliocentric cosmology and they say that the motion of the earth and the other planets in gravity is caused by the sun. It's because the sun is there that an influence is felt. Now the influence is not a force, it's a curvature of space-time, but that curvature of space-time is caused by the mass of the sun. But there's another sense in which say Newton's theory and Einstein's theory are more closely related than you might think. Newton's theory contains the problems to which Einstein's theory is a solution. Newton said that gravity travels instantaneously. That was a problem which people recognized before Einstein. They wanted to explain what does it even mean for something to travel instantly. And then there was the fact that if the universe lasts forever, as Newton thought, then how come in the long run it doesn't all collapse? And I don't know if Newton was aware of what's called Olbers' paradox, why is the sky black? But according to Newton's theory, if the universe is either infinite or very big, then the sky should be white. Again, that is a problem Newton's theory can't really answer. You have to make some very ad hoc assumptions to fit that into Newton's theory as a cosmology. And Einstein's theory just solves that problem which was in Newton's theory. And Newton's theory solves the problem in Kepler's theory which was so severe that Galileo rejected it. Galileo did not want to believe Kepler's theory because it didn't explain why the orbits were ellipses. If they had been circles, there was an explanation that would have fitted into the philosophy of the time. Circle is the perfect shape. If it wasn't a circle, you'd have to explain why isn't it a circle. Kepler was like, well, just look, it's an ellipse and that wasn't good enough for Galileo. So he had to torture the theory to make it predict circles. But then Newton came along and said, it's the inverse square law and that can make circles, but it can make ellipses. And that is a deeper level of explanation even than saying circles are perfect shapes. So they're related by their common assumptions and they're related by the problems that they have or solve.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:15:59 - 00:17:03</span>
 
@@ -110,13 +117,13 @@ What you say there though, it raises the tension between Karl Popper and Thomas 
 
 <span class="transcript-timestamp">00:17:04 - 00:19:22</span>
 
-This picture of the young iconoclasts being rejected by the old stick in the muds and then the young iconoclasts draws together a few friends and when the old stick in the muds die, then the young iconoclasts become the old stick in the muds. The thing is, it's pure fiction. I don't know of any actual situation where that happened. What does happen is that people often irrationally stick to their own ideas. Whether they are new ideas or old ideas, people can be stubborn. Sometimes stubborn people who support a theory for no reason except that they feel it's right turn out to be right, but there's no algorithm for determining who is right according to who is more stubborn. Sometimes the person who's more stubborn is actually right, like Lister and Semmelweis. They stuck to their guns, they were rejected, but even then it was not a generational thing. There was a much more complex process at work. They didn't just reject a theory, they rejected having to change their working practices that reduced their perceived dignity. But the perceived dignity of doctors is functional, especially in the days when not much was known about medicine. If you told a person that they had to have their tonsils taken out, which was extremely unpleasant, difficult, painful process, you needed a bit of authority, irrational as it is, but the world was much more irrational in those days. When science got better, people became more open to argument, but the generational story, as I say in Fabric of Reality, provides no explanation for them changing from one theory to another. It's as if they just invent a new fashion like when Christian Dior says, put up your hemline, then every woman in the world puts up their hemline. It used to happen apparently. That is not the description of what happens in science. There's a reason why people adopt a theory. Even if it's false, there's a reason why they adopted. If it's not satisfactory to them, they're not adopting it. And sometimes they're irrational. That's just how it is, but it's not a picture of science. I think this is quite obvious if you look at technology.
+This picture of the young iconoclasts being rejected by the old stick in the muds and then the young iconoclasts draws together a few friends and when the old stick in the muds die, then the young iconoclasts become the old stick in the muds. The thing is, it's pure fiction. I don't know of any actual situation where that happened. What does happen is that people often irrationally stick to their own ideas. Whether they are new ideas or old ideas, people can be stubborn. Sometimes stubborn people who support a theory for no reason except that they feel it's right turn out to be right, but there's no algorithm for determining who is right according to who is more stubborn. Sometimes the person who's more stubborn is actually right, like Lister and Semmelweis. They stuck to their guns, they were rejected, but even then it was not a generational thing. There was a much more complex process at work. They didn't just reject a theory, they rejected having to change their working practices that reduced their perceived dignity. But the perceived dignity of doctors is functional, especially in the days when not much was known about medicine. If you told a person that they had to have their tonsils taken out, which was extremely unpleasant, difficult, painful process, you needed a bit of authority, irrational as it is, but the world was much more irrational in those days. When science got better, people became more open to argument, but the generational story, as I say in Fabric of Reality, provides no explanation for them changing from one theory to another. It's as if they just invent a new fashion like when Christian Dior says, put up your hemline, then every woman in the world puts up their hemline. It used to happen apparently. That is not the description of what happens in science. There's a reason why people adopt a theory. Even if it's false, there's a reason why they adopted. If it's not satisfactory to them, they're not adopting it. And sometimes they're irrational. That's just how it is, but it's not a picture of science.
 
 ### Naval Ravikant
 
 <span class="transcript-timestamp">00:19:22 - 00:20:18</span>
 
-We might have gone from analog attempts at computing to vacuum tubes to transistors, and vacuum tubes to transistors is less of a jump than analog computing to vacuum tubes. Clearly there's progress along the way. Now we don't use vacuum tube computing anymore. It's been obsolete, but it doesn't mean it was wrong. It was a necessary stepping stone. It was closer to the truth, and there was a lot to be learned from there. When you encounter it in real life, then it becomes a lot more tangible and it's harder to refute. I find that the more feedback that you take from other people, the more likely you are to go astray, whereas the more feedback you take from reality and nature, the closer you're to the truth. And in science, unfortunately, a lot of it gets mixed up in philosophy and academia where they're not actually interacting as much with the real world. It shouldn't happen in physics, but there is this social feedback loop where you're talking to other people, you're not always building things. The rockets don't have to fly, so to speak.
+I think this is quite obvious if you look at technology. We might have gone from analog attempts at computing to vacuum tubes to transistors, and vacuum tubes to transistors is less of a jump than analog computing to vacuum tubes. Clearly there's progress along the way. Now we don't use vacuum tube computing anymore. It's been obsolete, but it doesn't mean it was wrong. It was a necessary stepping stone. It was closer to the truth, and there was a lot to be learned from there. When you encounter it in real life, then it becomes a lot more tangible and it's harder to refute. I find that the more feedback that you take from other people, the more likely you are to go astray, whereas the more feedback you take from reality and nature, the closer you're to the truth. And in science, unfortunately, a lot of it gets mixed up in philosophy and academia where they're not actually interacting as much with the real world. It shouldn't happen in physics, but there is this social feedback loop where you're talking to other people, you're not always building things. The rockets don't have to fly, so to speak.
 
 ### David Deutsch
 
@@ -124,19 +131,19 @@ We might have gone from analog attempts at computing to vacuum tubes to transist
 
 But the growth of knowledge is possible in philosophy too, even in morality and epistemology, even when you don't have physical reality. It's this thing I called a few minutes ago, taking the theory seriously. That refutation of solipsism is nothing more than taking solipsism seriously, rather than saying it might all just be my dream. You go on from there, okay, if this is my dream, what can we say about my dream? So I'm dreaming the bus, I'm dreaming all the people in it. Now there's a person who is wearing a yellow suit. Did I make that up? I've never thought of it before. Now I'm seeing it. So if I'm a solipsist, I have to have an explanation for how the things in my dream can have come about. And that's really why solipsism destroys itself. And in philosophy, in physics too, most ideas destroy themselves. As you said a little while ago, it's rare to have a case where you can actually decide between two explanations by experiment.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:21:23 - 00:21:38</span>
 
-When it comes to progress and understanding, is there going to be a theory that we're not going to be able to understand? I think it's the prevailing view at the moment that there's got to be something out there that is beyond our comprehension. How do we know that there isn't a ...
+When it comes to progress and understanding, is there going to be a theory that we're not going to be able to understand? I think it's the prevailing view at the moment that there's got to be something out there that is beyond our comprehension.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:21:38 - 00:23:30</span>
 
-Limit? How do we know that there'll be no new mathematical knowledge to discover? We can't know. We could be wiped out by an incoming planet from another galaxy that is hurtling through our galaxy at half the speed of light and we'll just be all killed instantly. There's no known theory that says that isn't going to happen. And similarly, the same could be true in the universe of ideas. There could be a brick wall somewhere where we won't go any further than that. But in both cases, invoking that as an argument about what we can or should do is logically equivalent to believing in the supernatural. Because why did I just say a planet moving at half the speed of light? Why didn't I say an asteroid moving at 99% the speed of light? Why didn't I say an illness that operates on principles that we don't know and will wipe us out in a few days? There's an infinity of things I could have said and all of them make a sophisticated prediction without having an explanation for it. It's exactly the same when people say that the world is going to end on such and such a Tuesday. I would want to ask them why Tuesday? Why not Wednesday? And they will say because Tuesday comes out of my interpretation of the Bible. I would say why your interpretation of the Bible and not this other guy who says it's Wednesday? And pretty much immediately they don't have an answer to that because they do not have an explanation for their prediction. And it's the same with the idea that the explanatory universality is going to run out for one reason or another, whether it's physical wipeout or AGI apocalypse or we're all simulations in a computer and so on.
+How do we know that there isn't a ... Limit? How do we know that there'll be no new mathematical knowledge to discover? We can't know. We could be wiped out by an incoming planet from another galaxy that is hurtling through our galaxy at half the speed of light and we'll just be all killed instantly. There's no known theory that says that isn't going to happen. And similarly, the same could be true in the universe of ideas. There could be a brick wall somewhere where we won't go any further than that. But in both cases, invoking that as an argument about what we can or should do is logically equivalent to believing in the supernatural. Because why did I just say a planet moving at half the speed of light? Why didn't I say an asteroid moving at 99% the speed of light? Why didn't I say an illness that operates on principles that we don't know and will wipe us out in a few days? There's an infinity of things I could have said and all of them make a sophisticated prediction without having an explanation for it. It's exactly the same when people say that the world is going to end on such and such a Tuesday. I would want to ask them why Tuesday? Why not Wednesday? And they will say because Tuesday comes out of my interpretation of the Bible. I would say why your interpretation of the Bible and not this other guy who says it's Wednesday? And pretty much immediately they don't have an answer to that because they do not have an explanation for their prediction. And it's the same with the idea that the explanatory universality is going to run out for one reason or another, whether it's physical wipeout or AGI apocalypse or we're all simulations in a computer and so on.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:23:30 - 00:23:56</span>
 
@@ -148,7 +155,7 @@ But there is this impulse in people to suggest things like solipsism, the simula
 
 It's rather like the relationship between physics and structural engineering. Foundations are theories that explain why the higher level theories are as they are. But you can't use Newton's theory to build a bridge. To build a bridge, you need theories of bridge building. Christopher Wren's, one of the reasons why he was a successful architect, is that he began to use Newton's theory seriously to design buildings. So when deciding what the distance between pillars ought to be, rather than have a master builder's eye for what that should look like and what will or won't collapse, he could actually work it out using Newtonian mechanics. That means that Newtonian mechanics was playing a sort of role of understanding what makes buildings stand up in the first place and also criticising particular designs as being not as good as other designs. Then you could use measurement and demonstration and so on to fill in the gaps. But if you're just given Newton's theory, you wouldn't think of a suspension bridge. Nowhere in Newton's Principia is there a picture of a suspension bridge. That was invented later. So engineering is a separate subject and you don't study Newton's laws primarily to help you build better bridges. But what Newton's theory did was unify our understanding. It gave us a new level of understanding. It influenced other sciences. People tried to make Newton's theories in other fields of knowledge, some of which worked and some of which didn't work.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:25:39 - 00:26:04</span>
 
@@ -178,8 +185,26 @@ This is why the current rage against misinformation is so troubling and people e
 
 There's a fundamental reason why even if we could look into the multiverse it wouldn't be that much help because there is no limit to the size of error we can make. Therefore when you look around in a multiverse and see all these crystals, yes on the whole there are great big fat ones and you can guess that this one is heading towards the truth. You can't tell where because you don't know where this crystal is going to go and then there'll be this other great big thing, a religion or something, which has been growing for thousands of years and there's no way of examining it with a magnifying glass and seeing that it's any different from one that is heading towards the truth. So we might hope that most of the big ones are heading towards the truth according to some definition of most. In one universe you can get a hint of that already because you can say what idea is most persuasive? Okay many bad ideas are persuasive. What idea is most persuasive to people who adopt it because they think it solves their problem? Okay but there are many such ideas that are false too. So I'm afraid it's not going to work. If there were a limit to the size of error you would know that once you've made an error of a certain size when you have your next idea it's bound to be true. No one can make more than 256 errors in a row would be the thing and nothing like that is true. No shortcuts.
 
+### David Deutsch
+
+<span class="transcript-timestamp">00:33:40 - 00:34:01</span>
+
+Exactly there's no shortcut.
+
 ### Naval Ravikant
 
 <span class="transcript-timestamp">00:33:40 - 00:34:01</span>
 
-Exactly there's no shortcut. It seems that the nature of knowledge is that it creates non-linearities so even a single false idea can create false knowledge that overwhelms the truth for quite a while in a large amount of space. Yes. So it's always creative, it's always conjectural, it's always contextual, which gives an infinity of improvement ahead of us which keeps life interesting.
+It seems that the nature of knowledge is that it creates non-linearities so even a single false idea can create false knowledge that overwhelms the truth for quite a while in a large amount of space.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:33:40 - 00:34:01</span>
+
+Yes.
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">00:33:40 - 00:34:01</span>
+
+So it's always creative, it's always conjectural, it's always contextual, which gives an infinity of improvement ahead of us which keeps life interesting.

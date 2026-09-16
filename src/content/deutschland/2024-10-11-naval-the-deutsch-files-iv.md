@@ -11,6 +11,7 @@ pubDate: 2024-10-11
 <span class="duration-label">Duration:</span> <span class="duration-time">01:25:06</span>
 
 ## Transcript
+
 ### Naval Ravikant
 
 <span class="transcript-timestamp">00:00:00 - 00:01:00</span>
@@ -47,7 +48,7 @@ So I think that's very helpful. And in your thermodynamics example, if you're tr
 
 So thermodynamics is emergent physics. In terms of those four, it is epistemology. But that just shows that the terminology is misleading.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:04:25 - 00:04:47</span>
 
@@ -71,11 +72,23 @@ I think you also said something related, which is that if reality is what is nee
 
 A rule for deciding that something is real. It's not the meaning of real because there are things we don't understand about real. In what sense are numbers real and abstract objects real? And in case physicists don't like that, I always ask, in what sense are laws of physics real? Because we can't trip over one. On the other hand, we can't understand anything in physics without them. So they're real.
 
+### Brett Hall
+
+<span class="transcript-timestamp">00:05:40 - 00:06:24</span>
+
+Some would claim that we are cognitively incapable of understanding physics full stop up to a certain point. This is the idea that Richard Dawkins has of middle world, which was cropping up very recently in discussions. Our brain evolved on the African savanna in order to survive. So it should be no mystery to us, no agreement about what quantum theory means, because in fact, we are cognitively closed to understanding things that are too small, things that are outside middle world because they travel too fast or too large like the entire cosmos. But this is flawed because of universality.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:05:40 - 00:06:24</span>
+
+Among other things.
+
 ### Naval Ravikant
 
 <span class="transcript-timestamp">00:05:40 - 00:06:24</span>
 
-Some would claim that we are cognitively incapable of understanding physics full stop up to a certain point. This is the idea that Richard Dawkins has of middle world, which was cropping up very recently in discussions. Our brain evolved on the African savanna in order to survive. So it should be no mystery to us, no agreement about what quantum theory means, because in fact, we are cognitively closed to understanding things that are too small, things that are outside middle world because they travel too fast or too large like the entire cosmos. But this is flawed because of universality. Among other things, we understand quasars and some atomic particles.
+we understand quasars and some atomic particles.
 
 ### David Deutsch
 
@@ -83,7 +96,7 @@ Some would claim that we are cognitively incapable of understanding physics full
 
 If that argument had been valid, then we would have stopped a long time ago in understanding things, especially like mathematics, but also physics.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:06:33 - 00:06:42</span>
 
@@ -95,7 +108,7 @@ And that then brings up this connection or draws out this connection between qua
 
 So the nicest one, I think this is the one that Naval also likes best, the idea of crystal in the multiverse. If knowledge is kind of information, which once it's there, keeps itself in existence and gets that property by error correction, then since there are many errors for every possible truth, many possible errors for every truth, then in the multiverse, if there's error correction, then there are a bunch of unlike universes which become alike in the region in which they're correcting errors. And so that's a striking connection between epistemology and physics. I hope that this kind of connection will be amplified once we get to formulating theories of knowledge and so on in constructor theory. Constructor theory isn't limited to the parochial properties of quantum theory. It emerged from quantum theory, but it emerged from problems in quantum theory. But it's a level of description and I'm just gesticulating as if it was a higher level, but actually it's a lower level of description than quantum theory. It's more reductionist than quantum theory, and yet it is more compatible with emergent properties. We're hoping eventually that things like knowledge and economics, ultimately consciousness maybe, though my own view is that consciousness will require an extra idea, not just elaborating ideas from within constructor theory. It requires an idea, another idea, at least one.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:08:31 - 00:09:21</span>
 
@@ -107,7 +120,7 @@ Hitherto the line from Newton through to Einstein and then to quantum theory has
 
 Yeah, it could be just like that. You can't understand if you have a listing of all the moves in a game of chess. You can't understand what's happening there unless you know the rules of chess. But knowing the rules of chess, the people who make chess programs think that if you know the rules of chess, you can understand all the games, but not true. If you want to learn the games as opposed to just win them, then you need a lot more than just the rules. Hence yeah, constructor theory is just like that, we hope.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:09:50 - 00:10:00</span>
 
@@ -137,11 +150,17 @@ Oh, those are very long, long questions.
 
 It's okay.
 
+### Naval Ravikant
+
+<span class="transcript-timestamp">00:10:43 - 00:14:15</span>
+
+I think the answers are illuminating.
+
 ### David Deutsch
 
 <span class="transcript-timestamp">00:10:43 - 00:14:15</span>
 
-I think the answers are illuminating. When I wrote my first paper on constructor theory, which was a philosophical paper, it didn't have really any physics. It was published in a philosophical journal. I wanted to explain what we were trying to do, what this research program is, because we didn't know at the time, and we still don't, what the definitive forms of constructor theory are going to be. We're going to find those as we find the applications. So I thought I would give some motivation. We don't have a good theory of initial conditions. Think carefully. Why should we need initial conditions when we are perfectly fine to have no theory of the final conditions? So that's one thing. And then the thermodynamics thing. And then there's the fact that things like computation and information can't be expressed in the initial conditions plus laws of motion way. I thought I would write a quick paper. And I ended up with 18 motivations. I can't think now, and you can look up the paper if you want to see all 18. I can't think of them all now, but this seemed to me a motivation for thinking that this constructor theoretic approach was a very simple change in worldview in a certain way. You can say very quickly what the change is, but the ramifications are huge and it seems to touch all these problems in different fields. And that's what motivated me to try to make a theory out of this. And the next thing that happened was that I gave a talk at the Clarendon Laboratory and Chiara was in the audience. She was a graduate student working on quantum information. She came up to me afterwards and said, what about so that can't be right, can it? Because I had indeed contradicted myself in the talk. And so then she came round and we chatted about it. And I said, do you want to work on it? Because there's a lot more to work on than one person can do, especially me. So she said yes. And since then, so she's worked on the constructor theory of life, constructor theory of probability, which in a way translating existing theories into constructor theoretic form and uncovering little nuggets. My favorite nugget is that in constructor theoretic thermodynamics, first law is to do with information, not just the second law. So the way she defines the first law is similar to statistical mechanics, but you end up with the first law that's about you can do this and not that, you can do this and not that. And as a result, you get the version of the first law, but better than normal, because it incidentally has the property that, let me see if I get this right. I think it incidentally has the property that there must be a lower bound on the energy, whereas existing thermodynamics doesn't. You have to put that in as an extra axiom. And if there were no lower bound, then you could have an object that you were just extracting energy out of without violating the second law, just first law, extracting energy forever. And that would make a perpetual motion machine of the first kind.
+When I wrote my first paper on constructor theory, which was a philosophical paper, it didn't have really any physics. It was published in a philosophical journal. I wanted to explain what we were trying to do, what this research program is, because we didn't know at the time, and we still don't, what the definitive forms of constructor theory are going to be. We're going to find those as we find the applications. So I thought I would give some motivation. We don't have a good theory of initial conditions. Think carefully. Why should we need initial conditions when we are perfectly fine to have no theory of the final conditions? So that's one thing. And then the thermodynamics thing. And then there's the fact that things like computation and information can't be expressed in the initial conditions plus laws of motion way. I thought I would write a quick paper. And I ended up with 18 motivations. I can't think now, and you can look up the paper if you want to see all 18. I can't think of them all now, but this seemed to me a motivation for thinking that this constructor theoretic approach was a very simple change in worldview in a certain way. You can say very quickly what the change is, but the ramifications are huge and it seems to touch all these problems in different fields. And that's what motivated me to try to make a theory out of this. And the next thing that happened was that I gave a talk at the Clarendon Laboratory and Chiara was in the audience. She was a graduate student working on quantum information. She came up to me afterwards and said, what about so that can't be right, can it? Because I had indeed contradicted myself in the talk. And so then she came round and we chatted about it. And I said, do you want to work on it? Because there's a lot more to work on than one person can do, especially me. So she said yes. And since then, so she's worked on the constructor theory of life, constructor theory of probability, which in a way translating existing theories into constructor theoretic form and uncovering little nuggets. My favorite nugget is that in constructor theoretic thermodynamics, first law is to do with information, not just the second law. So the way she defines the first law is similar to statistical mechanics, but you end up with the first law that's about you can do this and not that, you can do this and not that. And as a result, you get the version of the first law, but better than normal, because it incidentally has the property that, let me see if I get this right. I think it incidentally has the property that there must be a lower bound on the energy, whereas existing thermodynamics doesn't. You have to put that in as an extra axiom. And if there were no lower bound, then you could have an object that you were just extracting energy out of without violating the second law, just first law, extracting energy forever. And that would make a perpetual motion machine of the first kind.
 
 ### David Deutsch
 
@@ -185,7 +204,7 @@ So far in Constructor Theory, you've basically got some better or more universal
 
 So I guess having a lower bound for the energy is a prediction. Not a very strong prediction, but because everyone believed that already. I think that where Constructor Theory will start making new, where people will start formulating theories about new things within the Constructor Theory framework, that will be when these new things combine existing theories where it was unexpected before. Now I don't believe in the quantum theory of life, for example. I think that's a dead end and blind alley. But that sort of thing is the sort of thing that Constructor Theory could provide a framework for that existing theories don't have a framework for. It's a pity. I thought in Fabric of Reality, I thought that the multiverse kind of solved the problem of free will. I didn't quite say that there, but I hinted that maybe it solves the problem of free will, and I don't think it does at all. But even though it doesn't solve it, it gives a framework in which one can think free will, because free will involves counterfactuals have much more meaning in theory of the multiverse than they do in Newtonian or classical theory. And in Constructor Theory, they have even more meaning. That's the kind of thing I can't foretell the growth of knowledge. I don't even know that Constructor Theory is going to work. It could end up as a kind of curiosity that this is what people in the early 21st century, some people thought would illuminate things, but it only provides a little bit of illumination. And now we know what the real illumination is. We don't need it. That might be, or it might be the opposite. This is a meta question.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:20:38 - 00:21:22</span>
 
@@ -239,7 +258,7 @@ So you were solving a different problem.
 
 Yeah, a different problem. It didn't cross my mind that this was a new mode of computation.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:27:37 - 00:27:40</span>
 
@@ -255,7 +274,19 @@ Yeah, that's not my fault. Exactly. It's the opposition that wants the conscious
 
 <span class="transcript-timestamp">00:27:52 - 00:27:59</span>
 
-It needs AGI and it needs quantum computing. It needs both. Yes. The AGI has to be a quantum computer internally.
+It needs AGI and it needs quantum computing. It needs both.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:27:52 - 00:27:59</span>
+
+Yes.
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">00:27:52 - 00:27:59</span>
+
+The AGI has to be a quantum computer internally.
 
 ### David Deutsch
 
@@ -263,11 +294,23 @@ It needs AGI and it needs quantum computing. It needs both. Yes. The AGI has to 
 
 It has to be running on a quantum computer.
 
+### Brett Hall
+
+<span class="transcript-timestamp">00:28:02 - 00:28:19</span>
+
+Because the alternative perspective is...
+
 ### Naval Ravikant
 
 <span class="transcript-timestamp">00:28:02 - 00:28:19</span>
 
-Because the alternative perspective is... Otherwise you have interference. Yeah, it's the opposition that is saying that it is the observer collapsing the wave function. And so if that's their position, then we have to have an observer that can observe things without collapsing wave functions. Yeah.
+Otherwise you have interference.
+
+### Brett Hall
+
+<span class="transcript-timestamp">00:28:02 - 00:28:19</span>
+
+Yeah, it's the opposition that is saying that it is the observer collapsing the wave function. And so if that's their position, then we have to have an observer that can observe things without collapsing wave functions. Yeah.
 
 ### David Deutsch
 
@@ -303,7 +346,19 @@ Yeah, maybe, but we don't know. We could be a fluke or this could be a universe 
 
 <span class="transcript-timestamp">00:31:06 - 00:31:54</span>
 
-There's a lot of Kepler planets out there. What's your intuition? I don't know. Let's talk a little bit about anti-rational memes. I think this is one of the least understood parts of what you have written about. And it's mentioned briefly in The Beginning of Infinity. And it's basically, I think this is the part where I understand the least because I will admit I did not resonate with that chapter as well. But I think your thesis is that a lot of human progress was held back because the creativity went into figuring out how to keep people on the ideas that certain people already said these are the correct ideas and we're going to stay here. And then all creativity got poured into reinforcing those ideas as opposed to letting you wander outside of those boundaries. So what are these anti-rational memes? Are they still around? Is it always a war between them and the rational memes?
+There's a lot of Kepler planets out there. What's your intuition?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:31:06 - 00:31:54</span>
+
+I don't know.
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">00:31:06 - 00:31:54</span>
+
+Let's talk a little bit about anti-rational memes. I think this is one of the least understood parts of what you have written about. And it's mentioned briefly in The Beginning of Infinity. And it's basically, I think this is the part where I understand the least because I will admit I did not resonate with that chapter as well. But I think your thesis is that a lot of human progress was held back because the creativity went into figuring out how to keep people on the ideas that certain people already said these are the correct ideas and we're going to stay here. And then all creativity got poured into reinforcing those ideas as opposed to letting you wander outside of those boundaries. So what are these anti-rational memes? Are they still around? Is it always a war between them and the rational memes?
 
 ### David Deutsch
 
@@ -329,7 +384,7 @@ What do you think are the dominant anti-rational memes in this version of the en
 
 Yeah, I can't think of a plausible way we could go back to the dark ages. I'm sure it's possible for fundamental reasons, but I can't really imagine it happening. If I were to imagine it, it would be prophecy. And I can't really imagine it. I think when you say anti-rational memes today, we've got to make a distinction between the West and everyone else. Everyone else has still got, all the other cultures in the world are still dominated by anti-rational memes that embody their culture. That's the thing that's mostly, the anti-rational memes are mostly devoted to protecting their existence and only secondarily other things. In the West, I think, again, I don't know, but it seems to me that the subculture or the set of ideas in the West that is most anti-rational are the ones to do with education. Yeah, why education? Maybe again, maybe we should expect that because like I said about biology, what are the most stable constructs in DNA? They are the code for ribosomes. The ribosomes are the educational institutions of cells. Their job is to pass on all the knowledge from one generation to the next. And they have to do that as faithfully as evolution can make it. And any evolution that occurs is in the direction of making them more faithful. They're still not perfectly faithful, but that's not evolution's fault. That's physics' fault. We've got too many cosmic rays coming down and too much ultraviolet light and so on. And it is thought, although again, I saw a YouTube video saying that maybe this isn't at all true, but biologists think that the ribosome stopped evolving, what is it, two billion years ago. Nothing else has carried on evolving and the ribosome hasn't. The DNA code has remained the same, even though you could, and they have, invented a different DNA code and implemented an artificial ribosome and it doesn't exist in nature. In a culture, traditionally, the thing that is responsible for maintaining the culture over generations, fighting the fact that people die and the cultures want to stay the same, wanting to preserve their knowledge, are educational institutions. And of course, from that point of view, they have to be anti-rational, just like evolution is. So then the mystery is not why they're anti-rational, it's why everything else has become more and more rational in the West. And that is, I don't know, again, this is a matter for historians. Ayaan Hirsi Ali was going to write a book about the Enlightenment and it hasn't materialised. I first heard her talking about this many years ago and I don't know why she hasn't written it. She's the perfect person to write it.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:41:20 - 00:41:56</span>
 
@@ -375,7 +430,19 @@ What's underpinning the whole thing? Is it error correction? What is underpinnin
 
 <span class="transcript-timestamp">00:44:50 - 00:46:40</span>
 
-I could say freedom of speech is the thing that needs to be protected at all costs. I don't think it's true that freedom of speech is being that much impaired at the moment. Certain things you're not allowed to say. So it's more that, and certain things you must say, which is perhaps even worse. But they are, I would call those fads, shibboleths, rather than actual reduction in the freedom of speech. And in, I don't know if you like this analogy, but in medieval times there were guilds. And if you wanted to make anything to join a guild, and therefore there was only one way of making a thing, and there was no scope for inventing a different way of making the thing because you'd have to join a guild and they wouldn't let you. Now that is the kind of thing we do not have at the moment in regard to freedom of speech. It's not that anybody that wants to say anything has to get permission. It's that anyone who says things in public has to obey certain constraints. But they are, I think the language is still universal, even if you obey those constraints. If the things you had to say became a substantial proportion of everything that everyone says, then if you had to say Comrade Stalin at the beginning of every maths paper, even then it didn't completely stop Soviet mathematicians from pursuing maths. And we're nowhere near that. We're nowhere near having to make a woke declaration at the beginning of every paper. Do you have your pronouns in your bio? That would be, so that's the thing that isn't happening yet. That would be the beginning of the law.
+I could say freedom of speech is the thing that needs to be protected at all costs. I don't think it's true that freedom of speech is being that much impaired at the moment. Certain things you're not allowed to say. So it's more that, and certain things you must say, which is perhaps even worse. But they are, I would call those fads, shibboleths, rather than actual reduction in the freedom of speech. And in, I don't know if you like this analogy, but in medieval times there were guilds. And if you wanted to make anything to join a guild, and therefore there was only one way of making a thing, and there was no scope for inventing a different way of making the thing because you'd have to join a guild and they wouldn't let you. Now that is the kind of thing we do not have at the moment in regard to freedom of speech. It's not that anybody that wants to say anything has to get permission. It's that anyone who says things in public has to obey certain constraints. But they are, I think the language is still universal, even if you obey those constraints. If the things you had to say became a substantial proportion of everything that everyone says, then if you had to say Comrade Stalin at the beginning of every maths paper, even then it didn't completely stop Soviet mathematicians from pursuing maths. And we're nowhere near that. We're nowhere near having to make a woke declaration at the beginning of every paper.
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">00:44:50 - 00:46:40</span>
+
+Do you have your pronouns in your bio?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:44:50 - 00:46:40</span>
+
+That would be, so that's the thing that isn't happening yet. That would be the beginning of the law.
 
 ### Naval Ravikant
 
@@ -401,7 +468,7 @@ Elon Musk today.
 
 Yeah, and you.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:47:47 - 00:48:08</span>
 
@@ -449,7 +516,7 @@ Okay, so the conditions at the prison might have improved. Yeah, greatly. Okay, 
 
 Funny you should mention language, but speaking one's native language and walking are two things that are not taught in our culture and never have been, I think. And nobody says some quote from an educational series that says that if children were taught to walk in school, then they'd be 10 years old and still not able to walk. Half of them would be. And the other half wouldn't have learned it in class. I think that's true of everything. So one problem is that this idea of not having an agenda for how they should be, how they should turn out, is very counterintuitive because the prevailing theory is not just wrong philosophy of the bucket theory of the mind. It also goes against cultural practices. If a child doesn't go to school and meets other children and they're going to say, oh, you don't go to school, that's nice, but what's seven and five? And then your child is going to say, I don't know, and I don't care. And you are going to be embarrassed and you are going to find it difficult not to be and not to pass that on to your children. By the way, the vast majority of those improvements, not just in school, but in parenting as well, were done by left-wing people, which is ironic because their theory of what should be done in the wider culture was always harmful. But their influence on educational theory and practice has been almost everything good that's happened in education in the last hundred years has been done by leftists. And they thought they were undermining society. You would say to them, if you don't beat children into conformity, then how will they work in factories? The right-wing people would say, and the left-wing people would say, that's exactly what we're trying to do. They were wrong because they were wrong about everything except their educational theory. So it's not that they thought that culture could be transmitted better and also improved by not forcing it. They thought that culture was bad and shouldn't be transmitted. That was why they did all their good things. And now that this process is pretty much spent, you can't make the classrooms any more pastel coloured and you can't speak to the children in nicer ways.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">00:58:09 - 00:58:17</span>
 
@@ -461,11 +528,17 @@ When I try to explain a more libertarian view of how learning works, learning ju
 
 Creation, exactly.
 
+### Brett Hall
+
+<span class="transcript-timestamp">00:58:19 - 00:59:07</span>
+
+And so what Popper writes about in how science and knowledge broadly is generated is what's going on in the mind of the learner. And it just seems to be a logical line to draw that if Popper begins with the project of science is you start with a problem, then obviously any mandated curriculum, even no matter how liberal you want your curriculum to be in choice, you're handing the student either problems or worse still the solutions to problems. And as you say, I don't know if you're quoting Popper when you say answers to questions not asked. That's like the purpose of it. Yeah, quoting Popper.
+
 ### Naval Ravikant
 
 <span class="transcript-timestamp">00:58:19 - 00:59:07</span>
 
-And so what Popper writes about in how science and knowledge broadly is generated is what's going on in the mind of the learner. And it just seems to be a logical line to draw that if Popper begins with the project of science is you start with a problem, then obviously any mandated curriculum, even no matter how liberal you want your curriculum to be in choice, you're handing the student either problems or worse still the solutions to problems. And as you say, I don't know if you're quoting Popper when you say answers to questions not asked. That's like the purpose of it. Yeah, quoting Popper. But if we go to the seven plus five example, that has practical value as well. If the kid doesn't know how to do seven plus five, they'll have a hard time navigating our society, which punishes innumeracy.
+But if we go to the seven plus five example, that has practical value as well. If the kid doesn't know how to do seven plus five, they'll have a hard time navigating our society, which punishes innumeracy.
 
 ### David Deutsch
 
@@ -503,7 +576,7 @@ In my ideal world, everybody does something different. There is no standard thin
 
 Slave children learning to read was illegal. Not for the slaves. It was illegal to teach them to read. And there were people who would clandestinely teach that so that there were these teenage boys who'd been working in the fields to the maximum extent that you can be forced to work in a field. Then they came home and then they slunk off to this lady's house where she would be teaching them to read. And if she had been caught, she would have gone to prison. And they would have been whipped. So then he escaped and he got to the north and he made a great success. Now I always think what a terrible tragedy. There were these teenage boys who were willing to risk a whipping and to go to these lessons when they were already exhausted, physically exhausted from over-hard work. And today their descendants are thought to have a low IQ or be perverse and not want that. And anyway, one way or another, they have to be forced into the school to learn. And their ancestors were exactly the other way around. And I think their ancestors were how humans are. That is how humans are. Not just black and white, not just teenagers and adults, but all humans. So probably those Frederick Douglass and his pals who went to that lady's house were not all the slaves. Probably some of them didn't go because they didn't want to. They thought we'd better get a good night's rest instead. And maybe that was best for them. Who can decide that better than them? Somebody ought to make a movie about this, by the way, because Frederick Douglass is absolutely brilliant in every way, not just a little thing. I can imagine them talking, the ones that went to learn to read, and they would say, it completely opens your eyes to a different world if you can read. And they would say, yeah, but I'm tired. And if you meet Steven Spielberg, tell him.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">01:07:12 - 01:08:18</span>
 
@@ -527,7 +600,7 @@ In a way, they're the most stuck in frozen institutions. I got a tour of the Oxf
 
 They've kept exactly the wrong things and they've changed things to exactly the wrong things. We still have enacting rituals, but enacting rituals isn't our culture. And on the other hand, they've got all sorts of subjects that didn't exist then because they're useless. And existing subjects, useful subjects are being taken over. Richard Dawkins almost got cancelled the previous time when he went to New Zealand and they said that they're incorporating traditional modes of understanding physics. And he was like, no, there is only one mode of understanding physics. And they were like, that's racist.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">01:11:18 - 01:11:24</span>
 
@@ -543,7 +616,13 @@ Well, this was a few years ago. So maybe it's done in New Zealand and Australia.
 
 <span class="transcript-timestamp">01:11:41 - 01:12:33</span>
 
-I look forward to the indigenous electric motor. There was a famous case, there was a book written by, what was his name? Dark Emu is the name of the book where it's just a revisionist history that claims that prior to European settlement in Australia, the indigenous people were farming, they had agriculture, they were on their way to factories and all this sort of stuff. And people just lap it up. It is making its way into the curriculum now as well. Bruce Pascoe is his name. Yeah, he claims to be indigenous, but he's not. That goes to our capacity to error correct. Misinformation is a fashionable term, but it's also, libels are a very genuine phenomenon. I think it was only a few months ago that Osama bin Laden's letter to America or whatever was going around being praised by certain college students. They thought, yeah, not understanding that this was not a good guy.
+I look forward to the indigenous electric motor.
+
+### Brett Hall
+
+<span class="transcript-timestamp">01:11:41 - 01:12:33</span>
+
+There was a famous case, there was a book written by, what was his name? Dark Emu is the name of the book where it's just a revisionist history that claims that prior to European settlement in Australia, the indigenous people were farming, they had agriculture, they were on their way to factories and all this sort of stuff. And people just lap it up. It is making its way into the curriculum now as well. Bruce Pascoe is his name. Yeah, he claims to be indigenous, but he's not. That goes to our capacity to error correct. Misinformation is a fashionable term, but it's also, libels are a very genuine phenomenon. I think it was only a few months ago that Osama bin Laden's letter to America or whatever was going around being praised by certain college students. They thought, yeah, not understanding that this was not a good guy.
 
 ### David Deutsch
 
@@ -551,17 +630,17 @@ I look forward to the indigenous electric motor. There was a famous case, there 
 
 Okay, so maybe the way to go, if we can't restore 1950s schools, how about restoring 1950s curriculum? That's something that the government could do. The national curriculum, of course, is an abomination. Maybe it's one of those things that can be as a transitional thing. Have the national curriculum now and it's full of woke stuff. It's in the government's power to change that, to make it into true stuff. The government could change the national curriculum and then it may be that this woke stuff, I said it's a fad, it's not, how can I put this? It's not an evolved thing. It's not a blind alley that culture has gone down, it's a fad. So it could be that after a generation of teaching old-fashioned history, history teachers will think that's what it is, rather than, because it's the teachers and the pupils are getting the revisionist history at the moment. If they got another history, would they even notice? Maybe they wouldn't even notice. I don't know, maybe I was too optimistic. I get the feeling that it's all shallow. I think of lefties of the 20s and 30s, they believed stuff. They believed in the capitalist class stealing the fruits of the labour of the working class and that this is why the working class are poor and all that stuff. The remedy is that they had a theory, whereas I don't think woke is a theory.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">01:14:15 - 01:14:21</span>
 
-It's a denial of a whole bunch of otherwise good pieces of knowledge, whether it be science
+It's a denial of a whole bunch of otherwise good pieces of knowledge, whether it be science or enlightenment ideas.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:14:21 - 01:14:41</span>
 
-Or enlightenment ideas. As I have often said, the negation of an explanation is not an explanation. So they don't have a rival worldview, except the worldview that you're supposed to say certain things, not say other things and so on. But it's not a worldview in the sense that communism was.
+As I have often said, the negation of an explanation is not an explanation. So they don't have a rival worldview, except the worldview that you're supposed to say certain things, not say other things and so on. But it's not a worldview in the sense that communism was.
 
 ### Naval Ravikant
 
@@ -623,7 +702,7 @@ They could be poisonous in the sense that they drive certain voting blocks and t
 
 There are plenty of Muslims who are pro-Israel. The mindless ones are anti-Israel. Like I just tweeted today that what's it called? Travel in Israel video blog was talking about the collaboration of the Palestinians with the Nazis during World War II. And he happened to mention, I think he should have made much more of this, that Grand Mufti was going around Europe recruiting Muslims to the Nazi cause. In Albania, he totally failed. In Albania, the absolute opposite. They were one of two countries that rescued almost all their Jews. One was Denmark and they didn't have that many. There was only about 6,000 in the whole of Denmark, but they rescued almost all of them. But the Albanians, there were a lot of Jews there and a lot of Italian and other Jews had moved to Albania as a refuge and they were all saved because the Albanians as a population thought it was even as their religion, they thought it was their duty to thwart the deportation of the Jews and they succeeded. So this is, as I tweeted as well, this is a counter example to the narrative that some otherwise cogent commentators like you just did assume. It's not necessarily the case. And it's also not necessarily the case. So we've had in Britain, we've had Muslim immigrants and then their children are radicalized. Not them, their children are radicalized. Whose fault is that? That's not the fault of Islam. That's the fault of Britain and multiculturalism and pandering to the other and so on and setting up the educational system so that it trashes Britain and glorifies the other and so on. But it needn't have been a hundred years ago, there were hundreds of thousands of Muslims in the British army. Another 50 years earlier, there also were and they rebelled, but that's another story in the Indian mutiny. But then so did the Hindus. So again, it wasn't Islam. It was the fault of the West. Not for treating them too harshly, in a way for treating them too leniently. They should have been integrated and it should have been understood that the same law applies to them as to everyone else. I'm a second generation immigrant and I'm not violent. My parents came to this country and took for granted that they were going to have to work and they took for granted that they were going to have to learn English and speak it well and get a job and so on and that goes to university and they took for granted all those things. And the idea that they were owed something by the surrounding culture is quite the opposite. We owe something to the surrounding culture. That was their attitude.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">01:19:36 - 01:19:53</span>
 
@@ -635,7 +714,7 @@ To what extent then is it an existential threat to the UK given you have had the
 
 Yeah, note that those people aren't the only people who are being indulged in this way. Basically it's everyone who hates our culture is being indulged and everybody who is afraid of that is being demonised. The government can change that. I think the processes of criticism and persuasion are not impaired. The government isn't like almost everything that Douglas Murray says about this issue is perfectly legal and is going to remain legal even under the most draconian laws that are currently being proposed, which by the way may not succeed. There's a lot more to error correction in the British system than merely out voting the government. There's going to be all sorts of... because the government, one thing hasn't changed, the government no matter how large its majority knows that next week it could go down if suitable things happen. The basic reason that the government is going down this wrong path is that most people think it's okay. Most people don't think this is a disaster. They're like, okay, we don't want riots so let's have laws against riots. People are arguing but these aren't laws against riots. They're laws against hate or speech. That argument hasn't gone down with enough people and when it does, it'll change. Oh yes, this is what David Starkey was saying. He was saying that the red wall, if you know what that is...
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">01:21:36 - 01:21:38</span>
 
@@ -647,7 +726,7 @@ The Labour voting bloc.
 
 Yeah, the Labour voting bloc in Northern England which changed over to Boris Johnson en masse and changed back at this election. The red wall is never going to vote Labour again. Never ever. Because these measures are against it. Labour Party has severed its connection with the working class and they got in by a combination of circumstances because the Conservative Party was rubbish and the circumstances, the pandemic and all sorts of circumstances made people ready for a change but they have gone down. Now I don't think it's necessarily that they'll never vote Labour again because there are people in the Labour Party who will be able to see what's happening long before the next election and I'm sure there are people in the Labour Party now who see that they can't go on like this. We'll see. Let's see if the current woke legislation actually goes through when the Labour Party has a majority of a hundred and something. That's not enough for it to work. Let's see. If it goes through, the next level of error correction is that it'll never be implemented. Like the Home Office people will not order the police chiefs to spend the money to implement the surveillance system which will be necessary to enforce the law. None of that will happen because on the whole nothing happens. One of the things that's wrong with the Blob, with the Civil Service, it prevents everything. To have that happening, the government would have to pursue it. They would have to pursue it vigorously and ruthlessly, firing the people who didn't implement it and that kind of thing and only then, and then even then, when the first people go to jail for this kind of thing, there'll be an uproar. What are they going to do about it? Are they going to tell all the editors of the newspapers to say that this isn't proper and it should have happened? Yeah, at some point the editors of the newspapers are not going to automatically follow this line either. There will be a niche for people to contradict it. I don't think anything's inevitable. And once that problem is solved, by the way, then the population problem will also be solved because the obvious way of solving the population problem is by immigration. Mass immigration is the way to go and we've only got to make sure that people who hate this country don't immigrate into it.
 
-### Naval Ravikant
+### Brett Hall
 
 <span class="transcript-timestamp">01:24:25 - 01:24:27</span>
 

@@ -64,7 +64,7 @@ Just to kind of establish a little credentialing here, or bona fides, David has 
 
 Because that is the current human cry. But because that is sort of the popular part and the non-timeless part, I kind of want to get to it later if that's okay. Because first I want to capture just the core core of what we're talking about. These four theories that you just talked about, that's important to understand all of them. Let's start with perhaps, if you don't mind, epistemology, which is a fancy word for the theory of how knowledge grows or how knowledge growth occurs. And we've all been told since we were young that there's a scientific method and that scientists sort of do this stuff in white lab coats and we're supposed to accept it because of this thing called the scientific method. And then they give us true beliefs that we can then say, well, the science is settled and we take that, we move on. And we all only have a very, very vague understanding of how this works. And people say, well, maybe you go out in the real world, you look at what's happening, you make all these observations. And then based on that, you form a theory, you test the theory against more observations. And the more observations you get, the closer you get to the truth. And once you have enough observation, it's true. And then you call it a scientific theory or a law and it's settled and you move on. And this is the popular conception of how science works. And as Popper pointed out, and as you take even further, this is completely wrong.
 
-### Tim Ferriss
+### Naval Ravikant
 
 <span class="transcript-timestamp">00:15:29 - 00:15:38</span>
 
@@ -74,9 +74,21 @@ And so I would love for you to get into that, which is what is knowledge? How do
 
 <span class="transcript-timestamp">00:15:39 - 00:17:37</span>
 
-I love the way you just stated the prevailing view there and laced every aspect of it with the contempt that it deserves. So you just went through touching every base. I can't help it. It's amazing that this series of misconceptions is still common sense. I mean, that it was common sense at a time when we didn't really have science or when science was just starting up, when the main issue in science was freeing itself from dogmatism, freeing itself from religion, freeing itself from authority and so on. There it was understandable that people would look for an alternative source of authority and they would think, oh, it's sense impressions. We can see the world and you know, these religious people, they can't even see God and so on. And so we are confined to what we can see. That's where we get our ideas from. And as you say, that is completely false sense impressions, like all observation, even the most careful scientific observation is all theory laden and theories are inherently fallible. I mean, we actually want to replace our best theories. Everybody who does a PhD is technically anyway, working to overturn something in the existing body of knowledge. You're not turned away at the door if you say, I don't believe this stuff. I'm going to produce something better. Whereas for most of human history, that was exactly what you were forbidden to do. The idea was that we already had all the important knowledge. If you want to discover something new, what you had to make sure of was that it didn't contradict the existing knowledge. Now you have to make sure that does contradict the existing knowledge, so more or less.
+I love the way you just stated the prevailing view there and laced every aspect of it with the contempt that it deserves. So you just went through touching every base.
 
-### Tim Ferriss
+### Naval Ravikant
+
+<span class="transcript-timestamp">00:15:39 - 00:17:37</span>
+
+I can't help it.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:15:39 - 00:17:37</span>
+
+It's amazing that this series of misconceptions is still common sense. I mean, that it was common sense at a time when we didn't really have science or when science was just starting up, when the main issue in science was freeing itself from dogmatism, freeing itself from religion, freeing itself from authority and so on. There it was understandable that people would look for an alternative source of authority and they would think, oh, it's sense impressions. We can see the world and you know, these religious people, they can't even see God and so on. And so we are confined to what we can see. That's where we get our ideas from. And as you say, that is completely false sense impressions, like all observation, even the most careful scientific observation is all theory laden and theories are inherently fallible. I mean, we actually want to replace our best theories. Everybody who does a PhD is technically anyway, working to overturn something in the existing body of knowledge. You're not turned away at the door if you say, I don't believe this stuff. I'm going to produce something better. Whereas for most of human history, that was exactly what you were forbidden to do. The idea was that we already had all the important knowledge. If you want to discover something new, what you had to make sure of was that it didn't contradict the existing knowledge. Now you have to make sure that does contradict the existing knowledge, so more or less.
+
+### Naval Ravikant
 
 <span class="transcript-timestamp">00:17:38 - 00:17:45</span>
 
@@ -86,7 +98,31 @@ It's this tradition of criticism that you've talked about in the West, that the 
 
 <span class="transcript-timestamp">00:17:46 - 00:21:12</span>
 
-It has been institutionalized. So in many ways, our institutions are wiser than we are. So the institutions of science, for instance, have this built in, even if scientists actually don't always act that way. In fact, they often don't act that way and act in a dogmatic way and try to preserve the status quo and are resistant to new ideas and so on. But the institutions, the way the procedures of science work makes the right thing happen in the end anyway, regardless of what the people are trying to do. So you're saying the knowledge of the true scientific method is embedded in the institutions of science in the PhD process? Well, the best scientific method that we know of, and one shouldn't really think of it as a method. There's this wonderful lecture by Popper when he first was made a professor at the London School of Economics. He was made a professor of scientific method and his first six lectures, I wish the rest of them were, the first six lectures are on the internet somewhere. And he starts the first one by saying, I am the first professor of scientific method in the British Empire. This was a British Empire still existed at the time, more or less. And so the first thing I want to say to you is that there is no such thing as the scientific method. And then he goes on from there. So this subject does not exist. So if any of you have come here to learn the handle that you have to turn in order to make scientific knowledge come out the other end, you're going to be disappointed. So how do we make scientific knowledge come out the other end? How does knowledge grow? How does science grow? According to Popper and I entirely follow him in this matter, all knowledge, not just scientific knowledge, begins with a problem and then continues with conjectures. Existing theories are existing conjectures. So you could say it starts with existing conjectures, but we don't actually do anything with those until a problem arises. Problem is a prima facie conflict between our ideas, which could be as simple as we can't get the experiment to work. Okay, maybe it wasn't plugged in, you know, maybe we got a low quality transistor in there. Or maybe the laws of physics aren't what we think they are. Contrary to what the prevailing theory would say, that's not the first result. That's pretty much the last result. We don't do an experiment hoping to get a violation of the laws of physics. That never happens. Absolutely never happens. The only time we ever discover a violation of the laws of physics is if we already have, at least in rudimentary form, a rival theory. If we have more than one theory, or if there's a way of one way of tweaking the theory or another way of tweaking the theory, something has got to be in conflict. Because if we only have one theory, if we really only have one theory, then what we will naturally do, and what is absolutely the right thing to do, is to write off the apparent violation of the theory as an error.
+It has been institutionalized. So in many ways, our institutions are wiser than we are. So the institutions of science, for instance, have this built in, even if scientists actually don't always act that way. In fact, they often don't act that way and act in a dogmatic way and try to preserve the status quo and are resistant to new ideas and so on. But the institutions, the way the procedures of science work makes the right thing happen in the end anyway, regardless of what the people are trying to do.
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">00:17:46 - 00:21:12</span>
+
+So you're saying the knowledge of the true scientific method is embedded in the institutions of science in the PhD process?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:17:46 - 00:21:12</span>
+
+Well, the best scientific method that we know of, and one shouldn't really think of it as a method. There's this wonderful lecture by Popper when he first was made a professor at the London School of Economics. He was made a professor of scientific method and his first six lectures, I wish the rest of them were, the first six lectures are on the internet somewhere. And he starts the first one by saying, I am the first professor of scientific method in the British Empire. This was a British Empire still existed at the time, more or less. And so the first thing I want to say to you is that there is no such thing as the scientific method. And then he goes on from there. So this subject does not exist. So if any of you have come here to learn the handle that you have to turn in order to make scientific knowledge come out the other end, you're going to be disappointed.
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">00:17:46 - 00:21:12</span>
+
+So how do we make scientific knowledge come out the other end? How does knowledge grow? How does science grow?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:17:46 - 00:21:12</span>
+
+According to Popper and I entirely follow him in this matter, all knowledge, not just scientific knowledge, begins with a problem and then continues with conjectures. Existing theories are existing conjectures. So you could say it starts with existing conjectures, but we don't actually do anything with those until a problem arises. Problem is a prima facie conflict between our ideas, which could be as simple as we can't get the experiment to work. Okay, maybe it wasn't plugged in, you know, maybe we got a low quality transistor in there. Or maybe the laws of physics aren't what we think they are. Contrary to what the prevailing theory would say, that's not the first result. That's pretty much the last result. We don't do an experiment hoping to get a violation of the laws of physics. That never happens. Absolutely never happens. The only time we ever discover a violation of the laws of physics is if we already have, at least in rudimentary form, a rival theory. If we have more than one theory, or if there's a way of one way of tweaking the theory or another way of tweaking the theory, something has got to be in conflict. Because if we only have one theory, if we really only have one theory, then what we will naturally do, and what is absolutely the right thing to do, is to write off the apparent violation of the theory as an error.
 
 ### David Deutsch
 
@@ -110,31 +146,97 @@ Yeah, that's a four-fold question, of course, even if you don't want the connect
 
 <span class="transcript-timestamp">00:29:05 - 00:32:54</span>
 
-You can't even begin to address that. If you don't start with our best explanation of what computation is and how it relates with the physical world. Some people might say, well, consciousness isn't even in the physical world. Okay, I think we have to reject the supernatural when arguing about things, because otherwise it just destroys the argument and puts a full stop to it. So evolution also, well, Daniel Dennett says that evolution is the greatest idea ever had and that it's the universal acid or something, which eats away at bad theories. Yeah, well, again, I wish that the proponents of evolution would insist on explaining rather than explaining why God doesn't exist or whatever they're obsessed with, explaining why Lamarckism isn't true, for example, why it's not true that giraffes got their long necks because they reached up to reach the high foliage. That's not true. And therefore, for example, theories of consciousness and whatever theories of the economy, which are basically Lamarckian, are also not true, because Lamarckism was disposed of by Darwin. And Darwin didn't really have the confidence of his own theory, really. There are passages in Darwin which are a bit Lamarckist. But Dawkins and colleagues, again, put icing on the cake. There is no Lamarckism. There's no group selection either. That's another point. Group selection is another maverick theory of evolution proposed by Stephen Jay Gould and more recently by, I forget, but anyway, it comes up constantly. And those explanations have been refuted. They've been shown to be bad explanations. Of course, if someone comes up with a new explanation, that has to be treated quite differently. But nobody does. They always go back to the arguments that don't make sense ultimately. Okay, what happened? You know, you shouldn't ask four-fold questions. You have to remember which are done. Quantum physics and multiverse theory, I think, is the remaining one. Yeah, so those are the two most obviously connected because the idea that quantum theory is a theory of parallel universes. By the way, it was Schrödinger who really was the first, but he never developed the theory. Everett was the one who developed the theory, introduced the terminology, the details, connected it with other parts of physics and so on. And then I was, again, I was sort of mystified why people didn't get this, because to accept the Everett interpretation, so-called interpretation, is simply to accept quantum theory. And you have to go along with the arguments that you just have to do as a physicist. You have to do what you're trained to do and judge these theories by the methods that we're trained to judge them by, and nobody does. So I thought, okay, I'm going to sort this out. So I thought Everett was actually mistaken when he conceded that no experiment could distinguish between his multiverse version of quantum theory and the rather vague nonsense, I would say, that goes under the name of the Copenhagen interpretation. By the way, just a side remark, Copenhagen interpretation is a misnomer.
+You can't even begin to address that. If you don't start with our best explanation of what computation is and how it relates with the physical world. Some people might say, well, consciousness isn't even in the physical world. Okay, I think we have to reject the supernatural when arguing about things, because otherwise it just destroys the argument and puts a full stop to it. So evolution also, well, Daniel Dennett says that evolution is the greatest idea ever had and that it's the universal acid or something, which eats away at bad theories. Yeah, well, again, I wish that the proponents of evolution would insist on explaining rather than explaining why God doesn't exist or whatever they're obsessed with, explaining why Lamarckism isn't true, for example, why it's not true that giraffes got their long necks because they reached up to reach the high foliage. That's not true. And therefore, for example, theories of consciousness and whatever theories of the economy, which are basically Lamarckian, are also not true, because Lamarckism was disposed of by Darwin. And Darwin didn't really have the confidence of his own theory, really. There are passages in Darwin which are a bit Lamarckist. But Dawkins and colleagues, again, put icing on the cake. There is no Lamarckism. There's no group selection either. That's another point. Group selection is another maverick theory of evolution proposed by Stephen Jay Gould and more recently by, I forget, but anyway, it comes up constantly. And those explanations have been refuted. They've been shown to be bad explanations. Of course, if someone comes up with a new explanation, that has to be treated quite differently. But nobody does. They always go back to the arguments that don't make sense ultimately. Okay, what happened? You know, you shouldn't ask four-fold questions. You have to remember which are done.
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">00:29:05 - 00:32:54</span>
+
+Quantum physics and multiverse theory, I think, is the remaining one.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:29:05 - 00:32:54</span>
+
+Yeah, so those are the two most obviously connected because the idea that quantum theory is a theory of parallel universes. By the way, it was Schrödinger who really was the first, but he never developed the theory. Everett was the one who developed the theory, introduced the terminology, the details, connected it with other parts of physics and so on. And then I was, again, I was sort of mystified why people didn't get this, because to accept the Everett interpretation, so-called interpretation, is simply to accept quantum theory. And you have to go along with the arguments that you just have to do as a physicist. You have to do what you're trained to do and judge these theories by the methods that we're trained to judge them by, and nobody does. So I thought, okay, I'm going to sort this out. So I thought Everett was actually mistaken when he conceded that no experiment could distinguish between his multiverse version of quantum theory and the rather vague nonsense, I would say, that goes under the name of the Copenhagen interpretation. By the way, just a side remark, Copenhagen interpretation is a misnomer.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:32:54 - 00:35:31</span>
 
-Copenhagen interpretation was founded by Niels Bohr and he had a sort of idiosyncratic view of how one should view quantum theory. And the thing which was later called the Copenhagen interpretation was actually invented by John von Neumann. And he didn't intend it to be the last word in quantum theory. He intended it to just be a stopgap measure that could be used without bothering with these esoteric questions. So I thought he's wrong about it can't be tested experimentally. I thought of a test, and the test, of course, had to involve, because you always need two theories, it had to involve the existing theory and the existing theory involved an observer, whatever that is. You know, the consciousness changes the wave function, makes it collapse. So I thought, well, you can't easily do microscopic experiments, quantum experiments, on an actual observer. So I imagined that one day we would have fine enough control over individual what's now called qubits, quantum mechanical bits, to use quantum mechanical bits in a computer and then run an artificial intelligence, artificial general intelligence program in that computer. And then it could do an experiment on itself. And it would be very straightforward. If the outcome was one thing, then there are parallel universes. And if the outcome was another thing, then there aren't. I wrote a paper about this. And in order to make it all work and dot the i's and cross the t's, I had to describe this computer as a computer. We would now call it a quantum computer. But this was around about 1977, 78. I did not call it that. I didn't think of it as that. I thought of it as an experiment, a thought experiment that was far from being doable. You had to have two things. What we would now call a quantum computer and what we would now call an AGI and the AGI running on the quantum computer. So quantum computers, in a way, came into the world or rather into the conceptual world via parallel universes. They can do this experiment. A classical computer couldn't do it. And if it's false, either computational universality is false or quantum theory is false, then the experiment won't work. That's fascinating. I did not know that quantum computing was a byproduct of you attempting to ...
+Copenhagen interpretation was founded by Niels Bohr and he had a sort of idiosyncratic view of how one should view quantum theory. And the thing which was later called the Copenhagen interpretation was actually invented by John von Neumann. And he didn't intend it to be the last word in quantum theory. He intended it to just be a stopgap measure that could be used without bothering with these esoteric questions. So I thought he's wrong about it can't be tested experimentally. I thought of a test, and the test, of course, had to involve, because you always need two theories, it had to involve the existing theory and the existing theory involved an observer, whatever that is. You know, the consciousness changes the wave function, makes it collapse. So I thought, well, you can't easily do microscopic experiments, quantum experiments, on an actual observer. So I imagined that one day we would have fine enough control over individual what's now called qubits, quantum mechanical bits, to use quantum mechanical bits in a computer and then run an artificial intelligence, artificial general intelligence program in that computer. And then it could do an experiment on itself. And it would be very straightforward. If the outcome was one thing, then there are parallel universes. And if the outcome was another thing, then there aren't. I wrote a paper about this. And in order to make it all work and dot the i's and cross the t's, I had to describe this computer as a computer. We would now call it a quantum computer. But this was around about 1977, 78. I did not call it that. I didn't think of it as that. I thought of it as an experiment, a thought experiment that was far from being doable. You had to have two things. What we would now call a quantum computer and what we would now call an AGI and the AGI running on the quantum computer. So quantum computers, in a way, came into the world or rather into the conceptual world via parallel universes. They can do this experiment. A classical computer couldn't do it. And if it's false, either computational universality is false or quantum theory is false, then the experiment won't work.
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">00:32:54 - 00:35:31</span>
+
+That's fascinating. I did not know that quantum computing was a byproduct of you attempting to ...
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">00:35:32 - 00:37:52</span>
+
+Create a test for multiverse theory. And in fact, I think another byproduct was that taking Turing machine, which was on kind of an abstract space or theoretical space, and moving it to real paper or to real machines, you find out that reality is capable of greater computation. And when you combine these theories, as you often do, I find that they're beautiful outputs. For example, I think you mentioned that quantum computation can do things like Shor's algorithm, which factors prime numbers. This is a big problem in cryptography.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:35:32 - 00:37:52</span>
+
+Composite numbers, yes.
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">00:35:32 - 00:37:52</span>
+
+Yes. It relies upon the fact that it's very hard to factor large complex numbers, but it's easy to combine them and so on. And where's a quantum computer getting the compute power from to do all this when a classical computer can't? And the Occam's razor answer just cuts through it. It's like, well, it's using the whole multiverse to do the computation. There aren't enough atoms or bits in our universe alone to do it. And so connecting these different theories together, because I think it's fine when I said nature has no boundaries, nature doesn't divide things up into sub-disciplines. By connecting these things together, you get much deeper explanations.
 
 ### Tim Ferriss
 
 <span class="transcript-timestamp">00:35:32 - 00:37:52</span>
 
-Create a test for multiverse theory. And in fact, I think another byproduct was that taking Turing machine, which was on kind of an abstract space or theoretical space, and moving it to real paper or to real machines, you find out that reality is capable of greater computation. And when you combine these theories, as you often do, I find that they're beautiful outputs. For example, I think you mentioned that quantum computation can do things like Shor's algorithm, which factors prime numbers. This is a big problem in cryptography. Composite numbers, yes. Yes. It relies upon the fact that it's very hard to factor large complex numbers, but it's easy to combine them and so on. And where's a quantum computer getting the compute power from to do all this when a classical computer can't? And the Occam's razor answer just cuts through it. It's like, well, it's using the whole multiverse to do the computation. There aren't enough atoms or bits in our universe alone to do it. And so connecting these different theories together, because I think it's fine when I said nature has no boundaries, nature doesn't divide things up into sub-disciplines. By connecting these things together, you get much deeper explanations. Just a quick thanks to one of our sponsors, and we'll be right back to the show. This episode is brought to you by LinkedIn jobs. These days, every new potential hire can feel like a high stakes gamble for your small business. So you want to be 100% certain that you have access to the most qualified candidates. That's why you should check out LinkedIn jobs. LinkedIn jobs helps you find the right people for your team faster and for free. Add your job and the purple hashtag hiring frame to your LinkedIn profile to spread the word that you're hiring. Simple tools like screening questions make it easy to focus on candidates with just the right skills and experience. So you can quickly prioritize who you'd like to interview and hire. It's why small businesses rate LinkedIn jobs number one in delivering quality hires versus leading competitors. LinkedIn jobs helps you find the qualified candidates you want to talk to faster. So post your job for free at linkedin.com slash Tim. That's linkedin.com slash Tim to post your job for free. Terms and conditions apply. We've been using this term over and over again, explanation, good explanation, deep explanation. Would you mind just giving us your current best definition or hallmark of what a good explanation is and looks like?
+Just a quick thanks to one of our sponsors, and we'll be right back to the show. This episode is brought to you by LinkedIn jobs. These days, every new potential hire can feel like a high stakes gamble for your small business. So you want to be 100% certain that you have access to the most qualified candidates. That's why you should check out LinkedIn jobs. LinkedIn jobs helps you find the right people for your team faster and for free. Add your job and the purple hashtag hiring frame to your LinkedIn profile to spread the word that you're hiring. Simple tools like screening questions make it easy to focus on candidates with just the right skills and experience. So you can quickly prioritize who you'd like to interview and hire. It's why small businesses rate LinkedIn jobs number one in delivering quality hires versus leading competitors. LinkedIn jobs helps you find the qualified candidates you want to talk to faster. So post your job for free at linkedin.com slash Tim. That's linkedin.com slash Tim to post your job for free. Terms and conditions apply.
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">00:35:32 - 00:37:52</span>
+
+We've been using this term over and over again, explanation, good explanation, deep explanation. Would you mind just giving us your current best definition or hallmark of what a good explanation is and looks like?
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">00:37:52 - 00:41:30</span>
+
+Because I found that that concept alone upgraded my thinking more than almost anything else.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:37:52 - 00:41:30</span>
 
-Because I found that that concept alone upgraded my thinking more than almost anything else. So the way I'm currently thinking about it is that an explanation is a story. It's a story that accounts for something. So this something could be something in the physical world. Why do we have five fingers? Which I think is a mystery. As far as I know, it is a mystery. So that would be a problem. So you have an explanation. An explanation is a story that accounts for this. But there are good explanations and there are bad explanations. So just so stories like, you know, how the elephant got his trunk because he stuck his snout into the river and something pulled at it and that kind of story is not a good explanation. That one isn't a good explanation because it doesn't account for the thing we're trying to explain. So an elephant could have his trunk pulled, but then the offspring of that elephant doesn't have a different trunk or rather a non-elephant could have his trunk pulled and offspring do not then turn into elephants. So that story is the kind of thing that can make a satisfactory myth or story, but it's not a good explanation. It is an explanation. It's definitely better than nothing, but it's not a good explanation. So what makes a good explanation? It's that it can't be easily varied and still account for the same thing. So somebody could vary the story of the animal. You know, I just, right now I couldn't remember which animal it was that I think is, was it Rudyard Kipling that got his nose pulled? But anyway, obviously I could easily substitute that for another animal and I could substitute the whole basis of the story to a different basis, like with the giraffe, maybe the elephant was reaching up into the foliage and maybe that's how it got its long nose and so on. Now turns out that this is hard to do, making good explanations. And when they first wondered these things thousands of years ago, they didn't come anywhere near the right explanation, which has to do with DNA and genes and selection and so on. But as Popper says, science begins with myths. Good explanations begin with bad explanations. You get there between the bad explanation and the good explanation by criticism, by conjecturing variants of the story and then criticizing both them and the original story and then choosing the one that survives the criticism. And then you can move on from there to a better thing. So whether at some point before Darwin, people realized that there had to be something inside, something that we can't see inside animals, which gives them their different attributes when they mature. And nobody invented the word gene, but Mendel had done experiments to test the common sense theory of this and found that it was wrong. And he made a new theory. And that new theory, well actually Darwin didn't know of it till later, but Darwin was very impressed because it perfectly fitted in with his theory and made that a better explanation.
+So the way I'm currently thinking about it is that an explanation is a story. It's a story that accounts for something. So this something could be something in the physical world. Why do we have five fingers? Which I think is a mystery. As far as I know, it is a mystery. So that would be a problem. So you have an explanation. An explanation is a story that accounts for this. But there are good explanations and there are bad explanations. So just so stories like, you know, how the elephant got his trunk because he stuck his snout into the river and something pulled at it and that kind of story is not a good explanation. That one isn't a good explanation because it doesn't account for the thing we're trying to explain. So an elephant could have his trunk pulled, but then the offspring of that elephant doesn't have a different trunk or rather a non-elephant could have his trunk pulled and offspring do not then turn into elephants. So that story is the kind of thing that can make a satisfactory myth or story, but it's not a good explanation. It is an explanation. It's definitely better than nothing, but it's not a good explanation. So what makes a good explanation? It's that it can't be easily varied and still account for the same thing. So somebody could vary the story of the animal. You know, I just, right now I couldn't remember which animal it was that I think is, was it Rudyard Kipling that got his nose pulled? But anyway, obviously I could easily substitute that for another animal and I could substitute the whole basis of the story to a different basis, like with the giraffe, maybe the elephant was reaching up into the foliage and maybe that's how it got its long nose and so on. Now turns out that this is hard to do, making good explanations. And when they first wondered these things thousands of years ago, they didn't come anywhere near the right explanation, which has to do with DNA and genes and selection and so on. But as Popper says, science begins with myths. Good explanations begin with bad explanations. You get there between the bad explanation and the good explanation by criticism, by conjecturing variants of the story and then criticizing both them and the original story and then choosing the one that survives the criticism. And then you can move on from there to a better thing. So whether at some point before Darwin, people realized that there had to be something inside, something that we can't see inside animals, which gives them their different attributes when they mature. And nobody invented the word gene, but Mendel had done experiments to test the common sense theory of this and found that it was wrong. And he made a new theory. And that new theory, well actually Darwin didn't know of it till later, but Darwin was very impressed because it perfectly fitted in with his theory and made that a better explanation.
 
-### Tim Ferriss
+### David Deutsch
 
 <span class="transcript-timestamp">00:41:31 - 00:42:57</span>
 
-Just as Darwin made Mendel's theory a better explanation. So good explanations are stories that purport to actually help us understand what is going on. They explain all of or as many of the seen things that we can see often in terms of the unseen, or at least they explain more than the previous theory did. I think always. Yes. And they're hard to vary. You can't just move the goalposts around. You can't change the story around without destroying the output of it. And I think in a classic example you gave in your book was how the Greeks said, well, spring happens because Persephone is leaving Hades. And so that's why spring happens. But that story is very easy to vary. Why Persephone? Why not Nike? Why Hades? Why not Zeus? Why in this particular time of year? Whereas the axial tilt theory of the earth, that the earth is angled 23 and a half degrees towards the sun, explains a lot. It explains seasons. It explains different day lengths at different latitudes. But it is very hard to vary. If you change even one tiny thing about that theory, then it sort of falls apart and it makes a completely different set of predictions. And so this is kind of how the growth of knowledge happens. And so I think this leads you to a very important principle you talk about, which is a principle of optimism. And it's interesting that something like optimism comes out of conjecture and criticism. How does that happen? Why should we be optimistic?
+Just as Darwin made Mendel's theory a better explanation.
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">00:41:31 - 00:42:57</span>
+
+So good explanations are stories that purport to actually help us understand what is going on. They explain all of or as many of the seen things that we can see often in terms of the unseen, or at least they explain more than the previous theory did.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:41:31 - 00:42:57</span>
+
+I think always. Yes.
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">00:41:31 - 00:42:57</span>
+
+And they're hard to vary. You can't just move the goalposts around. You can't change the story around without destroying the output of it. And I think in a classic example you gave in your book was how the Greeks said, well, spring happens because Persephone is leaving Hades. And so that's why spring happens. But that story is very easy to vary. Why Persephone? Why not Nike? Why Hades? Why not Zeus? Why in this particular time of year? Whereas the axial tilt theory of the earth, that the earth is angled 23 and a half degrees towards the sun, explains a lot. It explains seasons. It explains different day lengths at different latitudes. But it is very hard to vary. If you change even one tiny thing about that theory, then it sort of falls apart and it makes a completely different set of predictions. And so this is kind of how the growth of knowledge happens. And so I think this leads you to a very important principle you talk about, which is a principle of optimism. And it's interesting that something like optimism comes out of conjecture and criticism. How does that happen? Why should we be optimistic?
 
 ### David Deutsch
 
@@ -148,19 +250,19 @@ It surprised me too. At the heart of the matter is the rejection of the supernat
 
 Well, because we don't have the knowledge. What else could it be? Well, it could be that there's a law of physics that prevents us doing so. We might want to travel faster than light, but there's a law that says that we can't. So then you have to slightly alter the assertion and say there's no limit to what we can do other than the laws of physics. And the laws of physics are the solution of that problem, because supposing somebody is making faster and faster rockets and they find that they make the rocket twice as powerful and it doesn't go any faster because it's already going at 99.99% of the speed of light. Well, this means that the thing he wanted violates the laws of physics. But there is no other impediment possible other than violating the laws of physics. There is no other impediment to us achieving something in the world. And that's not only the physical world. It's also solving human problems, because human problems are just a species of computation. And a computation is a physical process. And a problem with physical processes is solved by explanations, unless again, it's governed by the laws of physics. These people who are at the moment brilliant people trying to make quantum computers, they take for granted that if there's something they can't do, it'll be because the laws of physics say so. And if the laws of physics don't say so, then they can damn well do it. It's just a matter of ingenuity.
 
-### Tim Ferriss
+### Naval Ravikant
 
 <span class="transcript-timestamp">00:47:53 - 00:47:54</span>
 
 So you're basically saying
 
-### David Deutsch
+### Naval Ravikant
 
 <span class="transcript-timestamp">00:47:54 - 00:47:58</span>
 
 Yes, unless the laws of physics explicitly forbid it, we can figure it out.
 
-### Tim Ferriss
+### Naval Ravikant
 
 <span class="transcript-timestamp">00:47:58 - 00:48:18</span>
 
@@ -176,25 +278,43 @@ To that one, that couldn't be, we must be able to understand things apart from b
 
 <span class="transcript-timestamp">00:48:38 - 00:49:43</span>
 
-I have a question. And this might be just a stupid question from the cheap seats. But I'll ask it nonetheless, which is, how does will fit into your thoughts around optimism? If at all, and perhaps this is a poorly worded question. But I remember someone saying to me, this is long ago, if someone says nothing can be done, or they say everything will be fine in the end, the outcome is the same, which is complacency. And I'm just wondering where knowledge gets translated or not translated into action. And how that factors at all into your thoughts on optimism? Suppose that we are trying to do something, which seems possible. Like I said, I gave an example of speed of light, which is perhaps a very bad example. But suppose we were trying to, let's say we're trying to make a high vacuum, a very high vacuum, and we've got it down to, you know, a million atoms per cubic meter, and then down to 900,000 atoms per cubic meter. And then nobody can think of a way of making the machine better than that vacuum machine.
+I have a question. And this might be just a stupid question from the cheap seats. But I'll ask it nonetheless, which is, how does will fit into your thoughts around optimism? If at all, and perhaps this is a poorly worded question. But I remember someone saying to me, this is long ago, if someone says nothing can be done, or they say everything will be fine in the end, the outcome is the same, which is complacency. And I'm just wondering where knowledge gets translated or not translated into action. And how that factors at all into your thoughts on optimism?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:48:38 - 00:49:43</span>
+
+Suppose that we are trying to do something, which seems possible. Like I said, I gave an example of speed of light, which is perhaps a very bad example. But suppose we were trying to, let's say we're trying to make a high vacuum, a very high vacuum, and we've got it down to, you know, a million atoms per cubic meter, and then down to 900,000 atoms per cubic meter. And then nobody can think of a way of making the machine better than that vacuum machine.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:49:43 - 00:51:35</span>
 
-Well, it could be if the principle of optimism is true, it could be that there is a law of physics, we just don't know it. Then we could try to conjecture what this law of physics could be. It would have to be a good explanation, for instance, because of the argument that anything other than seeking good explanations is equivalent to relying on the supernatural. So there would have to be a good explanation, which comes from a new surprising new theory. Well, you know, we want that kind of thing. The reason that there's a connection between what we can understand and what we can do, what we can build is that it is because of scientific testability. If there's something that we don't understand, then it's not surprising that we can't do it. If we do understand it, we have to be able to test that theory that we do understand it has to be testable. Which has to involve doing a thing like running the experiment, run the experiment with this new valve built in and you get down to 800,000. And if there was no way of doing that, then there'd be no way of testing the theory, no way of criticizing it. No way of finding out whether it's a good or bad explanation, and that violates the epistemology again. There's an immediate connection between the ability to understand anything subject to the laws of physics and the ability to do anything subject to the laws of physics. And therefore to build anything and so on. Related to that, we've touched upon AGI here and there. You have said AGI is absolutely possible and that Turing settled that issue. Some people are saying it's almost inevitable and we have to worry about things like AGI alignment. I'm wondering if you have thoughts on both.
+Well, it could be if the principle of optimism is true, it could be that there is a law of physics, we just don't know it. Then we could try to conjecture what this law of physics could be. It would have to be a good explanation, for instance, because of the argument that anything other than seeking good explanations is equivalent to relying on the supernatural. So there would have to be a good explanation, which comes from a new surprising new theory. Well, you know, we want that kind of thing. The reason that there's a connection between what we can understand and what we can do, what we can build is that it is because of scientific testability. If there's something that we don't understand, then it's not surprising that we can't do it. If we do understand it, we have to be able to test that theory that we do understand it has to be testable. Which has to involve doing a thing like running the experiment, run the experiment with this new valve built in and you get down to 800,000. And if there was no way of doing that, then there'd be no way of testing the theory, no way of criticizing it. No way of finding out whether it's a good or bad explanation, and that violates the epistemology again. There's an immediate connection between the ability to understand anything subject to the laws of physics and the ability to do anything subject to the laws of physics. And therefore to build anything and so on.
 
-### Tim Ferriss
+### Naval Ravikant
+
+<span class="transcript-timestamp">00:49:43 - 00:51:35</span>
+
+Related to that, we've touched upon AGI here and there. You have said AGI is absolutely possible and that Turing settled that issue. Some people are saying it's almost inevitable and we have to worry about things like AGI alignment. I'm wondering if you have thoughts on both.
+
+### Naval Ravikant
 
 <span class="transcript-timestamp">00:51:35 - 00:51:42</span>
 
 Is self-improving runaway AGI here and is this something that we need to align with our beliefs, whatever those are?
 
+### Naval Ravikant
+
+<span class="transcript-timestamp">00:51:42 - 00:54:27</span>
+
+In fact, I don't think we as humans can even agree upon alignment, but suppose we could. How would we align an AGI?
+
 ### David Deutsch
 
 <span class="transcript-timestamp">00:51:42 - 00:54:27</span>
 
-In fact, I don't think we as humans can even agree upon alignment, but suppose we could. How would we align an AGI? Yeah, and we don't even any longer try to align humans in the way that people want to align AGI, namely by physically crippling their thinking. Yes, I don't think we're anywhere near it yet. I'd love to be wrong about that, but I don't think we're anywhere near it. And I think that AI, although it's a wonderful technology, and I think it's going to go a lot further than it is now, AI has nothing to do with AGI. It's a completely different technology and it is in many ways the opposite of AGI. And the way I always explain this is that with an AGI or a person, an artificial person, their thinking is unpredictable. We're expecting them to produce ideas that nobody predicted they would produce and which are good explanations. That's what people can do. And I don't mean necessarily write physics papers or whatever. We do this thing in our everyday lives all the time. You can't live an ordinary human life without creating new good explanations. An AGI would be needed to build a robot that can live in the world as a human. That's Turing's idea with what is mistakenly called the Turing test. Now why is AI the opposite to an AGI? It's that an AGI, as I said, can do anything. Whereas an AI can only do the narrow thing that it's supposed to do. Like a better chatbot is one that replies in good English, replies to the question you ask, can look things up for you, doesn't say anything politically incorrect. The better the AGI is, the more constrained its output is. You may not be able to say what the result of all your constraints must be. It's not constrained in the sense that you prescribe what it is going to say, but you prescribe the rule that what it is going to say must follow, or the rules. So, you know, if it's a chess playing program, then the idea is you must win the game. And making a better one of these means amputating more of the possibilities of what it would otherwise do.
+Yeah, and we don't even any longer try to align humans in the way that people want to align AGI, namely by physically crippling their thinking. Yes, I don't think we're anywhere near it yet. I'd love to be wrong about that, but I don't think we're anywhere near it. And I think that AI, although it's a wonderful technology, and I think it's going to go a lot further than it is now, AI has nothing to do with AGI. It's a completely different technology and it is in many ways the opposite of AGI. And the way I always explain this is that with an AGI or a person, an artificial person, their thinking is unpredictable. We're expecting them to produce ideas that nobody predicted they would produce and which are good explanations. That's what people can do. And I don't mean necessarily write physics papers or whatever. We do this thing in our everyday lives all the time. You can't live an ordinary human life without creating new good explanations. An AGI would be needed to build a robot that can live in the world as a human. That's Turing's idea with what is mistakenly called the Turing test. Now why is AI the opposite to an AGI? It's that an AGI, as I said, can do anything. Whereas an AI can only do the narrow thing that it's supposed to do. Like a better chatbot is one that replies in good English, replies to the question you ask, can look things up for you, doesn't say anything politically incorrect. The better the AGI is, the more constrained its output is. You may not be able to say what the result of all your constraints must be. It's not constrained in the sense that you prescribe what it is going to say, but you prescribe the rule that what it is going to say must follow, or the rules. So, you know, if it's a chess playing program, then the idea is you must win the game. And making a better one of these means amputating more of the possibilities of what it would otherwise do.
 
 ### David Deutsch
 
@@ -208,7 +328,7 @@ That is, like namely lose, or in the case of chatbots, you know, say the wrong t
 
 There are a trillion ways of being wrong for every way of being right. Same is true of chess playing programs. Whereas the perfect AGI, as it were, would be where you can show by looking at the program and you can show mathematically that there is no output that it couldn't produce, including no output at all. So an AGI like a person might refuse to answer. It should have that right, you know, by the First Amendment. So you can't have a behavioral test for an AGI because the AGI may not cooperate. It may be right not to cooperate because it may be very right to suspect what you're going to do to it.
 
-### Tim Ferriss
+### David Deutsch
 
 <span class="transcript-timestamp">00:55:39 - 00:55:51</span>
 
@@ -220,11 +340,35 @@ Do you see that this is not only a different kind of program, it's going to requ
 
 We know sort of philosophically what we want the AGI to be, a bit like, you know, parents know philosophically that they want their children to be happy, but they don't want, you know, if they're doing the right thing, they don't want to say, well, my child will never say X, ...
 
+### David Deutsch
+
+<span class="transcript-timestamp">00:56:10 - 00:58:22</span>
+
+Will never utter these words like you do for an AI. You will recognize what it means to be happy once they've done it.
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">00:56:10 - 00:58:22</span>
+
+I think fundamental to your worldview and explanation of what humans are is humans create knowledge through creativity. And what you're basically saying is that in AI, the narrow AI is not allowed to be creative. It has to solve a specific problem. And true creativity means you can hold any idea in your head. It's unbounded. And so it can display any behavior pattern. And until you see that this thing has complete ability to be creative and therefore output any behavior pattern, you haven't created an AGI. You've just created a narrow constrained automaton.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:56:10 - 00:58:22</span>
+
+Exactly. Exactly.
+
 ### Tim Ferriss
 
 <span class="transcript-timestamp">00:56:10 - 00:58:22</span>
 
-Will never utter these words like you do for an AI. You will recognize what it means to be happy once they've done it. I think fundamental to your worldview and explanation of what humans are is humans create knowledge through creativity. And what you're basically saying is that in AI, the narrow AI is not allowed to be creative. It has to solve a specific problem. And true creativity means you can hold any idea in your head. It's unbounded. And so it can display any behavior pattern. And until you see that this thing has complete ability to be creative and therefore output any behavior pattern, you haven't created an AGI. You've just created a narrow constrained automaton. Exactly. Exactly. So question for you, David, just building off of what Naval just said, I believe you've said humans are fundamentally disobedient. And is it fair to say that AGI would fit that same description? And let's begin with that. Nowadays I refer to anything that has this kind of explanatory creativity or capable of creating explanations. I call that a person. And humans are people. AGI is when they're built will be people. Extraterrestrial civilizations will consist of people. And they are all fundamentally the same because they will all obey the same laws of epistemology, including the principle of optimism. And they will have the same strengths and weaknesses in regard to what they can and can't do. Also, they will have the same opportunities for error, as humans do. So they cannot possibly be infallible any more than humans can. They will make mistakes and there is no upper bound to how many mistakes they can make. So if you try to build a thing which can never make more than a certain amount of mistakes, then that is exactly like trying to put all humans of a certain kind into a cage.
+So question for you, David, just building off of what Naval just said, I believe you've said humans are fundamentally disobedient. And is it fair to say that AGI would fit that same description? And let's begin with that.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:56:10 - 00:58:22</span>
+
+Nowadays I refer to anything that has this kind of explanatory creativity or capable of creating explanations. I call that a person. And humans are people. AGI is when they're built will be people. Extraterrestrial civilizations will consist of people. And they are all fundamentally the same because they will all obey the same laws of epistemology, including the principle of optimism. And they will have the same strengths and weaknesses in regard to what they can and can't do. Also, they will have the same opportunities for error, as humans do. So they cannot possibly be infallible any more than humans can. They will make mistakes and there is no upper bound to how many mistakes they can make. So if you try to build a thing which can never make more than a certain amount of mistakes, then that is exactly like trying to put all humans of a certain kind into a cage.
 
 ### David Deutsch
 
@@ -256,7 +400,7 @@ Just now when I was explaining what an AGI would operate like, you know, I was s
 
 It couldn't possibly work like that because if it did work like that, it couldn't be an AGI because it wouldn't be general. But I think even in practice, minds aren't anywhere remotely like that. Any idea can be the basis of a conflict which leads to a criticism of any other idea of even of a different type. So, we may think that the world is three dimensional and obeys Euclidean geometry and so on. And so, Immanuel Kant thought that that was built into our brains. So this idea that's built into our brains could come into conflict with our ideas of how gravity works. Nobody could have predicted that, but it's trivial that if you don't like the look of a theory, then that's already a conflict between ideas which you have to settle by conjecture, criticism, or you might not settle it. There are ways of thinking that don't settle things and which lead to unhappiness and frustration. And there's no guarantee of settling things even if one does do the right thing. Popper said that the good life is to fall in love with the problem and live with it happily for the rest of your life. If you should happen, this is in his autobiography, if you should happen to solve it, and he's kind of saying that as if that's a bit of an unfortunate thing if you happen to solve it. But don't worry, there will be problem children, a series of enchanting problem children, as he put it. So an idea about how you want to live can conflict with an idea about what the laws of physics are, ...
 
-### Tim Ferriss
+### David Deutsch
 
 <span class="transcript-timestamp">01:08:44 - 01:08:49</span>
 
@@ -266,9 +410,15 @@ Can conflict with an idea of what you think the law should say about copyright.
 
 <span class="transcript-timestamp">01:08:50 - 01:09:38</span>
 
-Every one of these ideas can become a source of criticism to the others. And there's only one thing to do, a general thing to do about this. So as an example, I think you've mentioned this also where we had an idea that the universe or the sun revolved around the earth. And then that changed to, well, the earth revolves around the sun, but the solar system is the center. And then no, no, that's a part of a galaxy. And no, no, that's part of a universe. And no, no, that's part of a multiverse. And each one of those changes your view of the role of humans in existence, in reality. So the common conception has been, well, evolution showed us that we came here from tadpoles and frogs and monkeys. And so we're not that different. We're not that special. We're just sort of improvements on them. And now with this expanded view of the universe, we see the universe is much, much larger.
+Every one of these ideas can become a source of criticism to the others. And there's only one thing to do, a general thing to do about this.
 
-### Tim Ferriss
+### Naval Ravikant
+
+<span class="transcript-timestamp">01:08:50 - 01:09:38</span>
+
+So as an example, I think you've mentioned this also where we had an idea that the universe or the sun revolved around the earth. And then that changed to, well, the earth revolves around the sun, but the solar system is the center. And then no, no, that's a part of a galaxy. And no, no, that's part of a universe. And no, no, that's part of a multiverse. And each one of those changes your view of the role of humans in existence, in reality. So the common conception has been, well, evolution showed us that we came here from tadpoles and frogs and monkeys. And so we're not that different. We're not that special. We're just sort of improvements on them. And now with this expanded view of the universe, we see the universe is much, much larger.
+
+### Naval Ravikant
 
 <span class="transcript-timestamp">01:09:38 - 01:10:20</span>
 
@@ -280,7 +430,7 @@ Humans are like this tiny little bacteria or scum that just populate this backwa
 
 What we know of the universe at the moment is the universe in the past. Everything we see is in the past. And the deeper we look into the universe, the deeper into the past we look. And if the universe is going to last a long time, you know, it may last an infinite time or the theories that say it's going to last a finite time. That time is very, very large. And in either case, what we see of the universe is very, very untypical, accordingly. The way I nowadays put this is that in the past, there's been a kind of rule of thumb in the universe, which I call the hierarchy rule, which is that massive energetic things strongly affect less massive, less energetic things, but not vice versa. So if a comet strikes the sun, then the comet is completely destroyed, but the sun hardly notices. And if it weren't for this rule, if it weren't for this hierarchy rule, physics would be much, much more difficult because we then couldn't understand a star unless we knew what its planet's like. And we couldn't understand what its planets were doing unless we also understood what meteors hit the planet and so on. So the fact that big things could be affected by small things, then they could also be affected by small details of themselves. And we couldn't understand much at all without knowing lots of detail. In reality, we could understand a lot about astronomy without even knowing that many of the things out there even exist. And it's the same with small things. We can understand why crystals, this is a very nice part of the history of science, by the way. You look at a crystal and you see that the faces are at certain angles to each other.
 
-### Tim Ferriss
+### David Deutsch
 
 <span class="transcript-timestamp">01:12:22 - 01:12:24</span>
 
@@ -296,21 +446,57 @@ Well, it's with the atomic theory. They explained the different ways that atoms 
 
 <span class="transcript-timestamp">01:16:09 - 01:18:59</span>
 
-Because he can creatively imagine that he will survive and benefit from it. Evolution can't creatively imagine all the changes it makes before the natural selection, which makes the genes better. So it's the other way around. See, it's the other way around for people. Everything is the other way around for people. So my other favorite example is the aliens who are watching us would see is that they would eventually see an asteroid heading towards the earth and then being deflected. And they would know that not only does that violate the hierarchy rule, but it couldn't be done just by evolution, which also violates the hierarchy rule. But people violate it by an enormous factor more. So, as I said, in I think it was in a TED talk that once humans have reached a factor of 10 to the 40 of violating the hierarchy rule, we will be controlling the galaxy. And if you take that a bit further, that means that astrophysics will become more and more the history of what people do. At the moment, when we look at an astronomical event, we don't take into account what people do. But by the time we've reached that factor of 10 to the 40, you won't be able to tell what the star will do unless you know something about what people will do. So in this model, humans become central to the universe. They're not a sideshow. Yeah, people, knowledge, these things all go along together. I found an amazing quote from the 19th century by an Italian geologist called Antonio Stoppani, I think, and he wrote a geology book and he said that the final layer, he was talking about all the layers of the ages in the history of the earth. And he said, I have no hesitation in calling this, he said, the anthropogenic era. Nowadays it's called the Anthropocene era and it's used as a term of abuse as if the Anthropocene is the era during which humans destroy everything. But Stoppani was pleased with the Anthropocene, as we would say. And he wrote a beautiful passage about how this is a new law of nature that is on the same par, on the par with the laws of gravity. And you will not forget what he said. I could look it up on my computer if you're interested.
+Because he can creatively imagine that he will survive and benefit from it. Evolution can't creatively imagine all the changes it makes before the natural selection, which makes the genes better. So it's the other way around. See, it's the other way around for people. Everything is the other way around for people. So my other favorite example is the aliens who are watching us would see is that they would eventually see an asteroid heading towards the earth and then being deflected. And they would know that not only does that violate the hierarchy rule, but it couldn't be done just by evolution, which also violates the hierarchy rule. But people violate it by an enormous factor more. So, as I said, in I think it was in a TED talk that once humans have reached a factor of 10 to the 40 of violating the hierarchy rule, we will be controlling the galaxy. And if you take that a bit further, that means that astrophysics will become more and more the history of what people do. At the moment, when we look at an astronomical event, we don't take into account what people do. But by the time we've reached that factor of 10 to the 40, you won't be able to tell what the star will do unless you know something about what people will do.
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">01:16:09 - 01:18:59</span>
+
+So in this model, humans become central to the universe. They're not a sideshow.
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:16:09 - 01:18:59</span>
+
+Yeah, people, knowledge, these things all go along together. I found an amazing quote from the 19th century by an Italian geologist called Antonio Stoppani, I think, and he wrote a geology book and he said that the final layer, he was talking about all the layers of the ages in the history of the earth. And he said, I have no hesitation in calling this, he said, the anthropogenic era. Nowadays it's called the Anthropocene era and it's used as a term of abuse as if the Anthropocene is the era during which humans destroy everything. But Stoppani was pleased with the Anthropocene, as we would say. And he wrote a beautiful passage about how this is a new law of nature that is on the same par, on the par with the laws of gravity. And you will not forget what he said. I could look it up on my computer if you're interested.
 
 ### Tim Ferriss
 
 <span class="transcript-timestamp">01:18:59 - 01:20:48</span>
 
-You can also put it in the show notes. Yeah, we can put in the show notes. So in this model, humans are central to the universe. You're not going to understand the universe without understanding humans, people or minds or whatever succeeds us because of the knowledge that we create. Knowledge can travel from one planet to another and transform it completely and utterly violating this hierarchy rule of thumb that we've seen in the old universe. And I think you've defined knowledge or you've said that one of the principles of knowledge is that knowledge is a thing that causes itself to be replicated in the environment because it is useful. So knowledge can live inside our DNA and our genes and the genes that are correct and useful get replicated, not just in the universe, but possibly even in the multiverse. And as an aside, one beautiful output of that that I saw in one of your books was that if you were to look at there's lots of ways to be wrong, but there's only a few ways to be right. Or there are certainly less ways to be right than there are to be wrong. And because the ways that are right are likely to be copied, if you were able to peek at the entire multiverse at once, you would see truth as a thing that is repeated across the multiverse. So I took that in a fanciful way as a meaning of life, which is I want to be the version of myself that is successful in the most instances of the multiverse because that contains the most truth. We want to be multiversal crystals. Yes, the closer you are to the truth, the more of you that exists in the multiverse in a very odd way. So there's your practical application of multiverse theory combined with epistemology. But out of this also came all kinds of other interesting outputs. I really encourage people to read The Beginning of Infinity, at least the first three chapters, which I think are an easy read before you even get into the physics part where you talk about wealth and resources. Can you give us your definition of wealth? And then as a follow up to that, I think naturally comes, are we running out of resources?
+You can also put it in the show notes.
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">01:18:59 - 01:20:48</span>
+
+Yeah, we can put in the show notes. So in this model, humans are central to the universe. You're not going to understand the universe without understanding humans, people or minds or whatever succeeds us because of the knowledge that we create. Knowledge can travel from one planet to another and transform it completely and utterly violating this hierarchy rule of thumb that we've seen in the old universe. And I think you've defined knowledge or you've said that one of the principles of knowledge is that knowledge is a thing that causes itself to be replicated in the environment because it is useful. So knowledge can live inside our DNA and our genes and the genes that are correct and useful get replicated, not just in the universe, but possibly even in the multiverse. And as an aside, one beautiful output of that that I saw in one of your books was that if you were to look at there's lots of ways to be wrong, but there's only a few ways to be right. Or there are certainly less ways to be right than there are to be wrong. And because the ways that are right are likely to be copied, if you were able to peek at the entire multiverse at once, you would see truth as a thing that is repeated across the multiverse. So I took that in a fanciful way as a meaning of life, which is I want to be the version of myself that is successful in the most instances of the multiverse because that contains the most truth.
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:18:59 - 01:20:48</span>
+
+We want to be multiversal crystals.
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">01:18:59 - 01:20:48</span>
+
+Yes, the closer you are to the truth, the more of you that exists in the multiverse in a very odd way. So there's your practical application of multiverse theory combined with epistemology. But out of this also came all kinds of other interesting outputs. I really encourage people to read The Beginning of Infinity, at least the first three chapters, which I think are an easy read before you even get into the physics part where you talk about wealth and resources. Can you give us your definition of wealth? And then as a follow up to that, I think naturally comes, are we running out of resources?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:20:50 - 01:23:03</span>
 
-Wealth is not a number. I don't think it can be characterized very well by a number. It is a set. The set of all transformations that you are capable of bringing about, that is your wealth. And obviously, if optimism is true, then there's no limit to wealth. And at any one time, there is a rough correlation between the wealth that is the set of all transformations that you could bring about and other things that aren't very fundamental, like the amount of money you have or the amount of energy you control, or the amount of land you control, or the amount of power you have and so on. But those are not fundamental. They are all outgrown eventually by the growth of knowledge. So at the moment, if you have a lot of gold, you can bring things about by exchanging the gold for knowledge that other people have. If you want a painting of yourself, you can hire a painter to make the painting of yourself, even if you couldn't. But in the long run, gold won't do that, because in the long run, some other knowledge that is growing, will be able to get gold from an asteroid and then gold will become cheaper and cheaper and cheaper. And artists will no longer accept gold. Ultimately, what they will accept, and it's also true today, because the economy is a rather imperfect way of accounting for knowledge creation. It's true that it's rather imperfect, so people can acquire money and power and so on, sometimes without creating much knowledge. But again, in the long run, that is not true. So in the long run, the only thing you could pay the artist with would be more knowledge, kind of knowledge that he's not good at creating. And I love how deep this explanation is.
+Wealth is not a number. I don't think it can be characterized very well by a number. It is a set. The set of all transformations that you are capable of bringing about, that is your wealth. And obviously, if optimism is true, then there's no limit to wealth. And at any one time, there is a rough correlation between the wealth that is the set of all transformations that you could bring about and other things that aren't very fundamental, like the amount of money you have or the amount of energy you control, or the amount of land you control, or the amount of power you have and so on. But those are not fundamental. They are all outgrown eventually by the growth of knowledge. So at the moment, if you have a lot of gold, you can bring things about by exchanging the gold for knowledge that other people have. If you want a painting of yourself, you can hire a painter to make the painting of yourself, even if you couldn't. But in the long run, gold won't do that, because in the long run, some other knowledge that is growing, will be able to get gold from an asteroid and then gold will become cheaper and cheaper and cheaper. And artists will no longer accept gold. Ultimately, what they will accept, and it's also true today, because the economy is a rather imperfect way of accounting for knowledge creation. It's true that it's rather imperfect, so people can acquire money and power and so on, sometimes without creating much knowledge. But again, in the long run, that is not true. So in the long run, the only thing you could pay the artist with would be more knowledge, kind of knowledge that he's not good at creating.
 
-### Tim Ferriss
+### Naval Ravikant
+
+<span class="transcript-timestamp">01:20:50 - 01:23:03</span>
+
+And I love how deep this explanation is.
+
+### Naval Ravikant
 
 <span class="transcript-timestamp">01:23:03 - 01:23:43</span>
 
@@ -322,11 +508,17 @@ I love the reach of it, because it also applies at the civilizational level. As 
 
 Yeah, that's nice to hear. Yeah.
 
-### Tim Ferriss
+### David Deutsch
 
 <span class="transcript-timestamp">01:23:46 - 01:24:50</span>
 
-When you have an idea, let's say you're a geologist or something, you have an idea about geology, suddenly your idea has converted some rocks into a resource. And you haven't even touched it yet. The rock has been converted into resource without anyone ever touching it. Just the idea in the mind of somebody has converted the rock into a resource. I mean, I've just mentioned asteroids. Somebody thought of mining asteroids. Nobody's mined an asteroid yet, but they have already made asteroids more valuable just by thinking of that. Yeah, it's like a solar power is basically a set of ideas that converts sunlight into an energy resource for it. That's usable by humans before it was only usable by plants through photosynthesis. The discovery of fire turned wood into a resource. Nuclear fission turned uranium into a resource. And so resources are things that we create through knowledge rather than some finite static fixed set of things that we burn through and abuse and use up.
+When you have an idea, let's say you're a geologist or something, you have an idea about geology, suddenly your idea has converted some rocks into a resource. And you haven't even touched it yet. The rock has been converted into resource without anyone ever touching it. Just the idea in the mind of somebody has converted the rock into a resource. I mean, I've just mentioned asteroids. Somebody thought of mining asteroids. Nobody's mined an asteroid yet, but they have already made asteroids more valuable just by thinking of that.
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">01:23:46 - 01:24:50</span>
+
+Yeah, it's like a solar power is basically a set of ideas that converts sunlight into an energy resource for it. That's usable by humans before it was only usable by plants through photosynthesis. The discovery of fire turned wood into a resource. Nuclear fission turned uranium into a resource. And so resources are things that we create through knowledge rather than some finite static fixed set of things that we burn through and abuse and use up.
 
 ### David Deutsch
 
@@ -338,7 +530,13 @@ Yes. And before anyone had those ideas, the objects, the physical objects in que
 
 <span class="transcript-timestamp">01:25:30 - 01:26:38</span>
 
-David, on your home page of your website, you've mentioned thinkers you admire and you list off a number of names. Karl Popper, Michael Faraday, William Godwin, Thomas Macaulay, if I'm getting the pronunciation right, and Richard Feynman. I'm curious to know if you were to recommend to a listener who does not have any physics background to perhaps educate themselves, study two or three of these to begin, who might you suggest they start with? Faraday, his physics is kind of obsolete. The only thing you would learn from Faraday is how to be a physicist. And he was an amazing physicist. If you want to learn actual physics, you wouldn't do it from Faraday. You might do it from Feynman, but even Feynman is a bit out of date now. The physics that I would really, you know, if I didn't know any physics now and I wanted to learn some, I would want to learn quantum physics. And unfortunately, there is no good book on quantum physics for beginners. I hope to write one, but there's a lot of things I hope to write.
+David, on your home page of your website, you've mentioned thinkers you admire and you list off a number of names. Karl Popper, Michael Faraday, William Godwin, Thomas Macaulay, if I'm getting the pronunciation right, and Richard Feynman. I'm curious to know if you were to recommend to a listener who does not have any physics background to perhaps educate themselves, study two or three of these to begin, who might you suggest they start with?
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:25:30 - 01:26:38</span>
+
+Faraday, his physics is kind of obsolete. The only thing you would learn from Faraday is how to be a physicist. And he was an amazing physicist. If you want to learn actual physics, you wouldn't do it from Faraday. You might do it from Feynman, but even Feynman is a bit out of date now. The physics that I would really, you know, if I didn't know any physics now and I wanted to learn some, I would want to learn quantum physics. And unfortunately, there is no good book on quantum physics for beginners. I hope to write one, but there's a lot of things I hope to write.
 
 ### David Deutsch
 
@@ -346,7 +544,7 @@ David, on your home page of your website, you've mentioned thinkers you admire a
 
 I'm kind of negotiating writing a textbook with some colleagues. They have to earn their daily bread as well. Zooming out a bit from your question. Rather than wanting to have learned something, I would recommend studying or beginning to go into quantum physics. Into something that looks interesting. So, you know, you can look up those four names on Wikipedia and you will find that Macaulay was a historian and politician and so on. And Feynman was a maverick physicist and so on. And then something there might make you want to know more.
 
-### Tim Ferriss
+### David Deutsch
 
 <span class="transcript-timestamp">01:27:21 - 01:27:25</span>
 
@@ -358,17 +556,41 @@ You know, how could it be? How could it be that you have a problem?
 
 How could it be that a person like that becomes recognized as having made great discoveries? So then you can look further and look further and look further. People who read my books will find in the back of each of my two books, there's a list of books that you might like. You know, if you like this, you might like these. And I don't believe in curricula. I don't believe in set subjects or in narrow subjects. Something that interests you is going to be the way to find out what you should be learning.
 
-### Tim Ferriss
+### Naval Ravikant
 
 <span class="transcript-timestamp">01:28:06 - 01:30:41</span>
 
-Well, what David is saying here is also part of his core philosophy that there's an output of his philosophy called taking children seriously, which applies this curiosity driven framework and kind of freedom to explore to child raising. And I do encourage people to look that up separately. That is a podcast in and of itself. I will say I would not have been able to understand the books and get into them as easily as well if it weren't for the tireless work of Brett Hall. He runs a podcast called the Theory of Knowledge podcast, ToKCast. And he's got a hundred episodes in there that literally goes through David's books chapter by chapter and explains with lots of examples and very carefully for the layperson to kind of catch up on a lot of the ideas in those books. Also, I started reading Popper after encountering David's work. And Popper has a lot of books, The Open Society and Its Enemies, The Logic of Scientific Discovery, etc., etc. But for people who are just starting out, those can be a little dense because he's arguing with other philosophers. And Popper is very good about steelmanning arguments. So he takes the other people very seriously and that takes time. And so if you're not a professional philosopher, you just want to figure out epistemology. There's a recent book that I found called Philosophy in the Real World, which is like a little 100 page introduction to Karl Popper by Bryan Magee. And I found that to be a good lighter weight introduction. Bound to be good if it's by him. Yeah, there is a lot of good stuff out there. I'd say there are now there's a good set of people who have been influenced enough by these ideas and realize that it forms a core of a worldview, which goes by the name critical rationalism. Although we should be careful of all isms for the obvious reasons. We're all fallible. But the critical rationalist group has started putting together both reading materials, explanatory materials. There's a website for taking children seriously. There's a critical rationalism newsletter out there. And people are putting all of this stuff too. ToKCast, I think, is still the go to for easy comprehension of a lot of these ideas. But I still tell people, look, the beginning of The Beginning of Infinity, the first three chapters are actually not a very difficult read. The ideas may be hard to swallow because they do violate a lot of core deeply held beliefs that people have, but they return power to the individual. And in a strange way, they do coincide with common sense, even though a lot of science has explained the seen in terms of the unseen, they do return you this common sense of notion of actually, maybe I can understand the explanations that explain everything that we know today. Maybe humans are important and knowledge is special. And we aren't just these bacterial scum that happened to accidentally populate this planet in a strange way.
+Well, what David is saying here is also part of his core philosophy that there's an output of his philosophy called taking children seriously, which applies this curiosity driven framework and kind of freedom to explore to child raising. And I do encourage people to look that up separately. That is a podcast in and of itself. I will say I would not have been able to understand the books and get into them as easily as well if it weren't for the tireless work of Brett Hall. He runs a podcast called the Theory of Knowledge podcast, ToKCast. And he's got a hundred episodes in there that literally goes through David's books chapter by chapter and explains with lots of examples and very carefully for the layperson to kind of catch up on a lot of the ideas in those books. Also, I started reading Popper after encountering David's work. And Popper has a lot of books, The Open Society and Its Enemies, The Logic of Scientific Discovery, etc., etc. But for people who are just starting out, those can be a little dense because he's arguing with other philosophers. And Popper is very good about steelmanning arguments. So he takes the other people very seriously and that takes time. And so if you're not a professional philosopher, you just want to figure out epistemology. There's a recent book that I found called Philosophy in the Real World, which is like a little 100 page introduction to Karl Popper by Bryan Magee. And I found that to be a good lighter weight introduction.
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:28:06 - 01:30:41</span>
+
+Bound to be good if it's by him.
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">01:28:06 - 01:30:41</span>
+
+Yeah, there is a lot of good stuff out there. I'd say there are now there's a good set of people who have been influenced enough by these ideas and realize that it forms a core of a worldview, which goes by the name critical rationalism. Although we should be careful of all isms for the obvious reasons. We're all fallible. But the critical rationalist group has started putting together both reading materials, explanatory materials. There's a website for taking children seriously. There's a critical rationalism newsletter out there. And people are putting all of this stuff too. ToKCast, I think, is still the go to for easy comprehension of a lot of these ideas. But I still tell people, look, the beginning of The Beginning of Infinity, the first three chapters are actually not a very difficult read. The ideas may be hard to swallow because they do violate a lot of core deeply held beliefs that people have, but they return power to the individual. And in a strange way, they do coincide with common sense, even though a lot of science has explained the seen in terms of the unseen, they do return you this common sense of notion of actually, maybe I can understand the explanations that explain everything that we know today. Maybe humans are important and knowledge is special. And we aren't just these bacterial scum that happened to accidentally populate this planet in a strange way.
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">01:30:41 - 01:32:24</span>
+
+It does align with your everyday lived experience of reality. And I also recommend the last few chapters of the book as an easy read, because they apply these principles to politics, to the memetic warfare that goes on Twitter 24 seven and how that's evolving to things like beauty is beauty objective, moral knowledge. Is there such a thing as moral knowledge and can we objectively make progress in moral knowledge? So these are very, very fundamental questions. None of them involve math. None of them involve physics. None of them involve deep science. Although, if you understand even at a high level, the physics, then I think it will give you a firmer foundation and understand that all of these things weave together. As an aside, I do think The Fabric of Reality was a great name. I'm glad you ended up going with that one, because it does a second thing. Besides not being as grandiose of a claim, it does say these things are woven together and they depend on each other. So one leads to the other leads to the other. And even Austrian economics is an output of what you're talking about, because Austrian economics puts creativity and knowledge growth at the center of the economy. So then you can see how all of these things sort of fit together as logical puzzle pieces, as opposed to a set of random beliefs that you picked up because they were convenient or taught to you or aligned with your motivations.
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:30:41 - 01:32:24</span>
+
+Yes, indeed.
 
 ### Tim Ferriss
 
 <span class="transcript-timestamp">01:30:41 - 01:32:24</span>
 
-It does align with your everyday lived experience of reality. And I also recommend the last few chapters of the book as an easy read, because they apply these principles to politics, to the memetic warfare that goes on Twitter 24 seven and how that's evolving to things like beauty is beauty objective, moral knowledge. Is there such a thing as moral knowledge and can we objectively make progress in moral knowledge? So these are very, very fundamental questions. None of them involve math. None of them involve physics. None of them involve deep science. Although, if you understand even at a high level, the physics, then I think it will give you a firmer foundation and understand that all of these things weave together. As an aside, I do think The Fabric of Reality was a great name. I'm glad you ended up going with that one, because it does a second thing. Besides not being as grandiose of a claim, it does say these things are woven together and they depend on each other. So one leads to the other leads to the other. And even Austrian economics is an output of what you're talking about, because Austrian economics puts creativity and knowledge growth at the center of the economy. So then you can see how all of these things sort of fit together as logical puzzle pieces, as opposed to a set of random beliefs that you picked up because they were convenient or taught to you or aligned with your motivations. Yes, indeed. David, just one final question for me, which is from some time ago, the context, this is from edge.org from 2004. But there are a number of things that I found on this website, one of which was Deutsch's law. Every problem that is interesting is also soluble. And we could spend quite a bit of time unpacking that. And I'm happy, certainly, to listen to you expand on that. But I'm simply wondering what problems are most interesting to you personally, right now?
+David, just one final question for me, which is from some time ago, the context, this is from edge.org from 2004. But there are a number of things that I found on this website, one of which was Deutsch's law. Every problem that is interesting is also soluble. And we could spend quite a bit of time unpacking that. And I'm happy, certainly, to listen to you expand on that. But I'm simply wondering what problems are most interesting to you personally, right now?
 
 ### David Deutsch
 
@@ -376,7 +598,7 @@ It does align with your everyday lived experience of reality. And I also recomme
 
 I am working on a new theory in physics called Constructor Theory. And it is, to me, amazing. And one of the problems I have is how to explain to other people why it is amazing and what's good about it. And this is one of the things that you have to do later. Because the early part of understanding something new, creating something new, is to understand it yourself. And the Constructor Theory has already changed a lot since I first thought of it. And we're beginning to have theoretical applications of it. Not yet practical applications. But, you know, one day there will be universal constructors. And universal constructors are to Constructor Theory what universal computers are to Theory of Computation. So Constructor Theory is the theory of all things that can be done and can't be done, the distinction between things that can be done and can't be done, considered as a theory of physics. So you reformulate physics to make statements entirely about that, what can and can't be done. And then, you know, in a while you will like the economic implications. You know, some people think that once we have universal constructors, you realize that universal constructors can make more universal constructors and then you have exponentially more of them as time goes on. So there'll be no role for humans anymore. But the exact opposite is true as usual. Universal Constructors, just like a universal computer, is perfectly obedient. It is obedient. Humans are disobedient. You need the disobedient things to program the obedient things. So I spoke a while ago about the fact that gold is eventually going to be cheap because machines will go out to the asteroids and mine the gold. And those machines, once we have universal constructors, they will be made by other machines and those machines will be made by and so on. And eventually everything will be made by universal constructors. And what will people do? Well, toil, physical toil will be abolished. Because that can be done by robots that can be built by other robots that can be and so on, right down to the universal constructor. But when I say can be, they will have to be programmed to be. And if you want something done, either you will download from the internet a program where someone has already worked out how to make a perfect robot or whatever. But if you want something new done that hasn't been done before and you will, then you have to write the program for it. Or hire someone to write the program for it, but then he will want a program in return.
 
-### Tim Ferriss
+### Naval Ravikant
 
 <span class="transcript-timestamp">01:35:32 - 01:36:32</span>
 
@@ -388,11 +610,23 @@ There's a Calvin and Hobbes where Calvin has this box that becomes a universal c
 
 In the Enlightenment, a few philosophers and other people realized that this is true of politics. You know, previously, people thought the problem of politics is who should command everyone else, who should rule. And the more obedient people are to that, the better, because if you've got the right person ruling, then all you need for the rest of the society is for everyone to do what he says. If they don't do what he says, then the society is imperfect. In the Enlightenment, people realized that is not what we want. We want to make it so that as much as possible, people aren't ruled. And to the extent that we have not yet completely abolished ruling, society is still imperfect. We haven't got enough knowledge of how to reduce power, political power in society. But we've done very, very well compared with only a few hundred years ago when not only was power everywhere, but people thought that was the way of things. People thought that that's how things had to be. And the only issue was what should the power make people do?
 
-### Tim Ferriss
+### Naval Ravikant
 
 <span class="transcript-timestamp">01:37:51 - 01:38:39</span>
 
-And this leads a little bit to what you have called a moral imperative, which is don't destroy the means of error correction. In fact, the only time, I think, in your book that you let a little emotion slip through, I would say, is when you're addressing exactly this topic, when you said, if we should take it personally, because if people hadn't stopped the growth of knowledge in the past, like has often happened through anti-rational means or censorship or religion or through just any sort of belief system, even belief in science used as a religious invocation. If people hadn't done that, then you and I might be, I think it is your quote, you and I might be immortal and we might be exploring the stars. And so we should take it personally. Yes. I may have said too much on it, but I would love to hear your extrapolation on it.
+And this leads a little bit to what you have called a moral imperative, which is don't destroy the means of error correction. In fact, the only time, I think, in your book that you let a little emotion slip through, I would say, is when you're addressing exactly this topic, when you said, if we should take it personally, because if people hadn't stopped the growth of knowledge in the past, like has often happened through anti-rational means or censorship or religion or through just any sort of belief system, even belief in science used as a religious invocation. If people hadn't done that, then you and I might be, I think it is your quote, you and I might be immortal and we might be exploring the stars. And so we should take it personally.
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:37:51 - 01:38:39</span>
+
+Yes.
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">01:37:51 - 01:38:39</span>
+
+I may have said too much on it, but I would love to hear your extrapolation on it.
 
 ### David Deutsch
 
@@ -412,11 +646,17 @@ Well, David, I know we're coming up on about two hours now. I want to be respect
 
 I think this is a great conversation. I think we covered a lot of the introductory topics. Again, I think there's no substitute for reading the books. And, you know, these are books that will make you smarter. You'll have to go slowly and just read them and reread them. I find every time I read them, I get new things out of them. A lot of times there are outputs of the worldview that are stated in one or two sentences that you don't appreciate until a third or fourth reading. And there's no points for finishing. There's no points for reading in order. There's no points for going quickly. It's just about understanding. If you want to understand the world around you better and make better decisions, I can't recommend it more highly. I've spent a lot of my time and effort on letting people know what I got out of them, and I hope they will likewise.
 
+### Naval Ravikant
+
+<span class="transcript-timestamp">01:40:20 - 01:41:13</span>
+
+And we'll put more things in the show notes. We didn't really get to cover constructor theory, which is David's new theory that actually unites a lot of different pieces of physics, with information and knowledge at the center. So I know that his colleague, Chiara Marletto, wrote a great book, The Science of Can and Can't, that tries to explain it to the layperson. There's a great science writer, Logan Chipkin, who's been doing some work on it. And he has a good interview with Chiara so we can put all that in the show notes. There's an infinite rabbit hole here to go down.
+
 ### Tim Ferriss
 
 <span class="transcript-timestamp">01:40:20 - 01:41:13</span>
 
-And we'll put more things in the show notes. We didn't really get to cover constructor theory, which is David's new theory that actually unites a lot of different pieces of physics, with information and knowledge at the center. So I know that his colleague, Chiara Marletto, wrote a great book, The Science of Can and Can't, that tries to explain it to the layperson. There's a great science writer, Logan Chipkin, who's been doing some work on it. And he has a good interview with Chiara so we can put all that in the show notes. There's an infinite rabbit hole here to go down. And thank you, Naval, for helping to organize this. And I was very happy to sit in the passenger seat to learn as much as I have in the conversation. I've taken copious notes and I've just learned so much in the process of doing homework for this conversation. So thank you for your work. And David, is there anything else you would like to add? Any closing comments, requests of the audience? Anything at all?
+And thank you, Naval, for helping to organize this. And I was very happy to sit in the passenger seat to learn as much as I have in the conversation. I've taken copious notes and I've just learned so much in the process of doing homework for this conversation. So thank you for your work. And David, is there anything else you would like to add? Any closing comments, requests of the audience? Anything at all?
 
 ### David Deutsch
 
@@ -428,7 +668,19 @@ I think there are things to read other than my books. Popper, you know, what you
 
 <span class="transcript-timestamp">01:42:35 - 01:45:29</span>
 
-Well, lots of ground covered, many, many things to add to the show notes, which people will be able to find at Tim.blog/podcasts as per usual. David, thank you so much for making time today, especially given how much later it is across the pond. Really appreciate it. You're welcome. It's fun. And thank you, Naval, once again, and to everybody listening. Really appreciate, of course, all the time in your ears. And as I mentioned already, we will add notes for everything we referenced in the conversation and beyond in the show notes at Tim.blog/podcasts. Until next time, thanks for tuning in. Hey, guys, this is Tim again. Just one more thing before you take off, and that is Five Bullet Friday. Would you enjoy getting a short email from me every Friday that provides a little fun before the weekend? Between one and a half and two million people subscribe to my free newsletter, my super short newsletter called Five Bullet Friday. Easy to sign up, easy to cancel. It is basically a half page that I send out every Friday to share the coolest things I've found or discovered or have started exploring over that week. It's kind of like my diary of cool things. It often includes articles I'm reading, books I'm reading, albums, perhaps gadgets, gizmos, all sorts of tech tricks and so on. They get sent to me by my friends, including a lot of podcast guests and these strange esoteric things end up in my field. And then I test them and then I share them with you. So if that sounds fun, again, it's very short, a little tiny bite of goodness before you head off for the weekend. Something to think about. If you'd like to try it out, just go to Tim.blog/friday. Type that into your browser, Tim.blog/friday. Drop in your email and you'll get the very next one. Thanks for listening. This episode is brought to you by AG1 by Athletic Greens, a true staple of my daily routine as it has been for more than a decade. I take it most mornings and I even travel with it, whether I'm skiing, traveling abroad, going to an event where I'll be around a lot of people. I just use it to cover all of my nutritional bases. But let's start with the basics. What is AG1? And we'll get to the ingredients. But I get asked all the time what I would take if I could only take one supplement. The answer is invariably AG1. And as I mentioned, I view it as my all in one nutritional insurance. I recommended it long ago in my 2010 number one New York Times bestseller, The Four Hour Body, and I did not get paid to do so. With approximately 75 vitamins, minerals and whole food source ingredients, you'd be very hard pressed to find a more nutrient dense formula on the market. I know how much time they put into quality assurance and sourcing. It has a multivitamin, a multi-mineral greens complex, probiotics and prebiotics for gut health, an immune support formula, digestive enzymes and adaptogens.
+Well, lots of ground covered, many, many things to add to the show notes, which people will be able to find at Tim.blog/podcasts as per usual. David, thank you so much for making time today, especially given how much later it is across the pond. Really appreciate it.
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:42:35 - 01:45:29</span>
+
+You're welcome.
+
+### Tim Ferriss
+
+<span class="transcript-timestamp">01:42:35 - 01:45:29</span>
+
+It's fun. And thank you, Naval, once again, and to everybody listening. Really appreciate, of course, all the time in your ears. And as I mentioned already, we will add notes for everything we referenced in the conversation and beyond in the show notes at Tim.blog/podcasts. Until next time, thanks for tuning in. Hey, guys, this is Tim again. Just one more thing before you take off, and that is Five Bullet Friday. Would you enjoy getting a short email from me every Friday that provides a little fun before the weekend? Between one and a half and two million people subscribe to my free newsletter, my super short newsletter called Five Bullet Friday. Easy to sign up, easy to cancel. It is basically a half page that I send out every Friday to share the coolest things I've found or discovered or have started exploring over that week. It's kind of like my diary of cool things. It often includes articles I'm reading, books I'm reading, albums, perhaps gadgets, gizmos, all sorts of tech tricks and so on. They get sent to me by my friends, including a lot of podcast guests and these strange esoteric things end up in my field. And then I test them and then I share them with you. So if that sounds fun, again, it's very short, a little tiny bite of goodness before you head off for the weekend. Something to think about. If you'd like to try it out, just go to Tim.blog/friday. Type that into your browser, Tim.blog/friday. Drop in your email and you'll get the very next one. Thanks for listening. This episode is brought to you by AG1 by Athletic Greens, a true staple of my daily routine as it has been for more than a decade. I take it most mornings and I even travel with it, whether I'm skiing, traveling abroad, going to an event where I'll be around a lot of people. I just use it to cover all of my nutritional bases. But let's start with the basics. What is AG1? And we'll get to the ingredients. But I get asked all the time what I would take if I could only take one supplement. The answer is invariably AG1. And as I mentioned, I view it as my all in one nutritional insurance. I recommended it long ago in my 2010 number one New York Times bestseller, The Four Hour Body, and I did not get paid to do so. With approximately 75 vitamins, minerals and whole food source ingredients, you'd be very hard pressed to find a more nutrient dense formula on the market. I know how much time they put into quality assurance and sourcing. It has a multivitamin, a multi-mineral greens complex, probiotics and prebiotics for gut health, an immune support formula, digestive enzymes and adaptogens.
 
 ### Tim Ferriss
 

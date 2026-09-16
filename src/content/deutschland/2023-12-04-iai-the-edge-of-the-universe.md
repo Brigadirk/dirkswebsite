@@ -15,11 +15,17 @@ pubDate: 2023-12-04
 
 Welcome to IAI's debate, the edge of the universe. Is infinity the greatest crisis facing physics? I'm Robert Lawrence Kuhn, host of Closest to Truth. Closest to Truth is pleased to partner with IAI. The idea of infinity makes us feel a little giddy, yet we refer to it often, as if it is understood. Mathematicians Georg Cantor, who himself went mad, discovered different degrees or levels of infinities, in fact, an infinite number of them. We have countable and uncountable infinities, potential and actual infinities. Infinities show up in physics. In quantum mechanics, clever tricks like renormalization try to make nonsense infinities go away. And the many-worlds interpretation would reach for a quasi-infinite number of splitting off worlds. In cosmology, we find claims of infinite spaces, infinite time, forward and backward, infinite dimensions, infinite density of black holes in the Big Bang, infinite size of our universe, and infinite numbers of universes, the multiverse. Would an infinite universe, a multiverse, undermine all prediction in cosmology? But are all these infinities perhaps a mistake, some say? Can infinity be applied to the natural world? Is infinity a profound problem or a key insight? We can't forget infinities in metaphysics. Some Eastern traditions have infinite consciousness, and Abrahamic traditions have an infinitely powerful, infinitely knowledgeable deity. The Argentine writer Jorge Luis Borges argued infinity is a concept that corrupts and upsets all others. We have a superb panel. David Deutsch is a trailblazing physicist who is a visiting professor at the University of Oxford. He wrote two acclaimed innovative books, The Fabric of Reality, which inspired me, and The Beginning of Infinity, which offers a new take on infinity. Sara Walker is a theoretical physicist and leading astrobiologist, associate professor at Arizona State University. Sara's insights into the origins of life, astrobiology, and the physics of life have been featured on TED and the Lex Fridman podcast. George Ellis is one of the world's leading theorists in cosmology and an old friend. Distinguished professor at the University of Cape Town in South Africa, he is co-author with Stephen Hawking of The Large Scale Structure of Spacetime. I love George's strong views on the physics of infinity and possibility spaces, which we'll discuss. Now we're going to start with the question, does infinity cause insurmountable problems in modern physics?
 
+### Robert Lawrence Kuhn
+
+<span class="transcript-timestamp">00:02:59 - 00:05:47</span>
+
+Each speaker has three minutes and will go alphabetically. David Deutsch.
+
 ### David Deutsch
 
 <span class="transcript-timestamp">00:02:59 - 00:05:47</span>
 
-Each speaker has three minutes and will go alphabetically. David Deutsch. Well, there have been infinities in fundamental physics since antiquity, mostly harmless. I'm not actually sure which ones are most feared today, but never mind that for the moment. Suppose we were discussing zero instead, like medieval sages who didn't have Zoom, but might have gathered in their cloisters gravely debating the propriety of zero and deciding no, it's improper because zero by definition can't refer to anything in the real world. It's nothing. No one can imagine nothing. It's incomprehensible. To dare to apply it to nature is sheer hubris. Nature abhors a vacuum. We may laugh at that, but this archaic fear of zero is inseparable from the fear of infinity. Take Zeno's paradox. To walk across the room, you first have to get halfway and before that a quarter way and so on. So to move at all, you have to perform an infinite number of actions, physical actions. Zeno was wrong because a philosophy of mathematics can't determine whether walking across a room makes sense or not. If a good scientific explanation says it does, then it does. And the classical kinematics does indeed explain that a vacuum, empty space, is not the same as nothing. Nothing wouldn't have a geometry, for instance. Today, both of our two deepest theories, relativity and quantum theory, give empty space much more structure than that. And again, that very structure leads to various infinities, infinite physical quantities. But this time, neither theory says that you can walk right across the infinity. So what's lacking in these theories is not that they invoke infinity, it's that they invoke something they don't explain, what these infinite things do. And that's a problem, but not a crisis. There are always problems at the cutting edge of physics because a deeper explanation always reveals a still deeper problem. If that were ever not so, then there would be a crisis.
+Well, there have been infinities in fundamental physics since antiquity, mostly harmless. I'm not actually sure which ones are most feared today, but never mind that for the moment. Suppose we were discussing zero instead, like medieval sages who didn't have Zoom, but might have gathered in their cloisters gravely debating the propriety of zero and deciding no, it's improper because zero by definition can't refer to anything in the real world. It's nothing. No one can imagine nothing. It's incomprehensible. To dare to apply it to nature is sheer hubris. Nature abhors a vacuum. We may laugh at that, but this archaic fear of zero is inseparable from the fear of infinity. Take Zeno's paradox. To walk across the room, you first have to get halfway and before that a quarter way and so on. So to move at all, you have to perform an infinite number of actions, physical actions. Zeno was wrong because a philosophy of mathematics can't determine whether walking across a room makes sense or not. If a good scientific explanation says it does, then it does. And the classical kinematics does indeed explain that a vacuum, empty space, is not the same as nothing. Nothing wouldn't have a geometry, for instance. Today, both of our two deepest theories, relativity and quantum theory, give empty space much more structure than that. And again, that very structure leads to various infinities, infinite physical quantities. But this time, neither theory says that you can walk right across the infinity. So what's lacking in these theories is not that they invoke infinity, it's that they invoke something they don't explain, what these infinite things do. And that's a problem, but not a crisis. There are always problems at the cutting edge of physics because a deeper explanation always reveals a still deeper problem. If that were ever not so, then there would be a crisis.
 
 ### Robert Lawrence Kuhn
 
@@ -33,17 +39,35 @@ George, George Ellis, please.
 
 Okay, well I support David Hilbert, who said many years ago, one of the greatest mathematicians of last century, and he said, infinity is needed to complete mathematics, but nowhere occurs in the physical world, and that's correct. And I agree with what David has just said, a corollary of that is zero doesn't occur anywhere either. And let's start with the second. There are all of these problems at the foundation of quantum mechanics about infinities and so on, and quantum cosmology. But from my viewpoint, I think it's very, very plausible that everything quantum theory says everything is quantized at a very broad level. And space time, I think it's very plausible that space time itself would be quantized in some sense, it would emerge out of a discrete kind of structure. If you could look at it at a high enough level of detail. And that, if it does emerge, it will get rid of quite a few of those infinities in quantum physics, because you will no longer be summing over an infinite set of points, you'll be summing over a discrete set of points. In cosmology, all of this stuff about infinite domains and all the rest of it. The fact of the matter is that in the universe, what we can see is restricted by our visual horizon; we can't see beyond the visual horizon. So you can claim there's infinity, I can claim there's not. We're talking metaphysics, we're not talking physics, because there's no way whatever, that either of us can be proved true, because I take the strong viewpoint that science is determined by what can be experimentally or observationally determined. And any claim that there's an infinite number of multiverse domains, no matter what kind of view you have on it, it cannot be verified. And so therefore it's a metaphysical statement, which does not actually relate in some serious sense to the real world before us. If you take the strong view, which I do, that science relates to what is observationally or experimentally determined.
 
+### Robert Lawrence Kuhn
+
+<span class="transcript-timestamp">00:08:10 - 00:10:01</span>
+
+Sara Walker.
+
 ### Sara Walker
 
 <span class="transcript-timestamp">00:08:10 - 00:10:01</span>
 
-Sara Walker. So, most of the ways I think about what we're doing in modern physics are from the perspective of thinking about ourselves as physical systems because I'm interested in the life problem. So a lot of the paradoxes that emerge in modern physics can be thought about from a different perspective if we think about math itself as a physical system. So what is it for physical systems to emerge that then write down laws of physics and describe those by mathematical statements. And from that perspective, mathematics itself looks like a kind of information. It can be copied between different things. So this is a very sort of concept that I think David has talked about quite a bit, that it can be copied between different physical systems. And then you can ask questions about why the concept of infinity would exist from that perspective. And I think infinity as a physical concept is not, it's a metaphor in the sense that George was talking about, that it doesn't describe something real physical out there. There is no such thing as a physical infinity, but infinity exists as a kind of information that we can use to manipulate matter and to understand properties of the universe as it exists here and now as sort of a counterfactual property or a little bit of allowing us to see where we're missing things in our measurements or where there needs to be a new creative solution. So I think it has a kind of physicality in the sense that obviously it exists in our minds, but it doesn't have the kind of physicality of what it in our minds represents in the world. It's something else. And if we could figure out why infinity is a useful concept in terms of what it's doing when we write down laws of physics and maybe how it enables more creativity for identifying where our laws of physics are breaking down or thinking about counterfactual possibilities, then we might be able to rein in infinity and understand a little bit more about why and how it behaves and what it's doing.
+So, most of the ways I think about what we're doing in modern physics are from the perspective of thinking about ourselves as physical systems because I'm interested in the life problem. So a lot of the paradoxes that emerge in modern physics can be thought about from a different perspective if we think about math itself as a physical system. So what is it for physical systems to emerge that then write down laws of physics and describe those by mathematical statements. And from that perspective, mathematics itself looks like a kind of information. It can be copied between different things. So this is a very sort of concept that I think David has talked about quite a bit, that it can be copied between different physical systems. And then you can ask questions about why the concept of infinity would exist from that perspective. And I think infinity as a physical concept is not, it's a metaphor in the sense that George was talking about, that it doesn't describe something real physical out there. There is no such thing as a physical infinity, but infinity exists as a kind of information that we can use to manipulate matter and to understand properties of the universe as it exists here and now as sort of a counterfactual property or a little bit of allowing us to see where we're missing things in our measurements or where there needs to be a new creative solution. So I think it has a kind of physicality in the sense that obviously it exists in our minds, but it doesn't have the kind of physicality of what it in our minds represents in the world. It's something else. And if we could figure out why infinity is a useful concept in terms of what it's doing when we write down laws of physics and maybe how it enables more creativity for identifying where our laws of physics are breaking down or thinking about counterfactual possibilities, then we might be able to rein in infinity and understand a little bit more about why and how it behaves and what it's doing.
 
 ### Robert Lawrence Kuhn
 
 <span class="transcript-timestamp">00:10:01 - 00:12:13</span>
 
-Thank you, everyone. I see the tension already building up. Now we have three themes to explore each of these in some depth. Theme one is what about all those claimed infinities and cosmology? We're talking generally. What about space, time, dimensions, density of black holes in the Big Bang, the size of our universe and the number of universes? Is this reality or is it metaphor or we just can't know and therefore it's metaphysics as George says? Sara, I want to begin with you and focus on your work. You search for life in the cosmos. But as you do that, how real or how relevant are all these potential infinities such as the potential infinite size of our universe even beyond the light horizon? Yeah, so I don't believe the infinities are real. I think they're short-term problems in the way that we construct laws of physics and what we're trying to describe. So I think, as I said before, the multiverse to me is real in the sense that it's a counterfactual property that exists in human minds that we can reason about and then use it to try to inform models for our own universe. But it's not real in the sense that I think multiverses exist. And I think this is really important because when we're talking about the nature of alien life and the kind of physics that they discover, we have to ask questions about whether they'll discover the same physics, the same kinds of infinities or the same kinds of laws of nature. And I've really sort of, you know, I'm happy to be proven wrong at some point, but I've adopted a stance that pretty much everything on this planet is a product of evolution, including the way that we've architected our theories of physics. And they do correspond to a real physical world, but the mathematics and things that we describe might be a feature of where we sit locally and is not a global feature. So we can't talk about things that we don't actually have direct interaction with. It's important to have that kind of locality when you're talking about evolving systems. David, your book, The Beginning of Infinity, is about possibilities and explanations. But from that perspective, are there possibilities for actual infinities in cosmology, which your two esteemed other panelists deny either in reality or in knowability?
+Thank you, everyone. I see the tension already building up. Now we have three themes to explore each of these in some depth. Theme one is what about all those claimed infinities and cosmology? We're talking generally. What about space, time, dimensions, density of black holes in the Big Bang, the size of our universe and the number of universes? Is this reality or is it metaphor or we just can't know and therefore it's metaphysics as George says? Sara, I want to begin with you and focus on your work. You search for life in the cosmos. But as you do that, how real or how relevant are all these potential infinities such as the potential infinite size of our universe even beyond the light horizon?
+
+### Sara Walker
+
+<span class="transcript-timestamp">00:10:01 - 00:12:13</span>
+
+Yeah, so I don't believe the infinities are real. I think they're short-term problems in the way that we construct laws of physics and what we're trying to describe. So I think, as I said before, the multiverse to me is real in the sense that it's a counterfactual property that exists in human minds that we can reason about and then use it to try to inform models for our own universe. But it's not real in the sense that I think multiverses exist. And I think this is really important because when we're talking about the nature of alien life and the kind of physics that they discover, we have to ask questions about whether they'll discover the same physics, the same kinds of infinities or the same kinds of laws of nature. And I've really sort of, you know, I'm happy to be proven wrong at some point, but I've adopted a stance that pretty much everything on this planet is a product of evolution, including the way that we've architected our theories of physics. And they do correspond to a real physical world, but the mathematics and things that we describe might be a feature of where we sit locally and is not a global feature. So we can't talk about things that we don't actually have direct interaction with. It's important to have that kind of locality when you're talking about evolving systems.
+
+### Robert Lawrence Kuhn
+
+<span class="transcript-timestamp">00:10:01 - 00:12:13</span>
+
+David, your book, The Beginning of Infinity, is about possibilities and explanations. But from that perspective, are there possibilities for actual infinities in cosmology, which your two esteemed other panelists deny either in reality or in knowability?
 
 ### David Deutsch
 
@@ -85,13 +109,25 @@ David, respond to that. That you are bigger and bigger forever, but you never re
 
 <span class="transcript-timestamp">00:16:36 - 00:17:36</span>
 
-This is just a prejudice. And now it's become a prejudice about what words we use. The space-time manifold either is infinite in time or it's finite in time. Right. And if it's finite in time, then it comes to an end after a finite time. And that means if you were rejecting the infinite ones, you'd be rejecting a whole class of cosmological theories for no physical reason. I'm not. I'm not rejecting models which expand forever. What I'm saying is that they never reach that final state. It is always in the future. The space-time doesn't reach things. It is there. It's a four-dimensional thing. Yeah. So this is a deep underlying dispute. I don't believe in a block universe. I believe in a growing block universe. That space-time is expanding. It has a future boundary.
+This is just a prejudice. And now it's become a prejudice about what words we use. The space-time manifold either is infinite in time or it's finite in time. Right. And if it's finite in time, then it comes to an end after a finite time. And that means if you were rejecting the infinite ones, you'd be rejecting a whole class of cosmological theories for no physical reason.
+
+### George Ellis
+
+<span class="transcript-timestamp">00:16:36 - 00:17:36</span>
+
+I'm not. I'm not rejecting models which expand forever. What I'm saying is that they never reach that final state. It is always in the future.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:16:36 - 00:17:36</span>
+
+The space-time doesn't reach things. It is there. It's a four-dimensional thing.
 
 ### George Ellis
 
 <span class="transcript-timestamp">00:17:36 - 00:18:09</span>
 
-Now it turns out that NASA agree with me. They think the universe is 13.7 billion years old. If it is 13.7 billion years old, it doesn't stretch to infinity. That is its age. It will be bigger later. It will be bigger later in the future, but it will never be infinity as old. It will be getting older and older and older, but it will never actually be infinity. So I believe in a evolving block universe, not a block universe which has already reached infinity. That doesn't make physical sense.
+Yeah. So this is a deep underlying dispute. I don't believe in a block universe. I believe in a growing block universe. That space-time is expanding. It has a future boundary. Now it turns out that NASA agree with me. They think the universe is 13.7 billion years old. If it is 13.7 billion years old, it doesn't stretch to infinity. That is its age. It will be bigger later. It will be bigger later in the future, but it will never be infinity as old. It will be getting older and older and older, but it will never actually be infinity. So I believe in a evolving block universe, not a block universe which has already reached infinity. That doesn't make physical sense.
 
 ### Robert Lawrence Kuhn
 
@@ -103,7 +139,19 @@ George, I want to press you on this for a second. On the one hand, you're saying
 
 <span class="transcript-timestamp">00:18:43 - 00:20:11</span>
 
-I don't think so. So, right, let me put a challenge to David. What experiment would prove to you that infinity exists? What's the experiment? Well, as I said, we don't judge scientific theories by what we can prove. An experiment can never prove anything. It can only disprove at best, and it can explain. And those are the two criteria by which we need to judge science, not by whether we believe it's a block universe or not a block universe. It's whether the theory of its being a block universe is a good explanation of what we want to explain in the world. There's a distinction here between some mathematical physicists who have theories of space-time, which produce a block universe. For real working cosmologists, the people who analyze the Planck data do not believe that. They assign an age to the universe, which says it does not stretch to infinity. It is moving towards it, but they assign an age to the universe at the present time, which is in contradiction to the people who say we live in the block universe. OK, so the question of the block universe, whether it's growing or static, is a fundamental metaphysical question. I don't think we can ever subject that to some sort of observational experimental confirmation.
+I don't think so. So, right, let me put a challenge to David. What experiment would prove to you that infinity exists? What's the experiment?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:18:43 - 00:20:11</span>
+
+Well, as I said, we don't judge scientific theories by what we can prove. An experiment can never prove anything. It can only disprove at best, and it can explain. And those are the two criteria by which we need to judge science, not by whether we believe it's a block universe or not a block universe. It's whether the theory of its being a block universe is a good explanation of what we want to explain in the world.
+
+### George Ellis
+
+<span class="transcript-timestamp">00:18:43 - 00:20:11</span>
+
+There's a distinction here between some mathematical physicists who have theories of space-time, which produce a block universe. For real working cosmologists, the people who analyze the Planck data do not believe that. They assign an age to the universe, which says it does not stretch to infinity. It is moving towards it, but they assign an age to the universe at the present time, which is in contradiction to the people who say we live in the block universe. OK, so the question of the block universe, whether it's growing or static, is a fundamental metaphysical question. I don't think we can ever subject that to some sort of observational experimental confirmation.
 
 ### Robert Lawrence Kuhn
 
@@ -121,19 +169,79 @@ No, I was just going to say it's always perplexing to me because I think infinit
 
 <span class="transcript-timestamp">00:21:03 - 00:23:15</span>
 
-Sara, your approach to this, again, I hear two different kinds of approaches to the same. I think I'm halfway between George and David. I'm not really sure where I stand on this argument. Well, you do make an affirmative claim that our biological evolution and the structure of our brains has sort of caused us to have our mathematical thinking and ways of explaining it. And so that is an additional barrier, if you will. George is talking about the barrier of scientific observation or experimentation. You're talking about an even earlier barrier in terms of the structure of our brains and enabling us to understand. Yes. But I think those things are related, right, because our ability to understand things is always limited by the horizon of what we can measure and how precisely we can measure it. So it's bounded by our technology. But you're making an additional claim that your feeling is that there are no real infinities, even though your affirmative claim is that it's beyond our structural neurology or our observational capacity to determine it one way or the other. Yes, because that's a useful thought exercise for thinking about what we're doing with infinities is to assume that they're an object that we're manipulating in our minds and using for specific purposes. OK, we're going to go on now. I think our panel skews to if real or imagined infinities are determined by democratic vote, which it of course is not. But if it were, we would skew to no real infinities. But I'd have to say that most cosmologists that I've met probably lean a little bit the other way towards David's side. Clearly, this is a fundamental problem that remains unsolved and should continue to be addressed. Our theme, too, is what to do with the nonsense infinities and the measurement problem in quantum mechanics and the disrupting infinities and the measure problem in cosmology. I want to start with David. David, you are a long term supporter of the many-worlds interpretation of the Schrödinger equation that governs the wave function of quantum mechanical systems.
+Sara, your approach to this, again, I hear two different kinds of approaches to the same.
+
+### Sara Walker
+
+<span class="transcript-timestamp">00:21:03 - 00:23:15</span>
+
+I think I'm halfway between George and David. I'm not really sure where I stand on this argument.
+
+### Robert Lawrence Kuhn
+
+<span class="transcript-timestamp">00:21:03 - 00:23:15</span>
+
+Well, you do make an affirmative claim that our biological evolution and the structure of our brains has sort of caused us to have our mathematical thinking and ways of explaining it. And so that is an additional barrier, if you will. George is talking about the barrier of scientific observation or experimentation. You're talking about an even earlier barrier in terms of the structure of our brains and enabling us to understand.
+
+### Sara Walker
+
+<span class="transcript-timestamp">00:21:03 - 00:23:15</span>
+
+Yes. But I think those things are related, right, because our ability to understand things is always limited by the horizon of what we can measure and how precisely we can measure it. So it's bounded by our technology.
+
+### Robert Lawrence Kuhn
+
+<span class="transcript-timestamp">00:21:03 - 00:23:15</span>
+
+But you're making an additional claim that your feeling is that there are no real infinities, even though your affirmative claim is that it's beyond our structural neurology or our observational capacity to determine it one way or the other.
+
+### Sara Walker
+
+<span class="transcript-timestamp">00:21:03 - 00:23:15</span>
+
+Yes, because that's a useful thought exercise for thinking about what we're doing with infinities is to assume that they're an object that we're manipulating in our minds and using for specific purposes.
+
+### Robert Lawrence Kuhn
+
+<span class="transcript-timestamp">00:21:03 - 00:23:15</span>
+
+OK, we're going to go on now. I think our panel skews to if real or imagined infinities are determined by democratic vote, which it of course is not. But if it were, we would skew to no real infinities. But I'd have to say that most cosmologists that I've met probably lean a little bit the other way towards David's side. Clearly, this is a fundamental problem that remains unsolved and should continue to be addressed. Our theme, too, is what to do with the nonsense infinities and the measurement problem in quantum mechanics and the disrupting infinities and the measure problem in cosmology. I want to start with David. David, you are a long term supporter of the many-worlds interpretation of the Schrödinger equation that governs the wave function of quantum mechanical systems. Are these splitting off worlds infinite in number? We'll start simple.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:23:15 - 00:25:39</span>
 
-Are these splitting off worlds infinite in number? We'll start simple. Oh, it's not known, and it doesn't make much difference to the theory whether they are or not. But I think the infinities you were talking about, the cosmological ones, they're different from the quantum mechanical universe. The universes that are invoked in cosmology are universes with different laws of physics and so on. And there is a genuine problem. If there's an infinite number of them, there's a genuine problem that means that no predictions can be made about them. Because if they're all equally likely, that doesn't mean anything because then each of their probabilities is zero, strictly zero. So that's completely different from the quantum mechanical universes proposed by Hugh Everett and by Schrödinger, by the way, which I think there is incontrovertible evidence for and which precisely do not have this measure problem. So if the cosmological infinity is to be tamed, some way of solving the measure problem for them has to be appended to the existing theories. Of course, if there's a finite number of them, like 10 to the 500, then there's still an issue. There's still an issue of whether the number should be regarded as a probability. I think not. Okay, there are many questions that one has. I do understand the many-worlds interpretation is theoretically the only interpretation that doesn't interpret the Schrödinger equation. It just takes it at face value and doesn't have to go through any type of decoherence or anything else. We'll get to that. But I still want to press you on this. Is the number infinite or is it just so many gazillions that you don't know? Can you give an answer to that? Well, I think it's not known. It could be. It could easily be infinite. The number of distinct distinguishable universes is more likely to be discrete, but it could still be a discrete infinity like the infinity of the integers rather than continuous infinity. But we don't know in either.
+Oh, it's not known, and it doesn't make much difference to the theory whether they are or not. But I think the infinities you were talking about, the cosmological ones, they're different from the quantum mechanical universe. The universes that are invoked in cosmology are universes with different laws of physics and so on. And there is a genuine problem. If there's an infinite number of them, there's a genuine problem that means that no predictions can be made about them. Because if they're all equally likely, that doesn't mean anything because then each of their probabilities is zero, strictly zero. So that's completely different from the quantum mechanical universes proposed by Hugh Everett and by Schrödinger, by the way, which I think there is incontrovertible evidence for and which precisely do not have this measure problem. So if the cosmological infinity is to be tamed, some way of solving the measure problem for them has to be appended to the existing theories. Of course, if there's a finite number of them, like 10 to the 500, then there's still an issue. There's still an issue of whether the number should be regarded as a probability. I think not.
+
+### Robert Lawrence Kuhn
+
+<span class="transcript-timestamp">00:23:15 - 00:25:39</span>
+
+Okay, there are many questions that one has. I do understand the many-worlds interpretation is theoretically the only interpretation that doesn't interpret the Schrödinger equation. It just takes it at face value and doesn't have to go through any type of decoherence or anything else. We'll get to that. But I still want to press you on this. Is the number infinite or is it just so many gazillions that you don't know? Can you give an answer to that?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:23:15 - 00:25:39</span>
+
+Well, I think it's not known. It could be. It could easily be infinite. The number of distinct distinguishable universes is more likely to be discrete, but it could still be a discrete infinity like the infinity of the integers rather than continuous infinity. But we don't know in either.
 
 ### Robert Lawrence Kuhn
 
 <span class="transcript-timestamp">00:25:39 - 00:26:48</span>
 
-Would that be an infinity in both temporal directions, backward and forward? I'm asking maybe naive questions, but these come to mind when I hear about them. No, it's not naive. Now you're raising the question to involve quantum gravity as well, because different times are special cases of different universes. But what that means in a specific theory, we just don't know. That would require a theory which unified general relativity and quantum mechanics, and we don't have a satisfactory one of those. So, you know, I don't know. I would tell you if I did. No, I know. I know you do. You're not bashful with your ideas. That we know for sure. George, when I first heard the many-worlds many years ago, I mean, the first reaction is, you know, is that a joke? Who can believe that? But as I began to understand it, the measurement problem is real in quantum mechanics and the many-worlds interpretation claims to be and may seem to be the only literal approach to the probabilities in the Schrödinger equation. But, you know, is this cure worse than the disease?
+Would that be an infinity in both temporal directions, backward and forward? I'm asking maybe naive questions, but these come to mind when I hear about them.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:25:39 - 00:26:48</span>
+
+No, it's not naive. Now you're raising the question to involve quantum gravity as well, because different times are special cases of different universes. But what that means in a specific theory, we just don't know. That would require a theory which unified general relativity and quantum mechanics, and we don't have a satisfactory one of those. So, you know, I don't know. I would tell you if I did.
+
+### Robert Lawrence Kuhn
+
+<span class="transcript-timestamp">00:25:39 - 00:26:48</span>
+
+No, I know. I know you do. You're not bashful with your ideas. That we know for sure. George, when I first heard the many-worlds many years ago, I mean, the first reaction is, you know, is that a joke? Who can believe that? But as I began to understand it, the measurement problem is real in quantum mechanics and the many-worlds interpretation claims to be and may seem to be the only literal approach to the probabilities in the Schrödinger equation. But, you know, is this cure worse than the disease?
 
 ### George Ellis
 
@@ -145,13 +253,13 @@ Well, you see, I start off with a very different position from David. On this, h
 
 <span class="transcript-timestamp">00:28:20 - 00:28:57</span>
 
-Sara, from your perspective, looking at both the measurement problem in quantum mechanics and the measure problem in a potentially infinite universe in cosmology, how do you dig below that to get to some fundamental questions? So I don't take either of the theories seriously when you get to that stage. So I think there's a tendency to take theories and they have sort of an explanatory domain. And then we always want to push their explanations beyond what they're actually designed to explain and what they actually tell us.
+Sara, from your perspective, looking at both the measurement problem in quantum mechanics and the measure problem in a potentially infinite universe in cosmology, how do you dig below that to get to some fundamental questions?
 
 ### Sara Walker
 
 <span class="transcript-timestamp">00:28:57 - 00:30:17</span>
 
-And I think that can be useful, but I think in some ways that extrapolation is quite poor. So for example, the idea in the multiverse that there's an infinity of copies of me doing this somewhere is to me a sort of gross overstep of what the theory actually says. Because quantum mechanics was designed for a certain type of phenomena at a certain scale of reality. And one of the reasons the measurement problem is difficult because it has to deal with observers and how is it that physical systems that are information processing systems or acquire information from another physical system? You know, what is the physics of those systems? And I see that as being a completely different domain of physics than what quantum mechanics describes. And that has to do with the physics of evolving systems, systems that generate information and use that information to actually make new possibilities occur. And there's traces of what that looks like in quantum mechanics, but I don't think quantum mechanics describes it. So I think this idea of the multiverse is actually taking uncertainty that we have about micro scale phenomena, assuming the entire universe is that when we actually live in a completely different space that's constructed along specific trajectories where information has been building up over four billion years on this planet to make specific features that are us that are very local structures and probably don't exist anywhere else.
+So I don't take either of the theories seriously when you get to that stage. So I think there's a tendency to take theories and they have sort of an explanatory domain. And then we always want to push their explanations beyond what they're actually designed to explain and what they actually tell us. And I think that can be useful, but I think in some ways that extrapolation is quite poor. So for example, the idea in the multiverse that there's an infinity of copies of me doing this somewhere is to me a sort of gross overstep of what the theory actually says. Because quantum mechanics was designed for a certain type of phenomena at a certain scale of reality. And one of the reasons the measurement problem is difficult because it has to deal with observers and how is it that physical systems that are information processing systems or acquire information from another physical system? You know, what is the physics of those systems? And I see that as being a completely different domain of physics than what quantum mechanics describes. And that has to do with the physics of evolving systems, systems that generate information and use that information to actually make new possibilities occur. And there's traces of what that looks like in quantum mechanics, but I don't think quantum mechanics describes it. So I think this idea of the multiverse is actually taking uncertainty that we have about micro scale phenomena, assuming the entire universe is that when we actually live in a completely different space that's constructed along specific trajectories where information has been building up over four billion years on this planet to make specific features that are us that are very local structures and probably don't exist anywhere else.
 
 ### Robert Lawrence Kuhn
 
@@ -261,7 +369,7 @@ I think we should keep it as a theoretical concept with the statement. It doesn'
 
 Not everywhere, but I think there's certain places that it makes a lot of sense. And I guess the one that I'm always most interested in right now is the connection between infinity and time. I think if you accept infinity as real, then you can kind of accept timelessness also as real. Like when you're talking about this other world of infinite beings, infinity takes time to calculate. So it seems that there's a deep connection between infinity and time. And I think I'd like to just remove it and say that actually anything that you want to produce takes time to make it. And you can't just put like a placeholder that this just exists and it's infinite and it doesn't. It's useful as a concept in mathematics. Every undergraduate learns to sum infinite series. And that's actually really interesting. So it's useful in that context.
 
-### George Ellis
+### Robert Lawrence Kuhn
 
 <span class="transcript-timestamp">00:48:50 - 00:49:00</span>
 

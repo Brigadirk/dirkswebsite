@@ -55,13 +55,13 @@ We believe that the world around us behaves according to the laws of classical m
 
 <span class="transcript-timestamp">00:02:39 - 00:04:24</span>
 
-That was Professor Chris Timpson, philosopher of physics. Quantum mechanics arose at the turn of the 20th century when theories were put forward to explain new observations that couldn't be explained with classical mechanics such as Max Planck's formula for observed black body radiation and Albert Einstein's account of the photoelectric effect. Quantum mechanics was able to give a mathematical formalization of the uncertain probabilistic wave particle nature of subatomic particles that physicists were beginning to observe through these experiments. By the 1920s, due to the work of many physicists, including Niels Bohr, Werner Heisenberg and Erwin Schrödinger, quantum mechanics had become the standard formulation for atomic physics and was widely accepted as a field by the end of that decade. Schrödinger and Einstein, however, were not entirely happy with the counterintuitive nature of quantum superpositions, according to which a quantum system such as an atom or photon can exist in a combination of multiple states with many different outcomes. To highlight the apparent absurdity of this on the everyday scale, Schrödinger proposed the following setup, which he himself described as quite ridiculous. First, we have an atom of a radioactive substance which may decay at any moment emitting an alpha particle. Next, a murderous device such as a fragile flask of cyanide linked to detection of the alpha particle. And finally, a cat which will then be killed by the device and all of this would be hidden in a box concealed from any observer. Quantum mechanics
+That was Professor Chris Timpson, philosopher of physics. Quantum mechanics arose at the turn of the 20th century when theories were put forward to explain new observations that couldn't be explained with classical mechanics such as Max Planck's formula for observed black body radiation and Albert Einstein's account of the photoelectric effect. Quantum mechanics was able to give a mathematical formalization of the uncertain probabilistic wave particle nature of subatomic particles that physicists were beginning to observe through these experiments. By the 1920s, due to the work of many physicists, including Niels Bohr, Werner Heisenberg and Erwin Schrödinger, quantum mechanics had become the standard formulation for atomic physics and was widely accepted as a field by the end of that decade. Schrödinger and Einstein, however, were not entirely happy with the counterintuitive nature of quantum superpositions, according to which a quantum system such as an atom or photon can exist in a combination of multiple states with many different outcomes. To highlight the apparent absurdity of this on the everyday scale, Schrödinger proposed the following setup, which he himself described as quite ridiculous. First, we have an atom of a radioactive substance which may decay at any moment emitting an alpha particle. Next, a murderous device such as a fragile flask of cyanide linked to detection of the alpha particle. And finally, a cat which will then be killed by the device and all of this would be hidden in a box concealed from any observer.
 
 ### Chris Timpson
 
 <span class="transcript-timestamp">00:04:24 - 00:05:49</span>
 
-Says that there isn't any fact about at the microscopic level when or whether indeed a particular nucleus is going to decay and emit an alpha particle. And you might be able to put up with that at the microscopic level, you see that we can't see the thing directly and it's just sort of doing its crazy thing and but it's business as usual out here. But then Einstein pointed out that well we shouldn't necessarily be happy with that because we can amplify that fact that it's indeterminate whether or when the atom decayed from the microscopic level where we can sort of ignore it up to a level where it really is going to make us anxious. According to the quantum mechanical description of Schrödinger's setup, until it's been observed there isn't a fact of the matter whether or not the atom has decayed. So there also isn't a fact of the matter whether or not the murderous device has been activated. So there isn't even a fact of the matter whether the cat is alive or dead. But surely there ought to be facts of the matter about whether cats were alive or dead. Now we can take that into a computational realm by saying instead of thinking about things like cats, think about the values of bits in a memory register. We're used to thinking of bits in terms of noughts and ones. We use particular distinct states of our memory, whatever it is, to represent these different logical states. But if we believe that quantum mechanics is the correct theory for describing the underlying material that we're dealing with, we say well look there are more states that the thing could be in than just nought or one. Just like the cat which can be alive or dead or it can be in between in a way that's indeterminate between nought and one.
+Quantum mechanics says that there isn't any fact about at the microscopic level when or whether indeed a particular nucleus is going to decay and emit an alpha particle. And you might be able to put up with that at the microscopic level, you see that we can't see the thing directly and it's just sort of doing its crazy thing and but it's business as usual out here. But then Einstein pointed out that well we shouldn't necessarily be happy with that because we can amplify that fact that it's indeterminate whether or when the atom decayed from the microscopic level where we can sort of ignore it up to a level where it really is going to make us anxious. According to the quantum mechanical description of Schrödinger's setup, until it's been observed there isn't a fact of the matter whether or not the atom has decayed. So there also isn't a fact of the matter whether or not the murderous device has been activated. So there isn't even a fact of the matter whether the cat is alive or dead. But surely there ought to be facts of the matter about whether cats were alive or dead. Now we can take that into a computational realm by saying instead of thinking about things like cats, think about the values of bits in a memory register. We're used to thinking of bits in terms of noughts and ones. We use particular distinct states of our memory, whatever it is, to represent these different logical states. But if we believe that quantum mechanics is the correct theory for describing the underlying material that we're dealing with, we say well look there are more states that the thing could be in than just nought or one. Just like the cat which can be alive or dead or it can be in between in a way that's indeterminate between nought and one.
 
 ### Peter Millican
 
@@ -127,19 +127,19 @@ I had the idea of the exponential computing power that a qubit could offer I won
 
 <span class="transcript-timestamp">00:12:06 - 00:13:20</span>
 
-We need these two state quantum systems and we need to be able to manipulate individual qubits independent of each other we also need to be able to do operations between multiple qubits at a minimum we need two qubit logic gates between arbitrary pairs of qubits in the system we obviously need to be able to initialize the state of the qubit to put the information in, if you like, into my computer and we need to be able to read the information out we need to be able to read the information out both for the final answer of course of our calculation or algorithm but more importantly really for correcting the errors and doing the quantum error correction as the calculation is in progress we need to be able to read out some of the qubits correct the other qubits and so on. The qubits need to have a sufficiently long decoherence time which I mean the time given qubit will stay in the particular quantum superposition state I want it to be in that time needs to be long compared with the time it takes to do the individual operations that we need to do like the gates and the readouts and so on the error correction and we need to do all these operations with sufficiently small errors ultimately that we can implement the ideas of error correction and by sufficiently small errors we need 0.1 percent or 0.01 percent error levels in practice. Achieving error levels like this may be relatively easy
+We need these two state quantum systems and we need to be able to manipulate individual qubits independent of each other we also need to be able to do operations between multiple qubits at a minimum we need two qubit logic gates between arbitrary pairs of qubits in the system we obviously need to be able to initialize the state of the qubit to put the information in, if you like, into my computer and we need to be able to read the information out we need to be able to read the information out both for the final answer of course of our calculation or algorithm but more importantly really for correcting the errors and doing the quantum error correction as the calculation is in progress we need to be able to read out some of the qubits correct the other qubits and so on. The qubits need to have a sufficiently long decoherence time which I mean the time given qubit will stay in the particular quantum superposition state I want it to be in that time needs to be long compared with the time it takes to do the individual operations that we need to do like the gates and the readouts and so on the error correction and we need to do all these operations with sufficiently small errors ultimately that we can implement the ideas of error correction and by sufficiently small errors we need 0.1 percent or 0.01 percent error levels in practice.
 
 ### Peter Millican
 
 <span class="transcript-timestamp">00:13:20 - 00:13:38</span>
 
-In classical systems but in the quantum world it's fiendishly hard owing to the difficulties of manipulating qubits without destroying their quantumness. Here's Dr Natalia Ares. Quantum objects in general, particularly for quantum computers, you have to find a sweet spot because ...
+Achieving error levels like this may be relatively easy in classical systems but in the quantum world it's fiendishly hard owing to the difficulties of manipulating qubits without destroying their quantumness. Here's Dr Natalia Ares.
 
 ### Natalia Ares
 
 <span class="transcript-timestamp">00:13:38 - 00:14:20</span>
 
-You want for a quantum system to remain quantum for a long time till you make all these operations you have to keep it quantum meaning that you have to isolate it from sources that might make it lose its coherence right so you want an object that is very isolated but at the same time it's if it's very isolated and it you know lasts coherent for very very long time it also means that it doesn't interact much with the you know with the environment and then how can you control a quantum computer or a quantum object that is so isolated so you need to find the right balance between how isolated this object is and how well and how fast you can control it.
+Quantum objects in general, particularly for quantum computers, you have to find a sweet spot because you want for a quantum system to remain quantum for a long time till you make all these operations you have to keep it quantum meaning that you have to isolate it from sources that might make it lose its coherence right so you want an object that is very isolated but at the same time it's if it's very isolated and it you know lasts coherent for very very long time it also means that it doesn't interact much with the you know with the environment and then how can you control a quantum computer or a quantum object that is so isolated so you need to find the right balance between how isolated this object is and how well and how fast you can control it.
 
 ### Peter Millican
 
@@ -235,13 +235,13 @@ This technological challenge reminded me of the early development of the classic
 
 <span class="transcript-timestamp">00:20:11 - 00:22:11</span>
 
-The two currently thought to be the leading platforms trapped ions and superconducting circuits. Superconducting circuit is one of the younger platforms for quantum computing but it's grown very fast. Qubits using superconducting electronic circuits take advantage of the behavior of electrons moving across a device known as a Josephson junction. Essentially two superconductors separated by a thin insulating barrier. Having cooled them sufficiently it becomes possible to observe discrete quantum states relating to the phase charge and flux of the system. But a disadvantage of this approach is that even in the best manufacturing settings no man-made systems will ever achieve the precision of using single atoms which are by their very nature identical to each other. Of course if you make a model and you draw it on a piece of paper it looks like that's all going to work perfectly but then you try and build it and you realize oh actually when we build a thing out of stuff it's not perfect there's slight asymmetries here and there there's a bit of friction here and there and it turns out that the slightest error propagates so badly that the whole thing just fundamentally doesn't work. Improvements in manufacturing and the ability to manufacture in bulk and then select the best qubits means that superconducting loops are beginning to compete with ion traps as a potential basis for early quantum computers. People talk about this coherence time so there's a kind of length of time that your qubit is quantum and useful for quantum computing the coherence time was something on the kind of nanosecond timescale over 20 years the coherence times have gone from the nanosecond timescale up to approaching milliseconds nobody's got circuits where everything's sort of around about the millisecond yet but 100 microseconds is seen in quite a lot of circuits around the world now. Researchers here at Oxford are also looking into other more exotic ways to build qubits. I met with Professor Jason Smith
+The two currently thought to be the leading platforms trapped ions and superconducting circuits. Superconducting circuit is one of the younger platforms for quantum computing but it's grown very fast. Qubits using superconducting electronic circuits take advantage of the behavior of electrons moving across a device known as a Josephson junction. Essentially two superconductors separated by a thin insulating barrier. Having cooled them sufficiently it becomes possible to observe discrete quantum states relating to the phase charge and flux of the system. But a disadvantage of this approach is that even in the best manufacturing settings no man-made systems will ever achieve the precision of using single atoms which are by their very nature identical to each other. Of course if you make a model and you draw it on a piece of paper it looks like that's all going to work perfectly but then you try and build it and you realize oh actually when we build a thing out of stuff it's not perfect there's slight asymmetries here and there there's a bit of friction here and there and it turns out that the slightest error propagates so badly that the whole thing just fundamentally doesn't work. Improvements in manufacturing and the ability to manufacture in bulk and then select the best qubits means that superconducting loops are beginning to compete with ion traps as a potential basis for early quantum computers. People talk about this coherence time so there's a kind of length of time that your qubit is quantum and useful for quantum computing the coherence time was something on the kind of nanosecond timescale over 20 years the coherence times have gone from the nanosecond timescale up to approaching milliseconds nobody's got circuits where everything's sort of around about the millisecond yet but 100 microseconds is seen in quite a lot of circuits around the world now. Researchers here at Oxford are also looking into other more exotic ways to build qubits.
 
 ### Peter Millican
 
 <span class="transcript-timestamp">00:22:11 - 00:22:17</span>
 
-Who told me about his fascinating approach involving creating vacancies in diamond lattices.
+I met with Professor Jason Smith who told me about his fascinating approach involving creating vacancies in diamond lattices.
 
 ### Jason Smith
 
@@ -253,31 +253,31 @@ We take a laser and we focus it inside a piece of diamond so that the focal spot
 
 <span class="transcript-timestamp">00:22:44 - 00:23:15</span>
 
-Jason went on to explain that as nitrogen is the most common impurity in diamond nitrogen vacancy centers or NV centers often form in these point defects within the crystal structure. The electron spins at these NV centers can then be manipulated with electromagnetic fields or light causing resonances in the light emitted by the NV center and suggesting that they could be used as the basis of a quantum computer. It is a very different process however doing the engineering of the diamond
+Jason went on to explain that as nitrogen is the most common impurity in diamond nitrogen vacancy centers or NV centers often form in these point defects within the crystal structure. The electron spins at these NV centers can then be manipulated with electromagnetic fields or light causing resonances in the light emitted by the NV center and suggesting that they could be used as the basis of a quantum computer. It is a very different process however
 
 ### Jason Smith
 
 <span class="transcript-timestamp">00:23:15 - 00:24:06</span>
 
-Material essentially what we need to be able to do is to be able to create these NV defects where we want them inside a piece of diamond and ultimately we would like to be able to have some control over this interaction between the electron spin on the NV center and a nearby nucleus. One great advantage for researchers in Oxford is the opportunity it gives them to learn from other groups operating not as rivals but as colleagues. The architecture for a quantum computer that we're aiming towards with diamond is very similar to that which our colleagues in Oxford are aiming towards with ion traps as well so this idea of an optically networked set of matter qubits. Another competing material which we understand very well and use in most of our modern technology is silicon
+doing the engineering of the diamond material essentially what we need to be able to do is to be able to create these NV defects where we want them inside a piece of diamond and ultimately we would like to be able to have some control over this interaction between the electron spin on the NV center and a nearby nucleus. One great advantage for researchers in Oxford is the opportunity it gives them to learn from other groups operating not as rivals but as colleagues. The architecture for a quantum computer that we're aiming towards with diamond is very similar to that which our colleagues in Oxford are aiming towards with ion traps as well so this idea of an optically networked set of matter qubits. Another competing material which we understand very well and use in most of our modern technology is silicon
 
 ### Peter Millican
 
 <span class="transcript-timestamp">00:24:06 - 00:24:12</span>
 
-Here's Natalia Ares again. Of course I'm biased in what I'm going to say but I think they're
+Here's Natalia Ares again.
 
 ### Natalia Ares
 
 <span class="transcript-timestamp">00:24:13 - 00:24:33</span>
 
-A very serious candidate because we know how to do these objects, they're in our phones and even very similar devices to the integrated circuits that we produce nowadays. If you cool them down you can see quantum behavior. By now I'd heard about quite a range of technologies being used
+Of course I'm biased in what I'm going to say but I think they're a very serious candidate because we know how to do these objects, they're in our phones and even very similar devices to the integrated circuits that we produce nowadays. If you cool them down you can see quantum behavior.
 
 ### Peter Millican
 
 <span class="transcript-timestamp">00:24:33 - 00:24:45</span>
 
-To develop qubits here at Oxford but I had to wonder why isn't there a clear front runner? I asked Tyson Jones more about the challenges of building the perfect qubit.
+By now I'd heard about quite a range of technologies being used to develop qubits here at Oxford but I had to wonder why isn't there a clear front runner? I asked Tyson Jones more about the challenges of building the perfect qubit.
 
 ### Tyson Jones
 
@@ -289,25 +289,25 @@ You have these two opposing requirements I need to make sure they don't talk to 
 
 <span class="transcript-timestamp">00:25:17 - 00:25:33</span>
 
-David Deutsch explained to me why quantum computers need such sophisticated error correction far beyond the level we find entirely adequate for classical computers. All classical methods of error correction involve basically making redundant copies of the computation like
+David Deutsch explained to me why quantum computers need such sophisticated error correction far beyond the level we find entirely adequate for classical computers.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:25:33 - 00:25:59</span>
 
-In a transistor like in a computer a one or a zero is represented by billions of electrons and you kind of take the average and then reset them to the average and now that operation destroys quantum coherence and therefore places a fundamental limitation on what quantum computations can be done in real life. In addition to building scalable networks of qubits and developing
+All classical methods of error correction involve basically making redundant copies of the computation like in a transistor like in a computer a one or a zero is represented by billions of electrons and you kind of take the average and then reset them to the average and now that operation destroys quantum coherence and therefore places a fundamental limitation on what quantum computations can be done in real life.
 
 ### Peter Millican
 
 <span class="transcript-timestamp">00:25:59 - 00:26:17</span>
 
-Suitable error correction systems Oxford academics are also leading efforts to develop a universal quantum programming code. According to Jamie Vicary the language of quantum computers could be influenced from a quite unexpected direction. Turns out that all the abstractions
+In addition to building scalable networks of qubits and developing suitable error correction systems Oxford academics are also leading efforts to develop a universal quantum programming code. According to Jamie Vicary the language of quantum computers could be influenced from a quite unexpected direction.
 
 ### Jamie Vicary
 
 <span class="transcript-timestamp">00:26:17 - 00:27:20</span>
 
-That we developed for high level classical programming are completely useless. Loops don't really exist on a quantum computer variables don't even really exist on a quantum computer because in a classical computer you have a variable say x equals two and then you can use x in lots of different ways but if that x is now a quantum variable turns out that you can only use it once you might say well let's just copy that quantum variable x turns out that quantum information can't be copied so the very notion of a variable as we're familiar with it in classical programming becomes completely useless and it's a big problem so we can then say okay what's going wrong here why doesn't quantum information speak this language this language that we've developed over 80 years of the development of modern computer science and one possibility is that it's because quantum information in fact doesn't really speak the language of logic as we've come to know it and develop it what it speaks is the language of geometry. As I understand this quantum information
+Turns out that all the abstractions that we developed for high level classical programming are completely useless. Loops don't really exist on a quantum computer variables don't even really exist on a quantum computer because in a classical computer you have a variable say x equals two and then you can use x in lots of different ways but if that x is now a quantum variable turns out that you can only use it once you might say well let's just copy that quantum variable x turns out that quantum information can't be copied so the very notion of a variable as we're familiar with it in classical programming becomes completely useless and it's a big problem so we can then say okay what's going wrong here why doesn't quantum information speak this language this language that we've developed over 80 years of the development of modern computer science and one possibility is that it's because quantum information in fact doesn't really speak the language of logic as we've come to know it and develop it what it speaks is the language of geometry. As I understand this quantum information
 
 ### Peter Millican
 
@@ -349,13 +349,13 @@ I would say that we are past the Babbage stage of just having a good idea and ho
 
 <span class="transcript-timestamp">00:32:01 - 00:32:08</span>
 
-And peter leek again I really think this is a much bigger thing than a single winner race you know
+And peter leek again
 
 ### Peter Leek
 
 <span class="transcript-timestamp">00:32:08 - 00:32:24</span>
 
-It's uh this is like a complete game changer in how we process information which is at the heart of humanity's development I think it would be surprising if just like one company did all of that you know in the end or what there was just one particular way of doing that and that was it ...
+I really think this is a much bigger thing than a single winner race you know it's uh this is like a complete game changer in how we process information which is at the heart of humanity's development I think it would be surprising if just like one company did all of that you know in the end or what there was just one particular way of doing that and that was it ...
 
 ### Peter Millican
 
