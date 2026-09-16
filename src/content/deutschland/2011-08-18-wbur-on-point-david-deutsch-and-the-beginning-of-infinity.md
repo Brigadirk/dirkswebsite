@@ -1,6 +1,6 @@
 ---
 title: '2011-08-18 - WBUR On Point - David Deutsch and The Beginning of Infinity'
-description: 'A radio interview / call-in segment from WBUR On Point, featuring On Point sponsor, Tom Ashbrook, David Deutsch, Carl Sagan clip, Stephen Hawking clip, Dana, Joe, Vijay, David in Boston, titled "David Deutsch and The Beginning of Infinity".'
+description: 'A radio interview / call-in segment from WBUR On Point, featuring Tom Ashbrook, David Deutsch, Dana, Joe, Ellen, Vijay, and David in Boston, titled "David Deutsch and The Beginning of Infinity".'
 pubDate: 2011-08-18
 ---
 
@@ -35,15 +35,15 @@ You draw an enormous line through human history at the enlightenment and scienti
 
 ### David Deutsch
 
-<span class="transcript-timestamp">00:01:46 - 00:03:15</span>
+<span class="transcript-timestamp">00:01:46 - 00:03:08</span>
 
-This line is the most important thing that's ever happened because prior to it, the world was static in terms of ideas. That is to say, things did improve, but from the point of view, and sometimes they improved, sometimes they got worse, but always from the point of view of any individual, by the time they died, the technology, the economics, the ways of life, everything that they could notice about the world would not have changed, would not have improved. After the enlightenment, it was the exact opposite. We have learned to live with the fact that everything improves in every generation, and what's more, previous ways of life become unviable as better ways of life appear. This staticity was a, I call it a horrible practical joke played on the human race by nature because for hundreds of thousands of years, we had the capacity to improve, to reduce human suffering, to increase our knowledge of the world, but almost none of that happened, and then suddenly there was this explosion where it has happened. And it's not just a matter of us then going on to develop all kinds of technology from microwave ovens to high-speed cars, you name it.
+This line is the most important thing that's ever happened because prior to it, the world was static in terms of ideas. That is to say, things did improve, but from the point of view, and sometimes they improved, sometimes they got worse, but always from the point of view of any individual, by the time they died, the technology, the economics, the ways of life, everything that they could notice about the world would not have changed, would not have improved. After the enlightenment, it was the exact opposite. We have learned to live with the fact that everything improves in every generation, and what's more, previous ways of life become unviable as better ways of life appear. This staticity was a, I call it a horrible practical joke played on the human race by nature because for hundreds of thousands of years, we had the capacity to improve, to reduce human suffering, to increase our knowledge of the world, but almost none of that happened, and then suddenly there was this explosion where it has happened.
 
 ### Tom Ashbrook
 
-<span class="transcript-timestamp">00:03:15 - 00:03:25</span>
+<span class="transcript-timestamp">00:03:08 - 00:03:25</span>
 
-You say that this change introduced us or created The Beginning of Infinity. The title of your book, what do you mean by that?
+And it's not just a matter of us then going on to develop all kinds of technology from microwave ovens to high-speed cars, you name it. You say that this change introduced us or created The Beginning of Infinity. The title of your book, what do you mean by that?
 
 ### David Deutsch
 
@@ -61,7 +61,7 @@ Well to tie it to the scientific revolution then, which you remind us, coming in
 
 <span class="transcript-timestamp">00:04:13 - 00:05:57</span>
 
-Well it's like this. Science is about finding laws of nature which are testable regularities. And we discovered this method, the scientific method, which I think is essentially trying to find good explanations of what happens rather than bad explanations that could apply to absolutely anything. And once one has this method, which is the scientific method but it also ranges more broadly over other fields like philosophy, once one has this method the scope of both understanding and controlling the world has to be limitless. The reason it has to be limitless is basically everything that isn't forbidden by laws of physics has to be possible because, this is the simplest argument in the book, if it weren't possible then that would itself be a testable regularity in nature. For example, we can't travel faster than the speed of light, that's a limitation on our technology and it is a law of nature. If it were the case that we could, for example, never get off the earth and never survive on any other planet, that would also be a testable regularity, it would be a law of nature, but there is no such law of nature and therefore everything that isn't forbidden by laws of nature must be possible. And that's a momentous link between the laws of nature and the ability to control the universe.
+Well it's like this. Science is about finding laws of nature which are testable regularities. And we discovered this method, the scientific method, which I think is essentially trying to find good explanations of what happens rather than bad explanations that could apply to absolutely anything. And once one has this method, which is the scientific method but it also ranges more broadly over other fields like philosophy, once one has this method the scope of both understanding and controlling the world has to be limitless. The reason it has to be limitless is basically everything that isn't forbidden by laws of physics has to be possible because, this is the simplest argument in the book, if it weren't possible then that would itself be a testable regularity in nature. For example, we can't travel faster than the speed of light, that's a limitation on our technology and it is a law of nature. If it were the case that we could, for example, never get off the earth and never survive on any other planet, that would also be a testable regularity, it would be a law of nature, but there is no such law of nature and therefore everything that isn't forbidden by laws of nature must be possible. And that's a momentous link between explanatory, theoretical knowledge, and technological knowledge, the ability to control the universe.
 
 ### Tom Ashbrook
 
@@ -73,7 +73,7 @@ You are just thrillingly bold in the way you think and the way you write. There'
 
 <span class="transcript-timestamp">00:06:44 - 00:07:17</span>
 
-That's right, both on the larger scale and in some ways more exciting, the smallest scale, as Richard Feynman said, there's plenty of room at the bottom with the nanotechnology and then space exploration at the highest scale. The thing is there can't be such a limit because, as I just said, any limit that, let's say, confined us to the solar system or even to our galaxy, either would have to be imposed by the laws of physics or it would have to be an illusion.
+That's right, both on the largest scale and in some ways more exciting, the smallest scale, as Richard Feynman said, there's plenty of room at the bottom with the nanotechnology and then space exploration at the highest scale. The thing is there can't be such a limit because, as I just said, any limit that, let's say, confined us to the solar system or even to our galaxy, either would have to be imposed by the laws of physics or it would have to be an illusion.
 
 ### Tom Ashbrook
 
@@ -131,15 +131,15 @@ Or to put it another way, maybe at the beginning of infinity and here's physicis
 
 ### Stephen Hawking clip
 
-<span class="transcript-timestamp">00:12:36 - 00:13:13</span>
+<span class="transcript-timestamp">00:12:36 - 00:13:10</span>
 
-If we are the only intelligent beings in the galaxy, we should make sure we survive and continue. But we are entering an increasingly dangerous period of our history. Our population and our use of the finite resources of planet earth are growing exponentially, along with our technical ability to change the environment for good or ill. But our genetic code still carries the selfish and aggressive instincts that were of survival advantage in the past. In the past, but may be a danger in the future.
+If we are the only intelligent beings in the galaxy, we should make sure we survive and continue. But we are entering an increasingly dangerous period of our history. Our population and our use of the finite resources of planet earth are growing exponentially, along with our technical ability to change the environment for good or ill. But our genetic code still carries the selfish and aggressive instincts that were of survival advantage in the past.
 
 ### Tom Ashbrook
 
-<span class="transcript-timestamp">00:13:13 - 00:13:39</span>
+<span class="transcript-timestamp">00:13:10 - 00:13:39</span>
 
-David Deutsch, our listeners are paying close attention. We have lots of questions and comments coming in for you already. Here from online Lark writes, and let me put this to you, Professor, does Professor Deutsch see mankind as having sufficient wisdom and self-control, self-knowledge to make our potentially infinite influence on the universe positive rather than destructive? David Deutsch?
+In the past, but may be a danger in the future. David Deutsch, our listeners are paying close attention. We have lots of questions and comments coming in for you already. Here from online Lark writes, and let me put this to you, Professor, does Professor Deutsch see mankind as having sufficient wisdom and self-control, self-knowledge to make our potentially infinite influence on the universe positive rather than destructive? David Deutsch?
 
 ### David Deutsch
 
@@ -233,15 +233,15 @@ The thing is that they, like we, would gain their ability to control matter and 
 
 ### Tom Ashbrook
 
-<span class="transcript-timestamp">00:24:34 - 00:24:36</span>
+<span class="transcript-timestamp">00:24:34 - 00:24:38</span>
 
-You say don't fear them. Stephen Hawking says fear them.
+You say don't fear them. Stephen Hawking says fear them. You say don't.
 
 ### David Deutsch
 
-<span class="transcript-timestamp">00:24:37 - 00:25:07</span>
+<span class="transcript-timestamp">00:24:38 - 00:25:07</span>
 
-You say don't. Yes. That is because we have to understand the lesson of universality. The lesson of universality is that there is only one set of laws of physics on our planet, in our solar system, in our galaxy, in the whole universe, past, present, future. It's the same set of laws. And they provide the same set of opportunities for control and also the same set of barriers.
+Yes. That is because we have to understand the lesson of universality. The lesson of universality is that there is only one set of laws of physics on our planet, in our solar system, in our galaxy, in the whole universe, past, present, future. It's the same set of laws. And they provide the same set of opportunities for control and also the same set of barriers.
 
 ### Tom Ashbrook
 
@@ -301,7 +301,7 @@ David Deutsch, let's go straight to our listeners. Joe in Farmville, Virginia. J
 
 <span class="transcript-timestamp">00:28:32 - 00:29:08</span>
 
-I have a question for Mr. Deutsch, but before that let me make a comment. He's saying that man's destiny is to come in peace. Well, actually the Bible says the same thing. In Psalm 8, it says that the moon and the stars are the work of God's fingers. And then it says that God gives man dominion over the work of his fingers. And then it says what form that dominion will take. It says God will put all things under man's feet. So that's like saying that God will put the moon and the stars under man's feet.
+I have a question for Mr. Deutsch, but before that let me make a comment. He's saying that man's destiny is to colonize space. Well, actually the Bible says the same thing. In Psalm 8, it says that the moon and the stars are the work of God's fingers. And then it says that God gives man dominion over the work of his fingers. And then it says what form that dominion will take. It says God will put all things under man's feet. So that's like saying that God will put the moon and the stars under man's feet.
 
 ### Tom Ashbrook
 
@@ -323,15 +323,27 @@ Joe, you're breaking up, but I think we've got it. If the universe is expanding 
 
 ### David Deutsch
 
-<span class="transcript-timestamp">00:29:45 - 00:32:05</span>
+<span class="transcript-timestamp">00:29:45 - 00:30:39</span>
 
-Yes. I only heard part of that question, but I think I understood what it was. One of the great growth areas in fundamental physics in the last few years has been in cosmology. We have learned that all the cosmological models that anybody believed until, let's say, 20 years ago are definitely wrong. But what we don't yet know is the cosmological model that is in fact right. The prevailing one at the moment is that the universe is not only expanding, which we've known for nearly a century, but is expanding at an accelerating rate. We're being torn apart by the same forces. And what we would have to do is put more and more information into a smaller and smaller volume. And whether that will be possible or not depends on the exact details that we don't yet know. Now, all I can say is there are plenty of cosmological models in which progress can go on literally forever, that is, literally no upper bound. And there are some in which progress is forced to come to an end after a few trillion years. But with cosmological models currently changing on a time scale of a decade or so, I think it would be rash to build our plans for a trillion years on whatever the current theory of that is.
+Yes. I only heard part of that question, but I think I understood what it was. One of the great growth areas in fundamental physics in the last few years has been in cosmology. We have learned that all the cosmological models that anybody believed until, let's say, 20 years ago are definitely wrong. But what we don't yet know is the cosmological model that is in fact right. The prevailing one at the moment is that the universe is not only expanding, which we've known for nearly a century, but is expanding at an accelerating rate through this thing which we call dark energy, just because we need to call it something. But we have absolutely no idea what it is.
+
+### Tom Ashbrook
+
+<span class="transcript-timestamp">00:30:39 - 00:30:43</span>
+
+How do we catch up with it? How do we get a toehold out there if it's rushing away from us?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:30:43 - 00:32:06</span>
+
+Yes. Well, the exact implications of the accelerating expansion of the universe on the controllability of the cosmos are not well known yet. The caller's assumption was that eventually we would be just left with one galaxy and all the others would be receding at the speed of light, so we'd never catch up with them. If that is so, then only a few trillion years after that, the galaxy itself will start being torn apart by these same forces. And what we would have to do is put more and more information into a smaller and smaller volume. And whether that will be possible or not depends on the exact details that we don't yet know. Now, all I can say is there are plenty of cosmological models in which progress can go on literally forever, that is, literally no upper bound. And there are some in which progress is forced to come to an end after a few trillion years. But with cosmological models currently changing on a time scale of a decade or so, I think it would be rash to build our plans for a trillion years on whatever the current theory of that is.
 
 ### Tom Ashbrook
 
 <span class="transcript-timestamp">00:32:06 - 00:32:30</span>
 
-For any number of reasons, people are listening very closely here. We played the clip from Stephen Hawking. He talked about survival genes for aggression in humanity now holding us back. And she asked if you can address that. You said that was an artificial limitation. But what does that mean? Do human beings need to re-evolve, evolve into something where we don't destroy one another for survival purposes?
+For any number of reasons, people are listening very closely here. Ellen was listening. We played the clip from Stephen Hawking. He talked about survival genes for aggression in humanity now holding us back. And she asked if you can address that. You said that was an artificial limitation. But what does that mean? Do human beings need to re-evolve, evolve into something where we don't destroy one another for survival purposes?
 
 ### David Deutsch
 
@@ -445,7 +457,7 @@ David, let us pick it up right there and use the time we have. David Deutsch, wh
 
 <span class="transcript-timestamp">00:42:15 - 00:42:25</span>
 
-Okay, first of all, two things. One is that you're grossly underestimating how bad the past was. How totally contrary.
+Okay, first of all, two things. One is that you're grossly underestimating how bad the past was. How totally—
 
 ### Tom Ashbrook
 
@@ -473,15 +485,15 @@ Well, I think that is not comparing like with like. But let me just say the othe
 
 ### Tom Ashbrook
 
-<span class="transcript-timestamp">00:43:59 - 00:44:07</span>
+<span class="transcript-timestamp">00:43:59 - 00:44:18</span>
 
-Final question. We just have one minute. Enlightenment, the thing that you see behind all of this, the Enlightenment, might we turn our backs on that?
+Final question. We just have one minute. Enlightenment, the thing that you see behind all of this, the Enlightenment, might we turn our backs on that? There's certainly a lot of pushback and denial in substantial parts of American politics and culture to science and the scientific revolution. Might we turn our back on that very thing?
 
 ### David Deutsch
 
-<span class="transcript-timestamp">00:44:08 - 00:44:57</span>
+<span class="transcript-timestamp">00:44:18 - 00:44:57</span>
 
-There's certainly a lot of pushback and denial in substantial parts of American politics and culture to science and the scientific revolution. There are no guarantees. Now I believe that the Enlightenment has sort of tried to happen several times in human history, such as in Periclean Athens and in Florence during the Renaissance. And I describe these in the book as well. And there will have been other cases as well which were less spectacular because they were put down earlier. It is always possible to turn one's back on Enlightenment and reason, and we could do so, in which case perhaps our whole planet is doomed and somebody else will be the people that have The Beginning of Infinity.
+There are no guarantees. Now I believe that the Enlightenment has sort of tried to happen several times in human history, such as in Periclean Athens and in Florence during the Renaissance. And I describe these in the book as well. And there will have been other cases as well which were less spectacular because they were put down earlier. It is always possible to turn one's back on Enlightenment and reason, and we could do so, in which case perhaps our whole planet is doomed and somebody else will be the people that have The Beginning of Infinity.
 
 ### Tom Ashbrook
 
