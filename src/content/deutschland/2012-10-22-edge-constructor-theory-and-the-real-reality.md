@@ -37,7 +37,7 @@ Well I'm not aware of all that little subculture you've described
 
 <span class="transcript-timestamp">00:42:58 - 00:43:00</span>
 
-But you haven't read by the way chan brock
+But you haven't read, by the way, John Brockman
 
 ### David Deutsch
 

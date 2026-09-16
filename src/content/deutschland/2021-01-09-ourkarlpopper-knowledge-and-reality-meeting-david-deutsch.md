@@ -37,13 +37,13 @@ Yes. And so it's I think that part of it is just it's hard to get away from the 
 
 <span class="transcript-timestamp">00:02:08 - 00:02:18</span>
 
-Memes that exist in a culture. If evolution is about survival of the fittest you can kind of see how even if you understand Dawkins that's still true so you still use that term even though it's
+Memes that exist in a culture. If evolution is about survival of the fittest you can kind of see how even if you understand Dawkins that's still true so you still use that term even though it's misleading.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:02:18 - 00:02:35</span>
 
-Misleading. Well Darwin used it but I don't know you know you can't see into people's minds but I suspect that in many cases when people say survival of the fittest they are imagining animals fighting it out.
+Well Darwin used it but I don't know you know you can't see into people's minds but I suspect that in many cases when people say survival of the fittest they are imagining animals fighting it out.
 
 ### Bruce Nielson
 

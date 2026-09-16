@@ -783,7 +783,7 @@ Well, for a start, yes. I mean, in the most extreme form, the quantum theory, yo
 
 My brain was crammed with quantum uncertainty. If I was to catch this time connection, I had to hold on tight to another train of thought. Einstein's train, where each instant of time is not a when but a where. We do not move through space and time, but just exist in a greater scheme called space-time. Einstein proved this from the single fact that the speed of light is always the same, no matter where you are or what you're doing. He realized that if someone struck a match in the middle of a carriage, they would see the light from it hit the front and back of the carriage at the same time. But if you were on a platform watching the match being struck by the time the light moves from the match to the ends of the carriage, the train has moved. So you would see that light hit the back before the front. You disagree over when things happen. So even time is only meaningful relative to your position in space. Einstein said what happens when you move is that your time must slow down. And if it were possible to travel at the speed of light, time would grind to a complete halt. Now, in the universe there are objects of such huge mass that they do strange things with light. This is the clue to the secret of everything. These are black holes, objects of such concentrated mass even light cannot escape them. So inside a black hole, light must come to a halt. And this could only happen if time stops. A black hole is the place in the universe where the end of time exists, where reality gets crushed out of existence by gravitational energy. It's the mirror image of creation! So I'd actually made it from Big Bang to black holes, apparently in no time at all. This history of time was even briefer than I thought. But surely time can't be an illusion, can it? Is time real? Or is it an illusion? It's real, isn't it? Surely time is as real as you are, Professor.
 
-### Stephen Hawking
+### Roger Penrose
 
 <span class="transcript-timestamp">00:40:05 - 00:40:56</span>
 
@@ -795,7 +795,7 @@ Well, you're talking about our experience of time, the flow of time. That if you
 
 I haven't got what this imaginary time is. So imaginary time isn't the time before time began.
 
-### Stephen Hawking
+### Roger Penrose
 
 <span class="transcript-timestamp">00:41:01 - 00:41:14</span>
 
@@ -807,7 +807,7 @@ No, no, no. It's off at a right angle, so to speak. Time before time began would
 
 That doesn't make any sense. The square root of negative time.
 
-### Stephen Hawking
+### Roger Penrose
 
 <span class="transcript-timestamp">00:41:19 - 00:41:24</span>
 
@@ -819,7 +819,7 @@ Well, no. In quantum mechanics, you see, you have to do this.
 
 They'd have to have given him that job.
 
-### Stephen Hawking
+### Roger Penrose
 
 <span class="transcript-timestamp">00:41:26 - 00:41:59</span>
 
@@ -831,7 +831,7 @@ See, in quantum mechanics, the deeper you look into the way the world works, the
 
 So God worked it out mathematically first.
 
-### Stephen Hawking
+### Roger Penrose
 
 <span class="transcript-timestamp">00:42:01 - 00:42:22</span>
 

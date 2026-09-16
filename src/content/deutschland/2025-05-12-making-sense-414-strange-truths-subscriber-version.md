@@ -151,25 +151,25 @@ Okay, so this is now kind of amounted to a bit of a sidebar conversation. I'll g
 
 <span class="transcript-timestamp">00:16:50 - 00:17:46</span>
 
-Yes, it turns out that frequency is not good enough to support the notion of probability that we need in physics and in everyday life. And I inaugurated a research program called the Decision Theoretic Approach to Probability in Quantum Theory. Others took that and ran with it, and now we have a really watertight version that's not based on frequency, but it's based on what a rational person would do if they thought that there are Everettian universes and that the future is going to differentiate. So it comes to the right answer. So there isn't any dramatic conclusion from this except that probability works as it was postulated to work from the beginning of quantum theory. But probability in this case is a useful
+Yes, it turns out that frequency is not good enough to support the notion of probability that we need in physics and in everyday life. And I inaugurated a research program called the Decision Theoretic Approach to Probability in Quantum Theory. Others took that and ran with it, and now we have a really watertight version that's not based on frequency, but it's based on what a rational person would do if they thought that there are Everettian universes and that the future is going to differentiate. So it comes to the right answer. So there isn't any dramatic conclusion from this except that probability works as it was postulated to work from the beginning of quantum theory. But probability in this case is a useful fiction.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">00:17:46 - 00:17:59</span>
 
-Fiction? Yes. Okay, so we're in a kind of actualist universe. There is only the actual. It just happens a countable number of times, and those number of times are different depending on ...
+Yes. Okay, so we're in a kind of actualist universe. There is only the actual. It just happens a countable number of times, and those number of times are different depending on what we're talking about.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:17:59 - 00:18:03</span>
 
-What we're talking about. Yes, a measurable number of times, but a countable number of ...
+Yes, a measurable number of times, but a countable number of different times, yes.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">00:18:03 - 00:18:39</span>
 
-Different times, yes. Okay, well, the nerds can thank us for that little detour. Again, back to this question of parsimony, this just does seem on its face to be multiplying things quite literally way too much to seem plausible. Before we dig into more of the details, what was your psychological, give me your psycho biography with respect to this theory. How long did it take you to accept it? What was that process like, and what do you recommend to those who are hitting stumbling blocks on it?
+Okay, well, the nerds can thank us for that little detour. Again, back to this question of parsimony, this just does seem on its face to be multiplying things quite literally way too much to seem plausible. Before we dig into more of the details, what was your psychological, give me your psycho biography with respect to this theory. How long did it take you to accept it? What was that process like, and what do you recommend to those who are hitting stumbling blocks on it?
 
 ### David Deutsch
 
@@ -373,19 +373,19 @@ I don't know actually. The last time I saw such a poll was at least 10, maybe 20
 
 <span class="transcript-timestamp">00:43:28 - 00:43:57</span>
 
-In defense of a skeptic, it will seem an unfair move to consider the basis of skepticism on this point a psychological condition rather than born of science, rival scientific insight or interpretation. What's the most charitable version scientifically of the argument against many worlds? Let's say I could make a phone call, and I could hear that Ed Witten did not believe this interpretation. What's he most likely to say
+In defense of a skeptic, it will seem an unfair move to consider the basis of skepticism on this point a psychological condition rather than born of science, rival scientific insight or interpretation. What's the most charitable version scientifically of the argument against many worlds? Let's say I could make a phone call, and I could hear that Ed Witten did not believe this interpretation. What's he most likely to say when asked why?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:43:57 - 00:45:13</span>
 
-When asked why? Well, I'm the wrong person to ask. First of all, I don't actually psychologize on this matter as an argument. I only put forward the psychological theory because you asked why aren't people persuadable. Many people are persuadable. I could name drop as well. I could say Hawking. Similarly, being charitable is also not to the point. That is also an ad hominem type theory. I'm most comfortable talking about what is true or not true, what is a good argument or a bad argument, not why people believe strange things. Is that Michael Shermer's book's name? I don't know. As I told you, I had a theory, or one small theory, and I no longer believe it. Why people believe weird things. Is it why people believe weird things? Now I forget. Now the title is in a superposition
+Well, I'm the wrong person to ask. First of all, I don't actually psychologize on this matter as an argument. I only put forward the psychological theory because you asked why aren't people persuadable. Many people are persuadable. I could name drop as well. I could say Hawking. Similarly, being charitable is also not to the point. That is also an ad hominem type theory. I'm most comfortable talking about what is true or not true, what is a good argument or a bad argument, not why people believe strange things. Is that Michael Shermer's book's name? I don't know. As I told you, I had a theory, or one small theory, and I no longer believe it. Why people believe weird things. Is it why people believe weird things? Now I forget. Now the title is in a superposition in my brain.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">00:45:13 - 00:45:23</span>
 
-In my brain. We'll resolve it eventually. Let's move on to constructor theory. What is constructor theory? I know you've been spending more time on that.
+We'll resolve it eventually. Let's move on to constructor theory. What is constructor theory? I know you've been spending more time on that.
 
 ### David Deutsch
 
@@ -577,13 +577,13 @@ So the very simplest quantum interference experiment is a two-slit experiment or
 
 <span class="transcript-timestamp">01:11:11 - 01:12:35</span>
 
-Now for that, you actually have to put the three different things in, which means that you haven't gained anything. You have to put the gates or whatever it was into the holes. So you've made room for three parallel computations, even though one photon is enough to set them all off. But if you now think of not having the different computations performed by the photon caused by passing through three different holes, but instead have, let's say, an electron and an electric field does things to the electron and to the neighboring electron and to the one. If you have two electrons, it's doing four things. If you have three electrons, it's doing eight things and so on. You have n electrons, it's doing two to the n things. They can all be caused to do them by a burst of laser light that puts them all into quantum states. They then do their computation. Another burst of laser light makes them all produce the same answer in the output. They've done two to the n computations, two to the n sub computations, which combine to form the answer that you wanted. Now two to the n can be very, very large, or at least once they've perfected actually building one of these, it will
+Now for that, you actually have to put the three different things in, which means that you haven't gained anything. You have to put the gates or whatever it was into the holes. So you've made room for three parallel computations, even though one photon is enough to set them all off. But if you now think of not having the different computations performed by the photon caused by passing through three different holes, but instead have, let's say, an electron and an electric field does things to the electron and to the neighboring electron and to the one. If you have two electrons, it's doing four things. If you have three electrons, it's doing eight things and so on. You have n electrons, it's doing two to the n things. They can all be caused to do them by a burst of laser light that puts them all into quantum states. They then do their computation. Another burst of laser light makes them all produce the same answer in the output. They've done two to the n computations, two to the n sub computations, which combine to form the answer that you wanted. Now two to the n can be very, very large, or at least once they've perfected actually building one of these, it will be very, very large.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">01:12:35 - 01:12:41</span>
 
-Be very, very large. So where are they? What has been built to your knowledge to date and what ...
+So where are they? What has been built to your knowledge to date and what ...
 
 ### David Deutsch
 
@@ -595,31 +595,25 @@ Principles of? I don't know. I'm not an experimental physicist. And to me...
 
 <span class="transcript-timestamp">01:12:49 - 01:12:56</span>
 
-But there are quantum computers of some size, right? And I mean, they're constrained by temperature and they're not
+But there are quantum computers of some size, right? And I mean, they're constrained by temperature and they're not practical.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:12:56 - 01:13:58</span>
 
-Practical. But people argue about this. The question is how general are the programs that... Suppose you had a thing with 50 qubits. In principle, that can do two to the 50 computations, which is enormous. But the trouble is how well can you control this laser pulse or whatever you're causing them, however you're programming them? Can you really reach all the 50? So you have to prepare them with 50 different pulses or one pulse doing 50 different things. How well can you control that so that it can cause any quantum program? So I'm not competent to judge that. But another colleague of mine, Mario Villaris, has made a series of YouTube videos about quantum computation, which are excellent. So I recommend them to you and your audience.
+But people argue about this. The question is how general are the programs that... Suppose you had a thing with 50 qubits. In principle, that can do two to the 50 computations, which is enormous. But the trouble is how well can you control this laser pulse or whatever you're causing them, however you're programming them? Can you really reach all the 50? So you have to prepare them with 50 different pulses or one pulse doing 50 different things. How well can you control that so that it can cause any quantum program? So I'm not competent to judge that. But another colleague of mine, Mario Villaris, has made a series of YouTube videos about quantum computation, which are excellent. So I recommend them to you and your audience.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">01:13:58 - 01:14:13</span>
 
-So is the jury still out on whether quantum computation is ever going to be practically possible? Or I mean, we might be up against some laws of physics that just rule it out as ever being something
+So is the jury still out on whether quantum computation is ever going to be practically possible? Or I mean, we might be up against some laws of physics that just rule it out as ever being something we can implement.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:14:13 - 01:14:33</span>
 
-We can implement. Yes. I think we can confidently say that unless there is a law of physics that we don't know about, it can be done. It can be done. Yes. But of course, we can't prove that there isn't a law of physics that we don't know about. Right. But we haven't yet done enough
-
-### Sam Harris
-
-<span class="transcript-timestamp">01:14:34 - 01:14:39</span>
-
-To answer that question in terms of the applied physics of it.
+Yes. I think we can confidently say that unless there is a law of physics that we don't know about, it can be done. It can be done. Yes. But of course, we can't prove that there isn't a law of physics that we don't know about. Right. But we haven't yet done enough to answer that question in terms of the applied physics of it.
 
 ### David Deutsch
 
@@ -925,13 +919,13 @@ Just to be clear, these are on my account terrible reasons, right? I'm just tryi
 
 <span class="transcript-timestamp">01:50:58 - 01:52:07</span>
 
-I think that they're not only terrible morally, they don't make sense logically. They're not the kind of reason you might have for hating someone. So, you said, just to take an example at random, that I just remember you said, people think that Jews are white and Palestinians are brown. In fact, I think statistically, the reverse is true. And the Palestinians oppress black people in their midst, and the Israelis don't. I think when you confront people with that, it will not change their opinion about that, their opinion that Israel is bad. And you might say, I was about to say that Israel is bad and the Palestinians are good. They don't believe the latter either. When there's Palestinian suffering that they can't blame Israel for, they still blame Israel for the suffering that they do blame Israel for, and they don't care about the other suffering. They never mention it. So the pattern must be at the bottom of that. But again, I think I posed
+I think that they're not only terrible morally, they don't make sense logically. They're not the kind of reason you might have for hating someone. So, you said, just to take an example at random, that I just remember you said, people think that Jews are white and Palestinians are brown. In fact, I think statistically, the reverse is true. And the Palestinians oppress black people in their midst, and the Israelis don't. I think when you confront people with that, it will not change their opinion about that, their opinion that Israel is bad. And you might say, I was about to say that Israel is bad and the Palestinians are good. They don't believe the latter either. When there's Palestinian suffering that they can't blame Israel for, they still blame Israel for the suffering that they do blame Israel for, and they don't care about the other suffering. They never mention it. So the pattern must be at the bottom of that. But again, I think I posed this question to you already.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">01:52:07 - 01:52:15</span>
 
-This question to you already, but why do people hate Jews then? What is at the bottom of this?
+Why do people hate Jews then? What is at the bottom of this?
 
 ### David Deutsch
 

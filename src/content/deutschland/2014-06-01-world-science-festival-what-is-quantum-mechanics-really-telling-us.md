@@ -9,11 +9,17 @@ pubDate: 2014-06-01
 <span class="duration-label">Duration:</span> <span class="duration-time">01:23:13</span>
 
 ## Transcript
+### Brian Greene
+
+<span class="transcript-timestamp">00:00:00 - 00:00:20</span>
+
+If everything happens, what does probability mean? Right? If the electron will wind up here in one universe, there in another, there in another universe, and so forth, in what sense is there a probability for it to be at one location or another? Because in the multiverse, it will, in the God's eye view, exist at every possible location.
+
 ### David Deutsch
 
-<span class="transcript-timestamp">00:00:00 - 00:00:53</span>
+<span class="transcript-timestamp">00:00:20 - 00:00:53</span>
 
-If everything happens, what does probability mean? Right? If the electron will wind up here in one universe, there in another, there in another universe, and so forth, in what sense is there a probability for it to be at one location or another? Because in the multiverse, it will, in the God's eye view, exist at every possible location. There is no such thing as probability at a fundamental level. The world is completely deterministic. We were wrong to want probability to exist at a fundamental level. We only want it for making decisions. And if we apply it with conventional decision theory, then we get the answer we want. Not all colleagues agree with this, to put it mildly, but the ones who understand it do.
+There is no such thing as probability at a fundamental level. The world is completely deterministic. We were wrong to want probability to exist at a fundamental level. We only want it for making decisions. And if we apply it with conventional decision theory, then we get the answer we want. Not all colleagues agree with this, to put it mildly, but the ones who understand it do.
 
 ### Brian Greene
 

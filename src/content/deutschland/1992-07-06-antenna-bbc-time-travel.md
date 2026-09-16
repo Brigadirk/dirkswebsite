@@ -55,7 +55,19 @@ In Einstein's picture of the universe, space and time are considered together as
 
 <span class="transcript-timestamp">00:06:20 - 00:09:26</span>
 
-That means that it's not just the present that exists. The future also exists. The past also exists. The future and the past are as real as the present. From the point of view of physics, the dinosaurs exist, even though there's been no dinosaur on earth for 70 million years. Now listen to me. When people think of the past, they think of it as dead. Something that happened long ago. Greece, Rome, Carthage, Egypt. But when does it really begin? Well, isn't it obvious? It begins an instant ago. The dead past is just another name for the living present. To many, Einstein's view of space-time is a difficult concept to grasp. The idea that our destinies might be mapped out in advance takes some getting used to. Each instant in this horse's existence represents an event in space-time and indicates where in the universe the horse was at that moment. The horse traces out a line in space-time. But because time isn't a separate entity, space-time has a very unusual feature. In the space-time view of the world, nothing moves. There is no particular moment called the present. Space-time shows the entire history past, present and future. In space-time, you can look at all times at the same time. Our perception of time is due to our consciousness moving up into the future. The future, however, is already there. The space-time view links the past, present and future, but it doesn't necessarily dictate the order that they come in. As a time traveler, you would see things happening in a very disconcerting way. You could also expect to meet a younger or even an older copy of yourself. Time travel is not about changing the direction of time, but about getting space-time itself to take you back into the past. If this is space-time and B is later than A, then the only way of getting back to A is if there's a loop in space-time.
+That means that it's not just the present that exists. The future also exists. The past also exists. The future and the past are as real as the present. From the point of view of physics, the dinosaurs exist, even though there's been no dinosaur on earth for 70 million years.
+
+### Time-travel fiction/archive clip
+
+<span class="transcript-timestamp">00:06:50 - 00:07:20</span>
+
+Now listen to me. When people think of the past, they think of it as dead. Something that happened long ago. Greece, Rome, Carthage, Egypt. But when does it really begin? Well, isn't it obvious? It begins an instant ago. The dead past is just another name for the living present.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:07:20 - 00:09:26</span>
+
+To many, Einstein's view of space-time is a difficult concept to grasp. The idea that our destinies might be mapped out in advance takes some getting used to. Each instant in this horse's existence represents an event in space-time and indicates where in the universe the horse was at that moment. The horse traces out a line in space-time. But because time isn't a separate entity, space-time has a very unusual feature. In the space-time view of the world, nothing moves. There is no particular moment called the present. Space-time shows the entire history past, present and future. In space-time, you can look at all times at the same time. Our perception of time is due to our consciousness moving up into the future. The future, however, is already there. The space-time view links the past, present and future, but it doesn't necessarily dictate the order that they come in. As a time traveler, you would see things happening in a very disconcerting way. You could also expect to meet a younger or even an older copy of yourself. Time travel is not about changing the direction of time, but about getting space-time itself to take you back into the past. If this is space-time and B is later than A, then the only way of getting back to A is if there's a loop in space-time.
 
 ### Time-travel fiction/archive clip
 
@@ -97,7 +109,19 @@ Taken literally, the equations of quantum mechanics say that each time the pinba
 
 <span class="transcript-timestamp">00:15:46 - 00:17:12</span>
 
-The many worlds interpretation of quantum physics is one of these things that generates intense emotion amongst theoretical physicists. Some are very much in favour, some very much against. But there is one domain of physics where it's almost, I think, obligatory, and that's quantum cosmology. Quantum cosmologists use quantum theory to study the way space and time behave from the creation of the universe onwards. They rely on the many worlds interpretation in their calculations. The many worlds interpretation of quantum mechanics sounds completely bizarre. Even to most physicists, it seems absolutely crazy that there could be other copies of ourselves. But there is one field of physics in which the majority of practitioners believe in the many worlds interpretation. That's quantum cosmology. A poll was conducted amongst the leading quantum cosmologists in the world, and an overwhelming majority of these people said that they believed in the many worlds interpretation of quantum mechanics. The field equations of quantum cosmology force us to believe in the many worlds interpretation. Not quite clear, is it? I can see by your face that you're not certain you do understand.
+The many worlds interpretation of quantum physics is one of these things that generates intense emotion amongst theoretical physicists. Some are very much in favour, some very much against. But there is one domain of physics where it's almost, I think, obligatory, and that's quantum cosmology. Quantum cosmologists use quantum theory to study the way space and time behave from the creation of the universe onwards. They rely on the many worlds interpretation in their calculations.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:16:20 - 00:17:00</span>
+
+The many worlds interpretation of quantum mechanics sounds completely bizarre. Even to most physicists, it seems absolutely crazy that there could be other copies of ourselves. But there is one field of physics in which the majority of practitioners believe in the many worlds interpretation. That's quantum cosmology. A poll was conducted amongst the leading quantum cosmologists in the world, and an overwhelming majority of these people said that they believed in the many worlds interpretation of quantum mechanics. The field equations of quantum cosmology force us to believe in the many worlds interpretation.
+
+### Time-travel fiction/archive clip
+
+<span class="transcript-timestamp">00:17:00 - 00:17:12</span>
+
+Not quite clear, is it? I can see by your face that you're not certain you do understand.
 
 ### David Deutsch
 
@@ -211,7 +235,25 @@ One of the key ingredients in time travel is a tear being set up in space-time. 
 
 <span class="transcript-timestamp">00:26:51 - 00:28:40</span>
 
-At the moment, all routes to time travel are far beyond our technological capabilities, but more physicists than ever are doing research in this area, and all the traditional objections to time travel have turned out to be invalid. My gut feeling is that if technological obstacles are the only ones in our way, then one day time machines will be built. It will be a pity if it turns out that time travel is not possible. It would have been exciting to explore the universe in time as well as space. Well, the subject of time travel is certainly very, very speculative, as indeed is the whole issue of how you combine quantum theory and general relativity. But in these sorts of topics, however far they may appear to be from ordinary, daily, common sense, you really are trying to address the fundamental ingredients of reality at the really sort of basic physical level. In that sense, I think it is a very important program and well worth pursuing, even though it is, I say, very speculative. My personal belief is that we know nothing to definitely rule out the possibility of time travel. We've been doing intensive research on this subject for many years, and we've studied carefully laws of physics. We see no reason for thinking that time travel is forbidden. Almost all of the discussion about time travel is beyond the present realm of experimental testing. But I have faith in the theory, and time travel is allowed by the theory. Maybe I'm an optimist, but there's an old saying in physics, whatever is not forbidden is compulsory.
+At the moment, all routes to time travel are far beyond our technological capabilities, but more physicists than ever are doing research in this area, and all the traditional objections to time travel have turned out to be invalid. My gut feeling is that if technological obstacles are the only ones in our way, then one day time machines will be built. It will be a pity if it turns out that time travel is not possible. It would have been exciting to explore the universe in time as well as space.
+
+### Chris Isham
+
+<span class="transcript-timestamp">00:27:20 - 00:27:50</span>
+
+Well, the subject of time travel is certainly very, very speculative, as indeed is the whole issue of how you combine quantum theory and general relativity. But in these sorts of topics, however far they may appear to be from ordinary, daily, common sense, you really are trying to address the fundamental ingredients of reality at the really sort of basic physical level. In that sense, I think it is a very important program and well worth pursuing, even though it is, I say, very speculative.
+
+### Frank Tipler
+
+<span class="transcript-timestamp">00:27:50 - 00:28:20</span>
+
+My personal belief is that we know nothing to definitely rule out the possibility of time travel. We've been doing intensive research on this subject for many years, and we've studied carefully laws of physics. We see no reason for thinking that time travel is forbidden.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:28:20 - 00:28:40</span>
+
+Almost all of the discussion about time travel is beyond the present realm of experimental testing. But I have faith in the theory, and time travel is allowed by the theory. Maybe I'm an optimist, but there's an old saying in physics, whatever is not forbidden is compulsory.
 
 ### BBC continuity announcer
 
