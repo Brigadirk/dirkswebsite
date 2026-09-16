@@ -87,13 +87,13 @@ Yes, by the way, the same is true of formal languages as used in mathematics.
 
 <span class="transcript-timestamp">00:07:37 - 00:08:35</span>
 
-Well, but this is what I, if the only way that words get their meaning in natural language is by learning their use within a particular linguistic community, I don't know by what causal and that has, there's a causal story you can tell there, like almost like a physical causal story you can tell there about the manner in which the terms get their meaning because it ultimately cashes out in the interactions that I concretely have rather than something intrinsic to the symbols. Yeah. That you can, there's a story that you can tell there that you can't ever tell about perfectly abstract propositions. Like I don't know how they get their meaning apart from by their use. Wait, so propositions aren't ever known to anybody
+Well, but this is what I, if the only way that words get their meaning in natural language is by learning their use within a particular linguistic community, I don't know by what causal and that has, there's a causal story you can tell there, like almost like a physical causal story you can tell there about the manner in which the terms get their meaning because it ultimately cashes out in the interactions that I concretely have rather than something intrinsic to the symbols. Yeah. That you can, there's a story that you can tell there that you can't ever tell about perfectly abstract propositions. Like I don't know how they get their meaning apart from by their use. Wait, so propositions aren't ever known to anybody and they don't get their meaning.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:08:36 - 00:10:46</span>
 
-And they don't get their meaning. They are abstractions of sort of infinitely precise statements, but nobody, so they don't have to get their meaning from any, they can't get their meaning from anything. Statements get their meaning, as you say, from culture, but I want to avoid, just in case we're going there, I want to avoid any trace of inductivism here. It's not like Wittgenstein thinks that we hear the word dog a lot and then we associate it with a dog. The connection between a statement and an object or a word in an object is always conjectured. So I may conjecture that a dog is a useful concept and I may conjecture something in the world that corresponds to dog, to the word dog, but that conjecture may be false and I may correct it. And there is such a thing as correcting it. I can say my previous meaning that I assigned to the word dog is wrong. And people use this, this happens when to everybody, alas, when they talk about fish and at some point they're told that the whale is not a fish. And I think that's an appeal to authority. A whale is a fish in the everyday sense of the word. And we should not acquiesce in giving over everyday meanings of words to scientists who have defined them according to the meaning that they have for scientists.
+They are abstractions of sort of infinitely precise statements, but nobody, so they don't have to get their meaning from any, they can't get their meaning from anything. Statements get their meaning, as you say, from culture, but I want to avoid, just in case we're going there, I want to avoid any trace of inductivism here. It's not like Wittgenstein thinks that we hear the word dog a lot and then we associate it with a dog. The connection between a statement and an object or a word in an object is always conjectured. So I may conjecture that a dog is a useful concept and I may conjecture something in the world that corresponds to dog, to the word dog, but that conjecture may be false and I may correct it. And there is such a thing as correcting it. I can say my previous meaning that I assigned to the word dog is wrong. And people use this, this happens when to everybody, alas, when they talk about fish and at some point they're told that the whale is not a fish. And I think that's an appeal to authority. A whale is a fish in the everyday sense of the word. And we should not acquiesce in giving over everyday meanings of words to scientists who have defined them according to the meaning that they have for scientists.
 
 ### Christofer Lövgren
 
@@ -123,25 +123,13 @@ Yeah, again, it's not necessarily a pre existing purpose. You know, this ...
 
 <span class="transcript-timestamp">00:12:45 - 00:13:07</span>
 
-Sure. Yeah, the purpose is change. And yeah, yeah, yeah. Okay, so I think I totally agree with everything you just said. But then, is there a way in which and the way in which is there a way in which and does all this fall under the bucket of what you would call parochialism generally, like when I talk about context and purposes, is that is that included
+Sure. Yeah, the purpose is change. And yeah, yeah, yeah. Okay, so I think I totally agree with everything you just said. But then, is there a way in which and the way in which is there a way in which and does all this fall under the bucket of what you would call parochialism generally, like when I talk about context and purposes, is that is that included in what you tend to mean by parochial
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:13:07 - 00:13:57</span>
 
-In what you tend to mean by parochial and no. Well, when I say parochial, I mean something which is a narrow view of a particular thing, which in my book, I use it mostly pejoratively, because the book is about the largest possible scale of things and the universal. But if the book was about something else, then parochial wouldn't necessarily be a pejorative term. So like, if I were reviewing a biology textbook or something, I wouldn't object to them saying
-
-### Christofer Lövgren
-
-<span class="transcript-timestamp">00:13:57 - 00:14:03</span>
-
-That way, not all adaptations are parochial and not the worse for it or something
-
-### David Deutsch
-
-<span class="transcript-timestamp">00:14:03 - 00:14:26</span>
-
-Like that. Yeah, I mean, it. Parochial isn't necessarily a bad thing. It's only a bad thing if you're reaching for something universal.
+and no. Well, when I say parochial, I mean something which is a narrow view of a particular thing, which in my book, I use it mostly pejoratively, because the book is about the largest possible scale of things and the universal. But if the book was about something else, then parochial wouldn't necessarily be a pejorative term. So like, if I were reviewing a biology textbook or something, I wouldn't object to them saying that way, not all adaptations are parochial and not the worse for it or something like that. Yeah, I mean, it. Parochial isn't necessarily a bad thing. It's only a bad thing if you're reaching for something universal.
 
 ### Christofer Lövgren
 
@@ -177,13 +165,13 @@ Well, no, but it's still interesting, because as you're saying, it's like, it's 
 
 <span class="transcript-timestamp">00:17:38 - 00:18:21</span>
 
-Well, when you say it can be made, can't be made by humans. No, there is such a thing as a perfectly precise characterization. I've just thought of a better example than integers and sets. So a mathematician might say, so-and-so, this collection is not a set under ZF set theory, but under an expanded set theory, it is a set. But usually, one doesn't say which set theory one's sets belong to, if that's not part of the problem one is addressing. So that's an example of everyday
+Well, when you say it can be made, can't be made by humans. No, there is such a thing as a perfectly precise characterization. I've just thought of a better example than integers and sets. So a mathematician might say, so-and-so, this collection is not a set under ZF set theory, but under an expanded set theory, it is a set. But usually, one doesn't say which set theory one's sets belong to, if that's not part of the problem one is addressing. So that's an example of everyday mathematics language being imprecise.
 
 ### Christofer Lövgren
 
 <span class="transcript-timestamp">00:18:21 - 00:19:37</span>
 
-Mathematics language being imprecise. There's something that I at least think characterizes mathematics though, that I don't think characterizes at least most of our interaction with the world, which is something like this idealized sense of correspondence where you have all the symbols on one side, and the world on another side, the world comes already so parsed, independent of any kind of purpose. And then like the point is to get the symbols on this side to mirror the world on this side. And that idea of correspondence, if you want, or like representation was imported into the rationalist tradition in philosophy, because you're trying to sort of do this formal logic to mirror how the world is on its own side. But the more you bring in this context and what I'm calling like a context and purpose relative conception of ontology, the more that seems like a little bit problematic in the sense that like, though, it doesn't really make sense to say the world already is divided into sets, in that sense, because what counts as a particular object will depend on things on ...
+There's something that I at least think characterizes mathematics though, that I don't think characterizes at least most of our interaction with the world, which is something like this idealized sense of correspondence where you have all the symbols on one side, and the world on another side, the world comes already so parsed, independent of any kind of purpose. And then like the point is to get the symbols on this side to mirror the world on this side. And that idea of correspondence, if you want, or like representation was imported into the rationalist tradition in philosophy, because you're trying to sort of do this formal logic to mirror how the world is on its own side. But the more you bring in this context and what I'm calling like a context and purpose relative conception of ontology, the more that seems like a little bit problematic in the sense that like, though, it doesn't really make sense to say the world already is divided into sets, in that sense, because what counts as a particular object will depend on things on ...
 
 ### David Deutsch
 
@@ -195,13 +183,13 @@ Your side, not just on the world side. Yeah, but for every, if we're talking abo
 
 <span class="transcript-timestamp">00:20:14 - 00:20:50</span>
 
-Sliced up. Okay, okay. But then what is, what does reference even mean in that case? Um, because like reference in the human case, in some way, it cashes out to like, how it causes me to comport myself in some way, cash out in action, like how it causes me to behave toward the world. And that that's sort of in this idea of meaning as use, like it's what I do with that that constitutes the thing's meaning, the way it gets me to behave toward the world. But I don't know what that would mean. I don't even know what meaning means in the case
+Sliced up. Okay, okay. But then what is, what does reference even mean in that case? Um, because like reference in the human case, in some way, it cashes out to like, how it causes me to comport myself in some way, cash out in action, like how it causes me to behave toward the world. And that that's sort of in this idea of meaning as use, like it's what I do with that that constitutes the thing's meaning, the way it gets me to behave toward the world. But I don't know what that would mean. I don't even know what meaning means in the case of a proposition in that sense.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:20:50 - 00:22:40</span>
 
-Of a proposition in that sense. So the reason why I want it, the reason why I want that to be there, and the reason why I think it's unsatisfactory, just to use Tarski's theory of truth directly from utterances to physical objects, is that truth is an all or nothing thing. It's that there's the law of the excluded middle, you know, there in logic, but yeah, yeah. Yeah, but if we want to use that concept in real life in ordinary speech, there has to be a sense in which ordinary speech corresponds to something that does have the law of the excluded middle. Right, right, right. Statements don't. But if we can if we can make sense of saying, yeah, but statements are an approximation to a thing that does have the law of excluded middle. And therefore, if someone says to me, no, the, you know, the law of the excluded middle isn't true, because something can be both true and false at the same time, like, can be true in one universe and false in another, then I can say, yeah, but you're not using that. I can point to the way that they're not using it properly in the sense that they're not trying to make a statement that corresponds to a proposition. They're trying to redefine what it means to be true. And that's, you know, that's the relationship between propositions and the world that really has that and all we can have is approximations to that. I don't know if that's ...
+So the reason why I want it, the reason why I want that to be there, and the reason why I think it's unsatisfactory, just to use Tarski's theory of truth directly from utterances to physical objects, is that truth is an all or nothing thing. It's that there's the law of the excluded middle, you know, there in logic, but yeah, yeah. Yeah, but if we want to use that concept in real life in ordinary speech, there has to be a sense in which ordinary speech corresponds to something that does have the law of the excluded middle. Right, right, right. Statements don't. But if we can if we can make sense of saying, yeah, but statements are an approximation to a thing that does have the law of excluded middle. And therefore, if someone says to me, no, the, you know, the law of the excluded middle isn't true, because something can be both true and false at the same time, like, can be true in one universe and false in another, then I can say, yeah, but you're not using that. I can point to the way that they're not using it properly in the sense that they're not trying to make a statement that corresponds to a proposition. They're trying to redefine what it means to be true. And that's, you know, that's the relationship between propositions and the world that really has that and all we can have is approximations to that. I don't know if that's ...
 
 ### Christofer Lövgren
 
@@ -211,21 +199,9 @@ I think it makes sense. So if you can't appeal to the propositions, then you can
 
 ### David Deutsch
 
-<span class="transcript-timestamp">00:24:15 - 00:24:17</span>
+<span class="transcript-timestamp">00:24:15 - 00:24:33</span>
 
-Yes. And then we would work that ...
-
-### Christofer Lövgren
-
-<span class="transcript-timestamp">00:24:17 - 00:24:24</span>
-
-Out if that misunderstanding arose in that context. Exactly. We would get closer and closer
-
-### David Deutsch
-
-<span class="transcript-timestamp">00:24:25 - 00:24:33</span>
-
-Until we were close enough for misunderstanding not to dominate what we think each other are saying.
+Yes. And then we would work that out if that misunderstanding arose in that context. Exactly. We would get closer and closer until we were close enough for misunderstanding not to dominate what we think each other are saying.
 
 ### Christofer Lövgren
 
@@ -255,13 +231,19 @@ I think it's definitely dependent on your meaning as the asker, and then that's 
 
 <span class="transcript-timestamp">00:26:00 - 00:26:29</span>
 
-I have a theory about what context you're using, and vice versa, you have a theory about what context I'm using. And we start off with mistaken theories about each other's intention, each other's context, and we correct those. As I said, what's kind of literally happening physically is that we're correcting errors in our theories of each other. Right. And you could even
+I have a theory about what context you're using, and vice versa, you have a theory about what context I'm using. And we start off with mistaken theories about each other's intention, each other's context, and we correct those. As I said, what's kind of literally happening physically is that we're correcting errors in our theories of each other. Right. And you could even say we're coming to share each other's context and purpose to a greater degree. Not necessarily. So long as I know what your context is, I don't have to share it.
 
 ### Jake Orthwein
 
 <span class="transcript-timestamp">00:26:29 - 00:26:51</span>
 
-Say we're coming to share each other's context and purpose to a greater degree. Not necessarily. So long as I know what your context is, I don't have to share it. Yeah. I guess like I'm coming to represent your context. Not in a literal sense, but yeah. Yeah. Yeah. But note that, I mean, I don't know where you're going with this again, but note that ...
+Yeah. I guess like I'm coming to represent your context. Not in a literal sense, but yeah.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:26:29 - 00:26:51</span>
+
+Yeah. Yeah. But note that, I mean, I don't know where you're going with this again, but note that ...
 
 ### David Deutsch
 
@@ -285,13 +267,13 @@ Yes. And that's why some people think that Popper is a postmodernist or that Pop
 
 <span class="transcript-timestamp">00:27:50 - 00:29:23</span>
 
-Right. There's a way in which this line of inquiry, like the way that Descartes, I think, set up the epistemological project as being build your knowledge on a foundation of perfect certainty. The failure of that did cause postmodernism in a certain sense, you could argue. But you can't blame Popper for pointing out that that was misconceived. So I'm not trying to take you all the way into full postmodern relativism, but I'm trying to give the devil their fullest due in some way. And I think one thing that's at least, yeah, it seems right to me is that what I was talking about is ontology. So the furnishings of the world in terms of objects, categories, properties, relationships, is not pre-given in the world, but dependent on our context and purposes. And when we're able to successfully pick out the same ontologies in the world, as in the case of the water in the refrigerator example, it's because we're coordinating with one another, not coordinating with the God's eye view. And you can idealize the convergence there, but you can't idealize the convergence there for every possible situation, and nor would you want to. Well, there is some structure in the world, though. I would guess
+Right. There's a way in which this line of inquiry, like the way that Descartes, I think, set up the epistemological project as being build your knowledge on a foundation of perfect certainty. The failure of that did cause postmodernism in a certain sense, you could argue. But you can't blame Popper for pointing out that that was misconceived. So I'm not trying to take you all the way into full postmodern relativism, but I'm trying to give the devil their fullest due in some way. And I think one thing that's at least, yeah, it seems right to me is that what I was talking about is ontology. So the furnishings of the world in terms of objects, categories, properties, relationships, is not pre-given in the world, but dependent on our context and purposes. And when we're able to successfully pick out the same ontologies in the world, as in the case of the water in the refrigerator example, it's because we're coordinating with one another, not coordinating with the God's eye view. And you can idealize the convergence there, but you can't idealize the convergence there for every possible situation, and nor would you want to. Well, there is some structure in the world, though.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:29:23 - 00:30:25</span>
 
-That the number three is not in the same category as a dog. That is, the difference between them exists objectively. Sorry, not just the difference between them. The fact that they're of different kinds, one of them an abstract integer and the other one a physical mammal, I think that exists in the objective world. So it's not just that I've sliced up the world in such a way that three is in different category from dog. The fact that I have done that is partly due to the structure in the actual physical world and the abstract world.
+I would guess that the number three is not in the same category as a dog. That is, the difference between them exists objectively. Sorry, not just the difference between them. The fact that they're of different kinds, one of them an abstract integer and the other one a physical mammal, I think that exists in the objective world. So it's not just that I've sliced up the world in such a way that three is in different category from dog. The fact that I have done that is partly due to the structure in the actual physical world and the abstract world.
 
 ### Jake Orthwein
 

@@ -20,7 +20,19 @@ Welcome to the Reason is Fun podcast. I'm your host, Lulie Tanett, and today I'm
 
 <span class="transcript-timestamp">00:00:53 - 00:01:30</span>
 
-No, I don't remember. But I do remember a previous video podcast or whatever you call it on the fun criterion. So we're going to expand on that today or what? Yeah. Well, so basically I'm going to ask you a ton of questions about the fun criterion because I've always disliked it. I've always thought that the word fun is too misleading because it can get mistaken for sort of mindless fun. Yes. But by the way, I don't really like the word criterion. So there we are.
+No, I don't remember. But I do remember a previous video podcast or whatever you call it on the fun criterion. So we're going to expand on that today or what?
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:01:10 - 00:01:25</span>
+
+Yeah. Well, so basically I'm going to ask you a ton of questions about the fun criterion because I've always disliked it. I've always thought that the word fun is too misleading because it can get mistaken for sort of mindless fun.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:01:25 - 00:01:30</span>
+
+Yes. But by the way, I don't really like the word criterion. So there we are.
 
 ### Lulie Tanett
 
@@ -62,7 +74,13 @@ Secondly, it is subject to the same problem that it will only represent accurate
 
 <span class="transcript-timestamp">00:04:16 - 00:04:47</span>
 
-When you're addressing a new criticism, it will no longer be suitable. So I think what people usually do and what is done in physics and what's done in philosophy, what Popper did is to use the nearest existing term and be very careful to explain that one means something new by it. Why not the word enjoyment?
+When you're addressing a new criticism, it will no longer be suitable. So I think what people usually do and what is done in physics and what's done in philosophy, what Popper did is to use the nearest existing term and be very careful to explain that one means something new by it.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:04:40 - 00:04:47</span>
+
+Why not the word enjoyment?
 
 ### David Deutsch
 
@@ -70,7 +88,7 @@ When you're addressing a new criticism, it will no longer be suitable. So I thin
 
 Enjoyment is too explicit a term. So if you say I only want to do enjoyable things, that also kind of captures the idea. It immediately raises the question, what is enjoyable?
 
-### Lulie Tanett
+### David Deutsch
 
 <span class="transcript-timestamp">00:05:07 - 00:05:23</span>
 

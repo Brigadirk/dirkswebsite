@@ -33,13 +33,37 @@ Wow, that's it's interesting how both of those shows are so popular. And for som
 
 <span class="transcript-timestamp">00:04:23 - 00:06:53</span>
 
-Well, it, again, I don't think inspire is the right word. What that sort of thing does is it gives me a view of the lie of the land, like what people are thinking about this kind of thing. What people find interesting, what they don't find interesting that I think should be interesting and you know, that sort of thing. I also watch bad documentaries for the same reason. I find them both entertaining and revealing in that they show me what kinds of bad argument are swallowed by many people and why you know, I can guess in each case why I may be wrong. But you know, so that's another thing to think about. I certainly don't think that's an example of being inspired. Is it when you say bad documentary, do you mean something like Fahrenheit 9/11 or something by like Michael Moore? Is that what you mean? I haven't seen that. No, I mean, documentary series. Oh, OK. On things like the Discovery Channel or whatever really badly misnamed by now. So, you know, things like things like. And supernatural and flying saucers and that kind of thing. I don't really watch it for the content. It's more for the way that they put together arguments. And they're obviously catering to a market, a fan base or whatever you call it. And again, that gives me an idea of. Of. How can I put this? Because presumably that's not my audience, but it does. It's not the people. It's the arguments. It's the way that the arguments work, the way that bad arguments work.
+Well, it, again, I don't think inspire is the right word. What that sort of thing does is it gives me a view of the lie of the land, like what people are thinking about this kind of thing. What people find interesting, what they don't find interesting that I think should be interesting and you know, that sort of thing. I also watch bad documentaries for the same reason. I find them both entertaining and revealing in that they show me what kinds of bad argument are swallowed by many people and why you know, I can guess in each case why I may be wrong. But you know, so that's another thing to think about. I certainly don't think that's an example of being inspired.
+
+### Eric Denton
+
+<span class="transcript-timestamp">00:04:23 - 00:06:53</span>
+
+Is it when you say bad documentary, do you mean something like Fahrenheit 9/11 or something by like Michael Moore? Is that what you mean?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:04:23 - 00:06:53</span>
+
+I haven't seen that. No, I mean, documentary series.
+
+### Eric Denton
+
+<span class="transcript-timestamp">00:04:23 - 00:06:53</span>
+
+Oh, OK.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:04:23 - 00:06:53</span>
+
+On things like the Discovery Channel or whatever really badly misnamed by now. So, you know, things like things like. And supernatural and flying saucers and that kind of thing. I don't really watch it for the content. It's more for the way that they put together arguments. And they're obviously catering to a market, a fan base or whatever you call it. And again, that gives me an idea of. Of. How can I put this? Because presumably that's not my audience, but it does. It's not the people. It's the arguments. It's the way that the arguments work, the way that bad arguments work. That interests me quite a lot.
 
 ### Eric Denton
 
 <span class="transcript-timestamp">00:06:53 - 00:07:02</span>
 
-That interests me quite a lot. What's in it? Can you this is kind of hard to do off top of your head, but what's an example of that? Would you say?
+What's in it? Can you this is kind of hard to do off top of your head, but what's an example of that? Would you say?
 
 ### David Deutsch
 

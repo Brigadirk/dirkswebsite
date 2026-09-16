@@ -15,11 +15,23 @@ pubDate: 2024-03-31
 
 Welcome curious minds out there to this brand new episode and thank you for tuning in. Tonight we have a wonderful guest by our side. David Deutsch is a distinguished physicist, author and thinker known for his groundbreaking contributions to quantum computing, quantum mechanics and the philosophy of science. Born in Haifa, Israel in 1953, Deutsch earned his PhD in physics from the University of Oxford in 1978, where he later became a fellow of Wolfson College. Deutsch's work has had a profound impact on the field of quantum computing, particularly through his development of the quantum Turing machine model and the Deutsch-Jozsa algorithm. One of the earliest examples of quantum algorithms showing exponential speedup over classical algorithms. He is also known for his advocacy of the many worlds interpretation of quantum mechanics, which posits the existence of parallel universes. In addition to his contributions to physics, Deutsch is a prolific author and science communicator. His books, including The Fabric of Reality and The Beginning of Infinity, which was recently translated into German, explore a wide range of topics, including physics, philosophy, computation and the nature of reality. Through his writing and public speaking engagements, Deutsch challenges conventional wisdom and encourages critical thinking about the fundamental questions of existence. With his pioneering research and thought-provoking insights, David Deutsch continues to shape our understanding of the universe and inspire future generations of scientists and thinkers. David, I told a few friends that I was going to talk to you today and they told me that I was a little bit delusional because I am in no way a conversation partner at eye level for you. They're not entirely wrong because I don't have an academic background and I'm just someone who really enjoys listening to you talk about all these wonderful things that I wish to understand. But I will try not to disappoint you too much today.
 
+### Daniel Bechmann
+
+<span class="transcript-timestamp">00:02:31 - 00:02:44</span>
+
+Is that okay?
+
 ### David Deutsch
 
 <span class="transcript-timestamp">00:02:31 - 00:02:44</span>
 
-Is that okay? You won't. Yeah, okay. I watched a video about you today and in this video you were playing the piano. Just wonderful.
+You won't.
+
+### Daniel Bechmann
+
+<span class="transcript-timestamp">00:02:31 - 00:02:44</span>
+
+Yeah, okay. I watched a video about you today and in this video you were playing the piano. Just wonderful.
 
 ### Daniel Bechmann
 
@@ -27,23 +39,59 @@ Is that okay? You won't. Yeah, okay. I watched a video about you today and in th
 
 Do you still have the passion for music?
 
+### Daniel Bechmann
+
+<span class="transcript-timestamp">00:02:45 - 00:03:36</span>
+
+I think music and science is a perfect fit.
+
 ### David Deutsch
 
 <span class="transcript-timestamp">00:02:45 - 00:03:36</span>
 
-I think music and science is a perfect fit. Yeah, I don't really have a passion for music. I just enjoy playing the piano, although I'm playing it less nowadays. Too many other things to do, but I have a piano and I play it occasionally. But my tastes in music are extremely narrow and I wouldn't say it was a passion at all. Oh, it sounded awesome to me. You played a classical piece and I love classics. So it was great. Awesome. Let me talk about your book for a second here, The Beginning of Infinity. In this book you argue that human knowledge is infinite and unbounded. Unbounded, yes. Infinite, no. Okay, I got you wrong there.
+Yeah, I don't really have a passion for music. I just enjoy playing the piano, although I'm playing it less nowadays. Too many other things to do, but I have a piano and I play it occasionally. But my tastes in music are extremely narrow and I wouldn't say it was a passion at all.
+
+### Daniel Bechmann
+
+<span class="transcript-timestamp">00:02:45 - 00:03:36</span>
+
+Oh, it sounded awesome to me. You played a classical piece and I love classics. So it was great. Awesome. Let me talk about your book for a second here, The Beginning of Infinity. In this book you argue that human knowledge is infinite and unbounded.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:02:45 - 00:03:36</span>
+
+Unbounded, yes. Infinite, no.
+
+### Daniel Bechmann
+
+<span class="transcript-timestamp">00:02:45 - 00:03:36</span>
+
+Okay, I got you wrong there.
 
 ### Daniel Bechmann
 
 <span class="transcript-timestamp">00:03:36 - 00:04:27</span>
 
-Could you elaborate on this idea and explain how it shapes your perspective of scientific progress? So one way of looking at the infinite aspect of it, the unbounded aspect of it, is that I should have said the infinity aspect, the unbounded aspect, is that if it were bounded, that would mean it would be finite. There would be a finite limit, which we will either reach that limit or we will reach something less than that limit, but we'll never reach anything past that limit. And that means that most of the physical world will remain unknowable to us forever.
+Could you elaborate on this idea and explain how it shapes your perspective of scientific progress?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:03:36 - 00:04:27</span>
+
+So one way of looking at the infinite aspect of it, the unbounded aspect of it, is that I should have said the infinity aspect, the unbounded aspect, is that if it were bounded, that would mean it would be finite. There would be a finite limit, which we will either reach that limit or we will reach something less than that limit, but we'll never reach anything past that limit. And that means that most of the physical world will remain unknowable to us forever.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:04:29 - 00:07:23</span>
 
-I don't mean necessarily that there's a physical, that the limit would be physical, although given the way the universe is, it would have to be physical if there was any kind of limit, because the more we travel out, the more we will learn, and if there's a finite amount that we can ever learn, then there's also a finite amount that we can ever travel out. So that would mean that most of reality, as I said, is incomprehensible to us. And that is, to me, a supernatural worldview. There's no difference between that and saying the universe is comprehensible to Zeus, but not to humans, because Zeus is infinite, but humans are finite. So anything that is beyond any conceivable reach of human reason is functionally equivalent to the supernatural, especially since what is outside the realm of our understanding affects what is inside, just like Zeus. You know, he could hurl lightning. We couldn't hurl it back, but he could hurl lightning. And similarly, anything we can't understand that is real can affect us, and we can't understand it. And if you're going to believe in one supernatural thing, there's no reason to believe why you should believe in another. One of my favorite stories that I, parables that I told once is when I haven't done this in real life because I'm not that rude, but if someone comes to my door and says, you know, you'll be eternally damned unless you believe my religion, which is on this sheet of paper, and if you believe it, then you'll be saved. Then I have to say to that person, how can I distinguish between you and the next person who comes to my door and gives me a different sheet of paper? And they would necessarily be unable to explain why, especially since they themselves are saying that there are things beyond our understanding. But even if they didn't say that, if there are two different claims about the supernatural, you can't distinguish them rationally. You can't distinguish them practically. So it's the same as if someone came to my door and said, Zeus wants you to do something. So all those things are the same, basically the same thing, because the differences between them are not comprehensible to us by definition. It's so interesting. Very, very interesting.
+I don't mean necessarily that there's a physical, that the limit would be physical, although given the way the universe is, it would have to be physical if there was any kind of limit, because the more we travel out, the more we will learn, and if there's a finite amount that we can ever learn, then there's also a finite amount that we can ever travel out. So that would mean that most of reality, as I said, is incomprehensible to us. And that is, to me, a supernatural worldview. There's no difference between that and saying the universe is comprehensible to Zeus, but not to humans, because Zeus is infinite, but humans are finite. So anything that is beyond any conceivable reach of human reason is functionally equivalent to the supernatural, especially since what is outside the realm of our understanding affects what is inside, just like Zeus. You know, he could hurl lightning. We couldn't hurl it back, but he could hurl lightning. And similarly, anything we can't understand that is real can affect us, and we can't understand it. And if you're going to believe in one supernatural thing, there's no reason to believe why you should believe in another. One of my favorite stories that I, parables that I told once is when I haven't done this in real life because I'm not that rude, but if someone comes to my door and says, you know, you'll be eternally damned unless you believe my religion, which is on this sheet of paper, and if you believe it, then you'll be saved. Then I have to say to that person, how can I distinguish between you and the next person who comes to my door and gives me a different sheet of paper? And they would necessarily be unable to explain why, especially since they themselves are saying that there are things beyond our understanding. But even if they didn't say that, if there are two different claims about the supernatural, you can't distinguish them rationally. You can't distinguish them practically. So it's the same as if someone came to my door and said, Zeus wants you to do something. So all those things are the same, basically the same thing, because the differences between them are not comprehensible to us by definition.
+
+### Daniel Bechmann
+
+<span class="transcript-timestamp">00:04:29 - 00:07:23</span>
+
+It's so interesting. Very, very interesting.
 
 ### Daniel Bechmann
 
@@ -61,7 +109,13 @@ Yeah, of course. Professor, it is so nice to hang out with you, sir. Thank you s
 
 <span class="transcript-timestamp">00:07:43 - 00:09:06</span>
 
-Well, given that the potential for the growth of knowledge is unbounded, that means that most of potential knowledge is unknown, and that most of it is unknown to be unknown. So that's the world we live in. We live in a world that is completely comprehensible, yet mostly uncomprehended. And really, that's the best way the world could be, because, you know, if the world was such that we could run up against hard limits to understanding or thinking, well, that would be, you know, not only would we be under the thumb of the supernatural, but we wouldn't be able to do anything. We wouldn't be able to, you know, think of a new board game, because, you know, we've reached the limit of what new thing we can discover. We'd have to just stick with existing board games. And even with those, we would only ever be able to reach a finite amount of knowledge of how to play them and so on. It would be living hell. I'm very curious just to tack on here as well about the concept of consensus reality, that we are all in the same exact place having the same experience.
+Well, given that the potential for the growth of knowledge is unbounded, that means that most of potential knowledge is unknown, and that most of it is unknown to be unknown. So that's the world we live in. We live in a world that is completely comprehensible, yet mostly uncomprehended. And really, that's the best way the world could be, because, you know, if the world was such that we could run up against hard limits to understanding or thinking, well, that would be, you know, not only would we be under the thumb of the supernatural, but we wouldn't be able to do anything. We wouldn't be able to, you know, think of a new board game, because, you know, we've reached the limit of what new thing we can discover. We'd have to just stick with existing board games. And even with those, we would only ever be able to reach a finite amount of knowledge of how to play them and so on. It would be living hell.
+
+### Brandon
+
+<span class="transcript-timestamp">00:07:43 - 00:09:06</span>
+
+I'm very curious just to tack on here as well about the concept of consensus reality, that we are all in the same exact place having the same experience.
 
 ### Daniel Bechmann
 

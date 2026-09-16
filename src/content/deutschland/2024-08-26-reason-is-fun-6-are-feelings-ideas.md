@@ -346,7 +346,7 @@ Yes, down to the microstructure. But more important, it's down to the level whic
 
 Mark, how would you interpret this story? Well, how do you think about it?
 
-### David Deutsch
+### Mark Alexander
 
 <span class="transcript-timestamp">00:56:01 - 00:58:38</span>
 

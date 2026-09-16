@@ -248,13 +248,13 @@ And the only time that this gets stuck is when there's something irrational unde
 
 <span class="transcript-timestamp">00:17:31 - 00:17:36</span>
 
-Gotcha, gotcha. So what do you find really helps
+Gotcha, gotcha. So what do you find really helps decision-making?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:17:36 - 00:18:26</span>
 
-Decision-making? I try to avoid decision-making. I mean, it depends what you're calling decision-making. I might have a problem, and I might be seeking the solution. This doesn't usually look like having an array of solutions. I mean, usually even having one solution is pretty good. You know, the problem is that we have no solutions. But I'm, generally speaking, I only have one kind of thing I want. And if I have another one, it's quickly resolved, and I don't have to have a policy for how to resolve them. I mean, obviously, problem-solving involves at least two things. So I solve problems, but I don't think this comes into decision-making much.
+I try to avoid decision-making. I mean, it depends what you're calling decision-making. I might have a problem, and I might be seeking the solution. This doesn't usually look like having an array of solutions. I mean, usually even having one solution is pretty good. You know, the problem is that we have no solutions. But I'm, generally speaking, I only have one kind of thing I want. And if I have another one, it's quickly resolved, and I don't have to have a policy for how to resolve them. I mean, obviously, problem-solving involves at least two things. So I solve problems, but I don't think this comes into decision-making much.
 
 ### Mark Alexander
 

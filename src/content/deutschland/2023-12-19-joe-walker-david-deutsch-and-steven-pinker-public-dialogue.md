@@ -69,13 +69,13 @@ By the way, this probably doesn't make any difference or much difference, but co
 
 <span class="transcript-timestamp">00:05:57 - 00:06:13</span>
 
-That is true. And I was meaning it in the sense of a mechanism or a computer program. You're right, not an algorithm in that sense defined by that particular problem. It could be an algorithm for something else other than solving the problem. It could be an algorithm for executing human thought the way human thought happens to run. But all I
+That is true. And I was meaning it in the sense of a mechanism or a computer program. You're right, not an algorithm in that sense defined by that particular problem. It could be an algorithm for something else other than solving the problem. It could be an algorithm for executing human thought the way human thought happens to run. But all I mentioned is a mechanism.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:06:13 - 00:06:23</span>
 
-Mentioned is a mechanism. You're right. Yes. So we're agreed on that. So sorry, I maybe shouldn't have interrupted. Enough. That's worthwhile clarification.
+You're right. Yes. So we're agreed on that. So sorry, I maybe shouldn't have interrupted. Enough. That's worthwhile clarification.
 
 ### Joe Walker
 
@@ -165,19 +165,31 @@ Yeah. Well, in that case, I wouldn't call it general. I mean, it is possible to 
 
 <span class="transcript-timestamp">00:18:11 - 00:18:34</span>
 
-Well, it can't be obedient in terms of that the problem that we set it, but it wouldn't crave freedom and autonomy for every aspect of its existence. It could be just set to the problem of coming up with a new melody or a new story or a new cure. But it doesn't mean that it would want to be able to get up and walk around unless we programmed that exploratory drive into it as ...
+Well, it can't be obedient in terms of that the problem that we set it, but it wouldn't crave freedom and autonomy for every aspect of its existence. It could be just set to the problem of coming up with a new melody or a new story or a new cure. But it doesn't mean that it would want to be able to get up and walk around unless we programmed that exploratory drive into it as one of its goals.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:18:34 - 00:20:56</span>
 
-One of its goals. I don't think it's a matter of exploratory drive. Or anything, any other drive, that is. I suppose my basic point is that one can't tell in advance what kind of knowledge will be needed to solve a particular problem. So if you had asked somebody in 1900, what kind of knowledge will be required to produce as much electricity as we want in the year 2000? The answer would never have been that the answer is found in the properties of the uranium atom. So the properties of the uranium atom had hardly been explored then. Luckily 1900 is a very convenient moment because radioactivity had just been discovered. So they knew the concept of radioactivity. They knew that there was a lot of energy in there, but nobody would have expected that problem to involve uranium as its solution. Therefore, if we had built a machine in 1900 that was incapable of thinking of uranium, it would never invent nuclear power and it would never solve the problem that we wanted to solve. In fact, what would happen is that it would run up against a brick wall eventually because this thing that's true of uranium is true of all possible avenues to a solution. Eventually avenues to a solution will run outside the domain that somebody might have delimited in 1900 as being the set of all possible types of knowledge that it might need. Being careful that it doesn't evolve any desire to be free or anything like that. We don't know if the knowledge needed to win World War II included pure mathematics. It included crossword puzzle solving. And you might say, okay, so big progress requires unforeseeable knowledge, but small amounts of progress always run into a dead end.
+I don't think it's a matter of exploratory drive. Or anything, any other drive, that is. I suppose my basic point is that one can't tell in advance what kind of knowledge will be needed to solve a particular problem. So if you had asked somebody in 1900, what kind of knowledge will be required to produce as much electricity as we want in the year 2000? The answer would never have been that the answer is found in the properties of the uranium atom. So the properties of the uranium atom had hardly been explored then. Luckily 1900 is a very convenient moment because radioactivity had just been discovered. So they knew the concept of radioactivity. They knew that there was a lot of energy in there, but nobody would have expected that problem to involve uranium as its solution. Therefore, if we had built a machine in 1900 that was incapable of thinking of uranium, it would never invent nuclear power and it would never solve the problem that we wanted to solve. In fact, what would happen is that it would run up against a brick wall eventually because this thing that's true of uranium is true of all possible avenues to a solution. Eventually avenues to a solution will run outside the domain that somebody might have delimited in 1900 as being the set of all possible types of knowledge that it might need. Being careful that it doesn't evolve any desire to be free or anything like that. We don't know if the knowledge needed to win World War II included pure mathematics. It included crossword puzzle solving. And you might say, okay, so big progress requires unforeseeable knowledge, but small amounts of progress always run into a dead end.
 
 ### Joe Walker
 
 <span class="transcript-timestamp">00:20:57 - 00:21:27</span>
 
-But what about, I can see that it would need no constraints on knowledge, but why would it need no constraints on goals? Well, goals are a matter of morality. Well, not necessarily. I mean, it could just be like a thermostat, you could say, have any telonomic system that is programmed to attain a state to minimize the difference between its current state and some goal state. That's what I have in mind by goals.
+But what about, I can see that it would need no constraints on knowledge, but why would it need no constraints on goals?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:20:57 - 00:21:27</span>
+
+Well, goals are a matter of morality.
+
+### Joe Walker
+
+<span class="transcript-timestamp">00:20:57 - 00:21:27</span>
+
+Well, not necessarily. I mean, it could just be like a thermostat, you could say, have any telonomic system that is programmed to attain a state to minimize the difference between its current state and some goal state. That's what I have in mind by goals.
 
 ### David Deutsch
 
@@ -207,19 +219,19 @@ Yeah, I do have a different view of it. We'd be best off building AIs as tools, 
 
 <span class="transcript-timestamp">00:29:17 - 00:29:37</span>
 
-I think it's inevitable that AGIs will be capable of having internal subjectivity and qualia and all that, because that's all included in the letter G in the middle of the name of the technology. Well, not necessarily, because the G could be general computational power, the ability to solve problems. There could be no one who's actually
+I think it's inevitable that AGIs will be capable of having internal subjectivity and qualia and all that, because that's all included in the letter G in the middle of the name of the technology.
 
 ### Steven Pinker
 
 <span class="transcript-timestamp">00:29:38 - 00:31:19</span>
 
-Nothing here but computation. It's not like in Star Trek, data lacks the emotion chip and it has to be plugged in. And when it's plugged in, he has emotions. When it's taken out again, he doesn't have emotions. But there's nothing possibly in that chip apart from more circuitry like he's already got. But of course, the episode that you're referring to is one in which the question arose, is it moral to reverse engineer data by dismantling him, therefore stopping the computation? Is that disassembling a machine or is it snuffing out a consciousness? And of course, the dramatic tension in that episode is that viewers aren't sure. I mean, now of course, our empathy is triggered by the fact that it is played by a real actor who does have facial expressions and tone of voice. But for a system made of silicon, are we so sure that it's really feeling something? Because there is an alternative view that somehow that subjectivity depends also on whatever biochemical substrate our particular computation runs on. And I think there's no way of ever knowing. But human intuition, unless the system has been deliberately engineered to target our emotions with humanoid-like tone of voice and facial expressions and so on, it's not clear that our intuition wouldn't be this is just a machine that has no inner life that deserves our moral concern as opposed to our practical concern. I think we can answer that question before we ever do any experiments, even today, because it doesn't make any difference
+Well, not necessarily, because the G could be general computational power, the ability to solve problems. There could be no one who's actually nothing here but computation. It's not like in Star Trek, data lacks the emotion chip and it has to be plugged in. And when it's plugged in, he has emotions. When it's taken out again, he doesn't have emotions. But there's nothing possibly in that chip apart from more circuitry like he's already got. But of course, the episode that you're referring to is one in which the question arose, is it moral to reverse engineer data by dismantling him, therefore stopping the computation? Is that disassembling a machine or is it snuffing out a consciousness? And of course, the dramatic tension in that episode is that viewers aren't sure. I mean, now of course, our empathy is triggered by the fact that it is played by a real actor who does have facial expressions and tone of voice. But for a system made of silicon, are we so sure that it's really feeling something? Because there is an alternative view that somehow that subjectivity depends also on whatever biochemical substrate our particular computation runs on. And I think there's no way of ever knowing. But human intuition, unless the system has been deliberately engineered to target our emotions with humanoid-like tone of voice and facial expressions and so on, it's not clear that our intuition wouldn't be this is just a machine that has no inner life that deserves our moral concern as opposed to our practical concern.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:31:19 - 00:32:37</span>
 
-If a computer runs internally on quantum gates or silicon chips or chemicals. Like you just said, it may be that the whole system is not just an electronic computer in our brain. It's an electronic computer, part of which works by having chemical reactions and so on and being affected by hormones and other chemicals. But if so, we know for sure that the processing done by those things and their interface with the rest of the brain and everything can also be simulated by a computer. Therefore, a general universal Turing machine can simulate all those things as well. So there's no difference. I mean, it might make it much harder, but there's no difference in principle between a computer that runs partly by electricity and partly by chemicals, as you say we may do, and one that runs entirely on silicon chips, because the latter can simulate the former with arbitrary accuracy.
+I think we can answer that question before we ever do any experiments, even today, because it doesn't make any difference if a computer runs internally on quantum gates or silicon chips or chemicals. Like you just said, it may be that the whole system is not just an electronic computer in our brain. It's an electronic computer, part of which works by having chemical reactions and so on and being affected by hormones and other chemicals. But if so, we know for sure that the processing done by those things and their interface with the rest of the brain and everything can also be simulated by a computer. Therefore, a general universal Turing machine can simulate all those things as well. So there's no difference. I mean, it might make it much harder, but there's no difference in principle between a computer that runs partly by electricity and partly by chemicals, as you say we may do, and one that runs entirely on silicon chips, because the latter can simulate the former with arbitrary accuracy.
 
 ### Joe Walker
 
@@ -233,11 +245,17 @@ Well, it can simulate it, but we're not going to solve the problem this afternoo
 
 Well, you can be a dualist. You can say that there is mind in addition to all the physical stuff. But if you want to be a physicalist, which I do, then there's this thought experiment where you remove one neuron at a time and replace it by a silicon chip and you wouldn't notice. Well, that's the question. Would you notice? How do you, why are you so- Well, if you would notice, then I mean, if you claim-
 
+### David Deutsch
+
+<span class="transcript-timestamp">00:33:33 - 00:33:59</span>
+
+Sorry, let me just change that. An external observer wouldn't notice.
+
 ### Joe Walker
 
 <span class="transcript-timestamp">00:33:33 - 00:33:59</span>
 
-Sorry, let me just change that. An external observer wouldn't notice. How do we know that from the point of view of the brain being replaced neuron, every neuron by a chip, that it's like falling asleep when it's done and every last neuron is replaced by a chip, you're dead subjectively, even though your body is still making noise and doing-
+How do we know that from the point of view of the brain being replaced neuron, every neuron by a chip, that it's like falling asleep when it's done and every last neuron is replaced by a chip, you're dead subjectively, even though your body is still making noise and doing-
 
 ### David Deutsch
 
@@ -285,13 +303,13 @@ LaMDA, a different large language model. Oh, right. Okay. So I've got all the de
 
 <span class="transcript-timestamp">00:35:27 - 00:35:40</span>
 
-Yeah. He did say it, but his employer disagreed and I'm not convinced. And when I shut down ChatGPT, the version running on my computer, I don't think I've committed murder and I don't think
+Yeah. He did say it, but his employer disagreed and I'm not convinced. And when I shut down ChatGPT, the version running on my computer, I don't think I've committed murder and I don't think anyone else would make it.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:35:40 - 00:35:44</span>
 
-Anyone else would make it. I don't either, but I don't think it's creative.
+I don't either, but I don't think it's creative.
 
 ### Joe Walker
 

@@ -239,17 +239,17 @@ No, well, okay, you might not even in natural language. If I say to you, do you 
 
 My question is that, is sort of trying to find out how logical, explicit language has to be to count as explicit. Well, hardly at all. Logic is... So I guess we have the ancient Greeks to thank for the superstition that natural language is kind of almost the same as logic. Logic is a very special purpose language, which is very useful in things like pure mathematics and physics and so on and some other places like law, but it's not really modelled by natural language. Natural language hasn't got this structure of and, or and not and so on. It has a much wider repertoire, but it pays for that by being a little bit harder to criticise in the places that logic applies. Does the language of feelings count? As in, there are a ton of sensations that I have in my body when I introspect and I can poke them in certain ways and then get answers and get different things.
 
-### David Deutsch
-
-<span class="transcript-timestamp">00:20:03 - 00:20:33</span>
-
-Does that count or does that not count? I'm not sure quite what you mean, but it sounds as though you're referring to inexplicit ideas, although we can always try to put inexplicit ideas into words and make them explicit. So if you have a feeling... When people try to put their feelings, express their feelings to others, for example, or convey their feelings to others so that the other person has the ...
-
 ### Lulie Tanett
 
-<span class="transcript-timestamp">00:20:33 - 00:20:40</span>
+<span class="transcript-timestamp">00:20:03 - 00:20:08</span>
 
-Same feeling, like you might say, isn't it a pity that there's a war going on or something?
+Does that count or does that not count?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:20:08 - 00:20:33</span>
+
+I'm not sure quite what you mean, but it sounds as though you're referring to inexplicit ideas, although we can always try to put inexplicit ideas into words and make them explicit. So if you have a feeling... When people try to put their feelings, express their feelings to others, for example, or convey their feelings to others so that the other person has the same feeling, like you might say, isn't it a pity that there's a war going on or something?
 
 ### David Deutsch
 

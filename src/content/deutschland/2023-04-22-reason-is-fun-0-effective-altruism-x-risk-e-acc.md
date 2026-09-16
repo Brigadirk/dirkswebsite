@@ -51,7 +51,13 @@ They imagine that they have something in addition to creativity that is, or prio
 
 <span class="transcript-timestamp">00:02:20 - 00:03:09</span>
 
-The main disagreement I have with effective altruism is that it assumes that we can rank the different possible cause areas or the different possible ways of helping the world. And that if you do that, then you're being effective. And if you don't do that, then you're being ineffective. But the thing that causes the most progress in the world is new knowledge. And so this is an inherently unpredictable thing. Like we don't know which cause area is going to come up with the next breakthrough, because breakthroughs by their nature are impossible to predict. Otherwise, we'd have them already. Up to where you said breakthrough, I was going to say, well, that's what I just said.
+The main disagreement I have with effective altruism is that it assumes that we can rank the different possible cause areas or the different possible ways of helping the world. And that if you do that, then you're being effective. And if you don't do that, then you're being ineffective. But the thing that causes the most progress in the world is new knowledge. And so this is an inherently unpredictable thing. Like we don't know which cause area is going to come up with the next breakthrough, because breakthroughs by their nature are impossible to predict. Otherwise, we'd have them already.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:02:50 - 00:03:09</span>
+
+Up to where you said breakthrough, I was going to say, well, that's what I just said.
 
 ### David Deutsch
 

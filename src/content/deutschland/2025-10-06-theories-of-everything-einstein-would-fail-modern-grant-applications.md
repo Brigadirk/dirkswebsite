@@ -533,7 +533,19 @@ You mentioned in your interview with Sam Altman that you keep a list on your com
 
 <span class="transcript-timestamp">01:13:28 - 01:13:34</span>
 
-Tell me about this list. Well, should I bring it up on my computer screen and tell you a couple of the other things? Please.
+Tell me about this list.
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:13:28 - 01:13:34</span>
+
+Well, should I bring it up on my computer screen and tell you a couple of the other things?
+
+### Curt Jaimungal
+
+<span class="transcript-timestamp">01:13:28 - 01:13:34</span>
+
+Please.
 
 ### David Deutsch
 
@@ -739,19 +751,13 @@ The picture you can have in mind is that there's a continuum in some kind of ent
 
 Now briefly speaking: probabilities. Basically, why do we need probabilities at all? The answer within physics is basically because we need to know when we have refuted a theory. If the theory says that there's a probability of $10^{-10^{100}}$ of X happening, and the rest of the probability is all about Y happening, why can we be confident that Y will happen and that we will never see X, even though we know that in the multiverse some of us will see X? Why should we expect Y to happen and not X?
 
-You only have to give an account that synthesizes probability in certain special cases, like when there's a thing to expect. That only happens after a measurement, at the time when the universes have decohered. In fact, this should have been obvious: we know that when the universes have not decohered, they don't even obey the probability calculus. Rather, the physical world does not obey the probability calculus when you're in the middle of an interference phenomenon. There's a...
-
-### Curt Jaimungal
-
-<span class="transcript-timestamp">01:40:42 - 01:40:51</span>
-
-Probability of a half that this will happen, and probability of a half that that will happen, and at the end there's a probability of one quarter, one quarter, one quarter, one quarter, when they...
+You only have to give an account that synthesizes probability in certain special cases, like when there's a thing to expect. That only happens after a measurement, at the time when the universes have decohered. In fact, this should have been obvious: we know that when the universes have not decohered, they don't even obey the probability calculus. Rather, the physical world does not obey the probability calculus when you're in the middle of an interference phenomenon. There's a probability of a half that this will happen, and probability of a half that that will happen, and at the end there's a probability of one quarter, one quarter, one quarter, one quarter, when they pass through another beam splitter, and that's simply not true.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:40:52 - 01:42:22</span>
 
-Pass through another beam splitter, and that's simply not true. The probabilities do not add up in the way that the probability calculus says relative probabilities ought to behave. But you want to have relative probabilities behaving properly when there has been a measurement and you're actually looking at what happens, rather than thinking about it theoretically: what is the particle doing?
+The probabilities do not add up in the way that the probability calculus says relative probabilities ought to behave. But you want to have relative probabilities behaving properly when there has been a measurement and you're actually looking at what happens, rather than thinking about it theoretically: what is the particle doing?
 
 If you look at it that way, then it turns out that quantum theory with the Born rule removed, having no reference to probability, just stripped-down quantum theory without probability, and then you take classical decision theory, which is about things like if you prefer A to B and you prefer B to C, then you prefer A to C. If you take classical decision theory and take the probability rule out of that, the rule being that you should prefer the thing that has the highest expectation value of your utility, you take that out because you've taken probability out and therefore there's no such thing as an expectation value.
 

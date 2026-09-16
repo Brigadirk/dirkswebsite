@@ -25,7 +25,7 @@ Good afternoon. I first would like to thank Harry for making this possible, this
 
 <span class="transcript-timestamp">00:04:57 - 00:05:15</span>
 
-I know the audience of today is open and eager to learn. I would like to give the floor to Harry Buhrman, who will introduce David Bennett and Gilles Brassard to us. I wish all of us an afternoon that we will never forget. Thank you.
+I know the audience of today is open and eager to learn. I would like to give the floor to Harry Buhrman, who will introduce Charlie Bennett and Gilles Brassard to us. I wish all of us an afternoon that we will never forget. Thank you.
 
 ### Harry Buhrman
 
@@ -451,19 +451,61 @@ Good. Let's leave it at this. Thank you again, Charlie. Some goodies, don't go a
 
 <span class="transcript-timestamp">02:27:09 - 02:30:11</span>
 
-Well, I certainly didn't expect it to turn into anything big, no. I started off thinking about what is now called quantum computers. I certainly didn't even think of it as computers then, just quantum. Thinking of an experiment that would in principle test the Everett interpretation or Everettian quantum theory. And then several years later, well, it was Charlie Bennett's fault, though I understand that he totally denies that this conversation ever took place. But I remember. We have to check that with Charlie actually, but please. So we were talking about complexity theory. I remember talking to you, but I don't remember what I talked to you about. Ah, okay, well I can tell you. We were talking about complexity and I was saying that complexity theory is nonsense. And you were being very polite and you just said very mildly, why is it nonsense? And I said, well, because the complexity of a sequence depends on the computer that you work out the program that would generate it. And eventually you said, well, the computer is physics. And I was sort of taken aback and I had to admit that you were right. And then I said, okay, but if it's physics, then you guys are using the wrong physics. And I thought I would, then I went home and I thought I would just work out translate Turing's theory into quantum mechanics, expecting that it would all go over the same and that this would be a more secure foundation for complexity theory than using this Turing's assumption, which is in fact false, that the world and its information content are classical. He unconsciously said, well, the world and its information content are classical. He unconsciously made that assumption. But then when I started to work it out, I realized that there was something new, that there was a new mode of computation was made possible by this. And so I thought, you know, that's worth publishing. And, but I still didn't expect this to turn into a real thing, let alone a real technology and a real field of science. Fantastic, yeah.
+Well, I certainly didn't expect it to turn into anything big, no. I started off thinking about what is now called quantum computers. I certainly didn't even think of it as computers then, just quantum. Thinking of an experiment that would in principle test the Everett interpretation or Everettian quantum theory. And then several years later, well, it was Charlie Bennett's fault, though I understand that he totally denies that this conversation ever took place. But I remember.
+
+### Harry Buhrman
+
+<span class="transcript-timestamp">02:27:09 - 02:30:11</span>
+
+We have to check that with Charlie actually, but please.
+
+### David Deutsch
+
+<span class="transcript-timestamp">02:27:09 - 02:30:11</span>
+
+So we were talking about complexity theory.
+
+### Charles Bennett
+
+<span class="transcript-timestamp">02:27:09 - 02:30:11</span>
+
+I remember talking to you, but I don't remember what I talked to you about.
+
+### David Deutsch
+
+<span class="transcript-timestamp">02:27:09 - 02:30:11</span>
+
+Ah, okay, well I can tell you. We were talking about complexity and I was saying that complexity theory is nonsense. And you were being very polite and you just said very mildly, why is it nonsense? And I said, well, because the complexity of a sequence depends on the computer that you work out the program that would generate it. And eventually you said, well, the computer is physics. And I was sort of taken aback and I had to admit that you were right. And then I said, okay, but if it's physics, then you guys are using the wrong physics. And I thought I would, then I went home and I thought I would just work out translate Turing's theory into quantum mechanics, expecting that it would all go over the same and that this would be a more secure foundation for complexity theory than using this Turing's assumption, which is in fact false, that the world and its information content are classical. He unconsciously said, well, the world and its information content are classical. He unconsciously made that assumption. But then when I started to work it out, I realized that there was something new, that there was a new mode of computation was made possible by this. And so I thought, you know, that's worth publishing. And, but I still didn't expect this to turn into a real thing, let alone a real technology and a real field of science.
+
+### Harry Buhrman
+
+<span class="transcript-timestamp">02:27:09 - 02:30:11</span>
+
+Fantastic, yeah.
 
 ### Harry Buhrman
 
 <span class="transcript-timestamp">02:30:11 - 02:30:54</span>
 
-And that it would give you this prize, right? Yeah, so it's really all Charlie's fault or Everett's. I could say it's Everett's fault. In this world then, at least, yeah. So maybe let's, thanks David, maybe we get back to that. But now I also wanna ask Peter, basically the same question. Actually, Peter, you are basically the latecomer on the block compared to the three we have here. Why did you work on it? And did you think of that it would have such an impact as it has now? So I guess I started thinking about quantum information
+And that it would give you this prize, right?
+
+### David Deutsch
+
+<span class="transcript-timestamp">02:30:11 - 02:30:54</span>
+
+Yeah, so it's really all Charlie's fault or Everett's. I could say it's Everett's fault. In this world then, at least, yeah.
+
+### Harry Buhrman
+
+<span class="transcript-timestamp">02:30:11 - 02:30:54</span>
+
+So maybe let's, thanks David, maybe we get back to that. But now I also wanna ask Peter, basically the same question. Actually, Peter, you are basically the latecomer on the block compared to the three we have here. Why did you work on it? And did you think of that it would have such an impact as it has now?
 
 ### Peter Shor
 
 <span class="transcript-timestamp">02:30:55 - 02:33:17</span>
 
-When I saw Charlie give a talk at Bell Labs about BB84. And of course, he's probably completely forgotten that because there were, we went around giving so many talks about BB84. But anyway, I thought about this question at the end of the talk that he asked, which is, is it possible to prove that BB84 is secure for a while and I didn't get anywhere? And I, after a while, I, you know, Umesh Vazirani came to Bell Labs in 1992 and he talked about his paper on quantum computing with Ethan Bernstein. And then I started really thinking about quantum computing and went up and looked at a lot of older papers. Well, there weren't a lot of older papers. I looked at the few older papers about quantum computing, including David Deutsch's. And I started thinking about is something that would actually be a real interesting, not contrived problem that quantum computers would be good for. And I didn't really get anywhere until I saw Dan Simon's paper, which had, you know, used it for finding the period of a function over Z2 to the vector space Z2 to the N. And then, you know, I knew that periodicity was important for discrete logs and factoring. So I started thinking about that and they eventually got the solution. And I knew it was a big deal. I didn't realize that it would span a billion dollar industry eventually. But, you know, I knew that everybody would be interested because it gave a, well, possible, but completely impractical way of breaking RSA. Yes. And in fact, the, you know, something like less than a month after we discovered this result, I was invited to give a last minute addition to the talk at the ad symposium. And someone from the NSA came up to me afterwards and asked me about it. Yes.
+So I guess I started thinking about quantum information when I saw Charlie give a talk at Bell Labs about BB84. And of course, he's probably completely forgotten that because there were, we went around giving so many talks about BB84. But anyway, I thought about this question at the end of the talk that he asked, which is, is it possible to prove that BB84 is secure for a while and I didn't get anywhere? And I, after a while, I, you know, Umesh Vazirani came to Bell Labs in 1992 and he talked about his paper on quantum computing with Ethan Bernstein. And then I started really thinking about quantum computing and went up and looked at a lot of older papers. Well, there weren't a lot of older papers. I looked at the few older papers about quantum computing, including David Deutsch's. And I started thinking about is something that would actually be a real interesting, not contrived problem that quantum computers would be good for. And I didn't really get anywhere until I saw Dan Simon's paper, which had, you know, used it for finding the period of a function over Z2 to the vector space Z2 to the N. And then, you know, I knew that periodicity was important for discrete logs and factoring. So I started thinking about that and they eventually got the solution. And I knew it was a big deal. I didn't realize that it would span a billion dollar industry eventually. But, you know, I knew that everybody would be interested because it gave a, well, possible, but completely impractical way of breaking RSA. Yes. And in fact, the, you know, something like less than a month after we discovered this result, I was invited to give a last minute addition to the talk at the ad symposium. And someone from the NSA came up to me afterwards and asked me about it. Yes.
 
 ### Harry Buhrman
 
@@ -471,17 +513,29 @@ When I saw Charlie give a talk at Bell Labs about BB84. And of course, he's prob
 
 And then of course, you actually told me also that the algorithm is sort of nice, but you thought it couldn't ever run because of error correction, which then was the problem that you also solved a little bit later. And look where we are now in a world where everyone is afraid and talks about Shor's algorithm and uses Deutsch model. And then hopefully BB84 comes to the rescue. Maybe just want to ask that question also to Gilles and Charlie, maybe first Gilles, ...
 
+### Harry Buhrman
+
+<span class="transcript-timestamp">02:33:47 - 02:38:26</span>
+
+Why did you start to work on this? And at the time, did you have any epiphany of what it would lead to?
+
 ### Gilles Brassard
 
 <span class="transcript-timestamp">02:33:47 - 02:38:26</span>
 
-Why did you start to work on this? And at the time, did you have any epiphany of what it would lead to? All right. So why did I start to work on it? Most people here know the story, but I will say it again. It's because one day I was swimming in San Juan in Puerto Rico, running my own business, when a crazy person swam up to me and started telling me he knew how to use quantum theory to make unforgeable banknotes. Someone had never heard of him, no clue who he was, that was Charlie Bennett. And so I listened politely to what he was telling me, which were in fact were ideas by Steven Wiesner, his old friend who passed away recently. Anyways, so if he had come to me while I was on the firm ground, I would probably have taken a run for my life, but since I was in the ocean, not a good swimmer, what could I do? So I just listened politely. I think from this point, we have to stop. To make the escape more difficult, right? So I listened politely and I realized that what he was telling me was not only impractical, but also useless. That Wiesner's idea was completely crazy, not nearly as much as my talk of today, and when I say it's a crazy idea, that's a compliment because that's the most beautiful ideas are crazy. Anyways, so I realized we're not only impractical, but also useless because these banknotes could not be checked by anyone except the person who made them, so that you could not actually use them to buy candies or something. If you withdrew one of these banknotes from your bank account, all you could do with it is run around town and go back and re-deposit in your bank account because nobody would take them since nobody could verify validity. So it's very nice nobody could make false copies, but nobody can verify validity, it's not very useful, except the person who made them. So by the time we swam back and forth, I had found a way to use these new ideas at a time of public cryptography to transform Wiesner's idea into a banknote that could be, that you need a secret to make it, that only the bank would know, but that the public information could be used to verify validity, and therefore it became, just as impractical as before, but not used anymore. And it's somewhat ironic that my first contribution to quantum information was to turn a scheme of Wiesner that was unconditionally secure into one that was merely computationally secure. And so that's right, so we had our first paper written while in swimming in the ocean, although only now hence, and then we went back ashore and began collaborating. And now to the second question that I think this was, would lead anywhere, as far as the quantum banknotes is concerned, no, I still think that it's not something that is very likely to be useful, even though Peter Shor has done some really good work about that later. But, and it took us three years before we decided it was worth even publishing at the Crypto 82 conference. And then we continued thinking about this stuff and came up to a BB84, and then we, I don't think either one of us thought that BB84 was something that would ever be practical, but I think it was something reasonable, and more than what we had done before at least. But it was not our day job, it was still, we were having fun, not taking this seriously at all, at least I wasn't. And at least for several years, I mean, and then, well, just like Peter said about Shor giving talks on BB84, so I did, I gave, I think the first time that Umesh heard about it was from me when I was visiting Berkeley. And after a few years, I mean, we were giving these talks on BB84 and nobody took it seriously, some people had crazy, I mean, unfounded objections. But since we didn't take it seriously ourselves, it was okay, I suppose. But after a few years, we decided that it was enough of not being taken seriously, and that's when we decided to build the first apparatus.
+All right. So why did I start to work on it? Most people here know the story, but I will say it again. It's because one day I was swimming in San Juan in Puerto Rico, running my own business, when a crazy person swam up to me and started telling me he knew how to use quantum theory to make unforgeable banknotes. Someone had never heard of him, no clue who he was, that was Charlie Bennett. And so I listened politely to what he was telling me, which were in fact were ideas by Steven Wiesner, his old friend who passed away recently. Anyways, so if he had come to me while I was on the firm ground, I would probably have taken a run for my life, but since I was in the ocean, not a good swimmer, what could I do? So I just listened politely. I think from this point, we have to stop. To make the escape more difficult, right? So I listened politely and I realized that what he was telling me was not only impractical, but also useless. That Wiesner's idea was completely crazy, not nearly as much as my talk of today, and when I say it's a crazy idea, that's a compliment because that's the most beautiful ideas are crazy. Anyways, so I realized we're not only impractical, but also useless because these banknotes could not be checked by anyone except the person who made them, so that you could not actually use them to buy candies or something. If you withdrew one of these banknotes from your bank account, all you could do with it is run around town and go back and re-deposit in your bank account because nobody would take them since nobody could verify validity. So it's very nice nobody could make false copies, but nobody can verify validity, it's not very useful, except the person who made them. So by the time we swam back and forth, I had found a way to use these new ideas at a time of public cryptography to transform Wiesner's idea into a banknote that could be, that you need a secret to make it, that only the bank would know, but that the public information could be used to verify validity, and therefore it became, just as impractical as before, but not used anymore. And it's somewhat ironic that my first contribution to quantum information was to turn a scheme of Wiesner that was unconditionally secure into one that was merely computationally secure. And so that's right, so we had our first paper written while in swimming in the ocean, although only now hence, and then we went back ashore and began collaborating. And now to the second question that I think this was, would lead anywhere, as far as the quantum banknotes is concerned, no, I still think that it's not something that is very likely to be useful, even though Peter Shor has done some really good work about that later. But, and it took us three years before we decided it was worth even publishing at the Crypto 82 conference. And then we continued thinking about this stuff and came up to a BB84, and then we, I don't think either one of us thought that BB84 was something that would ever be practical, but I think it was something reasonable, and more than what we had done before at least. But it was not our day job, it was still, we were having fun, not taking this seriously at all, at least I wasn't. And at least for several years, I mean, and then, well, just like Peter said about Shor giving talks on BB84, so I did, I gave, I think the first time that Umesh heard about it was from me when I was visiting Berkeley. And after a few years, I mean, we were giving these talks on BB84 and nobody took it seriously, some people had crazy, I mean, unfounded objections. But since we didn't take it seriously ourselves, it was okay, I suppose. But after a few years, we decided that it was enough of not being taken seriously, and that's when we decided to build the first apparatus.
 
 ### Gilles Brassard
 
 <span class="transcript-timestamp">02:38:27 - 02:39:43</span>
 
-About five years after BB84 was invented, we created the first prototype. And then we got that published in Scientific American, and people began to take it seriously, which is really the most ironic thing because our theory was beautiful, whereas the apparatus was just a piece of junk. Not really, not really, of course, but it was, we could prove, at the time we couldn't even prove security, when it was secure against any eavesdropper over a distance of 32 and a half centimeters, as long as the eavesdropper is deaf, because we could hear the photons fly by listening to the power supplies, and zeros and ones did not make the same noise. So this first apparatus was taken seriously when it was not in the least secret, whereas the beautiful theory was not, but that's how it goes, and the rest is history. Well, certainly this, and then going to Charlie, who I have now found out is kind of the root of all quantum evil, maybe it seems to have started with you, Charlie, can you say a little bit about that?
+About five years after BB84 was invented, we created the first prototype. And then we got that published in Scientific American, and people began to take it seriously, which is really the most ironic thing because our theory was beautiful, whereas the apparatus was just a piece of junk. Not really, not really, of course, but it was, we could prove, at the time we couldn't even prove security, when it was secure against any eavesdropper over a distance of 32 and a half centimeters, as long as the eavesdropper is deaf, because we could hear the photons fly by listening to the power supplies, and zeros and ones did not make the same noise. So this first apparatus was taken seriously when it was not in the least secret, whereas the beautiful theory was not, but that's how it goes, and the rest is history.
+
+### Harry Buhrman
+
+<span class="transcript-timestamp">02:38:27 - 02:39:43</span>
+
+Well, certainly this, and then going to Charlie, who I have now found out is kind of the root of all quantum evil, maybe it seems to have started with you, Charlie, can you say a little bit about that?
 
 ### Charles Bennett
 

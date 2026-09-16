@@ -67,19 +67,25 @@ Now, if Penrose's theory was true, then the results that the computer would see 
 
 <span class="transcript-timestamp">00:13:43 - 00:14:01</span>
 
-Don't you think that sometimes such controversial theories can make physics look like a false claim? Well, the charge is often made but it's simply not true.
+Don't you think that sometimes such controversial theories can make physics look like a false claim?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:13:43 - 00:14:01</span>
+
+Well, the charge is often made but it's simply not true.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:14:01 - 00:15:56</span>
 
-Here is an example, creationists often say that the theory of evolution is false, because nobody has ever seen a living dinosaur and nobody ever sees it. Exactly as in the case of the experiment with photons going through the holes. Although we never saw a dinosaur, we saw the rocks. And rocks are the effect of dinosaurs. They are not dead dinosaurs, they are not made of what a dinosaur is, but they are the effect of the dinosaur on the geological materials after it died. And the only explanation why rock looks as it does is that there was an unobserved dinosaur millions of years ago when there were no people who could see it, an entity which could create theories of biology. And yet, even though there was nobody around, because they affected the things we see, we can deduce that they were there. And again, the theory of dinosaurs has no rival, no other explanation. You can create an explanation saying that you can't ask that question, but that's not an explanation. Once you say good theories, it's not easy to provide good scientific theories, but theories like Freud's psychology can be used to explain everything. What is the key difference
+Here is an example, creationists often say that the theory of evolution is false, because nobody has ever seen a living dinosaur and nobody ever sees it. Exactly as in the case of the experiment with photons going through the holes. Although we never saw a dinosaur, we saw the rocks. And rocks are the effect of dinosaurs. They are not dead dinosaurs, they are not made of what a dinosaur is, but they are the effect of the dinosaur on the geological materials after it died. And the only explanation why rock looks as it does is that there was an unobserved dinosaur millions of years ago when there were no people who could see it, an entity which could create theories of biology. And yet, even though there was nobody around, because they affected the things we see, we can deduce that they were there. And again, the theory of dinosaurs has no rival, no other explanation. You can create an explanation saying that you can't ask that question, but that's not an explanation. Once you say good theories, it's not easy to provide good scientific theories, but theories like Freud's psychology can be used to explain everything.
 
 ### Maciej Kawecki
 
 <span class="transcript-timestamp">00:15:56 - 00:16:02</span>
 
-Between real science and non-science for you, David Deutsch?
+What is the key difference between real science and non-science for you, David Deutsch?
 
 ### David Deutsch
 
@@ -87,11 +93,29 @@ Between real science and non-science for you, David Deutsch?
 
 Well, there are many ways in which there are possibilities of such theorizing that can go wrong and go away from science. The example is what you were talking about, because if theory could explain everything, it would actually explain nothing. Another way is what we mentioned before. This is a kind of opposite of Freudism. If theory is purely predictive, then it also doesn't explain science and it also isn't a scientific theory. My favorite example is a magical trick. Let's say you go to an illusionist's show and you observe how the illusionist puts the balls on the table, moves them quickly on the table, and then he discovers the ball, and the ball is gone. If you go again the next day, you'll see how the illusionist does the same thing. You see him doing the same thing maybe every day for a week, and now you're in perfect condition to predict when the ball will be there and when it won't be there, but you still have no idea of how that happens. That's a completely different kind of knowledge, that's explanatory knowledge, not predictive. Why couldn't evolution create simple minds that are not predictable? Why are there so many subjective experiences that solve the problems of our mind? Why doesn't our mind solve the problems of darkness, that is, the inner awareness? Well, the evolution process solved many problems without any explanation. You know, as long as there are no certain... I mean, ordinary problems, not those that engage abstract thinking, abstract mathematics, revolutionize physics. There are fundamental limitations to what evolution is capable of. One major thing it can't skip is some kind of conceptual gap. If there is an organism that could use some improvement, for example, if a lizard, that really could use if it could breathe fire like a dragon, then the only way that evolution could create a new organism is to have a sequence of organisms in successive generations which would gradually become closer to the ability of the lizard to breathe fire. And every single one of these organisms would have to be a viable organism that would not only have to survive to reproduce, mutate, and so on, but also useful. Because if it's not useful, then its competitors, because it's not useful, then its competitor that had a slight mutation would outbreed it. So it's very difficult therefore for evolution to cross a conceptual gap like that. Whereas thinking we can imagine a flying car. A flying car will not work only because we imagine it. When I was a child I imagined various cars, flying, swimming, underwater. At first I did not try to cross this conceptual gap. But the way that you do bridge it, it's not by making a sequence of things that start with the first and end with the new ability. You think about how to achieve it. That is the part that explanation has that evolution does not have.
 
+### Maciej Kawecki
+
+<span class="transcript-timestamp">00:20:34 - 00:23:45</span>
+
+You claim that all human minds are universal explainers.
+
 ### David Deutsch
 
 <span class="transcript-timestamp">00:20:34 - 00:23:45</span>
 
-You claim that all human minds are universal explainers. Yes. Is the human brain able to solve any problems? Well, universal explanation is both about the ability to generate explanations and the ability to understand them. It's really the same ability, the same ability. Now, this does not mean that in the face of a problem any human mind or any existing brain will manage. It's a different issue. One of the things that makes most of the problems impossible is that nobody wants to solve them. Nobody wants to find the exact number in a given problem. Only a handful of people want to find out whether Riemann's hypothesis is true and so on. There are much more, infinite, potential hypotheses that most people will not want to solve. The issue is different. The question is whether we are limited by the construction of our brains in creating knowledge which could exist. Not the kind that could be invented, but the kind that could exist. And the answer is no, as I argue in my book. If there was such a thing that people could not understand but which would still affect us in such a way that we would want to solve it, then if that could not be solved, it would be the same with the belief in the supernatural. We say then that we can understand the universe until this point, but not further. There is no explanation why until this point and not further. Therefore, if something outside of this barrier is affecting us, we cannot understand things that are inside this barrier either. So we come to the opposite. We either have unlimited ability to explain or we have no real ability to explain, because everything we think that we understand is, according to that theory, an illusion in reality. If we have such a gift of explanation why some people are struggling with simple math and others are discovering relativity?
+Yes.
+
+### Maciej Kawecki
+
+<span class="transcript-timestamp">00:20:34 - 00:23:45</span>
+
+Is the human brain able to solve any problems?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:20:34 - 00:23:45</span>
+
+Well, universal explanation is both about the ability to generate explanations and the ability to understand them. It's really the same ability, the same ability. Now, this does not mean that in the face of a problem any human mind or any existing brain will manage. It's a different issue. One of the things that makes most of the problems impossible is that nobody wants to solve them. Nobody wants to find the exact number in a given problem. Only a handful of people want to find out whether Riemann's hypothesis is true and so on. There are much more, infinite, potential hypotheses that most people will not want to solve. The issue is different. The question is whether we are limited by the construction of our brains in creating knowledge which could exist. Not the kind that could be invented, but the kind that could exist. And the answer is no, as I argue in my book. If there was such a thing that people could not understand but which would still affect us in such a way that we would want to solve it, then if that could not be solved, it would be the same with the belief in the supernatural. We say then that we can understand the universe until this point, but not further. There is no explanation why until this point and not further. Therefore, if something outside of this barrier is affecting us, we cannot understand things that are inside this barrier either. So we come to the opposite. We either have unlimited ability to explain or we have no real ability to explain, because everything we think that we understand is, according to that theory, an illusion in reality. If we have such a gift of explanation why some people are struggling with simple math and others are discovering relativity?
 
 ### Maciej Kawecki
 
@@ -157,19 +181,37 @@ At the beginning I have to say that constructor theory is currently an idea for 
 
 <span class="transcript-timestamp">00:33:20 - 00:36:23</span>
 
-I had a section there entitled motivation and I kept adding more and more motivation there until there were finally 18 of them and that very fact made me think, okay there must be something in it. If the constructor theory does not exist then something else must explain the way in which various problems can be solved by changing the view from the conventional approach to initial conditions, the law of motion and final conditions to what can be achieved and what cannot be achieved. So in constructor theory, if you know that for example something can be achieved, it does not mean that we know how to achieve it and if we already know that something cannot be achieved it does not necessarily mean that we know what stops us. We simply know from the fundamental theory that it is something that results from the fact that one thing must be possible and one thing must be impossible. Can quantum mechanics work without a collapse of the wave function? You are asking whether a theory that does not exist could exist. Logically it could exist as we could say that the world has only been 6,000 years old and there have never been dinosaurs but no one is holding their breath for this theory. In both cases the best existing theory is not only one but it is also extremely effective in predicting the future. I am sure that quantum theory will not be the last theory of physics and I am sure that the current theory of evolution will not be the last one. After all it has been modified several times since Darwin created it until today. I am sure that there will be further improvements in both theories but these improvements will not contain irrational alternatives that are advocated by irrational people. So why did physicists ever come up with irrational theories? This is a bit of a scandal in the history of physics. It was the early 20th century. The trend in philosophy since the late 19th century was towards positivism and then to logical positivism. Both theories wanted to make a comeback in physics
-
-### Maciej Kawecki
-
-<span class="transcript-timestamp">00:36:23 - 00:37:25</span>
-
-Without any explanations, only predictions. It was because of the history of empiricism, philosophy of science and so on that the really bad idea came up that science is not about explaining the world but only about predicting it. And that is how it was done. For example when the measurement results in quantum theory were strange and not intuitive they thought, well, we can predict them why do we have to explain them? Let's not explain them because positivism is serious and even orders us to do that. And then what happened? Some physicists took this view. Some physicists like Einstein opposed it and some like David Bohm tried to take a balanced position.
+I had a section there entitled motivation and I kept adding more and more motivation there until there were finally 18 of them and that very fact made me think, okay there must be something in it. If the constructor theory does not exist then something else must explain the way in which various problems can be solved by changing the view from the conventional approach to initial conditions, the law of motion and final conditions to what can be achieved and what cannot be achieved. So in constructor theory, if you know that for example something can be achieved, it does not mean that we know how to achieve it and if we already know that something cannot be achieved it does not necessarily mean that we know what stops us. We simply know from the fundamental theory that it is something that results from the fact that one thing must be possible and one thing must be impossible. Can quantum mechanics work without a collapse of the wave function? You are asking whether a theory that does not exist could exist. Logically it could exist as we could say that the world has only been 6,000 years old and there have never been dinosaurs but no one is holding their breath for this theory. In both cases the best existing theory is not only one but it is also extremely effective in predicting the future. I am sure that quantum theory will not be the last theory of physics and I am sure that the current theory of evolution will not be the last one. After all it has been modified several times since Darwin created it until today. I am sure that there will be further improvements in both theories but these improvements will not contain irrational alternatives that are advocated by irrational people. So why did physicists ever come up with irrational theories? This is a bit of a scandal in the history of physics. It was the early 20th century. The trend in philosophy since the late 19th century was towards positivism and then to logical positivism. Both theories wanted to make a comeback in physics without any explanations, only predictions. It was because of the history of empiricism, philosophy of science and so on that the really bad idea came up that science is not about explaining the world but only about predicting it. And that is how it was done. For example when the measurement results in quantum theory were strange and not intuitive they thought, well, we can predict them why do we have to explain them? Let's not explain them because positivism is serious and even orders us to do that. And then what happened? Some physicists took this view. Some physicists like Einstein opposed it and some like David Bohm tried to take a balanced position.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:37:33 - 00:40:31</span>
 
-But what happened next was not the debate that this theory originally caused but it also took place when physics became more and more important and more and more young people were becoming physicists. You know, there are I don't know how many more maybe 100 times more physicists than there were in 1900. I don't know the exact number but it is a huge increase. And they all went through a similar education system in which students asked yes, but how does it come about? Why is the pattern on the screen so similar to the one on the screen? Professors would say if you ask you are not allowed to ask that question or if you ask that question and what's worse if you ask them you really don't understand it. And so they shut the students' mouths and the students later shut their mouths to their own students and it became physics' irrational tradition. It is very, very gradually changing. Do you remember the moment when you created the first quantum algorithm theory in the world? Yes. Tell me something more about it. Please tell me something more about it. I was just I'm trying to so I often tell the story of how I got interested in the computational properties of quantum theory because a colleague of mine told me that contrary to what I thought the theory of complexity is strongly rooted in physics that the limitations of the theory of complexity what is P and what is NP and similar topics are determined by physics. So I said well, if this is physics you use the wrong physics because they just used the physics of Turing which was classical so I went home and wrote down on a piece of paper what would be the equivalent of Turing's argument in the quantum world and then I thought to make it an elegant introduction I should prove its universality. I couldn't prove it and then I realized that to create quantum universality you need some quantum operations not entirely related to quantum. I realized then that there could be a quantum computer which would be more powerful than a classical computer like Turing's.
+But what happened next was not the debate that this theory originally caused but it also took place when physics became more and more important and more and more young people were becoming physicists. You know, there are I don't know how many more maybe 100 times more physicists than there were in 1900. I don't know the exact number but it is a huge increase. And they all went through a similar education system in which students asked yes, but how does it come about? Why is the pattern on the screen so similar to the one on the screen? Professors would say if you ask you are not allowed to ask that question or if you ask that question and what's worse if you ask them you really don't understand it. And so they shut the students' mouths and the students later shut their mouths to their own students and it became physics' irrational tradition. It is very, very gradually changing.
+
+### Maciej Kawecki
+
+<span class="transcript-timestamp">00:37:33 - 00:40:31</span>
+
+Do you remember the moment when you created the first quantum algorithm theory in the world?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:37:33 - 00:40:31</span>
+
+Yes.
+
+### Maciej Kawecki
+
+<span class="transcript-timestamp">00:37:33 - 00:40:31</span>
+
+Tell me something more about it. Please tell me something more about it.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:37:33 - 00:40:31</span>
+
+I was just I'm trying to so I often tell the story of how I got interested in the computational properties of quantum theory because a colleague of mine told me that contrary to what I thought the theory of complexity is strongly rooted in physics that the limitations of the theory of complexity what is P and what is NP and similar topics are determined by physics. So I said well, if this is physics you use the wrong physics because they just used the physics of Turing which was classical so I went home and wrote down on a piece of paper what would be the equivalent of Turing's argument in the quantum world and then I thought to make it an elegant introduction I should prove its universality. I couldn't prove it and then I realized that to create quantum universality you need some quantum operations not entirely related to quantum. I realized then that there could be a quantum computer which would be more powerful than a classical computer like Turing's.
 
 ### Maciej Kawecki
 

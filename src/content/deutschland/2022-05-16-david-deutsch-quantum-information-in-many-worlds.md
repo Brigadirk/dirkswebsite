@@ -225,11 +225,17 @@ Yes, I think you understood it correctly.
 
 Okay well tell me if you have the answer. Okay.
 
-### Audience questioner
+### Mert
 
 <span class="transcript-timestamp">00:31:03 - 00:32:40</span>
 
-We have another question if there's no follow up on that from Jan was part of our society. Hey. David thanks so much. You're in the room, I guess. Okay yeah so we have a viewing party. I'm not in the same room, so that we don't have the. I'll ask you, thanks so much for taking time so on the topic of Bohmian mechanics, I was just introduced, so if we, if you look at like modern versus Bohmian mechanics there's usually. For Bohmians there's these two important different frameworks there's a. configuration space in which the wave function evolves and there's also a physical space of particles in which particles evolve and then for this, for example interpretations were. One says that the evolution of the wave function is what guides evolution of particles and there's not really well, I guess my main question is. For all of Bohmians, this is the way they think about the world that sort of we have to model things as particles and therefore we have to find out how particles evolve. And I was just wondering how you think about the world around you in sort of the paradigm of many worlds in the multiverse. And you think along the lines of Wallace and sort of Daniel Dennett's functionalist interpretation. And sort of what you have to say to this sort of Bohmian interpretation that you have these two conflicting frameworks of or not conflicting two related framework so.
+We have another question if there's no follow up on that from Jan was part of our society.
+
+### Jan
+
+<span class="transcript-timestamp">00:31:03 - 00:32:40</span>
+
+Hey. David thanks so much. You're in the room, I guess. Okay yeah so we have a viewing party. I'm not in the same room, so that we don't have the. I'll ask you, thanks so much for taking time so on the topic of Bohmian mechanics, I was just introduced, so if we, if you look at like modern versus Bohmian mechanics there's usually. For Bohmians there's these two important different frameworks there's a. configuration space in which the wave function evolves and there's also a physical space of particles in which particles evolve and then for this, for example interpretations were. One says that the evolution of the wave function is what guides evolution of particles and there's not really well, I guess my main question is. For all of Bohmians, this is the way they think about the world that sort of we have to model things as particles and therefore we have to find out how particles evolve. And I was just wondering how you think about the world around you in sort of the paradigm of many worlds in the multiverse. And you think along the lines of Wallace and sort of Daniel Dennett's functionalist interpretation. And sort of what you have to say to this sort of Bohmian interpretation that you have these two conflicting frameworks of or not conflicting two related framework so.
 
 ### David Deutsch
 
@@ -272,12 +278,6 @@ It's not an illusion it's not real and it's not an illusion it's a mistake.
 <span class="transcript-timestamp">00:40:02 - 00:40:04</span>
 
 It's a mistake okay.
-
-### David Deutsch
-
-<span class="transcript-timestamp">00:40:05 - 00:40:10</span>
-
-It's not an illusion it's not real and it's not an illusion it's a mistake.
 
 ### Mert
 
@@ -343,13 +343,37 @@ I guess it's a container for knowledge.
 
 <span class="transcript-timestamp">00:47:55 - 00:52:02</span>
 
-Yes, yes, so if it if it can be replicated to more than random degree, then it must contain it can be said to contain knowledge. Now now memes are a widespread Internet phenomenon. By the way. What I just said. It's true of genes as well, it's true of any replicator. You guessed my next question. Are memes related to genes. So memes and genes are both replicators. So in that sense, the theory of replicators applies to both of them, and there are illuminating. properties of both that both share which were where each of them can tell us something about the other but. memes and genes. Have a radically different replication mechanism. Again, this is in my second book, The Beginning of Infinity, which you should all buy. The. genes. When they replicate they are copied blindly so the only. bottleneck to their to their exponential growth until they cover the entire universe, the only bottleneck is their actual effect on their holders, whether they increase or decrease the chance that that holder will. will survive in with. will survive in time to replicate the gene. But a meme has got two bottlenecks first, it must. pass the test of being. understood and replicated into the mind of a new holder and then when the holder then executes it, it must do something which. Like the gene so that that second bottleneck is the equivalent of the gene, the first bottleneck has no analog in genes and that makes the natural history of memes radically different from that of genes, it means that these two kinds of memes. That they have different replication strategies neither of them has the same replication strategy as a gene, there is there is no way of. There is no way for a meme to replicate itself by blind copying. Humans are incapable of blind blind copying anyway, but even if you try to engrave your meme on a stone obelisk that obelisk will wear away unless somebody tends to it. And. That is not true of genes, they can they can survive for billions of years and because they are. Because they are. maintained by a blind error correction process, whereas human memes have to be maintained by humans actually going out of their way to maintain them in every generation that's that's another difference genes need not be enacted in every generation. And they you know if you don't if you don't either the example I gave you if you don't break your arm, you will still pass the genes for repairing broken arms onto your children. But if you don't if you don't enact your religion, then your children will never hear of it. See so that that first bottleneck is the difference between.
+Yes, yes, so if it if it can be replicated to more than random degree, then it must contain it can be said to contain knowledge. Now now memes are a widespread Internet phenomenon. By the way. What I just said. It's true of genes as well, it's true of any replicator.
+
+### Mert
+
+<span class="transcript-timestamp">00:47:55 - 00:52:02</span>
+
+You guessed my next question. Are memes related to genes.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:47:55 - 00:52:02</span>
+
+So memes and genes are both replicators. So in that sense, the theory of replicators applies to both of them, and there are illuminating. properties of both that both share which were where each of them can tell us something about the other but. memes and genes. Have a radically different replication mechanism. Again, this is in my second book, The Beginning of Infinity, which you should all buy. The. genes. When they replicate they are copied blindly so the only. bottleneck to their to their exponential growth until they cover the entire universe, the only bottleneck is their actual effect on their holders, whether they increase or decrease the chance that that holder will. will survive in with. will survive in time to replicate the gene. But a meme has got two bottlenecks first, it must. pass the test of being. understood and replicated into the mind of a new holder and then when the holder then executes it, it must do something which. Like the gene so that that second bottleneck is the equivalent of the gene, the first bottleneck has no analog in genes and that makes the natural history of memes radically different from that of genes, it means that these two kinds of memes. That they have different replication strategies neither of them has the same replication strategy as a gene, there is there is no way of. There is no way for a meme to replicate itself by blind copying. Humans are incapable of blind blind copying anyway, but even if you try to engrave your meme on a stone obelisk that obelisk will wear away unless somebody tends to it. And. That is not true of genes, they can they can survive for billions of years and because they are. Because they are. maintained by a blind error correction process, whereas human memes have to be maintained by humans actually going out of their way to maintain them in every generation that's that's another difference genes need not be enacted in every generation. And they you know if you don't if you don't either the example I gave you if you don't break your arm, you will still pass the genes for repairing broken arms onto your children. But if you don't if you don't enact your religion, then your children will never hear of it. See so that that first bottleneck is the difference between.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:52:03 - 00:52:39</span>
 
-Alive replication and. Non living replication, whereas a meme or your book is a container for knowledge it replicates as a printing house copied it and I acquired some knowledge to it. But if without me, it would not be able to replicate the knowledge would go away or without the readers. Yes, yes, without the readers and just printing it is blind replication but really that's that's not if we look at generations. Then if humans don't read the book, then almost all almost all printed material will never be read again nor enacted.
+Alive replication and. Non living replication,
+
+### Mert
+
+<span class="transcript-timestamp">00:52:03 - 00:52:39</span>
+
+whereas a meme or your book is a container for knowledge it replicates as a printing house copied it and I acquired some knowledge to it. But if without me, it would not be able to replicate the knowledge would go away or without the readers.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:52:03 - 00:52:39</span>
+
+Yes, yes, without the readers and just printing it is blind replication but really that's that's not if we look at generations. Then if humans don't read the book, then almost all almost all printed material will never be read again nor enacted.
 
 ### Mert
 
@@ -381,7 +405,19 @@ So I don't know if that answers your question. I said what can't happen and what
 
 <span class="transcript-timestamp">00:56:30 - 00:56:47</span>
 
-That's. Okay. We have another question also, how are we doing on time David do you think we could go on a bit more. yeah yeah up to you. Okay, maybe like 30 more minutes, I guess, then.
+That's. Okay. We have another question also, how are we doing on time David do you think we could go on a bit more.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:56:30 - 00:56:47</span>
+
+yeah yeah up to you.
+
+### Mert
+
+<span class="transcript-timestamp">00:56:30 - 00:56:47</span>
+
+Okay, maybe like 30 more minutes, I guess, then.
 
 ### Audience questioner
 

@@ -181,13 +181,13 @@ You could call this dog... You could call this mark that I made here... You coul
 
 <span class="transcript-timestamp">00:30:08 - 00:30:23</span>
 
-Charles has his hand raised. Go ahead. Yes, I'm going to go to Charles. His hand raised. Go ahead. Yes, okay. Thank you. Hi. Thank you, David.
+Charles has his hand raised. Go ahead. Yes, I'm going to go to Charles. His hand raised. Go ahead.
 
 ### Charles Bédard
 
 <span class="transcript-timestamp">00:30:26 - 00:31:57</span>
 
-Well, it's not a question. It's many ideas that I think would be quite cute to relate with other ideas of yours. I recently came about the chapter five of the fabric of reality, in which you speak about the Turing principle in a very grandiose way. Namely, I was kind of aware of the idea that computer programs can be put into correspondence with simulations of physical systems, but the chapter ends with the idea that not only physical systems can be, or virtual reality rendering of physical system can be given by computer programs, but also virtual reality renderings of abstract entities. So all that what mathematicians think and all men are mortal, can be also in a sense thought of abstract renderings. Well, no, virtual reality renderings of abstract entities. So the quest of science as search for truth in this context of trying to get a map between our virtual reality renderings of the reality out there can actually make sense, no? Because this is what we're kind of trying to do to get our ideas to correspond to the physical world.
+Yes, okay. Thank you. Hi. Thank you, David. Well, it's not a question. It's many ideas that I think would be quite cute to relate with other ideas of yours. I recently came about the chapter five of the fabric of reality, in which you speak about the Turing principle in a very grandiose way. Namely, I was kind of aware of the idea that computer programs can be put into correspondence with simulations of physical systems, but the chapter ends with the idea that not only physical systems can be, or virtual reality rendering of physical system can be given by computer programs, but also virtual reality renderings of abstract entities. So all that what mathematicians think and all men are mortal, can be also in a sense thought of abstract renderings. Well, no, virtual reality renderings of abstract entities. So the quest of science as search for truth in this context of trying to get a map between our virtual reality renderings of the reality out there can actually make sense, no? Because this is what we're kind of trying to do to get our ideas to correspond to the physical world.
 
 ### David Deutsch
 
@@ -247,13 +247,13 @@ Yes. And before they can prove anything, they will have had a conjecture. A math
 
 <span class="transcript-timestamp">00:36:39 - 00:36:45</span>
 
-Yes, that's an excellent point. Yeah, Charles, I'm not sure if I'm
+Yes, that's an excellent point. Yeah, Charles, I'm not sure if I'm interrupting your conversation.
 
 ### Charles Bédard
 
 <span class="transcript-timestamp">00:36:45 - 00:36:50</span>
 
-Interrupting your conversation. Yeah, no, it's good. It's good. I'll think about it. Thank you.
+Yeah, no, it's good. It's good. I'll think about it. Thank you.
 
 ### David Deutsch
 
@@ -283,13 +283,13 @@ Yes, I think there's various paradoxes that pop up here. Anyway, I see there's a
 
 <span class="transcript-timestamp">00:37:22 - 00:38:04</span>
 
-Yeah, thanks. So I have a question about this relationship between, I guess, I guess it could apply both to the relationship between our statements and the abstractions and to the relationship between the abstractions and the world. I'm sort of more concerned about the relationship between the abstractions and the world. But I guess I'm wondering about what it would mean to say that the abstraction corresponds to the world or even refers to the world, that certain pieces of the abstraction pick out certain things in the world and not others to refer to them and what the nature of that relationship is. Independent of whether it's true. What does it mean to even refer? Yes. Well, you're quite right that there ...
+Yeah, thanks. So I have a question about this relationship between, I guess, I guess it could apply both to the relationship between our statements and the abstractions and to the relationship between the abstractions and the world. I'm sort of more concerned about the relationship between the abstractions and the world. But I guess I'm wondering about what it would mean to say that the abstraction corresponds to the world or even refers to the world, that certain pieces of the abstraction pick out certain things in the world and not others to refer to them and what the nature of that relationship is. Independent of whether it's true. What does it mean to even refer?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:38:04 - 00:39:22</span>
 
-Could be an abstraction. There are abstractions out there that don't claim anything. Let's say you could have the mathematical model of the standard model of particle physics. And let's suppose that that was true. It still wouldn't be an assertion. So it couldn't, whether it corresponds to anything depends on what it's claimed to correspond to. Because if somebody said that that mathematical model is a mathematical model of the weather on the planet Earth, then that would be false. So the claim is another abstraction. So the proposition would be something like the real world, the real physical world, consists of fields and particles that obey these equations and then some equations. And then that abstraction would have made a claim about the real world.
+Yes. Well, you're quite right that there could be an abstraction. There are abstractions out there that don't claim anything. Let's say you could have the mathematical model of the standard model of particle physics. And let's suppose that that was true. It still wouldn't be an assertion. So it couldn't, whether it corresponds to anything depends on what it's claimed to correspond to. Because if somebody said that that mathematical model is a mathematical model of the weather on the planet Earth, then that would be false. So the claim is another abstraction. So the proposition would be something like the real world, the real physical world, consists of fields and particles that obey these equations and then some equations. And then that abstraction would have made a claim about the real world.
 
 ### Jake Orthwein
 
@@ -391,37 +391,37 @@ Might be a more efficient way. Okay, then I think Toby is next. Toby, go ahead.
 
 <span class="transcript-timestamp">00:47:58 - 00:48:43</span>
 
-Yes, in your book, I think you wrote that there's only a finite number of abstractions that could apply to the physical world, namely the computable abstractions. The countable number, yeah. The countable, yeah. So is it possible if there is a finite number of abstractions that could apply to physical theories or unique physical theories that we could rescue Popper's theory of truth-likeness so that we can get close to the truth because there's only a finite number of different physical theories we could discover? Yeah, well actually I think there's an infinite
+Yes, in your book, I think you wrote that there's only a finite number of abstractions that could apply to the physical world, namely the computable abstractions. The countable number, yeah. The countable, yeah. So is it possible if there is a finite number of abstractions that could apply to physical theories or unique physical theories that we could rescue Popper's theory of truth-likeness so that we can get close to the truth because there's only a finite number of different physical theories we could discover?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:48:43 - 00:50:44</span>
 
-Number of physical theories. It's just countably infinite rather than finite unless you are thinking that a finite regional universe can only contain finitely many distinct states, which might be the case, you know, from the Bekenstein bound and so on. So yes, but I think even then it would be pointless to resurrect Popper's notion of truth-likeness because the fact that, so this would allow you to sort of say whether two theories are lexicographically close to each other in the dictionary of all possible statements, but that's not what Popper meant by being close. He meant the set of all implications of the one is somehow close to the set of all implications of the other. I forget how it goes. It's the true implications of one other than tautologies, you know, he was making it up in that kind of way. That would still be an infinite number, and I think it would still be infinitely ambiguous. It would depend on what your purpose was in comparing these two theories. One of them might be closer to the kind of truth you want to talk about, and the other one might be close to the kind of truth that someone else wants to talk about. So, you know, for example, there's the kind of truth that leads to accurate predictions, and then there's the kind of truth that leads to better future theories. So why bother? I think that Popper in the end basically said why bother as well.
+Yeah, well actually I think there's an infinite number of physical theories. It's just countably infinite rather than finite unless you are thinking that a finite regional universe can only contain finitely many distinct states, which might be the case, you know, from the Bekenstein bound and so on. So yes, but I think even then it would be pointless to resurrect Popper's notion of truth-likeness because the fact that, so this would allow you to sort of say whether two theories are lexicographically close to each other in the dictionary of all possible statements, but that's not what Popper meant by being close. He meant the set of all implications of the one is somehow close to the set of all implications of the other. I forget how it goes. It's the true implications of one other than tautologies, you know, he was making it up in that kind of way. That would still be an infinite number, and I think it would still be infinitely ambiguous. It would depend on what your purpose was in comparing these two theories. One of them might be closer to the kind of truth you want to talk about, and the other one might be close to the kind of truth that someone else wants to talk about. So, you know, for example, there's the kind of truth that leads to accurate predictions, and then there's the kind of truth that leads to better future theories. So why bother? I think that Popper in the end basically said why bother as well.
 
 ### Toby
 
 <span class="transcript-timestamp">00:50:45 - 00:51:35</span>
 
-What I had in mind was, I've noticed with theories as they've gone through time, they changed the kind of invariant symmetry. So we had Galilean invariance, and then we had Lorentz invariance. I was wondering if in that case, if we were seeking hard-to-vary-ness in theories, whether that process, whether there, you know, if there's a finite, perhaps there is a finite number of those different unique variant mathematical structures, which could apply to our universe. But that was where I was kind of basing that idea from. Well, so first of all, if there was just a finite number, but it was 10 to the 500, ...
+What I had in mind was, I've noticed with theories as they've gone through time, they changed the kind of invariant symmetry. So we had Galilean invariance, and then we had Lorentz invariance. I was wondering if in that case, if we were seeking hard-to-vary-ness in theories, whether that process, whether there, you know, if there's a finite, perhaps there is a finite number of those different unique variant mathematical structures, which could apply to our universe. But that was where I was kind of basing that idea from.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:51:36 - 00:52:31</span>
 
-We wouldn't be much better off. So if there was a finite number, and some people think that there's, eventually there will be a single mathematical object, which is the only reasonable one to theorize corresponds with the physical world. And I don't think that would be the end of the story either, because there'd always be the problem of why is that physical object, why is that, sorry, abstract object physically instantiated and not some other one? It couldn't itself contain the explanation of that. Yeah, I see what you mean there. Yeah. Well, thank you. Then I kind of have a, ...
+Well, so first of all, if there was just a finite number, but it was 10 to the 500, we wouldn't be much better off. So if there was a finite number, and some people think that there's, eventually there will be a single mathematical object, which is the only reasonable one to theorize corresponds with the physical world. And I don't think that would be the end of the story either, because there'd always be the problem of why is that physical object, why is that, sorry, abstract object physically instantiated and not some other one? It couldn't itself contain the explanation of that. Yeah, I see what you mean there. Yeah. Well, thank you. Then I kind of have a, ...
 
 ### Sam Kuypers
 
 <span class="transcript-timestamp">00:52:31 - 00:53:04</span>
 
-Because Toby mentioned Popper's theory of truth likeness, do you think that with this theory of correspondence to truth, that we can still talk about theories containing more truth over time? So I know that this is slightly different from the problem you're trying to address, and I'm kind of drawing it back to this conversation we had with Danny Frederick on the same topic, or on a related topic. And yeah, do you think that this calls
+Because Toby mentioned Popper's theory of truth likeness, do you think that with this theory of correspondence to truth, that we can still talk about theories containing more truth over time? So I know that this is slightly different from the problem you're trying to address, and I'm kind of drawing it back to this conversation we had with Danny Frederick on the same topic, or on a related topic. And yeah, do you think that this calls anything about it?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:53:04 - 00:55:44</span>
 
-Anything about it? So first of all, my view is that it's, in some cases, you can say that one theory is unambiguously better than another theory, because the set of true implications of one of them includes the set of true implications of the other, and vice versa, the set of false implications is contained in the set of false implications. But that's not always the case, and in that case, the set of true and false propositions just overlap. But if you think of it not in terms of truth, but in terms of knowledge, then when we have eliminated some errors, and we hope not introduced other errors, then we have unambiguously made progress, regardless of what the true implications are of the relevant theories. When we have successfully made a vaccine that cures the disease better than all previous medicines, then we have made progress. And the question of truth doesn't really, we don't really need to measure how much truth it has. It might have been built on a thin theory of RNA, which is overturned next week, but where the overturning doesn't actually invalidate the explanations that led to the vaccine. So in that case, inventing the vaccine was genuine progress, genuine growth of knowledge, even though it used a theory that was worse than the previous theory. I mean, maybe that's a bad example, because these things have lots of different theories associated with them. But you see what I mean? I mean, science is about problem solving, so is life. And with problems, what we want to do is eliminate errors. If we can eliminate some errors, it doesn't matter how true the theory is.
+So first of all, my view is that it's, in some cases, you can say that one theory is unambiguously better than another theory, because the set of true implications of one of them includes the set of true implications of the other, and vice versa, the set of false implications is contained in the set of false implications. But that's not always the case, and in that case, the set of true and false propositions just overlap. But if you think of it not in terms of truth, but in terms of knowledge, then when we have eliminated some errors, and we hope not introduced other errors, then we have unambiguously made progress, regardless of what the true implications are of the relevant theories. When we have successfully made a vaccine that cures the disease better than all previous medicines, then we have made progress. And the question of truth doesn't really, we don't really need to measure how much truth it has. It might have been built on a thin theory of RNA, which is overturned next week, but where the overturning doesn't actually invalidate the explanations that led to the vaccine. So in that case, inventing the vaccine was genuine progress, genuine growth of knowledge, even though it used a theory that was worse than the previous theory. I mean, maybe that's a bad example, because these things have lots of different theories associated with them. But you see what I mean? I mean, science is about problem solving, so is life. And with problems, what we want to do is eliminate errors. If we can eliminate some errors, it doesn't matter how true the theory is.
 
 ### Sam Kuypers
 
@@ -445,25 +445,25 @@ Yes, I think in a way, I was just re-asking the question I asked initially. And 
 
 <span class="transcript-timestamp">00:58:31 - 00:59:50</span>
 
-Oh, yes. So that's one of many ambiguities that you can accidentally slip in a sentence from the meta-language and mistake it for a sentence from the language, because we use English for both. So it's an understandable mistake to make. So when you say the least integer not definable, you should be saying definable within what language and what axioms, rather than just definable. Definable is a meaningless concept without saying what axioms you're defining it and what language in what you're defining it in. But that's, as you say, how do we know that there aren't infinitely many ambiguities like that, which render meaningless everything we say? Well, there could be. There could be. But we have a good explanation to the effect that we are in fact eliminating errors in our ideas, even if they're inconsistent. We're still eliminating errors from them. Yes. And also, as I said, it was kind of a devil's
+Oh, yes. So that's one of many ambiguities that you can accidentally slip in a sentence from the meta-language and mistake it for a sentence from the language, because we use English for both. So it's an understandable mistake to make. So when you say the least integer not definable, you should be saying definable within what language and what axioms, rather than just definable. Definable is a meaningless concept without saying what axioms you're defining it and what language in what you're defining it in. But that's, as you say, how do we know that there aren't infinitely many ambiguities like that, which render meaningless everything we say? Well, there could be. There could be. But we have a good explanation to the effect that we are in fact eliminating errors in our ideas, even if they're inconsistent. We're still eliminating errors from them.
 
 ### Sam Kuypers
 
 <span class="transcript-timestamp">00:59:50 - 01:00:02</span>
 
-Advocate criticism, because of course Berry's paradox is a very specific paradox. And we discovered it because other sentences aren't like Berry's paradox. Right. Yes. But I took you to ...
+Yes. And also, as I said, it was kind of a devil's advocate criticism, because of course Berry's paradox is a very specific paradox. And we discovered it because other sentences aren't like Berry's paradox. Right. Yes. But I took you to mean that could arise and creep up on us.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:00:02 - 01:00:16</span>
 
-Mean that could arise and creep up on us. And there could be things that we don't know about that could also creep up on us. Yeah, exactly. We still like we have discovered a particular error
+And there could be things that we don't know about that could also creep up on us.
 
 ### Sam Kuypers
 
 <span class="transcript-timestamp">01:00:17 - 01:00:46</span>
 
-In various paradoxes. And whenever those errors arise, we tend to notice them and correct them and then go on to the next thing, which is why we learn about paradoxes like Berry's paradox. So yeah, there's more questions in the chat. I see Danny O'Regan. Go ahead. Ask your question if you want. Otherwise, Teknu. Hi.
+Yeah, exactly. We still like we have discovered a particular error in various paradoxes. And whenever those errors arise, we tend to notice them and correct them and then go on to the next thing, which is why we learn about paradoxes like Berry's paradox. So yeah, there's more questions in the chat. I see Danny O'Regan. Go ahead. Ask your question if you want. Otherwise, Teknu. Hi.
 
 ### Teknu
 
@@ -505,13 +505,13 @@ Right. But of course, those proofs are not final. There could be mistakes found 
 
 <span class="transcript-timestamp">01:04:18 - 01:04:28</span>
 
-Well, I'm not sure how this I mean, assuming they didn't do mistakes in the proof, they are mathematical theorems. So I would that deal with perfectly precise notions. So I don't
+Well, I'm not sure how this I mean, assuming they didn't do mistakes in the proof, they are mathematical theorems. So I would that deal with perfectly precise notions.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:04:28 - 01:04:47</span>
 
-Think that they are mathematical theorems given a certain set of rules of inference. But those rules of inference cannot be proved to be true. They might be false. They are just conjectures. And there might come a time when we conjecture different rules of inference are valid.
+I don't think that they are mathematical theorems given a certain set of rules of inference. But those rules of inference cannot be proved to be true. They might be false. They are just conjectures. And there might come a time when we conjecture different rules of inference are valid.
 
 ### Teknu
 
@@ -559,13 +559,13 @@ Okay, then we have another question by Podge.
 
 <span class="transcript-timestamp">01:06:58 - 01:08:16</span>
 
-Thanks a lot for the talk, David. It's very, very interesting. I'm not sure if this will be a question, but I'm trying to wrap my head around the kind of three kind of levels, let's say of that you have a statement, which corresponds to abstract propositions as a kind of intermediary, you could say. So let's say if the statement refers to the physical world, then there will be an abstract proposition, which will correspond to the physical world in some way. And I guess my question is, previously, I would have thought of all. So I guess I'm thinking about like, whether all abstract propositions are absolutely necessarily true. And because statements or are so like some, some of the propositions about the physical world say will be contingent. Their truths will be contingent on the physical world. And I'm not sure if there's a solid question here, but I thought maybe you could just comment on that. Well, the, so the statements are ...
+Thanks a lot for the talk, David. It's very, very interesting. I'm not sure if this will be a question, but I'm trying to wrap my head around the kind of three kind of levels, let's say of that you have a statement, which corresponds to abstract propositions as a kind of intermediary, you could say. So let's say if the statement refers to the physical world, then there will be an abstract proposition, which will correspond to the physical world in some way. And I guess my question is, previously, I would have thought of all. So I guess I'm thinking about like, whether all abstract propositions are absolutely necessarily true. And because statements or are so like some, some of the propositions about the physical world say will be contingent. Their truths will be contingent on the physical world. And I'm not sure if there's a solid question here, but I thought maybe you could just comment on that.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:08:16 - 01:10:21</span>
 
-Always going to be vague. And yes, they're contingent on the physical world, and their meaning is vague. And they might even be somewhat contradictory. But we are guessing that they correspond to sorry, no, I shouldn't use the word correspond in this context. We're guessing that there is a proposition that this statement is an approximation to, which is good enough in the context of the problem that we're solving. And what we're guessing there, and then we're guessing that the proposition is true as well. What we're guessing is that this exact thing, the proposition corresponds exactly to this other exact thing, the physical world. We wanted to say something about the physical world, but that's the only way we can do it via statements, which represent propositions, which are guesses about propositions, which then say something about the physical world. Usually, when we aren't interested in talking about truth, when we're only interested in talking about the world, we can do our usual thing of talking directly about the world and saying things like dogs have four legs. But it's only when somebody asks, what would it mean for that to be false? What does it mean for that to be true? What does it mean for it to be approximately true? What are you doing when you try and make it more precise by saying canis familiaris instead of dog? And so on. Then I think you're immediately forced to talk about the third side of that, third vertex of that triangle as well and say what we mean about it being true is not that the statement is true, it's that we're guessing that there's a proposition there that is true.
+Well, the, so the statements are always going to be vague. And yes, they're contingent on the physical world, and their meaning is vague. And they might even be somewhat contradictory. But we are guessing that they correspond to sorry, no, I shouldn't use the word correspond in this context. We're guessing that there is a proposition that this statement is an approximation to, which is good enough in the context of the problem that we're solving. And what we're guessing there, and then we're guessing that the proposition is true as well. What we're guessing is that this exact thing, the proposition corresponds exactly to this other exact thing, the physical world. We wanted to say something about the physical world, but that's the only way we can do it via statements, which represent propositions, which are guesses about propositions, which then say something about the physical world. Usually, when we aren't interested in talking about truth, when we're only interested in talking about the world, we can do our usual thing of talking directly about the world and saying things like dogs have four legs. But it's only when somebody asks, what would it mean for that to be false? What does it mean for that to be true? What does it mean for it to be approximately true? What are you doing when you try and make it more precise by saying canis familiaris instead of dog? And so on. Then I think you're immediately forced to talk about the third side of that, third vertex of that triangle as well and say what we mean about it being true is not that the statement is true, it's that we're guessing that there's a proposition there that is true.
 
 ### Podge
 
@@ -729,7 +729,7 @@ That's here in this, that's not P and NP. That's just P, a propositional variabl
 
 Okay.
 
-### David Deutsch
+### Mike Skiba
 
 <span class="transcript-timestamp">01:24:41 - 01:24:47</span>
 
@@ -757,19 +757,19 @@ No, that's helpful. Yeah, just because knowing the laws of physics and what they
 
 <span class="transcript-timestamp">01:26:47 - 01:28:01</span>
 
-Great. Okay, then I have a final question before we end the talk. So in your construction, there's really two worlds. There's the world- Well, it seems like there's three worlds. There's the world of statements, propositions, and reality. Yeah, statements are part of physical reality. Yes, and we are guessing at both of them in a sense. We're guessing at the statements and we're guessing at reality through guessing at statements. And so part of what we do when we try to learn about something is being as precise as necessary. Do you think that this means that paradoxes are problems that can be resolved? They're problems with how we think about the abstraction. So if someone utters the liar's paradox, they're being imprecise, but they're meaning something real, and we can make progress in our thinking about the propositions as well. Yeah, I think it's very rare for people to intentionally talk nonsense.
+Great. Okay, then I have a final question before we end the talk. So in your construction, there's really two worlds. There's the world- Well, it seems like there's three worlds. There's the world of statements, propositions, and reality. Yeah, statements are part of physical reality. Yes, and we are guessing at both of them in a sense. We're guessing at the statements and we're guessing at reality through guessing at statements. And so part of what we do when we try to learn about something is being as precise as necessary. Do you think that this means that paradoxes are problems that can be resolved? They're problems with how we think about the abstraction. So if someone utters the liar's paradox, they're being imprecise, but they're meaning something real, and we can make progress in our thinking about the propositions as well.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:28:02 - 01:28:08</span>
 
-No doubt it could be done and no doubt it is done in some circumstances, but basically
+Yeah, I think it's very rare for people to intentionally talk nonsense. No doubt it could be done and no doubt it is done in some circumstances, but basically when people talk nonsense, it's because they really mean something. And that nonsense is actually an attempt to understand the world or to understand an abstraction or whatever. And at the other end of the scale, as I keep saying, we might all be talking nonsense if things like the arithmetical integers are inconsistent.
 
 ### Sam Kuypers
 
 <span class="transcript-timestamp">01:28:08 - 01:29:05</span>
 
-When people talk nonsense, it's because they really mean something. And that nonsense is actually an attempt to understand the world or to understand an abstraction or whatever. And at the other end of the scale, as I keep saying, we might all be talking nonsense if things like the arithmetical integers are inconsistent. So yeah, is that what you meant? I think I meant that there's a sense in which we can resolve a paradox. If we ever stumble upon a paradox in formulating physics or something, then there is a way of being more precise and ...
+So yeah, is that what you meant? I think I meant that there's a sense in which we can resolve a paradox. If we ever stumble upon a paradox in formulating physics or something, then there is a way of being more precise and ...
 
 ### David Deutsch
 

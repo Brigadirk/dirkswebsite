@@ -33,13 +33,13 @@ You get to participate in those discussions. And also, after every podcast, I do
 
 <span class="transcript-timestamp">00:06:23 - 00:06:27</span>
 
-Hi, thanks for inviting me. I have to start.
+Hi, thanks for inviting me.
 
 ### Sean Carroll
 
 <span class="transcript-timestamp">00:06:27 - 00:06:41</span>
 
-We're going to get into substantive stuff soon enough, but I've got to start with a question I've had for a long time. I believe that you were in the audience for a seminar given by Hugh Everett at the University of Texas some time back. Is that true?
+I have to start. We're going to get into substantive stuff soon enough, but I've got to start with a question I've had for a long time. I believe that you were in the audience for a seminar given by Hugh Everett at the University of Texas some time back. Is that true?
 
 ### David Deutsch
 
@@ -51,13 +51,13 @@ Indeed, I was.
 
 <span class="transcript-timestamp">00:06:43 - 00:06:48</span>
 
-Can you say, was it actually kind of a formative experience? What was it like?
+Can you say, was it actually kind of a formative experience? What was it like? What was Hugh Everett like?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:06:48 - 00:09:09</span>
 
-What was Hugh Everett like? It was a memorable experience. I had imagined him differently. And I knew that Wheeler invited him. I was quite excited that he'd invited him because very few people were Everettians at the time. I suppose very few are now. But then it was... This is the 70s? Yeah, sorry? This is the 70s? This was, yes, in the 70s, late 70s. So Wheeler had invited him and was treating him like royalty. And one example I remember, I can't remember exact details, but one example I remember is that there was a strict no smoking rule in the seminar room. And that was quite rare in those days. I mean, it hadn't yet become ubiquitous like it is now. But Wheeler asked for this to be waived in the case of Everett because he was a chain smoker. He didn't stop smoking. And so this, you know, leaning over backwards to make him feel comfortable. And he gave a talk about the Everett interpretation or Everettian quantum theory, as we now prefer to call it. And then we went to have lunch because the graduate students and the postdocs and the faculty on our floor often used to go and have lunch in one of the places in Austin. And Bryce DeWitt contrived to have me sit next to Everett. So I had lunch chatting to Everett and I asked him some elementary questions. I hadn't really started thinking very seriously about it. And I was just very impressed that he was completely on the ball, you know, up to date with all the nuances. And so and we had a nice chat. And that was the last I saw of him.
+It was a memorable experience. I had imagined him differently. And I knew that Wheeler invited him. I was quite excited that he'd invited him because very few people were Everettians at the time. I suppose very few are now. But then it was... This is the 70s? Yeah, sorry? This is the 70s? This was, yes, in the 70s, late 70s. So Wheeler had invited him and was treating him like royalty. And one example I remember, I can't remember exact details, but one example I remember is that there was a strict no smoking rule in the seminar room. And that was quite rare in those days. I mean, it hadn't yet become ubiquitous like it is now. But Wheeler asked for this to be waived in the case of Everett because he was a chain smoker. He didn't stop smoking. And so this, you know, leaning over backwards to make him feel comfortable. And he gave a talk about the Everett interpretation or Everettian quantum theory, as we now prefer to call it. And then we went to have lunch because the graduate students and the postdocs and the faculty on our floor often used to go and have lunch in one of the places in Austin. And Bryce DeWitt contrived to have me sit next to Everett. So I had lunch chatting to Everett and I asked him some elementary questions. I hadn't really started thinking very seriously about it. And I was just very impressed that he was completely on the ball, you know, up to date with all the nuances. And so and we had a nice chat. And that was the last I saw of him.
 
 ### Sean Carroll
 
@@ -219,25 +219,25 @@ This was defined by Alan Turing in 1936 when he set up the modern theory of comp
 
 <span class="transcript-timestamp">00:29:19 - 00:29:41</span>
 
-I think that maybe people have heard that before, but I think maybe it just hasn't made as much of an impression as it should. I think this is worth shouting from the rooftops, right? Not only can we calculate things and compute things, but we have very good reason to believe that even if we're slow and we make mistakes and whatever, but the kinds of computations that can be done
+I think that maybe people have heard that before, but I think maybe it just hasn't made as much of an impression as it should. I think this is worth shouting from the rooftops, right? Not only can we calculate things and compute things, but we have very good reason to believe that even if we're slow and we make mistakes and whatever, but the kinds of computations that can be done are kinds we can do.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:29:42 - 00:33:39</span>
 
-Are kinds we can do. Yes. We're as confident as we can be that when the aliens visit us or when the AGI become our new overlords, that they will not be able to compute non-Turing computable functions. Right. That's as well or more known to us than other bits of science or bits of physics. That's the uncontroversial part, although you say many people aren't so familiar to many people. Yes. The other part is, by the way, Turing completeness is a property of hardware. It's a property of the brain. It's a property of computers. The other kind of universality, explanatory universality, is a property of software, which I say we have. Our software has that property. No other surviving organism on Earth has explanatory universality, although we know basically for sure that there used to be species related to us on Earth that also had explanatory universality. They died out, which should be a warning to us. What do we have in mind there? Well, like Neanderthals and I think going back to Homo erectus. Anything that had campfires necessarily has the thing that we have. Again, there aren't gradations of it. In the same way, there aren't gradations of Turing universality. You either have it or you don't. It's possible that you're rather impeded in using it because you don't have enough memory or whatever. The basic thing is all or nothing. I think the same thing is true of explanatory universality because this, if I can put it in my idiosyncratic way, which I like, it's to do with optimism. The principle of optimism is that everything which is not forbidden by laws of physics is possible with enough knowledge. The argument for that is that if there was something that was permitted by laws of physics but could not be attained no matter what Turing computable program we ran in our brain to do the thing, then it wouldn't be. That is, it wouldn't be possible. We could then test the scientific theory that that thing isn't possible after all. That what we thought of were laws of physics were in fact not sufficient laws of physics. There would be no matter how we tried, no matter what we tried, we wouldn't be able to do this thing. Like exceeding the speed of light or whatever, but it would be like that. If it was building a certain tower or building a certain society, either it's forbidden by the laws of physics or it's permitted because if it weren't permitted, then you could do this experiment and by the definition of science, you could set up a refutable theory and then so on. So I think there's no getting around that and therefore I think that just as there is only one kind of hardware universality, there's also only one kind of software universality and that's the ...
+Yes. We're as confident as we can be that when the aliens visit us or when the AGI become our new overlords, that they will not be able to compute non-Turing computable functions. Right. That's as well or more known to us than other bits of science or bits of physics. That's the uncontroversial part, although you say many people aren't so familiar to many people. Yes. The other part is, by the way, Turing completeness is a property of hardware. It's a property of the brain. It's a property of computers. The other kind of universality, explanatory universality, is a property of software, which I say we have. Our software has that property. No other surviving organism on Earth has explanatory universality, although we know basically for sure that there used to be species related to us on Earth that also had explanatory universality. They died out, which should be a warning to us. What do we have in mind there? Well, like Neanderthals and I think going back to Homo erectus. Anything that had campfires necessarily has the thing that we have. Again, there aren't gradations of it. In the same way, there aren't gradations of Turing universality. You either have it or you don't. It's possible that you're rather impeded in using it because you don't have enough memory or whatever. The basic thing is all or nothing. I think the same thing is true of explanatory universality because this, if I can put it in my idiosyncratic way, which I like, it's to do with optimism. The principle of optimism is that everything which is not forbidden by laws of physics is possible with enough knowledge. The argument for that is that if there was something that was permitted by laws of physics but could not be attained no matter what Turing computable program we ran in our brain to do the thing, then it wouldn't be. That is, it wouldn't be possible. We could then test the scientific theory that that thing isn't possible after all. That what we thought of were laws of physics were in fact not sufficient laws of physics. There would be no matter how we tried, no matter what we tried, we wouldn't be able to do this thing. Like exceeding the speed of light or whatever, but it would be like that. If it was building a certain tower or building a certain society, either it's forbidden by the laws of physics or it's permitted because if it weren't permitted, then you could do this experiment and by the definition of science, you could set up a refutable theory and then so on. So I think there's no getting around that and therefore I think that just as there is only one kind of hardware universality, there's also only one kind of software universality and that's the kind we have.
 
 ### Sean Carroll
 
 <span class="transcript-timestamp">00:33:39 - 00:33:45</span>
 
-Kind we have. Do we have a definition of explanatory universality that is as rigorous
+Do we have a definition of explanatory universality that is as rigorous and mathematical as Turing completeness?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:33:45 - 00:34:44</span>
 
-And mathematical as Turing completeness? No, because there's a quite deep reason for that. Explanations, it's because you can't formalize the notion of an explanation. You can always invent new modes of explanation and they are conjectures like any theory. So you might conjecture that so and so is a good mode of explanation and the openness of science is connected with the non-formalizability of explanation. By the way, that's exactly the same as the non-formalizability of mathematics. So you can't formalize what is a valid proof because however you formalize it, you can prove that there will be mathematical truths that can't be reached by that formalism.
+No, because there's a quite deep reason for that. Explanations, it's because you can't formalize the notion of an explanation. You can always invent new modes of explanation and they are conjectures like any theory. So you might conjecture that so and so is a good mode of explanation and the openness of science is connected with the non-formalizability of explanation. By the way, that's exactly the same as the non-formalizability of mathematics. So you can't formalize what is a valid proof because however you formalize it, you can prove that there will be mathematical truths that can't be reached by that formalism.
 
 ### Sean Carroll
 
@@ -261,13 +261,13 @@ Okay, good. Very good to know. But this leads you to, I want to sort of finish u
 
 <span class="transcript-timestamp">00:35:31 - 00:36:09</span>
 
-Yes, I think that is necessarily true because the openness and the unboundedness are really the same thing. And again, the same thing is true of mathematics. I mean, we know that there's an infinite amount of mathematics to be discovered, even though in the case of mathematics, there's a lot of it that we can't discover, unlike in the optimism case. But although I have a conjecture that we can discover all the interesting things, which are also infinitely
+Yes, I think that is necessarily true because the openness and the unboundedness are really the same thing. And again, the same thing is true of mathematics. I mean, we know that there's an infinite amount of mathematics to be discovered, even though in the case of mathematics, there's a lot of it that we can't discover, unlike in the optimism case. But although I have a conjecture that we can discover all the interesting things, which are also infinitely interesting.
 
 ### Sean Carroll
 
 <span class="transcript-timestamp">00:36:10 - 00:36:21</span>
 
-Interesting. Well, you have mentioned a couple times AGI, artificial general intelligence. I take it that you're relatively optimistic that's on the way?
+Well, you have mentioned a couple times AGI, artificial general intelligence. I take it that you're relatively optimistic that's on the way?
 
 ### David Deutsch
 

@@ -39,13 +39,13 @@ I think there's no more reason to think that AI will destroy the world than any 
 
 <span class="transcript-timestamp">00:01:51 - 00:02:50</span>
 
-Okay, suppose I am writing a reply to a Bayesian who is very worried about AI and is specifically worried that it will grow too fast and then it will gain intelligence and then do all sorts of bad, dangerous things and destroy the world. One of the things I find odd about questions like that is the way that people are focusing on a particular danger that is worrying them for some reason. And they ignore equally dangerous or worse possibilities that either are always around or have been around for a long time. So why do some people freak out?
+Okay, suppose I am writing a reply to a Bayesian who is very worried about AI and is specifically worried that it will grow too fast and then it will gain intelligence and then do all sorts of bad, dangerous things and destroy the world. One of the things I find odd about questions like that is the way that people are focusing on a particular danger that is worrying them for some reason. And they ignore equally dangerous or worse possibilities that either are always around or have been around for a long time. So why do some people freak out? I don't think that's too strong a phrase.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:02:50 - 00:03:11</span>
 
-I don't think that's too strong a phrase over AI risk and other people freak out over climate change risk. And now people are starting to freak out about nuclear war risk again. That hasn't been happening for like decades now. But I remember when it was the big thing.
+Over AI risk and other people freak out over climate change risk. And now people are starting to freak out about nuclear war risk again. That hasn't been happening for like decades now. But I remember when it was the big thing.
 
 ### Lulie Tanett
 
@@ -81,7 +81,19 @@ What about those?
 
 <span class="transcript-timestamp">00:04:40 - 00:05:18</span>
 
-Yes, well, those are real risks and you know, there's the electric car risk and the self-driving car risk and so on. That's not in the same league as having a greatly increased ability to scam and get like dodgy information. It's interesting. Is it greatly increased? I mean, I wonder whether anyone has statistics about how many scams are currently advanced AI enabled and how many are simply the same old scams of saying, hello, we're the police, we want you to transfer all your money into this account.
+Yes, well, those are real risks and you know, there's the electric car risk and the self-driving car risk and so on. That's not in the same league as having a greatly increased ability to scam and get like dodgy information. It's interesting.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:04:50 - 00:04:52</span>
+
+Is it greatly increased?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:04:52 - 00:05:18</span>
+
+I mean, I wonder whether anyone has statistics about how many scams are currently advanced AI enabled and how many are simply the same old scams of saying, hello, we're the police, we want you to transfer all your money into this account.
 
 ### Lulie Tanett
 

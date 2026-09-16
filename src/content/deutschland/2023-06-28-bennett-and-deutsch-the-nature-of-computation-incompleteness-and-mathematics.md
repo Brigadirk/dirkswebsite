@@ -43,7 +43,19 @@ Good thing because he's with us. I'll have to. I'll come up with him at some poi
 
 <span class="transcript-timestamp">00:02:02 - 00:02:17</span>
 
-Glad that's over. Yeah. So we also have David Deutsch visiting. I think actually as Szilard solved Maxwell's demon problem and then people sort of forgot about it for 50 years.
+Glad that's over.
+
+### Charles Bédard
+
+<span class="transcript-timestamp">00:02:02 - 00:02:17</span>
+
+Yeah. So we also have David Deutsch visiting.
+
+### Charles Bennett
+
+<span class="transcript-timestamp">00:02:02 - 00:02:17</span>
+
+I think actually as Szilard solved Maxwell's demon problem and then people sort of forgot about it for 50 years.
 
 ### Charles Bédard
 
@@ -105,7 +117,7 @@ Okay, I'm an end of speech.
 
 At least that's sort of the reason why you're invoking infinity because then you could have fluctuations.
 
-### David Deutsch
+### Charles Bennett
 
 <span class="transcript-timestamp">00:11:12 - 00:11:16</span>
 
@@ -117,7 +129,7 @@ Well, if you have infinitely Yeah, I don't. If I just have an infinity.
 
 Let's say, like Boltzmann's idea, which gave rise to the Boltzmann brain. Yeah, I've just an infinite
 
-### David Deutsch
+### Charles Bennett
 
 <span class="transcript-timestamp">00:11:27 - 00:11:32</span>
 
@@ -127,13 +139,13 @@ Almost not even this is before general relativity and infinite
 
 <span class="transcript-timestamp">00:11:32 - 00:11:38</span>
 
-Then you get the Boltzmann brain problem you get the fact that you can't believe anything that you see
+Then you get the Boltzmann brain problem you get the fact that you can't believe anything that you see Because everything happens somewhere.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:11:39 - 00:12:13</span>
 
-Because everything happens somewhere. And I think this problem is somewhat better understood in the in the more modern cosmologies. But I was looking at very simple cellular automata models in which by making the model in infinite and it's dynamics is reversible. You get something that looks like unbounded complexity that goes on forever, but it only goes on forever because the model is infinite and It is a very simple model.
+And I think this problem is somewhat better understood in the in the more modern cosmologies. But I was looking at very simple cellular automata models in which by making the model in infinite and it's dynamics is reversible. You get something that looks like unbounded complexity that goes on forever, but it only goes on forever because the model is infinite and It is a very simple model.
 
 ### Charles Bennett
 
@@ -163,7 +175,7 @@ Yeah, screen sharing stop there. Yes, good. Okay.
 
 <span class="transcript-timestamp">00:14:04 - 00:14:35</span>
 
-I was expecting Charlie to throw us into cosmology, but to be honest, I didn't expect on question one, we would go on to cosmology. Thank you, Charlie. Yeah, screen sharing stop there. Yes, good. Okay. I was expecting Charlie to throw us into cosmology. But to be honest, I didn't expect on question one, we would go on to cosmology. Thank you, Charlie. I enjoyed it. David, would you like to react like maybe you can either react to Charlie's comments and how you've been.
+I was expecting Charlie to throw us into cosmology, but to be honest, I didn't expect on question one, we would go on to cosmology. Thank you, Charlie. I enjoyed it. David, would you like to react like maybe you can either react to Charlie's comments and how you've been.
 
 ### David Deutsch
 
@@ -697,7 +709,13 @@ Adita? I'm changing chairs depending on which side people come.
 
 <span class="transcript-timestamp">01:28:53 - 01:30:00</span>
 
-Hi, so I had a question about the finite bound. Hi, so I had a question because a lot of this discussion we spent about discussing about how undecidability and the halting problem are, I guess, flip sides of the same problem. Would you also say that- Universality. Sorry, yeah, universality and the halting problem are kind of opposite sides of the same problem. Would you also say that these are opposite sides of induction and deduction as ways to kind of acquire knowledge because we talked about, I guess, Solomonoff induction a little bit in the beginning and how maybe that is like one conceptualization of how you could derive knowledge from, instead of using deduction from a formal set of axioms where you would use data instead. So would you say that the incomputability of something like ideal induction is the same as not being able to deduce because of incompleteness? Yes, yes, they are both impossible for the same reason
+Hi, so I had a question about the finite bound. Hi, so I had a question because a lot of this discussion we spent about discussing about how undecidability and the halting problem are, I guess, flip sides of the same problem. Would you also say that- Universality. Sorry, yeah, universality and the halting problem are kind of opposite sides of the same problem. Would you also say that these are opposite sides of induction and deduction as ways to kind of acquire knowledge because we talked about, I guess, Solomonoff induction a little bit in the beginning and how maybe that is like one conceptualization of how you could derive knowledge from, instead of using deduction from a formal set of axioms where you would use data instead. So would you say that the incomputability of something like ideal induction is the same as not being able to deduce because of incompleteness?
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:28:53 - 01:30:00</span>
+
+Yes, yes, they are both impossible for the same reason
 
 ### David Deutsch
 
@@ -733,7 +751,13 @@ Nice. Great. Good. Thank you so much for your answers. Other questions? Sam.
 
 <span class="transcript-timestamp">01:33:50 - 01:34:11</span>
 
-I'm interested in what kinds of cosmology Charlie is interested in. I mean, we have the, what was it? Cosmology for people like Hilbert. The progress of cosmology, just trying to get them again. I'm just curious what interests him at the moment. Well, I don't know a lot about it, ...
+I'm interested in what kinds of cosmology Charlie is interested in. I mean, we have the, what was it? Cosmology for people like Hilbert. The progress of cosmology, just trying to get them again. I'm just curious what interests him at the moment.
+
+### Charles Bennett
+
+<span class="transcript-timestamp">01:33:50 - 01:34:11</span>
+
+Well, I don't know a lot about it, ...
 
 ### Charles Bennett
 

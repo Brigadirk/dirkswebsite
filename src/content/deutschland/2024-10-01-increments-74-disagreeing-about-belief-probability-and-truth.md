@@ -140,13 +140,13 @@ I would say, look at your explanations, rely on good explanations, the best expl
 
 <span class="transcript-timestamp">00:29:39 - 00:30:33</span>
 
-But it seems like extrapolation can be part of explanation, in some sense, right? So if you look at, say, you look at the last 20 years of hospital data, and you see that some fraction of the population, plus or minus a few percentage points tend to come into the hospital, there tends to be a flux of people in the hospital in December. And let's say you have no good reason for thinking that that trend is going to change this year, right? People haven't stopped celebrating Christmas. They people seem equally as excited about Christmas this year. There's no reason alcohol sales have been abolished or something like that, right? That's all an explanation of why this year, you should expect to see something similar as last year, in which case it seems reasonable to use the statistics from previous years to inform your decision about precisely how many members of staff
+But it seems like extrapolation can be part of explanation, in some sense, right? So if you look at, say, you look at the last 20 years of hospital data, and you see that some fraction of the population, plus or minus a few percentage points tend to come into the hospital, there tends to be a flux of people in the hospital in December. And let's say you have no good reason for thinking that that trend is going to change this year, right? People haven't stopped celebrating Christmas. They people seem equally as excited about Christmas this year. There's no reason alcohol sales have been abolished or something like that, right? That's all an explanation of why this year, you should expect to see something similar as last year, in which case it seems reasonable to use the statistics from previous years to inform your decision about precisely how many members of staff you have, then a good explanation of what the number will be. Right?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:30:34 - 00:30:48</span>
 
-You have, then a good explanation of what the number will be. Right? You haven't ever heard of probability, you would still have the same explanation and you'd use it in the same way.
+You haven't ever heard of probability, you would still have the same explanation and you'd use it in the same way.
 
 ### Ben Chugg
 
