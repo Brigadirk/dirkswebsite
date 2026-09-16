@@ -239,9 +239,21 @@ You must ask what kind of process could give rise to trunks. Then, that they hav
 
 ### John Horgan
 
-<span class="transcript-timestamp">00:52:49 - 00:54:06</span>
+<span class="transcript-timestamp">00:52:49 - 00:52:52</span>
 
-I hope I live long enough to see that. I also. That would be very exciting. In the limited time we have left, I want to make sure that we touch on some of the political themes that you raise in your book. I mean, it really is part of what I enjoyed about the book was that it was so broad, and you had these very powerful ideas, especially about accepting our fallibility as kind of a mode of constant self-improvement and applying that in all these different fields, science, culture, and politics. So when it comes to politics, I wanted to ask you whether or not you think that... You know, Francis Fukuyama had this... I had a book called The End of History where he's saying that in a very broad sense, democracy plus free market capitalism represents the best we can do as far as finding a way of organizing ourselves. And I just wonder, although, you know, of course, there's a lot of tweaking we can do. I just wonder if you agree with that or if you think that there could also be infinite progress in the realm of politics.
+I hope I live long enough to see that.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:52:52 - 00:52:54</span>
+
+I also.
+
+### John Horgan
+
+<span class="transcript-timestamp">00:52:54 - 00:54:06</span>
+
+That would be very exciting. In the limited time we have left, I want to make sure that we touch on some of the political themes that you raise in your book. I mean, it really is part of what I enjoyed about the book was that it was so broad, and you had these very powerful ideas, especially about accepting our fallibility as kind of a mode of constant self-improvement and applying that in all these different fields, science, culture, and politics. So when it comes to politics, I wanted to ask you whether or not you think that... You know, Francis Fukuyama had this... I had a book called The End of History where he's saying that in a very broad sense, democracy plus free market capitalism represents the best we can do as far as finding a way of organizing ourselves. And I just wonder, although, you know, of course, there's a lot of tweaking we can do. I just wonder if you agree with that or if you think that there could also be infinite progress in the realm of politics.
 
 ### David Deutsch
 
@@ -305,6 +317,12 @@ I'm working on it. Thank you very much, David. It was really a pleasure.
 
 ### David Deutsch
 
-<span class="transcript-timestamp">01:07:48 - 01:07:53</span>
+<span class="transcript-timestamp">01:07:48 - 01:07:51</span>
 
-Okay. Nice talking to you. All right. Same here.
+Okay. Nice talking to you.
+
+### John Horgan
+
+<span class="transcript-timestamp">01:07:51 - 01:07:53</span>
+
+All right. Same here.
