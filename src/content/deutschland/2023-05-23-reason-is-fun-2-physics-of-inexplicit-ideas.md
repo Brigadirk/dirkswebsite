@@ -313,13 +313,13 @@ Can you always translate from inexplicit ideas to explicit?
 
 <span class="transcript-timestamp">00:42:31 - 00:43:00</span>
 
-Well it might be hard to do in practice but in principle it must be possible because of the universality of explicit ideas. So there's this thing where we are physical people and we interact with a physical environment like the amoeba that will go towards some chemicals and away from other chemicals and how we have these biological responses. So first of all do you count those as inexplicit
+Well it might be hard to do in practice but in principle it must be possible because of the universality of explicit ideas.
 
 ### Lulie Tanett
 
-<span class="transcript-timestamp">00:43:00 - 00:43:07</span>
+<span class="transcript-timestamp">00:42:40 - 00:43:07</span>
 
-Knowledge or do you count those as just sort of physical processes or how do you class those?
+So there's this thing where we are physical people and we interact with a physical environment like the amoeba that will go towards some chemicals and away from other chemicals and how we have these biological responses. So first of all do you count those as inexplicit knowledge or do you count those as just sort of physical processes or how do you class those?
 
 ### David Deutsch
 
@@ -355,22 +355,226 @@ Can do better than the explicit thinky part and also when you are doing this Ale
 
 <span class="transcript-timestamp">00:51:01 - 00:53:00</span>
 
-Well because you can throw a ball towards a baby and it won't catch it okay but humans unlike other animals develop a lot when they are outside it could still be that they have the genetic knowledge but they need to physically learn the coordination as in like they need to get stronger or they need to acquire balance and then certain things can kick in so it could be that they are in fact born with the propensity to or with the code to do that once they reach a certain physical state. That's possible so the ability to catch a ball if it's inborn it must be overlaid by some other things like you know you definitely have to learn not to suddenly catch a knife if you're putting a knife in the dishwasher and you drop it you have to learn not to suddenly grab the blade depends how skilled you are I suppose well it does however skilled you are there'll be cases which are at the limit of your skill when it could well be that so I think dogs can catch things inherently better than humans they can catch things unbelievably fast and accurately at least adult dogs I don't know how much they have to learn to be able to do this but they can certainly outperform humans at this but I think in a ball game people are doing a lot more than catching and there are cases where you know in tennis you have to make a split second decision in less time than your reaction time to decide whether to go for the ball or not because sometimes going for the ball means that it will be the other person's point and sometimes going for the ball means that it'll be your point and it depends on the rules of the game which ...
+Well because you can throw a ball towards a baby and it won't catch it okay but humans unlike other animals develop a lot when they are outside it could still be that they have the genetic knowledge but they need to physically learn the coordination as in like they need to get stronger or they need to acquire balance and then certain things can kick in so it could be that they are in fact born with the propensity to or with the code to do that once they reach a certain physical state. That's possible so the ability to catch a ball if it's inborn it must be overlaid by some other things like you know you definitely have to learn not to suddenly catch a knife if you're putting a knife in the dishwasher and you drop it you have to learn not to suddenly grab the blade depends how skilled you are I suppose well it does however skilled you are there'll be cases which are at the limit of your skill when it could well be that so I think dogs can catch things inherently better than humans they can catch things unbelievably fast and accurately at least adult dogs I don't know how much they have to learn to be able to do this but they can certainly outperform humans at this but I think in a ball game people are doing a lot more than catching and there are cases where you know in tennis you have to make a split second decision in less time than your reaction time to decide whether to go for the ball or not because sometimes going for the ball means that it will be the other person's point and sometimes going for the ball means that it'll be your point and it depends on the rules of the game which can change and you have to adapt to the rules of the game changing and so on so even if it's true that there are built-in things or inexplicit things that we can cede control to and perform better the reason that there is an explicit level or I would say a conscious level because in the tennis case it's your conscious thinking that makes you decide whether to go for the ball or not your explicit there's no there's no time to form the words so when you make that decision you're making it according to the rules of tennis but they have been compiled into an inexplicit form but an inexplicit but conscious form
 
 ### Lulie Tanett
 
-<span class="transcript-timestamp">00:53:00 - 00:57:49</span>
+<span class="transcript-timestamp">00:53:40 - 00:53:45</span>
 
-Can change and you have to adapt to the rules of the game changing and so on so even if it's true that there are built-in things or inexplicit things that we can cede control to and perform better the reason that there is an explicit level or I would say a conscious level because in the tennis case it's your conscious thinking that makes you decide whether to go for the ball or not your explicit there's no there's no time to form the words so when you make that decision you're making it according to the rules of tennis but they have been compiled into an inexplicit form but an inexplicit but conscious form in what way conscious well you're conscious of what like some process leads to you going for it or not going for it that process has an entirely conscious component because it's got to be tuned either to the one objective or the other objective why would that need to be conscious instead of subconscious like I would have thought I would make it worse and the conscious part would come up after the game when you're reviewing it but not during well that's when the explicit part would come up but I think the conscious part I think you don't need the conscious part you would because so you could have it however you could also be in one of those states where you are so in flow and you're just responding that you don't have that layer of conscious thought well we don't know what consciousness is we don't know what the difference between you know ultimately well we do know what conscious thought is which is namely some kind of self-awareness or awareness of what's happening or like one meta level up so when you move your limbs intentionally and moving them intentionally is different from moving them unintentionally so you know so like when you say conscious thought are you just talking about using the consciousness program of human in other words the creative thing rather than on the level of so the creative thing must exist on conscious unconscious explicit and inexplicit levels they all go together so in which definition of consciousness are you invoking here when we move our limbs intentionally that is that we are conscious of moving them I disagree when you are sufficiently trained in Alexander Technique it subjectively feels like you don't have a body and so what you're conscious of is the environment around you or the thing that you're doing or your intention I can accept that that in that case what the tennis player is conscious of is the ball the court the racket yeah and so on but then he has intentions for the racket and intentions for the ball and he consciously makes those intentions happen do you mean deliberately do you mean self-awarely do you mean explicitly do you mean using the human creativity program do you mean none of these there are some things where we when remembering them afterwards we confabulate the tennis player may be saying well I thought it might be going out but then I changed my mind and I knew that he's the kind of guy my opponent is the kind of guy who will do this kind of shot and then so on they will give a story about this event that happened in a fraction of a second which could not possibly have happened there it's a thing that he is attributing to what he did which isn't a true story so the process that made him do what he did made his limbs do what they did is not explicit it's not expressed in language they may express it in language afterwards accurately or inaccurately but it's not actually true if the person says
+in what way conscious
 
 ### David Deutsch
 
-<span class="transcript-timestamp">00:57:51 - 00:59:41</span>
+<span class="transcript-timestamp">00:53:45 - 00:54:10</span>
 
-I thought it was going in but halfway to hitting it I decided it was going out and I pulled back the racket that might well be describing a conscious process that really happened because it doesn't involve words and what do you mean by conscious well again you know I don't have a theory of consciousness so I can't but what is this word doing in this sentence it's distinguishing that kind of thing from unconscious things like the person's heart rate increasing which are done by a process that I would call unconscious the person is not aware of it happening or if they are aware of it happening they're not causing it so non-biological or can you have unconscious thoughts yes you can have those too okay so what does conscious mean then or what does it not mean when you're choosing your words which word will go next in the sentence like ChatGPT apparently does you are not conscious of the process that chooses the word so when you were talking about the tennis player and you said that he is conscious of you know hitting the ball in a particular way what do you mean by conscious in that sentence because you don't just mean oh it's not a purely physical like heart beating thing or breathing or something because also in unconscious you're saying that ideas
+well you're conscious of what like some process leads to you going for it or not going for it that process has an entirely conscious component because it's got to be tuned either to the one objective or the other objective
 
 ### Lulie Tanett
 
-<span class="transcript-timestamp">00:59:42 - 01:11:36</span>
+<span class="transcript-timestamp">00:54:10 - 00:54:25</span>
 
-Can be there and so you're saying that there is a type of thinking called conscious thinking that is different from unconscious thinking what does conscious mean conscious things have qualia associated with them they are there is such a thing as what it is like to have that thought so you think it's possible to translate inexplicit ideas to explicit ones because explicit language is universal yes how is it not the case that inexplicit ideas are something like containing a massive context such that so an explicit idea can be expressed as, say, a proposition or a statement however perhaps inexplicit ideas cannot be expressed that way like they cannot be about a specific narrow thing because the nature of inexplicit ideas maybe is that they are taking into account the whole context or there's a way that they are not making these divisions like you can make with statements and propositions and so that perhaps it's something like a single inexplicit idea is actually connected to all of the other inexplicit ideas in a brain and this isn't actually translatable to explicit language because of the nature of what language is like well I'm very sympathetic to the idea that most ideas in the brain in the mind are spread out oh and take into account a lot of context or you know maybe all contexts or whatever but the thing is however large they are they're not infinitely large and the brain is not infinitely large and it only has a certain number of neurons that can be in a certain number of states and in principle you could write down the exact state and that would include the state of all your inexplicit ideas is it possible that inexplicit ideas also are stored or contained or refer to physical things in the physical environment so in other words so with explicit ideas we've got words and you can program them into a computer with inexplicit ideas not only do we have the like the sense that something and the parts that we can translate into words we also have reactions physical reactions to things in our environment so for example if you are afraid of dogs and you notice that there is a dog and then your body will physically start up the fight or flight processes which then affect the inexplicit ideas around dogs and so could it be that inexplicit ideas are more distributed as in they are not just in the brain but they are partly in the interaction between the brain and the environment yes this doesn't have any effect on whether they could be made fully explicit or not because the environment is also finite and in principle you could is it though don't we have an infinite environment oh well we may well have an infinite environment but only a finite amount of it can possibly affect anything in your mind because of the finite speed of light oh ah but no but counter things that are far away affect things that are less far away which affect you and so everything is connected it affects you later so for example when you're looking at the sun you are seeing it as it was eight minutes ago and so okay but then all of that stuff still affects you even if it was not at the time yeah but why does that matter because if it only affects you after the thing you're trying to explain then it can't be involved in the explanation ah so you're saying that when you are trying to explain something you are only trying to explain a specific small piece and that not everything is going to be relevant to explaining that specific small piece however if you want to properly translate the inexplicit ideas which would contain everything then everything does affect you no so if you were to translate the contents of the brain and you know the gut and whatever else is within a light travel time of your view into explicit form in the positions and motions of atoms and that kind of thing if you did that explicitly then it's true that that contains information about what you would do if for example a lion suddenly appeared in the room that you can although there's nothing about lions in any of that let's suppose there's nothing about lions in encoded in any of those atoms it nevertheless follows from the atoms and from the laws of physics what you would do if this unlikely and unexpected thing were to happen so and that's all finite again and it could be in principle encoded in explicit form that would not include explanations of course you might be able to work out from this that if the lion came you would suddenly you know say the word frog if you wanted to explain that that might be a lot more work but it would be work that again could be done explicitly on that explicit representation what do you think are the most interesting questions about inexplicit ideas I think the issue of qualia sort of touches all these things like consciousness and AGI and explicit and inexplicit and all that you spoke of really amazing things before one of the really amazing things is that it is definitely possible that you could have a box a metal box and inside that there was a thinking being and there could be inside that there could be a thinking being who is interacting with a virtual world and they might not even know that they are in a virtual world and it might be like the matrix and so on but the point is the amazing thing is in there. Now the box is finite it has a finite number of bits or a finite number of qubits let's say it has a trillion bits in it the amazing thing that I'm pointing to is that some of them. So then there are a trillion bits therefore if it's a classical computer let's say there are two to the power of a trillion possible states of that computer inside the box the amazing thing is that some of those states are immoral some of them are so immoral that they are worse than anything that's ever happened to humans ever what do you mean some of those states are immoral well some of them involve a person suffering or people suffering or people suffering more than it's physically possible for a human to suffer all those things I've just mentioned are possible states of these bits and this is related to the simulation hypothesis yes well and possible basilisks the simulation hypothesis says that this has actually happened and we're in it and I disagree with that but that it is physically possible for it to happen I think is a pretty direct consequence of our knowledge of physics so it could happen and therefore there are immoral numbers because this thing can be represented as a binary number the entire contents of the box can be represented as a number with a trillion digits all zero or one some of those are unimaginably evil numbers we have no idea and some of them have qualia of course I think only the ones that have qualia are evil the ones that don't have qualia aren't evil so we don't know how to tell the difference we just know that you know you could start with zero one two three four five up to a trillion for each one you would say bit number three so when you say that the numbers can be evil what you're really saying is that a human consciousness can be programmed into a computer which is represented by numbers and so I mean really the evil thing is about the emergent properties namely the consciousness and the suffering and the numbers are sort of not really here nor there you know if it turns out that we are not represented by numbers and we need something else then that would also be uh evil so if the computer isn't running then there's nothing evil there it's got to be running so that I would like to run so yeah well the numbers are changing and it's the change that actually embodies suffering and therefore it's the change but we don't know I mean it's neither here nor there we don't know what states what numbers what programs are good or evil we don't know which of them are AGIs and which aren't we don't know how to tell the difference certainly not by the Turing test because this box has got no inputs or outputs so in answer to the question what are the most interesting questions around inexplicit ideas you would say what makes something conscious or not what is with this qualia stuff what is with this suffering thing I think you know if I have to pick one of them as being more like urgent to solve or whatever it's the qualia one but I also think that they'll all be solved by the same theory in a single day in a single hour somebody will have the right idea and that will solve all of them though they may not realize it at first wow well I think that's a great place to end it it's been fun as always
+why would that need to be conscious instead of subconscious like I would have thought I would make it worse and the conscious part would come up after the game when you're reviewing it but not during
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:54:25 - 00:54:50</span>
+
+well that's when the explicit part would come up but I think the conscious part I think you don't need the conscious part you would because so you could have it however you could also be in one of those states where you are so in flow and you're just responding that you don't have that layer of conscious thought well we don't know what consciousness is we don't know what the difference between you know ultimately well we do know what conscious thought is which is namely some kind of self-awareness or awareness of what's happening or like one meta level up so when you move your limbs intentionally and moving them intentionally is different from moving them unintentionally
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:54:50 - 00:55:10</span>
+
+so you know so like when you say conscious thought are you just talking about using the consciousness program of human in other words the creative thing rather than on the level of so the creative thing must exist on conscious unconscious explicit and inexplicit levels they all go together so in which definition of consciousness are you invoking here
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:55:10 - 00:55:20</span>
+
+when we move our limbs intentionally that is that we are conscious of moving them
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:55:20 - 00:55:40</span>
+
+I disagree when you are sufficiently trained in Alexander Technique it subjectively feels like you don't have a body and so what you're conscious of is the environment around you or the thing that you're doing or your intention
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:55:40 - 00:56:00</span>
+
+I can accept that that in that case what the tennis player is conscious of is the ball the court the racket yeah and so on but then he has intentions for the racket and intentions for the ball and he consciously makes those intentions happen
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:56:00 - 00:56:10</span>
+
+do you mean deliberately do you mean self-awarely do you mean explicitly do you mean using the human creativity program do you mean none of these
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:56:10 - 00:59:20</span>
+
+there are some things where we when remembering them afterwards we confabulate the tennis player may be saying well I thought it might be going out but then I changed my mind and I knew that he's the kind of guy my opponent is the kind of guy who will do this kind of shot and then so on they will give a story about this event that happened in a fraction of a second which could not possibly have happened there it's a thing that he is attributing to what he did which isn't a true story so the process that made him do what he did made his limbs do what they did is not explicit it's not expressed in language they may express it in language afterwards accurately or inaccurately but it's not actually true if the person says I thought it was going in but halfway to hitting it I decided it was going out and I pulled back the racket that might well be describing a conscious process that really happened because it doesn't involve words
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:59:20 - 00:59:25</span>
+
+and what do you mean by conscious
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:59:25 - 00:59:41</span>
+
+well again you know I don't have a theory of consciousness so I can't but what is this word doing in this sentence it's distinguishing that kind of thing from unconscious things like the person's heart rate increasing which are done by a process that I would call unconscious the person is not aware of it happening or if they are aware of it happening they're not causing it so non-biological or can you have unconscious thoughts yes you can have those too
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:59:35 - 00:59:41</span>
+
+okay so what does conscious mean then or what does it not mean when you're choosing your words which word will go next in the sentence like ChatGPT apparently does you are not conscious of the process that chooses the word so when you were talking about the tennis player and you said that he is conscious of you know hitting the ball in a particular way what do you mean by conscious in that sentence because you don't just mean oh it's not a purely physical like heart beating thing or breathing or something because also in unconscious you're saying that ideas can be there and so you're saying that there is a type of thinking called conscious thinking that is different from unconscious thinking what does conscious mean
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:59:50 - 01:00:10</span>
+
+conscious things have qualia associated with them they are there is such a thing as what it is like to have that thought
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:10 - 01:00:20</span>
+
+so you think it's possible to translate inexplicit ideas to explicit ones because explicit language is universal
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:20 - 01:00:22</span>
+
+yes
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:22 - 01:01:10</span>
+
+how is it not the case that inexplicit ideas are something like containing a massive context such that so an explicit idea can be expressed as, say, a proposition or a statement however perhaps inexplicit ideas cannot be expressed that way like they cannot be about a specific narrow thing because the nature of inexplicit ideas maybe is that they are taking into account the whole context or there's a way that they are not making these divisions like you can make with statements and propositions and so that perhaps it's something like a single inexplicit idea is actually connected to all of the other inexplicit ideas in a brain and this isn't actually translatable to explicit language because of the nature of what language is like
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:01:10 - 01:01:50</span>
+
+well I'm very sympathetic to the idea that most ideas in the brain in the mind are spread out oh and take into account a lot of context or you know maybe all contexts or whatever but the thing is however large they are they're not infinitely large and the brain is not infinitely large and it only has a certain number of neurons that can be in a certain number of states and in principle you could write down the exact state and that would include the state of all your inexplicit ideas
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:01:50 - 01:02:40</span>
+
+is it possible that inexplicit ideas also are stored or contained or refer to physical things in the physical environment so in other words so with explicit ideas we've got words and you can program them into a computer with inexplicit ideas not only do we have the like the sense that something and the parts that we can translate into words we also have reactions physical reactions to things in our environment so for example if you are afraid of dogs and you notice that there is a dog and then your body will physically start up the fight or flight processes which then affect the inexplicit ideas around dogs and so could it be that inexplicit ideas are more distributed as in they are not just in the brain but they are partly in the interaction between the brain and the environment
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:02:40 - 01:02:55</span>
+
+yes this doesn't have any effect on whether they could be made fully explicit or not because the environment is also finite and in principle you could
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:02:55 - 01:03:00</span>
+
+is it though don't we have an infinite environment
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:03:00 - 01:03:10</span>
+
+oh well we may well have an infinite environment but only a finite amount of it can possibly affect anything in your mind because of the finite speed of light
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:03:10 - 01:03:30</span>
+
+oh ah but no but counter things that are far away affect things that are less far away which affect you and so everything is connected it affects you later so for example when you're looking at the sun you are seeing it as it was eight minutes ago and so okay but then all of that stuff still affects you even if it was not at the time
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:03:30 - 01:03:40</span>
+
+yeah but why does that matter because if it only affects you after the thing you're trying to explain then it can't be involved in the explanation
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:03:40 - 01:04:00</span>
+
+ah so you're saying that when you are trying to explain something you are only trying to explain a specific small piece and that not everything is going to be relevant to explaining that specific small piece however if you want to properly translate the inexplicit ideas which would contain everything then everything does affect you
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:04:00 - 01:05:10</span>
+
+no so if you were to translate the contents of the brain and you know the gut and whatever else is within a light travel time of your view into explicit form in the positions and motions of atoms and that kind of thing if you did that explicitly then it's true that that contains information about what you would do if for example a lion suddenly appeared in the room that you can although there's nothing about lions in any of that let's suppose there's nothing about lions in encoded in any of those atoms it nevertheless follows from the atoms and from the laws of physics what you would do if this unlikely and unexpected thing were to happen so and that's all finite again and it could be in principle encoded in explicit form that would not include explanations of course you might be able to work out from this that if the lion came you would suddenly you know say the word frog if you wanted to explain that that might be a lot more work but it would be work that again could be done explicitly on that explicit representation
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:05:10 - 01:05:20</span>
+
+what do you think are the most interesting questions about inexplicit ideas
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:05:20 - 01:06:40</span>
+
+I think the issue of qualia sort of touches all these things like consciousness and AGI and explicit and inexplicit and all that you spoke of really amazing things before one of the really amazing things is that it is definitely possible that you could have a box a metal box and inside that there was a thinking being and there could be inside that there could be a thinking being who is interacting with a virtual world and they might not even know that they are in a virtual world and it might be like the matrix and so on but the point is the amazing thing is in there. Now the box is finite it has a finite number of bits or a finite number of qubits let's say it has a trillion bits in it the amazing thing that I'm pointing to is that some of them. So then there are a trillion bits therefore if it's a classical computer let's say there are two to the power of a trillion possible states of that computer inside the box the amazing thing is that some of those states are immoral some of them are so immoral that they are worse than anything that's ever happened to humans ever
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:06:40 - 01:06:45</span>
+
+what do you mean some of those states are immoral
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:06:45 - 01:07:10</span>
+
+well some of them involve a person suffering or people suffering or people suffering more than it's physically possible for a human to suffer all those things I've just mentioned are possible states of these bits and this is related to the simulation hypothesis
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:07:10 - 01:07:15</span>
+
+yes well and possible basilisks
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:07:15 - 01:08:20</span>
+
+the simulation hypothesis says that this has actually happened and we're in it and I disagree with that but that it is physically possible for it to happen I think is a pretty direct consequence of our knowledge of physics so it could happen and therefore there are immoral numbers because this thing can be represented as a binary number the entire contents of the box can be represented as a number with a trillion digits all zero or one some of those are unimaginably evil numbers we have no idea and some of them have qualia of course I think only the ones that have qualia are evil the ones that don't have qualia aren't evil so we don't know how to tell the difference we just know that you know you could start with zero one two three four five up to a trillion for each one you would say bit number three
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:08:20 - 01:08:50</span>
+
+so when you say that the numbers can be evil what you're really saying is that a human consciousness can be programmed into a computer which is represented by numbers and so I mean really the evil thing is about the emergent properties namely the consciousness and the suffering and the numbers are sort of not really here nor there you know if it turns out that we are not represented by numbers and we need something else then that would also be uh evil
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:08:50 - 01:09:40</span>
+
+so if the computer isn't running then there's nothing evil there it's got to be running so that I would like to run so yeah well the numbers are changing and it's the change that actually embodies suffering and therefore it's the change but we don't know I mean it's neither here nor there we don't know what states what numbers what programs are good or evil we don't know which of them are AGIs and which aren't we don't know how to tell the difference certainly not by the Turing test because this box has got no inputs or outputs
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:09:40 - 01:09:55</span>
+
+so in answer to the question what are the most interesting questions around inexplicit ideas you would say what makes something conscious or not what is with this qualia stuff what is with this suffering thing
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:09:55 - 01:10:20</span>
+
+I think you know if I have to pick one of them as being more like urgent to solve or whatever it's the qualia one but I also think that they'll all be solved by the same theory in a single day in a single hour somebody will have the right idea and that will solve all of them though they may not realize it at first
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:10:20 - 01:11:36</span>
+
+wow well I think that's a great place to end it it's been fun as always
