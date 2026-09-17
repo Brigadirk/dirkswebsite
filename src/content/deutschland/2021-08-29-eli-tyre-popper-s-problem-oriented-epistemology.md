@@ -1015,7 +1015,13 @@ It's not a random change yet.
 
 <span class="transcript-timestamp">01:11:47 - 01:12:11</span>
 
-Yeah. You're thinking this, this kind of thing might solve the problem. Right. So I do want to flag that in terms of like in the project of designing how an AGI works saying we are intentionally doing it to solve this conflict sort of leaves open like a I can't write code that's like now come up with a solution that seems like it matches this conflict between ideas.
+Yeah. You're thinking this, this kind of thing might solve the problem. Right.
+
+### Eli Tyre
+
+<span class="transcript-timestamp">01:11:47 - 01:12:11</span>
+
+So I do want to flag that in terms of like in the project of designing how an AGI works saying we are intentionally doing it to solve this conflict sort of leaves open like a I can't write code that's like now come up with a solution that seems like it matches this conflict between ideas.
 
 ### Eli Tyre
 

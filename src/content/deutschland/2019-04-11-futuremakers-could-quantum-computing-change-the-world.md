@@ -253,13 +253,13 @@ We take a laser and we focus it inside a piece of diamond so that the focal spot
 
 <span class="transcript-timestamp">00:22:44 - 00:23:15</span>
 
-Jason went on to explain that as nitrogen is the most common impurity in diamond nitrogen vacancy centers or NV centers often form in these point defects within the crystal structure. The electron spins at these NV centers can then be manipulated with electromagnetic fields or light causing resonances in the light emitted by the NV center and suggesting that they could be used as the basis of a quantum computer. It is a very different process however
+Jason went on to explain that as nitrogen is the most common impurity in diamond nitrogen vacancy centers or NV centers often form in these point defects within the crystal structure. The electron spins at these NV centers can then be manipulated with electromagnetic fields or light causing resonances in the light emitted by the NV center and suggesting that they could be used as the basis of a quantum computer.
 
 ### Jason Smith
 
 <span class="transcript-timestamp">00:23:15 - 00:24:06</span>
 
-doing the engineering of the diamond material essentially what we need to be able to do is to be able to create these NV defects where we want them inside a piece of diamond and ultimately we would like to be able to have some control over this interaction between the electron spin on the NV center and a nearby nucleus. One great advantage for researchers in Oxford is the opportunity it gives them to learn from other groups operating not as rivals but as colleagues. The architecture for a quantum computer that we're aiming towards with diamond is very similar to that which our colleagues in Oxford are aiming towards with ion traps as well so this idea of an optically networked set of matter qubits. Another competing material which we understand very well and use in most of our modern technology is silicon
+It is a very different process however doing the engineering of the diamond material essentially what we need to be able to do is to be able to create these NV defects where we want them inside a piece of diamond and ultimately we would like to be able to have some control over this interaction between the electron spin on the NV center and a nearby nucleus. One great advantage for researchers in Oxford is the opportunity it gives them to learn from other groups operating not as rivals but as colleagues. The architecture for a quantum computer that we're aiming towards with diamond is very similar to that which our colleagues in Oxford are aiming towards with ion traps as well so this idea of an optically networked set of matter qubits. Another competing material which we understand very well and use in most of our modern technology is silicon
 
 ### Peter Millican
 
@@ -379,25 +379,25 @@ So with many nations and companies believing that a quantum computer is inevitab
 
 <span class="transcript-timestamp">00:35:15 - 00:35:28</span>
 
-Just too early to say you know what the winning realization is of who's going to last and it's just too early to say any day now someone could write a paper that shows in principle
+Just too early to say you know what the winning realization is of who's going to last and it's just too early to say
 
 ### Tyson Jones
 
 <span class="transcript-timestamp">00:35:28 - 00:35:44</span>
 
-Due to these other considerations practical quantum computation is impossible this hasn't been ruled out we haven't proven it must eventually become feasible any day it could be shown to the contrary so that's a bit scary at some point in the future it will become clear that we've cracked
+any day now someone could write a paper that shows in principle due to these other considerations practical quantum computation is impossible this hasn't been ruled out we haven't proven it must eventually become feasible any day it could be shown to the contrary so that's a bit scary
 
 ### Jamie Vicary
 
 <span class="transcript-timestamp">00:35:44 - 00:35:56</span>
 
-It that we've got a powerful physical basis with which we can build quantum computers but if jamie is right and the world of quantum computers is just over the horizon what will this world look
+at some point in the future it will become clear that we've cracked it that we've got a powerful physical basis with which we can build quantum computers
 
 ### Peter Millican
 
 <span class="transcript-timestamp">00:35:56 - 00:36:19</span>
 
-Like will the quantum computer become as ubiquitous as the classical computer is now Simon Benjamin doesn't think so he believes that quantum computers offer an additional option not a replacement qubits will never be as robust at being bits as our conventional technology so you will still be ...
+but if jamie is right and the world of quantum computers is just over the horizon what will this world look like will the quantum computer become as ubiquitous as the classical computer is now Simon Benjamin doesn't think so he believes that quantum computers offer an additional option not a replacement qubits will never be as robust at being bits as our conventional technology so you will still be ...
 
 ### Simon Benjamin
 

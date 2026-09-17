@@ -85,7 +85,19 @@ Well, quantum gravity is... It appears that if you quantise anything, you have t
 
 <span class="transcript-timestamp">00:05:14 - 00:06:18</span>
 
-The thing is, what they've done is they've found all the different forces, the things that hold the bits and pieces of atoms together. The strong force, the weak force, all that electromagnetic force. And there's a quantum particle for each of these forces. Now, they haven't yet found any particle which holds us to the earth. In fact, the thing that Newton found out, you know, boing, things drop and things go round and all that, the gravity, this is the big bugger. Because nobody can find, you know, what it is. We can't find the graviton. And apparently when we do find the graviton, bang! That'll be the thing. Not that we'll understand everything, but maybe we'll... What happened with it? G-U-T, what's that called? A grand unified theory will be ours. So if you can get gravity happily into the quantum world, the quantum picture... does that mean that you'll then have the equation that'll explain everything? In one sense, the answer is yes. I mean, that's what people would be aiming for. Then that might be, as Stephen Hawking once put it, ...
+The thing is, what they've done is they've found all the different forces, the things that hold the bits and pieces of atoms together. The strong force, the weak force, all that electromagnetic force. And there's a quantum particle for each of these forces. Now, they haven't yet found any particle which holds us to the earth. In fact, the thing that Newton found out, you know, boing, things drop and things go round and all that, the gravity, this is the big bugger. Because nobody can find, you know, what it is. We can't find the graviton. And apparently when we do find the graviton, bang! That'll be the thing. Not that we'll understand everything, but maybe we'll... What happened with it? G-U-T, what's that called? A grand unified theory will be ours. So if you can get gravity happily into the quantum world, the quantum picture... does that mean that you'll then have the equation that'll explain everything?
+
+### Peter Higgs
+
+<span class="transcript-timestamp">00:06:18 - 00:06:28</span>
+
+In one sense, the answer is yes. I mean, that's what people would be aiming for.
+
+### Ken Campbell
+
+<span class="transcript-timestamp">00:06:18 - 00:06:28</span>
+
+Then that might be, as Stephen Hawking once put it, ...
 
 ### Stephen Hawking
 
@@ -961,13 +973,13 @@ Yes. According to Feynman's idea, every possible history of Ken is equally real.
 
 <span class="transcript-timestamp">00:49:23 - 00:50:08</span>
 
-My past was catching up with me. Did it ever happen at all? What was I to believe? Nothing? Or everything? You see, in science, there is no final truth... There's no final truth. We know things at the given level. The only reality left to suppose was the multiverse. And that is the story of how Ken Campbell came to be a many-universes man. This is the penultimate answer to what question I can't recall. This is a tape of the answers only.
+My past was catching up with me. Did it ever happen at all? What was I to believe? Nothing? Or everything? You see, in science, there is no final truth... There's no final truth. We know things at the given level. The only reality left to suppose was the multiverse. And that is the story of how Ken Campbell came to be a many-universes man. This is the penultimate answer to what question I can't recall. This is a tape of the answers only. He said,
 
 ### Stephen Hawking
 
 <span class="transcript-timestamp">00:50:09 - 00:50:34</span>
 
-He said, the human race is just a chemical scum on a moderate sized planet, orbiting around a very average star. In the outer suburb of one among a hundred billion galaxies. We are so insignificant that I can't believe the whole universe exists for our benefit. That would be like saying that you would disappear if I closed my eyes.
+The human race is just a chemical scum on a moderate sized planet, orbiting around a very average star. In the outer suburb of one among a hundred billion galaxies. We are so insignificant that I can't believe the whole universe exists for our benefit. That would be like saying that you would disappear if I closed my eyes.
 
 ### Ken Campbell
 

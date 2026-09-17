@@ -223,4 +223,10 @@ And so I think that question is the same as should everybody care about theoreti
 
 <span class="transcript-timestamp">00:52:03 - 00:52:24</span>
 
-I think that's a wonderful thought to end this conversation at. All right. Thank you so much for your time. Thank you so much for being here and for sharing your wonderful thoughts. It was an absolute pleasure, an absolute honor. Nice to meet you too. Okay bye bye.
+I think that's a wonderful thought to end this conversation at. All right. Thank you so much for your time. Thank you so much for being here and for sharing your wonderful thoughts. It was an absolute pleasure, an absolute honor.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:52:03 - 00:52:24</span>
+
+Nice to meet you too. Okay bye bye.

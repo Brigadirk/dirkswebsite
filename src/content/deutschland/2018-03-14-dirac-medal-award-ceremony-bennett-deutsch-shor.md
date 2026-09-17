@@ -308,7 +308,13 @@ Thank you very much Charles. It's a lot to learn from these expressions and from
 
 <span class="transcript-timestamp">02:43:23 - 02:43:49</span>
 
-Yes, so you spoke about entanglement. So, do you think in the quantum computational speed up, is there any clear sign that entanglement plays a role rather than superposition? Well, it's hard to separate the two because from the superposition principle you get entanglement.
+Yes, so you spoke about entanglement. So, do you think in the quantum computational speed up, is there any clear sign that entanglement plays a role rather than superposition?
+
+### Charles Bennett
+
+<span class="transcript-timestamp">02:43:23 - 02:43:49</span>
+
+Well, it's hard to separate the two because from the superposition principle you get entanglement.
 
 ### Charles Bennett
 
@@ -476,13 +482,13 @@ Yes. Very close to that.
 
 <span class="transcript-timestamp">03:13:12 - 03:14:29</span>
 
-Well, it's obvious that all of our past was worse than the present, and the evidence that we're self-destructive is all what you might call extrapolation. It's extrapolating. And in order to reach that conclusion, you've got to extrapolate selectively. I was going to say something. Because if we had destroyed ourselves, we wouldn't be here to complain about it. Well, okay, that's one argument on the other side, but it's not very convincing because it could always be made no matter how good things are. If you look at the actual details, we have time and again solved problems. And our particular civilization is different from all other ones, previous ones in that respect. So you can't extrapolate from them either. All civilizations basically other than our current scientific, technological, whatever you call it, civilization have in fact been destroyed. And it's another interesting thing is that none of them were destroyed by the ways that pessimists suggest ours will be destroyed. So there's again a disconnect. So it doesn't work. Well, just a very quick question because.
+Well, it's obvious that all of our past was worse than the present, and the evidence that we're self-destructive is all what you might call extrapolation. It's extrapolating. And in order to reach that conclusion, you've got to extrapolate selectively. I was going to say something. Because if we had destroyed ourselves, we wouldn't be here to complain about it. Well, okay, that's one argument on the other side, but it's not very convincing because it could always be made no matter how good things are. If you look at the actual details, we have time and again solved problems. And our particular civilization is different from all other ones, previous ones in that respect. So you can't extrapolate from them either. All civilizations basically other than our current scientific, technological, whatever you call it, civilization have in fact been destroyed. And it's another interesting thing is that none of them were destroyed by the ways that pessimists suggest ours will be destroyed. So there's again a disconnect. So it doesn't work.
 
 ### Audience questioner
 
-<span class="transcript-timestamp">03:14:31 - 03:14:48</span>
+<span class="transcript-timestamp">03:14:29 - 03:14:48</span>
 
-How you said the provability as well as the validity which is true in all interpretation, both are physical. How you make the distinction? Because one is semantics essentially. The other part is purely syntactical which is the provability.
+Well, just a very quick question because. How you said the provability as well as the validity which is true in all interpretation, both are physical. How you make the distinction? Because one is semantics essentially. The other part is purely syntactical which is the provability.
 
 ### David Deutsch
 

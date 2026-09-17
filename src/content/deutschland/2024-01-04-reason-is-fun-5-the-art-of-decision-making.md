@@ -116,25 +116,25 @@ It's often the way, by the way, if you view an apparently intractable problem ju
 
 <span class="transcript-timestamp">00:08:28 - 00:08:47</span>
 
-In your, in your formulation solutions and decisions, what do they have in common and how do they, how are they different? So if a decision is problematic, then you can say the process of, you know, rationally reaching the right choice, making the right decision
+In your, in your formulation solutions and decisions, what do they have in common and how do they, how are they different? So if a decision is problematic, then you can say the process of, you know, rationally reaching the right choice, making the right decision is a process of solving a problem.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:08:48 - 00:10:04</span>
 
-Is, is a process of solving a problem. But I think many decisions don't have this kind of conflict in the first place. I think they are many decisions, like I said in the podcast with Lulie, because nowadays we think in terms of game theory and decision theory and of probabilities and utilities and that kind of, this has entered the culture. It's not that old. I think it only entered the culture like after World War II. We, we retrospectively frame decision making as being this game theoretic process, which by the way does not include any creativity. It doesn't involve any, actual solving of problems. It's, it's, it's all kind of mathematical. You, you can end up saying, you know, yes, I want to do A and not B because A outweighs B. That doesn't go anywhere towards solving the problem. Well, it might go some way towards it, but there you're still left with a problem. And, you know, doing A when you still want to do B may be very unpleasant. It may be ...
+But I think many decisions don't have this kind of conflict in the first place. I think they are many decisions, like I said in the podcast with Lulie, because nowadays we think in terms of game theory and decision theory and of probabilities and utilities and that kind of, this has entered the culture. It's not that old. I think it only entered the culture like after World War II. We, we retrospectively frame decision making as being this game theoretic process, which by the way does not include any creativity. It doesn't involve any, actual solving of problems. It's, it's, it's all kind of mathematical. You, you can end up saying, you know, yes, I want to do A and not B because A outweighs B. That doesn't go anywhere towards solving the problem. Well, it might go some way towards it, but there you're still left with a problem. And, you know, doing A when you still want to do B may be very unpleasant. It may be traumatic.
 
 ### Mark Alexander
 
 <span class="transcript-timestamp">00:10:04 - 00:10:09</span>
 
-Traumatic. Oh, this is great. This is great. Doing A when you, when you want to do A and no
+Oh, this is great. This is great. Doing A when you, when you want to do A and no longer want to do B, that's a solution.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:10:09 - 00:10:52</span>
 
-Longer want to do B, that's a solution. If there was a problem, but often, you know, when we're, when we're choosing so-called choosing in a restaurant from a menu of what to have for dinner, it's not really accurate to say that the different meals on the menu are choices which you are weighing. It's, you want to have dinner and you're, and you're, you're trying to find a nice dinner to have. And then you find it and you have it. And nowhere did this resemble a scan of the menu, a construction of the utilities, a construction of the probabilities.
+If there was a problem, but often, you know, when we're, when we're choosing so-called choosing in a restaurant from a menu of what to have for dinner, it's not really accurate to say that the different meals on the menu are choices which you are weighing. It's, you want to have dinner and you're, and you're, you're trying to find a nice dinner to have. And then you find it and you have it. And nowhere did this resemble a scan of the menu, a construction of the utilities, a construction of the probabilities.
 
 ### Mark Alexander
 
@@ -448,13 +448,13 @@ Is it, is it always authoritative? Oh, because of by virtue of being critical?
 
 <span class="transcript-timestamp">00:37:07 - 00:37:42</span>
 
-I, you know, I've never seriously read Freud and I've only read a bit of it and maybe this is just my interpretation of Freud, but I think his interpretation is, you know, we're born with just an id and then that becomes sharpened to become an ego and then super ego forms and that's where morality is. The id and the ego don't have morality in them. One just has wants and the other one just has, has calculations and then the super ego comes in with morality. So how does that square
+I, you know, I've never seriously read Freud and I've only read a bit of it and maybe this is just my interpretation of Freud, but I think his interpretation is, you know, we're born with just an id and then that becomes sharpened to become an ego and then super ego forms and that's where morality is. The id and the ego don't have morality in them. One just has wants and the other one just has, has calculations and then the super ego comes in with morality.
 
 ### Mark Alexander
 
 <span class="transcript-timestamp">00:37:42 - 00:38:03</span>
 
-With, when you talk about wants, when I hear that, that parsing of it, the id is where I see the wants as living. And when we were talking earlier, we get onto the idea of wants being the seat of morality. And so is that in conflict with Freud's?
+So how does that square with, when you talk about wants, when I hear that, that parsing of it, the id is where I see the wants as living. And when we were talking earlier, we get onto the idea of wants being the seat of morality. And so is that in conflict with Freud's?
 
 ### David Deutsch
 
@@ -484,13 +484,13 @@ I once heard someone describe the mind and specifically wants and desires and so
 
 <span class="transcript-timestamp">00:39:29 - 00:40:53</span>
 
-Well, that's a bit like what I said about different parts of the mind altering the environment in which the others are evolving. They don't directly instruct other parts of the mind, but unlike Freud, I think that first of all, I think there's lots of these and also I think that they're not arranged in any kind of hierarchy. They may at one particular instant, like one of them might be affecting the others and not vice versa, but that's not built into the system. Anything can criticize anything and you mentioned, ah yes, about reaching rock bottom. So that's an example of an explicit theory changing the environment in which an inexplicit theory is evolving, but I think more often it actually happens the other way around. So it's actually good to have that example just to show that both directions are possible and there's nothing that, so if it were a hierarchy, then the thing at the apex of the hierarchy could never change unless it changes automatically with your age or whatever, you know, changes at puberty or you know, but something being immutable is irrational and also in practice is going to sabotage problem solving because it will rule out certain conjectures and it will also rule
+Well, that's a bit like what I said about different parts of the mind altering the environment in which the others are evolving. They don't directly instruct other parts of the mind, but unlike Freud, I think that first of all, I think there's lots of these and also I think that they're not arranged in any kind of hierarchy. They may at one particular instant, like one of them might be affecting the others and not vice versa, but that's not built into the system. Anything can criticize anything and you mentioned, ah yes, about reaching rock bottom. So that's an example of an explicit theory changing the environment in which an inexplicit theory is evolving, but I think more often it actually happens the other way around. So it's actually good to have that example just to show that both directions are possible and there's nothing that, so if it were a hierarchy, then the thing at the apex of the hierarchy could never change unless it changes automatically with your age or whatever, you know, changes at puberty or you know, but something being immutable is irrational and also in practice is going to sabotage problem solving because it will rule out certain conjectures and it will also rule out certain criticisms such as of itself.
 
 ### Mark Alexander
 
 <span class="transcript-timestamp">00:40:53 - 00:41:08</span>
 
-Out certain criticisms such as of itself. So amid all these parts of the mind, what is it that draws us forward toward good explanations, toward better explanations?
+So amid all these parts of the mind, what is it that draws us forward toward good explanations, toward better explanations?
 
 ### David Deutsch
 

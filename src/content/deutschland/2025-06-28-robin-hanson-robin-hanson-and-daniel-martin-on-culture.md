@@ -85,7 +85,19 @@ In Britain, it used to be just a few decades ago that if you had an upper class 
 
 <span class="transcript-timestamp">00:12:35 - 00:14:18</span>
 
-Right. That's an aspect of education, which I'm saying is quite easy to vary. It like it's subject to fads. It has varied, but it's hard to vary locally. That would be the key claim. That is, if you and your friends decided you don't care about Eton accents 50 years ago, you and your friends would suffer. Society collectively can change these things, and it does. And that's an important part of the story to think about. But the point is, as an equilibrium, individuals don't have much of an incentive to deviate. Right. They get punished for deviating. Okay, I can. Right. Now I get what you mean. I think I can say that I think that's possible. Yes. Okay, well, so my claim is about this level of things that it's hard. You get punished for varying individually, not that you can't vary individually that you get. So, for example, as I said, we respect education a lot in our society, and that encourages individuals to get as much education as feasible at the most prestigious places they can. Even if that takes a very long part of their lives. And that may hurt us all collectively, but individually, that's still your incentive is to get as much education as you can. And that's a shared feature of our society. As you know, centuries ago, education didn't nearly have as high a status, and so people pursued other sorts of things to gain status. And that had consequences. They pursued military prowess and money and family connections, whereas we pursue education. And so our societies are different as a result of these different features, but the features are hard for individuals to vary much. These are shared features of a community. That's the key idea.
+Right. That's an aspect of education, which I'm saying is quite easy to vary. It like it's subject to fads. It has varied, but it's hard to vary locally. That would be the key claim. That is, if you and your friends decided you don't care about Eton accents 50 years ago, you and your friends would suffer. Society collectively can change these things, and it does. And that's an important part of the story to think about. But the point is, as an equilibrium, individuals don't have much of an incentive to deviate. Right. They get punished for deviating.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:12:35 - 00:14:18</span>
+
+Okay, I can. Right. Now I get what you mean. I think I can say that I think that's possible. Yes.
+
+### Robin Hanson
+
+<span class="transcript-timestamp">00:12:35 - 00:14:18</span>
+
+Okay, well, so my claim is about this level of things that it's hard. You get punished for varying individually, not that you can't vary individually that you get. So, for example, as I said, we respect education a lot in our society, and that encourages individuals to get as much education as feasible at the most prestigious places they can. Even if that takes a very long part of their lives. And that may hurt us all collectively, but individually, that's still your incentive is to get as much education as you can. And that's a shared feature of our society. As you know, centuries ago, education didn't nearly have as high a status, and so people pursued other sorts of things to gain status. And that had consequences. They pursued military prowess and money and family connections, whereas we pursue education. And so our societies are different as a result of these different features, but the features are hard for individuals to vary much. These are shared features of a community. That's the key idea.
 
 ### David Deutsch
 

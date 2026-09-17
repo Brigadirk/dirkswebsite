@@ -277,7 +277,13 @@ Yes. So I'm Chiara Marletto. I work at the University of Oxford, and I'm a physi
 
 <span class="transcript-timestamp">00:54:25 - 00:55:15</span>
 
-My position depends entirely on there not being such limits. Well, over 99% on there not being such limits. I think if there was a fundamental limit to the human capacity to improve things, then we're sunk as soon as we hit that limit. It seems to me that we've got enough knowledge now to provide a good world for the seven billion people on it now. There's a gap between what we could do and what is actually happening with the present knowledge. So extra knowledge is not a prerequisite for providing a decent life for everyone. It's like a political will and other problems. Of course, greater knowledge will be a bonus particularly for health and better IT and all that, but I don't think we need it.
+My position depends entirely on there not being such limits. Well, over 99% on there not being such limits. I think if there was a fundamental limit to the human capacity to improve things, then we're sunk as soon as we hit that limit.
+
+### Martin Rees
+
+<span class="transcript-timestamp">00:54:25 - 00:55:15</span>
+
+It seems to me that we've got enough knowledge now to provide a good world for the seven billion people on it now. There's a gap between what we could do and what is actually happening with the present knowledge. So extra knowledge is not a prerequisite for providing a decent life for everyone. It's like a political will and other problems. Of course, greater knowledge will be a bonus particularly for health and better IT and all that, but I don't think we need it.
 
 ### Martin Rees
 

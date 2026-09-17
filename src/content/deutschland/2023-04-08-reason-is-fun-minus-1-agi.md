@@ -57,7 +57,19 @@ Did you see a similar freak out in the last time this happened?
 
 <span class="transcript-timestamp">00:03:16 - 00:04:21</span>
 
-Absolutely. I mean, I think probably one of the biggest things that happened was that I think probably more than now it was a complete consensus that everybody was afraid. Let me think. I think everybody was appropriately afraid. Was it like the pandemic? It's unlike today. Was it like the pandemic freak out? Because you also got like people actually freaking out around the pandemic and doing all sorts of things like covering their door handles in copper and not knowing whether masks work or not and so on. And these battles with their friends about whether they leave their house and whether that is akin to killing people. The interesting thing, I think there's an interesting difference between being afraid of something like nuclear war or a pandemic and being afraid of something that one imagines like AI risk or climate risk. So those are both things that might happen in the future and different people might imagine different things about them.
+Absolutely. I mean, I think probably one of the biggest things that happened was that I think probably more than now it was a complete consensus that everybody was afraid. Let me think. I think everybody was appropriately afraid.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:03:16 - 00:04:21</span>
+
+Was it like the pandemic? It's unlike today. Was it like the pandemic freak out? Because you also got like people actually freaking out around the pandemic and doing all sorts of things like covering their door handles in copper and not knowing whether masks work or not and so on. And these battles with their friends about whether they leave their house and whether that is akin to killing people.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:03:16 - 00:04:21</span>
+
+The interesting thing, I think there's an interesting difference between being afraid of something like nuclear war or a pandemic and being afraid of something that one imagines like AI risk or climate risk. So those are both things that might happen in the future and different people might imagine different things about them.
 
 ### Lulie Tanett
 
@@ -105,13 +117,25 @@ I imagine the good scams as in the effective scams would be AI enabled. Like you
 
 <span class="transcript-timestamp">00:05:37 - 00:06:35</span>
 
-I mean, sorry, new technology will always cause dangers, including scams and to try to mitigate that by preventing new technology in case it produces new dangers is much more dangerous than any of the new technologies themselves. What about just slowing it down such that people can adapt? Because like right now we've got something that is going so quickly that people are getting confused, like old people, if they see an image, then they will assume that it's real. And whereas if you have time that people are kind of adapted, I guess there are these deep fakes and so on. Well, I'm not sure that time causes better adaptation because if things are happening fast, then also news stories about how people have been scammed
+I mean, sorry, new technology will always cause dangers, including scams and to try to mitigate that by preventing new technology in case it produces new dangers is much more dangerous than any of the new technologies themselves.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:05:37 - 00:06:35</span>
+
+What about just slowing it down such that people can adapt? Because like right now we've got something that is going so quickly that people are getting confused, like old people, if they see an image, then they will assume that it's real. And whereas if you have time that people are kind of adapted, I guess there are these deep fakes and so on.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:05:37 - 00:06:35</span>
+
+Well, I'm not sure that time causes better adaptation because if things are happening fast, then also news stories about how people have been scammed will be seen by your old people.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:06:35 - 00:07:23</span>
 
-Will be seen by your old people. And whereas if we slowed it down so that only one scam occurs every few months, then it might not be news. Okay, so to get to the nub of the issue, people are worried that AGI is, you know, maybe next week or just around the corner or in like they used to say in a few years, and now that we have these very good language models, they say maybe like small number of years, months, like possibly weeks, and hence the proposed moratorium. So what is the thing that makes you so chill? Why couldn't it lead to AGI? What's the problem with the idea of emergence?
+And whereas if we slowed it down so that only one scam occurs every few months, then it might not be news. Okay, so to get to the nub of the issue, people are worried that AGI is, you know, maybe next week or just around the corner or in like they used to say in a few years, and now that we have these very good language models, they say maybe like small number of years, months, like possibly weeks, and hence the proposed moratorium. So what is the thing that makes you so chill? Why couldn't it lead to AGI? What's the problem with the idea of emergence?
 
 ### David Deutsch
 
@@ -239,7 +263,7 @@ Yeah, well, it would have to go through billions of times more processing than w
 
 Do we know this for biological evolution, as in, do we know how they, like, biological evolution is as efficient as it is?
 
-### David Deutsch
+### Lulie Tanett
 
 <span class="transcript-timestamp">00:32:16 - 00:32:19</span>
 

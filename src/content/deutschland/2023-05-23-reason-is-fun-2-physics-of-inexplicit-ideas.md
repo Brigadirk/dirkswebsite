@@ -289,7 +289,19 @@ Do you have a view about who's right?
 
 <span class="transcript-timestamp">00:40:35 - 00:41:22</span>
 
-Well I don't know who's actually right but I'm pretty sure that the scenario he envisaged is perfectly possible. It could have happened that way and we would be none the wiser today like from looking at our hyoid bone and stuff like that and so yeah I think he may well be right. Going back to inexplicit ideas do you think that it is always possible to translate between inexplicit ideas and explicit ideas? In principle it's always possible because our explicit language is universal.
+Well I don't know who's actually right but I'm pretty sure that the scenario he envisaged is perfectly possible. It could have happened that way and we would be none the wiser today like from looking at our hyoid bone and stuff like that and so yeah I think he may well be right.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:40:35 - 00:41:22</span>
+
+Going back to inexplicit ideas do you think that it is always possible to translate between inexplicit ideas and explicit ideas?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:40:35 - 00:41:22</span>
+
+In principle it's always possible because our explicit language is universal.
 
 ### Lulie Tanett
 
@@ -325,13 +337,13 @@ So there's this thing where we are physical people and we interact with a physic
 
 <span class="transcript-timestamp">00:43:11 - 00:44:59</span>
 
-Again you know it's pointless to argue about classifications and words but I don't think it's helpful to regard those things as knowledge. Whether there is one chemical or another is information that the amoeba can assimilate and embody in its whole being by moving towards one place or another place like a light switch. That information I think it's unlike Popper I don't think that information is worth calling knowledge. I think that's only confusing because there is no growth of knowledge happening there's only an acquisition of information. There is knowledge in the amoeba in the amoeba's DNA which also the amoeba can't change. It's like in a way it comes to the amoeba from the outside like it's telling it what to do but the amoeba can't change the DNA. But in another sense so from the point of view of the amoeba it's not gaining any knowledge when it encounters the chemical. But you can consider this whole process as part of the great landscape of evolution where the whole population of amoebas is surviving or not depending on how they react to the chemicals and in that sense the change in one base pair of its DNA which causes it to behave differently is a bit of knowledge that the amoeba species has created. I wonder if it is different in amoebas compared with animals compared with people and in particular so I'm wondering whether
+Again you know it's pointless to argue about classifications and words but I don't think it's helpful to regard those things as knowledge. Whether there is one chemical or another is information that the amoeba can assimilate and embody in its whole being by moving towards one place or another place like a light switch. That information I think it's unlike Popper I don't think that information is worth calling knowledge. I think that's only confusing because there is no growth of knowledge happening there's only an acquisition of information. There is knowledge in the amoeba in the amoeba's DNA which also the amoeba can't change. It's like in a way it comes to the amoeba from the outside like it's telling it what to do but the amoeba can't change the DNA. But in another sense so from the point of view of the amoeba it's not gaining any knowledge when it encounters the chemical. But you can consider this whole process as part of the great landscape of evolution where the whole population of amoebas is surviving or not depending on how they react to the chemicals and in that sense the change in one base pair of its DNA which causes it to behave differently is a bit of knowledge that the amoeba species has created.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:44:59 - 00:45:27</span>
 
-When you have these physically instantiated interactions information patterns in people because people can change their ideas and they can change various things they do then it takes on a different character from the amoeba thing where it's just it can't like there's no change happening there but in people the same thing could actually be relevant to thinking.
+I wonder if it is different in amoebas compared with animals compared with people and in particular so I'm wondering whether when you have these physically instantiated interactions information patterns in people because people can change their ideas and they can change various things they do then it takes on a different character from the amoeba thing where it's just it can't like there's no change happening there but in people the same thing could actually be relevant to thinking.
 
 ### David Deutsch
 

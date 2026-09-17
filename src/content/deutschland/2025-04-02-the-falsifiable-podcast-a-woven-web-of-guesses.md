@@ -117,7 +117,13 @@ It's just that the ideas themselves are so different from what we are, from what
 
 <span class="transcript-timestamp">00:24:16 - 00:25:15</span>
 
-Mm hmm. Just to contrast this, to frame this really quickly. So there was induction. This is even though it wasn't true and people knew that it wasn't true all the way from like the ancient Greeks till now. And they even talk about this. David Hume lays it out perfectly where he's like, this simply isn't true. And yet I'm going to behave as if it is. Yes. And induction for anybody who's doesn't know of this is like where you take a particular instance and then you form a theory off of that, a general theory off of a particular. Instance. What Popper did is he reversed that he puts the cart before the horse. And again, common sense tells you to not put the cart before the horse. But Popper says, no, let's hypothesize first and then test rather than so basically form, have the theory and then use your senses to test that theory. Yes. Although before you have a theory, you have to have a problem.
+Mm hmm. Just to contrast this, to frame this really quickly. So there was induction. This is even though it wasn't true and people knew that it wasn't true all the way from like the ancient Greeks till now. And they even talk about this. David Hume lays it out perfectly where he's like, this simply isn't true. And yet I'm going to behave as if it is. Yes. And induction for anybody who's doesn't know of this is like where you take a particular instance and then you form a theory off of that, a general theory off of a particular. Instance. What Popper did is he reversed that he puts the cart before the horse. And again, common sense tells you to not put the cart before the horse. But Popper says, no, let's hypothesize first and then test rather than so basically form, have the theory and then use your senses to test that theory.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:24:16 - 00:25:15</span>
+
+Yes. Although before you have a theory, you have to have a problem.
 
 ### David Deutsch
 

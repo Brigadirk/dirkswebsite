@@ -219,7 +219,7 @@ And okay. They will say, well, yes, then they secretly take PrEP. Then you say, 
 
 Can I ask a follow up question, Reid?
 
-### David Deutsch
+### Reid Nicewonder
 
 <span class="transcript-timestamp">00:51:54 - 00:51:59</span>
 
