@@ -56,25 +56,19 @@ Sorry, why do you not like the word criterion?
 
 <span class="transcript-timestamp">00:02:50 - 00:03:52</span>
 
-Well, what I've just said doesn't describe a criterion. It describes a mode of criticism. That is, something is going wrong if you're not having fun. So I guess one of my questions is why the word fun, given that it has this ambiguity with mindless going out and getting drunk and using video games as escapism and that sort of thing. I think there are several things I could say about that. One is that no term is going to be accurate. This is the case in Popperian philosophy generally, in fact, all philosophy, in fact, anything you might talk about. If you want to say something new, the terminology you use is going to be unsuited for it because the terminology is going to be adapted to previous ways of thinking.
+Well, what I've just said doesn't describe a criterion. It describes a mode of criticism. That is, something is going wrong if you're not having fun.
 
 ### Lulie Tanett
 
-<span class="transcript-timestamp">00:03:52 - 00:04:01</span>
+<span class="transcript-timestamp">00:02:50 - 00:03:52</span>
 
-What you can do is just invent your own terminology. That's a terrible idea because no one will understand what you're saying.
+So I guess one of my questions is why the word fun, given that it has this ambiguity with mindless going out and getting drunk and using video games as escapism and that sort of thing.
 
 ### David Deutsch
 
-<span class="transcript-timestamp">00:04:01 - 00:04:16</span>
+<span class="transcript-timestamp">00:02:50 - 00:03:52</span>
 
-Secondly, it is subject to the same problem that it will only represent accurately, fairly accurately your thoughts at a particular time.
-
-### Lulie Tanett
-
-<span class="transcript-timestamp">00:04:16 - 00:04:47</span>
-
-When you're addressing a new criticism, it will no longer be suitable. So I think what people usually do and what is done in physics and what's done in philosophy, what Popper did is to use the nearest existing term and be very careful to explain that one means something new by it.
+I think there are several things I could say about that. One is that no term is going to be accurate. This is the case in Popperian philosophy generally, in fact, all philosophy, in fact, anything you might talk about. If you want to say something new, the terminology you use is going to be unsuited for it because the terminology is going to be adapted to previous ways of thinking. What you can do is just invent your own terminology. That's a terrible idea because no one will understand what you're saying. Secondly, it is subject to the same problem that it will only represent accurately, fairly accurately your thoughts at a particular time. When you're addressing a new criticism, it will no longer be suitable. So I think what people usually do and what is done in physics and what's done in philosophy, what Popper did is to use the nearest existing term and be very careful to explain that one means something new by it.
 
 ### Lulie Tanett
 
@@ -206,13 +200,7 @@ When you look at it from a creatively defined new angle, you can see that this t
 
 <span class="transcript-timestamp">00:17:04 - 00:17:38</span>
 
-I suppose when people get into sports that involve pain, like mountaineering is my favorite example, but also boxing. If you find that fun. Now, I think some people do that for compulsive reasons like teenagers cut themselves and that sort of thing. And they are also reinterpreting pain in a way that's positive to them. But I think they are not, generally speaking, they are not doing something that's good for them. Though
-
-### Lulie Tanett
-
-<span class="transcript-timestamp">00:17:38 - 00:17:44</span>
-
-There might be one or two here and there in the world who are doing it because it is good for them.
+I suppose when people get into sports that involve pain, like mountaineering is my favorite example, but also boxing. If you find that fun. Now, I think some people do that for compulsive reasons like teenagers cut themselves and that sort of thing. And they are also reinterpreting pain in a way that's positive to them. But I think they are not, generally speaking, they are not doing something that's good for them. Though there might be one or two here and there in the world who are doing it because it is good for them.
 
 ### David Deutsch
 
@@ -254,13 +242,25 @@ Yeah, I also want to clarify that I'm not suggesting dissociating because I thin
 
 <span class="transcript-timestamp">00:23:06 - 00:26:54</span>
 
-I'm not sure I know what all the reasons are, but usually in life, you know, something itches, you scratch it, you carry on with your life and the itch goes away and that's that. Then there's a thing where you get into a compulsive state where it doesn't go away. You scratch in a way that makes it itch more and you can also be in a psychological version of that where you're in a compulsive state of mind that causes you to think in certain ways which, if this wasn't so complex a situation, just would be the normal way of getting on with your life and setting it aside. But because it's evolved to make it, to sort of sabotage that way of being, you instead scratch in a way that makes it worse and so you get into a cycle of psychological self-inflicted pain. So those are examples where it's more like what you were saying that although the pain is something external, it's really you cooperating with it that is doing all the heavy lifting. But if you take the tropical disease case, there's a lot of knowledge in that organism to make it difficult for you to get over it and to say to yourself, no, I'm not going to scratch this because it'll only make it worse. But you know, it has thought of that. It's only thought of that in a finite way, but it's going to take you, you know, it's had hundreds of thousands of years and also millions of victims to hone its way of causing sensations that make it hard to get out of. You've only had like days. Even so, it's possible for you to find your way out of this situation. It's also possible that you don't and it ends up killing you. Now that's only a microorganism. Another case is where it's not a microorganism. It's the built in knowledge in your own body that's making it difficult. So for example, if you go out of your front door, slip on the ice and break an arm and a leg and you're in extreme pain and the pain gets unbearably worse when you even try to move. Again you are the victim of the knowledge in your own genes. The knowledge in your own genes evolved to make you absolutely not move even if you want to in that situation. And it takes, it might take, you know, like with the disease, it might take days or weeks for you to get over it. So it might with the breaking a bone and so it's not realistic. Even though in a sense all the origin of your suffering is inside you, it's unrealistic to frame it as you could get over it. In practice you couldn't get over it. In practice you're going to be suffering until the ambulance comes. But does that apply to purely emotional coercion? No. So like I could imagine, yes, okay, so suffering physically, maybe that's one of these situations
+I'm not sure I know what all the reasons are, but usually in life, you know, something itches, you scratch it, you carry on with your life and the itch goes away and that's that. Then there's a thing where you get into a compulsive state where it doesn't go away. You scratch in a way that makes it itch more and you can also be in a psychological version of that where you're in a compulsive state of mind that causes you to think in certain ways which, if this wasn't so complex a situation, just would be the normal way of getting on with your life and setting it aside. But because it's evolved to make it, to sort of sabotage that way of being, you instead scratch in a way that makes it worse and so you get into a cycle of psychological self-inflicted pain. So those are examples where it's more like what you were saying that although the pain is something external, it's really you cooperating with it that is doing all the heavy lifting. But if you take the tropical disease case, there's a lot of knowledge in that organism to make it difficult for you to get over it and to say to yourself, no, I'm not going to scratch this because it'll only make it worse. But you know, it has thought of that. It's only thought of that in a finite way, but it's going to take you, you know, it's had hundreds of thousands of years and also millions of victims to hone its way of causing sensations that make it hard to get out of. You've only had like days. Even so, it's possible for you to find your way out of this situation. It's also possible that you don't and it ends up killing you. Now that's only a microorganism. Another case is where it's not a microorganism. It's the built in knowledge in your own body that's making it difficult. So for example, if you go out of your front door, slip on the ice and break an arm and a leg and you're in extreme pain and the pain gets unbearably worse when you even try to move. Again you are the victim of the knowledge in your own genes. The knowledge in your own genes evolved to make you absolutely not move even if you want to in that situation. And it takes, it might take, you know, like with the disease, it might take days or weeks for you to get over it. So it might with the breaking a bone and so it's not realistic. Even though in a sense all the origin of your suffering is inside you, it's unrealistic to frame it as you could get over it. In practice you couldn't get over it. In practice you're going to be suffering until the ambulance comes.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:26:54 - 00:27:03</span>
 
-Where you do in fact suffer and maybe physical suffering is a different type of suffering from psychological, emotional suffering.
+But does that apply to purely emotional coercion?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:26:54 - 00:27:03</span>
+
+No.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:26:54 - 00:27:03</span>
+
+So like I could imagine, yes, okay, so suffering physically, maybe that's one of these situations where you do in fact suffer and maybe physical suffering is a different type of suffering from psychological, emotional suffering.
 
 ### David Deutsch
 
@@ -374,13 +374,7 @@ What about emotional sensations? Emotional sensations. Well, hang on. We'll get 
 
 <span class="transcript-timestamp">00:36:31 - 00:37:56</span>
 
-The natural thing when you discover, let's say, a new taste, you discover butterscotch ice cream, and you're thinking at that moment that you could spend the rest of your life eating this. It would just be totally great for the rest of your life. And now it's possible that you will eat so much of it that you feel ill, but that's not what I'm talking about. Even aside from that, and I think before that, long before that, unless there's something else wrong, you will get tired of it. The only way you can continue that enjoyment, that state of fun, pleasure, whatever, is to have new ideas about how to eat butterscotch ice cream. If you don't have new ideas, it will no longer be fun and you will kind of go off that sensation. If you're in a compulsive state such that you nevertheless eat it because you've reinterpreted that as a mechanical way of feeling good, which it can't be, that's a different issue. Then you will run into other problems. But even if you haven't got that, there's still the fact that your inborn criteria for when to eat
-
-### Lulie Tanett
-
-<span class="transcript-timestamp">00:37:56 - 00:38:06</span>
-
-Are misleading you into thinking that this is a mechanical thing coming from the outside, whereas it never is.
+The natural thing when you discover, let's say, a new taste, you discover butterscotch ice cream, and you're thinking at that moment that you could spend the rest of your life eating this. It would just be totally great for the rest of your life. And now it's possible that you will eat so much of it that you feel ill, but that's not what I'm talking about. Even aside from that, and I think before that, long before that, unless there's something else wrong, you will get tired of it. The only way you can continue that enjoyment, that state of fun, pleasure, whatever, is to have new ideas about how to eat butterscotch ice cream. If you don't have new ideas, it will no longer be fun and you will kind of go off that sensation. If you're in a compulsive state such that you nevertheless eat it because you've reinterpreted that as a mechanical way of feeling good, which it can't be, that's a different issue. Then you will run into other problems. But even if you haven't got that, there's still the fact that your inborn criteria for when to eat are misleading you into thinking that this is a mechanical thing coming from the outside, whereas it never is.
 
 ### David Deutsch
 

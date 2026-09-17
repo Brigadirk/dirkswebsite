@@ -290,25 +290,19 @@ How do you know that withdrawing from the pain is what causes. Oh, isn't, yeah. 
 
 <span class="transcript-timestamp">00:41:47 - 00:42:58</span>
 
-It might make it worse, but it, there must be at least two other things involved. Before you had the idea of withdrawing from it, because there must have, it must have been a problem that this was, yeah. There's a tension between them. Now the tension has arisen. It's like, oh, tension. Yes. Yes. And then maybe this is the way. And, you know, often that's, that's, that's the right answer. You know, if you're having a medical procedure and it's, it's unpleasant, then you could say, well, I'll think about something else. And then, you know, if the procedure, if the procedure only takes 10 seconds, that might be the best solution or the solution. Yeah. But I'll throw out an idea. I'm curious how you, how you parse it. I've had migraines for decades, not very often, thankfully. And they're pretty classic. If you, you know, read up on what that means. A few years ago, I don't know, five, six years ago, a friend of mine who's also has migraines says, Hey, the darnedest thing happened.
+It might make it worse, but it, there must be at least two other things involved. Before you had the idea of withdrawing from it, because there must have, it must have been a problem that this was, yeah. There's a tension between them. Now the tension has arisen. It's like, oh, tension. Yes. Yes. And then maybe this is the way. And, you know, often that's, that's, that's the right answer. You know, if you're having a medical procedure and it's, it's unpleasant, then you could say, well, I'll think about something else. And then, you know, if the procedure, if the procedure only takes 10 seconds, that might be the best solution or the solution.
 
-### Lulie Tanett
+### Mark Alexander
 
-<span class="transcript-timestamp">00:42:59 - 00:43:23</span>
+<span class="transcript-timestamp">00:41:47 - 00:45:13</span>
 
-I started having a migraine. I could tell it was coming. And I just welcomed it. I said, I want to, I want to inquire into every aspect of the feelings of this thing. And holy, wow. It wasn't that bad. So next time I had a migraine, I tried this out and said, okay, I feel it. All right, I'm going to fully embrace this. Okay. What is here for me in store? What does it feel like?
+Yeah. But I'll throw out an idea. I'm curious how you, how you parse it. I've had migraines for decades, not very often, thankfully. And they're pretty classic. If you, you know, read up on what that means. A few years ago, I don't know, five, six years ago, a friend of mine who's also has migraines says, Hey, the darnedest thing happened. I started having a migraine. I could tell it was coming. And I just welcomed it. I said, I want to, I want to inquire into every aspect of the feelings of this thing. And holy, wow. It wasn't that bad. So next time I had a migraine, I tried this out and said, okay, I feel it. All right, I'm going to fully embrace this. Okay. What is here for me in store? What does it feel like? Because at this point I'd read books on it. I knew that it wasn't harmful. I had the neural idea that this is not harming me. It's just a ride and I could treat it like an unexpected dose of LSD. So, okay, here I am. I didn't want to take the LSD, but it got on my tongue and now I'm going to be off in this thing for the next six hours. And it became not only less suffering, but also interesting and crazy enough enjoyable by actually allowing myself to have the feelings. Like, what does it feel like to have this pain in my head? What are these aural distortions? In what way are they making the music more interesting? What is this in my visual field? So bringing in curiosity and wonder with it completely transformed the experience. So I'm curious what you make of that.
 
 ### David Deutsch
 
-<span class="transcript-timestamp">00:43:23 - 00:44:02</span>
-
-Because at this point I'd read books on it. I knew that it wasn't harmful. I had the neural idea that this is not harming me. It's just a ride and I could treat it like an unexpected dose of LSD. So, okay, here I am. I didn't want to take the LSD, but it got on my tongue and now I'm going to be off in this thing for the next six hours. And it became not only less suffering, but also interesting and crazy enough enjoyable by actually allowing myself to have the feelings.
-
-### Lulie Tanett
-
 <span class="transcript-timestamp">00:44:02 - 00:45:13</span>
 
-Like, what does it feel like to have this pain in my head? What are these aural distortions? In what way are they making the music more interesting? What is this in my visual field? So bringing in curiosity and wonder with it completely transformed the experience. So I'm curious what you make of that. I don't see how this connects with anything I've said. I mean, the migraine previously was a problem. That is, it was a conflict. Something in your mind interpreted some neural impulses as pain and therefore as unpleasant. And something also found out that certain things like moving your head or taking a pill or whatever doesn't solve it. So then you tried investigating it very closely and identifying with it.
+I don't see how this connects with anything I've said. I mean, the migraine previously was a problem. That is, it was a conflict. Something in your mind interpreted some neural impulses as pain and therefore as unpleasant. And something also found out that certain things like moving your head or taking a pill or whatever doesn't solve it. So then you tried investigating it very closely and identifying with it.
 
 ### David Deutsch
 
@@ -326,7 +320,13 @@ This also reminds me of David, an example that you've mentioned to me in the pas
 
 <span class="transcript-timestamp">00:49:04 - 00:49:50</span>
 
-Yeah, that's another example. But I feel like there's a slight difference with the migraine example because it's something like in the lapis lazuli painting example, all of that would otherwise be separate. You know, now we have technology and we have machines that farm this pigment and everything. And so it's slightly separate, whereas with the migraine, you're investigating the sensations themselves or with a fear of spiders, you might be investigating the sensation of fear itself instead of, oh, this is worthwhile because then I cannot do this other thing.
+Yeah, that's another example.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:49:04 - 00:49:50</span>
+
+But I feel like there's a slight difference with the migraine example because it's something like in the lapis lazuli painting example, all of that would otherwise be separate. You know, now we have technology and we have machines that farm this pigment and everything. And so it's slightly separate, whereas with the migraine, you're investigating the sensations themselves or with a fear of spiders, you might be investigating the sensation of fear itself instead of, oh, this is worthwhile because then I cannot do this other thing.
 
 ### David Deutsch
 
@@ -346,17 +346,23 @@ Can we pause you there? Because that was a controversial statement that you made
 
 Yes. Well, everything is conjecture. Mark, what was your thought there? I could feel the turn. I didn't. And something made me laugh. I don't know that I can formulate what the tension was with that, but I could feel that we moved into a different realm when it's like the way that we interface with all this is through conjecture. And I thought, oh, wait a second. Do I agree with this?
 
-### David Deutsch
+### Lulie Tanett
 
 <span class="transcript-timestamp">00:51:05 - 00:51:31</span>
 
 Because there's another way of immediate experience. In this moment, looking at this screen with this arrangement of pixels on it, as Mark says, Mark and the K of that syllable comes through. This immediate experience, this moment, there's something happening in that experience, the awareness of this experience, that doesn't seem to have anything to do with conjecture.
 
+### David Deutsch
+
+<span class="transcript-timestamp">00:51:32 - 00:51:50</span>
+
+Well, I don't think so. I think there's no such thing as an uninterpreted experience. It might be interpreted via an inborn theory that we've never examined, but nevertheless, it's via a theory.
+
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:51:32 - 00:51:50</span>
 
-Well, I don't think so. I think there's no such thing as an uninterpreted experience. It might be interpreted via an inborn theory that we've never examined, but nevertheless, it's via a theory. So like conjectures all the way down even to the micro microstructure?
+So like conjectures all the way down even to the micro microstructure?
 
 ### David Deutsch
 

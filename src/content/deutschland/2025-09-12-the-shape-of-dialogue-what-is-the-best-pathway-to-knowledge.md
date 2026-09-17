@@ -519,55 +519,49 @@ Newton's laws are taught in schools as if they were holy writ. You're learning t
 
 <span class="transcript-timestamp">01:03:33 - 01:06:54</span>
 
-Because if you sit a chimpanzee down in front of a physics lesson and try to teach it Newton's theory of gravity, it won't learn it. Whereas if you teach it a complicated sequence of movements, it will learn it, in some ways more accurately than a human. And the same with the parrot, parroting things. Chimps are actually better at memorizing games than humans. Right, right. So we have learned to not do what they do in order to give us the ability to do what we can do and they can't. So all progress, so we've been talking a lot about memes and about culture and so on. So education is central to this because so long as humans have a finite lifetime and so long as memes have to be enacted or put in books where the behaviour of reading them is enacted or computers, then people are going to die and their knowledge is going to be lost unless it is passed on. So this passing on of knowledge has to preserve not just the knowledge, that is the least of it. As Popper says, even if that was destroyed, we could recreate it in a generation. But it's the inexplicit knowledge of the institutions of criticism, the institutions of consent which are built into our culture. Learning how to learn essentially or knowing how to learn. Yes, all children know how to learn, but what they don't know is what to expect of other people and how to not take the powerful person as an authority. In fact, they learn the opposite. They are trained as they have been for generation upon generation to learn how to enact the opposite idea that the powerful person is the authority by definition. If that idea again takes hold, then the stasis of our history, of most of our history, will take hold as well. And this is what we're trying to preserve when we try to preserve the ideas of enlightenment. So education is in a sense central to this, but how is that compatible with me saying that education has been one of the last things to experience the revolution of the enlightenment. It has become better. So in my lifetime, children are no longer being beaten in schools. Children are treated far better now than they were even within living memory, but it's nowhere near the same level. It's still teetering on the brink of collapsing into anti-rational memes, even though it's becoming less brutal, less boring, and so on. But the basic
+Because if you sit a chimpanzee down in front of a physics lesson and try to teach it Newton's theory of gravity, it won't learn it. Whereas if you teach it a complicated sequence of movements, it will learn it, in some ways more accurately than a human. And the same with the parrot, parroting things. Chimps are actually better at memorizing games than humans. Right, right. So we have learned to not do what they do in order to give us the ability to do what we can do and they can't. So all progress, so we've been talking a lot about memes and about culture and so on. So education is central to this because so long as humans have a finite lifetime and so long as memes have to be enacted or put in books where the behaviour of reading them is enacted or computers, then people are going to die and their knowledge is going to be lost unless it is passed on. So this passing on of knowledge has to preserve not just the knowledge, that is the least of it. As Popper says, even if that was destroyed, we could recreate it in a generation. But it's the inexplicit knowledge of the institutions of criticism, the institutions of consent which are built into our culture. Learning how to learn essentially or knowing how to learn. Yes, all children know how to learn, but what they don't know is what to expect of other people and how to not take the powerful person as an authority. In fact, they learn the opposite. They are trained as they have been for generation upon generation to learn how to enact the opposite idea that the powerful person is the authority by definition. If that idea again takes hold, then the stasis of our history, of most of our history, will take hold as well. And this is what we're trying to preserve when we try to preserve the ideas of enlightenment. So education is in a sense central to this, but how is that compatible with me saying that education has been one of the last things to experience the revolution of the enlightenment. It has become better. So in my lifetime, children are no longer being beaten in schools. Children are treated far better now than they were even within living memory, but it's nowhere near the same level. It's still teetering on the brink of collapsing into anti-rational memes, even though it's becoming less brutal, less boring, and so on. But the basic idea of being standardized and obedient remains.
 
 ### Michael Goldwater
 
 <span class="transcript-timestamp">01:06:54 - 01:07:15</span>
 
-Idea of being standardized and obedient remains. So what's your conception for education? If I was your son and I was five, what would you do? Well, I think freedom is one thing to go for, but I think
+So what's your conception for education? If I was your son and I was five, what would you do?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:07:15 - 01:07:34</span>
 
-Conception of education should not be a single conception for everyone. In fact, it should be a different conception for everyone. No two people should have the same education. It's not a McDonald's. It's a customized restaurant. Yes, and it's not a school with standards. So standards means
+Well, I think freedom is one thing to go for, but I think conception of education should not be a single conception for everyone. In fact, it should be a different conception for everyone. No two people should have the same education. It's not a McDonald's. It's a customized restaurant. Yes, and it's not a school with standards.
 
 ### Michael Goldwater
 
 <span class="transcript-timestamp">01:07:34 - 01:08:09</span>
 
-Standardization. See, I mean, I have listened to you a lot on this, and I both agree and disagree with you. I spent 40 years teaching musical instruments in a private practice, so not a thousand kids, just one-on-one. And I've had a long interest in education for that reason. And on Monday, I went and did a podcast with Katharine Birbalsingh from the Michaela Community School. So you know who she is? I know who she is. Yes. Very admirable, although I wouldn't go
+So standards means standardization. See, I mean, I have listened to you a lot on this, and I both agree and disagree with you. I spent 40 years teaching musical instruments in a private practice, so not a thousand kids, just one-on-one. And I've had a long interest in education for that reason. And on Monday, I went and did a podcast with Katharine Birbalsingh from the Michaela Community School. So you know who she is?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:08:09 - 01:08:15</span>
 
-Within a million miles of that. But it is almost certainly a very good thing.
+I know who she is. Yes. Very admirable, although I wouldn't go within a million miles of that. But it is almost certainly a very good thing.
 
 ### Michael Goldwater
 
-<span class="transcript-timestamp">01:08:20 - 01:08:28</span>
+<span class="transcript-timestamp">01:08:20 - 01:09:09</span>
 
-I taught music. I'm a musician. I'm also a creative. When you learn music, you have to have technique.
+I taught music. I'm a musician. I'm also a creative. When you learn music, you have to have technique. You can spend all the time having all the free time in the world playing exactly what you want. But if you go down the wrong road, you won't get there. It's no surprise that even the greatest musicians of all time have had teachers. So you need some structure and order to learn that technique.
 
 ### David Deutsch
-
-<span class="transcript-timestamp">01:08:30 - 01:08:44</span>
-
-You can spend all the time having all the free time in the world playing exactly what you want. But if you go down the wrong road, you won't get there. It's no surprise that even the greatest
-
-### Michael Goldwater
 
 <span class="transcript-timestamp">01:08:44 - 01:09:09</span>
 
-Musicians of all time have had teachers. So you need some structure and order to learn that technique. No. Well let me lay out my claim. And so I come from that point of view, from a musician's point of view of learning. I know technique is a visceral thing. You feel it. It's not an academic
+No.
 
-### David Deutsch
+### Michael Goldwater
 
-<span class="transcript-timestamp">01:09:09 - 01:09:29</span>
+<span class="transcript-timestamp">01:08:44 - 01:09:29</span>
 
-Thing. And then seeing her school, it's actually astoundingly amazing that you're taken around by two kids. They're just like 13. And their confidence, so confident, so articulate.
+Well let me lay out my claim. And so I come from that point of view, from a musician's point of view of learning. I know technique is a visceral thing. You feel it. It's not an academic thing. And then seeing her school, it's actually astoundingly amazing that you're taken around by two kids. They're just like 13. And their confidence, so confident, so articulate.
 
 ### Michael Goldwater
 

@@ -123,13 +123,13 @@ Yeah, again, it's not necessarily a pre existing purpose. You know, this ...
 
 <span class="transcript-timestamp">00:12:45 - 00:13:07</span>
 
-Sure. Yeah, the purpose is change. And yeah, yeah, yeah. Okay, so I think I totally agree with everything you just said. But then, is there a way in which and the way in which is there a way in which and does all this fall under the bucket of what you would call parochialism generally, like when I talk about context and purposes, is that is that included in what you tend to mean by parochial
+Sure. Yeah, the purpose is change. And yeah, yeah, yeah. Okay, so I think I totally agree with everything you just said. But then, is there a way in which and the way in which is there a way in which and does all this fall under the bucket of what you would call parochialism generally, like when I talk about context and purposes, is that is that included in what you tend to mean by parochial and no.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:13:07 - 00:13:57</span>
 
-and no. Well, when I say parochial, I mean something which is a narrow view of a particular thing, which in my book, I use it mostly pejoratively, because the book is about the largest possible scale of things and the universal. But if the book was about something else, then parochial wouldn't necessarily be a pejorative term. So like, if I were reviewing a biology textbook or something, I wouldn't object to them saying that way, not all adaptations are parochial and not the worse for it or something like that. Yeah, I mean, it. Parochial isn't necessarily a bad thing. It's only a bad thing if you're reaching for something universal.
+Well, when I say parochial, I mean something which is a narrow view of a particular thing, which in my book, I use it mostly pejoratively, because the book is about the largest possible scale of things and the universal. But if the book was about something else, then parochial wouldn't necessarily be a pejorative term. So like, if I were reviewing a biology textbook or something, I wouldn't object to them saying that way, not all adaptations are parochial and not the worse for it or something like that. Yeah, I mean, it. Parochial isn't necessarily a bad thing. It's only a bad thing if you're reaching for something universal.
 
 ### Christofer Lövgren
 

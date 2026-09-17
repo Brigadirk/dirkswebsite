@@ -131,7 +131,17 @@ As I said, if you had such an application, suppose I was on the committee and I 
 
 So who should get such a grant? Well, that person who deserves such a grant will have been talking to somebody. With luck they will have been talking to somebody who already has a reputation for making progress somewhere in physics, and that person should be listened to. There should be a mechanism for that person to cause somebody to be funded to do some fundamental research. I have several times tried to recommend such people, people that don't fit into the standard categories, and without success. Only private entities have funded them. But even that was very difficult because, as I say, they use a very similar system and very similar criteria. But at least there's diversity; at least there's more than one place to do that. At least there's more than one place you can apply to. There ought to be dozens of places you can apply to.
 
-Okay, so about the quantum computing checkbox, I imagine, and I know that you mentioned that you're not as familiar with the grant system as one could be, or maybe you do not want to be, but I imagine that it's not as simple as the checkbox for quantum computing. I imagine there are sub-checkboxes like quantum hardware, cryptography, fault tolerance, algorithms, or what have you, in the quantum computing space. Now there would be, yes, but when I was doing it there were none of those.
+### Curt Jaimungal
+
+<span class="transcript-timestamp">00:20:42 - 00:23:10</span>
+
+Okay, so about the quantum computing checkbox, I imagine, and I know that you mentioned that you're not as familiar with the grant system as one could be, or maybe you do not want to be, but I imagine that it's not as simple as the checkbox for quantum computing. I imagine there are sub-checkboxes like quantum hardware, cryptography, fault tolerance, algorithms, or what have you, in the quantum computing space.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:20:42 - 00:23:10</span>
+
+Now there would be, yes, but when I was doing it there were none of those.
 
 ### Curt Jaimungal
 
@@ -179,7 +189,17 @@ They need to find somebody that they think is good. Usually this will be somebod
 
 Now there is a thing that's just started up, the Conjecture Institute, and I don't know how they make their choices, but what I've seen seems to be following the pattern that I advocate quite closely. They fund the person, not the research project, and they seem to fund people who are interested in foundations. I don't know whether that's because their thing is to fund foundations, or whether their thing is to fund things which aren't normally funded. I don't know which of those it is. But either of those would do, and lots of variations on that would also do. Like I said, I would like there to be dozens of such entities, all with a different ethos, all with a different theory of what foundations are or what they're for, and all with a different theory of what's wrong with the present thing, why somebody hasn't already funded the thing that they want to fund, that sort of thing.
 
-So firstly, what is the difference between fundamental research and foundational research? I don't make much difference between those things, but foundational suggests to me that you have a field and you're drilling into its foundations. So you want to understand it more deeply than it has been before. Fundamental means to do with the fundamental knowledge, that is, knowledge that is needed for all sorts of different areas. For example, quantum computation I think is fundamental, or was, because it has to do with mathematics and epistemology, as well as physics and computation and computer engineering. So there's a whole bunch of things that it might unite if it works. But it's fundamental in its conception. It's not like working at existing foundations of anything.
+### Curt Jaimungal
+
+<span class="transcript-timestamp">00:27:59 - 00:31:37</span>
+
+So firstly, what is the difference between fundamental research and foundational research?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:27:59 - 00:31:37</span>
+
+I don't make much difference between those things, but foundational suggests to me that you have a field and you're drilling into its foundations. So you want to understand it more deeply than it has been before. Fundamental means to do with the fundamental knowledge, that is, knowledge that is needed for all sorts of different areas. For example, quantum computation I think is fundamental, or was, because it has to do with mathematics and epistemology, as well as physics and computation and computer engineering. So there's a whole bunch of things that it might unite if it works. But it's fundamental in its conception. It's not like working at existing foundations of anything.
 
 ### Curt Jaimungal
 

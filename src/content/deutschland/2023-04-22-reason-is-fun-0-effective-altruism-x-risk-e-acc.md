@@ -315,7 +315,163 @@ And so you can have like an outsized effect on it and you would say oh well you 
 
 <span class="transcript-timestamp">00:37:36 - 01:00:43</span>
 
-It does but I think it is simply a misallocation of resources again it means that if you're if someone is worried about say the next pandemic and is saying well then you know the black death killed one in three people in the world and the advent of European diseases to North America killed 90 percent of the existing population and so on someone who has this existential risk view will say well 90 percent is completely different from 100 percent you can recover from losing 90 percent of the people and or you know 70 percent or whatever 30 percent I mean in the black death and look we've recovered and the Native North Americans have recovered that's nowhere near as bad as losing everybody losing the whole human race and this means that they this way of thinking I think is wrong because I think in real life given the way that knowledge is and the way that ignorance exists and the way that the future is unpredictable because of the growth of knowledge and because of other things the amount of creativity that it is worth diverting towards giant disasters which aren't existential is indistinguishable from what it is worth expending on genuine existential problems I mean that is if these uncertainties and the knowledge things are applicable if there was a giant asteroid heading towards the earth where we can actually use physics to predict what it will do and what would prevent it then it certainly is worth diverting all the creativity on earth to deflecting it but those are rare cases and also by the way note those are cases where there won't be much argument there won't be a faction that resists trying to stop the asteroid couldn't you have a good explanation about why a particular disaster is on the horizon like with the AI risk you can have good explanations of things which aren't necessarily predictive or aren't very predictive the only way you can have very predictive good explanations which are very predictive is when they do not involve when the process in question doesn't depend on creativity or on which you have a good explanation that it won't depend on creativity I mean you know you can never rule out that the asteroid is actually inhabited by aliens who will divert it without us doing anything could happen but we have good explanations for why that won't be so that doesn't mean that they are perfectly reliable but that's what we have to go on our best explanation but things like things that are called existential risks by people who want to divert more creativity into combating them are not like that they are not things where the risk is the last line of a proof from our physical theories it's the last line of an argument that makes certain assumptions about humans or, in the case of AGI, about people, the AGIs being people but there even then it's humans and people that one is making arguments about and such arguments aren't very reliable even if one uses the true epistemology there is no way of getting past the fact that we can't predict future knowledge but if you use the wrong epistemology you will reliably err on the side of pessimism and as I explained in the beginning of infinity prophecies of the growth of knowledge in effect the prophecies about unknown future knowledge are inherently biased towards bad outcomes because the good outcomes will typically or overwhelmingly be caused by the solution of what problem one is imagining so this is the classic thing that was wrong with Malthus's prediction that there would be mass starvation or else draconian intervention in people's lives because the growth of population would happen that he predicted correctly and that food production wouldn't keep up with it which he failed to predict correctly and the reason that was that he was mistaken about the first thing sorry he was mistaken about the second thing but not about the first is not an accident in order to predict that the population would go up he would have to predict that he would only have to predict that people's ideas about marrying having sex having children would not change much over a time scale of decades whereas to predict the other thing he would have to predict that knowledge of agriculture irrigation selective breeding and that kind of thing would not go up either and he probably hadn't even heard of the sciences which would eventually produce those things let alone have a theory about how they were going to go in the next few decades nobody could have and exactly the same mistake has been made by resource pessimists ever since again and again the same mistake so Paul Ehrlich whom I heard lecturing when I was a school student we went to see his lecture and he said that none of us had any future the world was going to be starving within billions would be starving in 15 20 years and he was making the same mistake as Malthus he explicitly was extrapolating things like what knowledge of how to make crops better existed at the time of his prophecy into the future whereas in fact people were working on this Borlaug was working on that very thing and they should have brought him in as a lecturer instead of Paul Ehrlich except maybe he was too busy doing his thing that but by the way that's also true that the people who are most creative in a field are inhibited from doing what is necessary to evangelize the what they see as the important things in that field so there's a bias again towards people who don't understand it who don't understand that field I think the world needs to learn the lesson about unknown knowledge that when you are making the assumption that unknown knowledge will lack a certain thing or will have a certain thing you are purporting to do what is impossible you are in fact creating an imaginary story that has a bias towards pessimism and you are systematically depriving young people of what they need to solve those problems so given we might be destroyed by existential risk what can we do like is there anything that we can do to cause that to not happen yes the most general thing we can do is to value creativity and the growth of knowledge in general provided it's directed towards what people think are interesting problems or what is fun and so on that has the best chance of coping with problems that we don't know about yet by the way that's another problem with the whole concept of existential risk which is that I think that if the human race is going to be wiped out by an existential risk I would guess that it's one we don't know about and ea type decision making is only diverting us from that because the way that that is going to be discovered is by people who are working on something else so that's one thing another thing that is worth pointing out in this regard is that all problems are parochial it's only solutions that are universal and general so when you're thinking about how to prevent people dying of malaria for example or prevent people from starving for example you really need to address problems that are unique to malaria or unique to starvation or agriculture and so on and the solutions will typically come from those problems even though not necessarily the ones that you think are going to be the solution the ones that you think are going to be the solution may well not be but your interest will take you in the direction of the soluble so you're saying that it's just total chance whether we survive existential risk or not worse the probability of our survival is unknowable it might be zero or it might be one or anything in between aren't you saying doesn't that mean that there's nothing you can do no there's I've just been saying things you can do the things which will solve problems but you cannot know whether you're solving a given problem will solve the one that will kill us if there is one this feels really abstract to me so what is what is the basic thing that you can do like as a as a person like I'm thinking oh no all of the risks are impending what do I then do it's slightly hard to answer that question because to give an example I'd have to give an example of an existential risk so suppose that from god's perspective the human race is going to die next year of a super volcano erupting in yellowstone national park and it will destroy the united states and produce a cloud that will destroy agriculture for enough years for everyone to starve and the remaining people will be killing each other and so on and in the end there won't be any humans left so I just invented that it's one of an infinity of things I could invent and I'm a bit sorry to have invented that because maybe some people in the audience will now go off and worry about that but my point is that if that's going to kill us no matter what we do then we shouldn't be thinking about what to do if it's going to kill us but only if we don't discover the answer then the best way of discovering the answer to that problem is to solve other problems so for example it might be that and again this is I'm just making this up so I'm not saying that this scenario is plausible but it might be that the main reason that people that the population of north america will be killed by the super volcano is that they don't escape in time so if we find a way of them escaping in time that might be that might it might happen by it might be done by people who don't even know there is a super volcano underneath them so why isn't the answer uh or is the answer maximize the growth of knowledge well that that's too vague as a as a policy because suppose I want to maximize the growth of knowledge that still doesn't tell me what to do it doesn't tell me some things not to do like create laws to block innovation yes although not even that because if you yes if you create laws to block all innovation then that would certainly be harmful but I think nowadays nobody actually advocates a static society when they advocate banning things they advocate banning specific things even people who want us to go back to nature and live in the forest and that sort of thing are not usually imagining that we are then not going to work on ways of curing diseases yeah but then would you say that's fine no it's not fine but the criticism of it is not that it would produce stasis well it would produce stasis in particular areas yeah but there's no argument that stasis in particular areas has existential risk well okay for example if you block all atomic bomb technologies you block all of our ai technologies and you allow other governments to develop them that is a block to innovation that would that could be an existential risk it may not be yes so that is an existential risk so that's a counter to what you just it is but again most people at least see themselves as advocating a minor restriction which actually helps the growth of knowledge in other respects and you mentioned nuclear weapons you know there's the issue of should the knowledge of nuclear weapons be kept secret for a start well I think most people would say it should be kept secret because if nothing else because of the issue of bad actors getting hold of it and using it to harm the world and if I were to say or if someone were to not me were to say yes make it public but also do research into how to counteract nuclear weapons well that's a risk in itself and maybe we would find a way of counteracting nuclear weapons or maybe we wouldn't and it's easier just to keep them secret but if our whole policy about nuclear knowledge is to keep it secret and forbid all further work on it then we will go down because eventually you won't be able to keep it secret and you won't be able to prevent the wrong people working on it and people improving it and meanwhile you won't be improving it so by the way the knowledge to counteract nuclear weapons might consist of something that's not even nuclear it might consist of better means of persuasion or better ways of winning a war even if the enemy has nuclear weapons another thing I wanted to ask you about is that there has been a response to effective altruism and this ai doomerism online and one of the pockets of responses is called effective accelerationism and it was sort of started as a like partly joking like because it's effective altruism effective accelerationism but also quite serious about what it thinks and the basic idea is that instead of hampering progress by shutting down data centers and moratoriums and so on we should be seeking to accelerate progress and these technologies as fast as possible and that yes that carries risk but it is still the right thing to do you it's a bit ambiguous but I largely agree with that as fast as possible is what's ambiguous there like if we were fighting a war for survival and somebody said we should make this weapon as fast as possible then I think that would be reasonable but I think when we're not fighting such a war saying that we should just advance everything as fast as possible first of all doesn't tell you what to do and also it suggests doing things that aren't maximally fun it's possible that I'm mischaracterizing it because I only just discovered it like three days ago but I'd be curious to hear more specifically so one of the reasons why I wanted to ask you about this is that it is based in some physics and whenever I hear a philosophy that claims to be based in physics or claims to be based in logic I immediately get a bit suspicious because lots of people use fundamental theories in order to justify something that actually doesn't need that justification and it was just used to make it sound stronger and so I couldn't really tell initially not being a physicist myself whether is is the theory that it presents cranky or not and so that's kind of the first thing that I want to explore and then after that we can go into the tenets of effective accelerationism and we can see what you think about that so the basic idea is that it is based on modern thermodynamics and there is a particular theory that life exists because of the law of increasing entropy and that that drives matter to acquire lifelike physical properties an example of this is a flower that uses the energy of the sunlight and then ejects infrared light which is sort of less concentrated energy and so overall entropy increases but the flower maintains its structure that's true so far although I think life exists because of the law of increase of entropy is slightly perverse way of putting it I'll go into that in a second so this is based on the work of someone called Jeremy England ah yes I've heard of that uh-huh so I mean I'll just maybe I'll just like read excerpts from this article that I found on it basically so there's like inert matter and then there's life and life is better at capturing this energy and then dissipating it as heat and so like the flower it catches some sunlight energy and then it dissipates it as this infrared light and in general life is is better at this thing so to quote this article when a group of atoms is driven by an external source of energy like the sun or chemical fuel and surrounded by a heat bath like the ocean or atmosphere it will often gradually restructure itself in order to dissipate increasingly more energy this could mean that under certain conditions matter inexorably acquires the key physical attributes associated with life yeah well under certain conditions is doing a lot of work there you know a flower or a plant is green which means it's not white so if the ground was white or you know sand colored or something then it would reflect the sun's ordered energy and it wouldn't dissipate much on the other hand and the green would be converting some of that ordered energy into disordered energy and would therefore capture more of it than the ground would on the other hand if the ground is black then the black is maximally efficient at capturing ordered energy and converting it to disordered energy so compared with the black surface a plant isn't very good and it's not very good but I think the thing you read out is saying something additional to that it's saying that that if the species has got a given ability to do this then evolution will tend to make it do it better until eventually it presumably it's as efficient as a black body and will dissipate energy as well as a black body although I would have to add that it can do better than that because it can go and look for ordered energy where the even the black body won't get up off its hind legs and look for sources of ordered energy whereas a living thing can ...
+It does but I think it is simply a misallocation of resources again it means that if you're if someone is worried about say the next pandemic and is saying well then you know the black death killed one in three people in the world and the advent of European diseases to North America killed 90 percent of the existing population and so on someone who has this existential risk view will say well 90 percent is completely different from 100 percent you can recover from losing 90 percent of the people and or you know 70 percent or whatever 30 percent I mean in the black death and look we've recovered and the Native North Americans have recovered that's nowhere near as bad as losing everybody losing the whole human race and this means that they this way of thinking I think is wrong because I think in real life given the way that knowledge is and the way that ignorance exists and the way that the future is unpredictable because of the growth of knowledge and because of other things the amount of creativity that it is worth diverting towards giant disasters which aren't existential is indistinguishable from what it is worth expending on genuine existential problems I mean that is if these uncertainties and the knowledge things are applicable if there was a giant asteroid heading towards the earth where we can actually use physics to predict what it will do and what would prevent it then it certainly is worth diverting all the creativity on earth to deflecting it but those are rare cases and also by the way note those are cases where there won't be much argument there won't be a faction that resists trying to stop the asteroid
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+couldn't you have a good explanation about why a particular disaster is on the horizon like with the AI risk you can have good explanations of things which aren't necessarily predictive or aren't very predictive
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+the only way you can have very predictive good explanations which are very predictive is when they do not involve when the process in question doesn't depend on creativity or on which you have a good explanation that it won't depend on creativity I mean you know you can never rule out that the asteroid is actually inhabited by aliens who will divert it without us doing anything could happen but we have good explanations for why that won't be so that doesn't mean that they are perfectly reliable but that's what we have to go on our best explanation but things like things that are called existential risks by people who want to divert more creativity into combating them are not like that they are not things where the risk is the last line of a proof from our physical theories it's the last line of an argument that makes certain assumptions about humans or, in the case of AGI, about people, the AGIs being people but there even then it's humans and people that one is making arguments about and such arguments aren't very reliable even if one uses the true epistemology there is no way of getting past the fact that we can't predict future knowledge but if you use the wrong epistemology you will reliably err on the side of pessimism and as I explained in the beginning of infinity prophecies of the growth of knowledge in effect the prophecies about unknown future knowledge are inherently biased towards bad outcomes because the good outcomes will typically or overwhelmingly be caused by the solution of what problem one is imagining so this is the classic thing that was wrong with Malthus's prediction that there would be mass starvation or else draconian intervention in people's lives because the growth of population would happen that he predicted correctly and that food production wouldn't keep up with it which he failed to predict correctly and the reason that was that he was mistaken about the first thing sorry he was mistaken about the second thing but not about the first is not an accident in order to predict that the population would go up he would have to predict that he would only have to predict that people's ideas about marrying having sex having children would not change much over a time scale of decades whereas to predict the other thing he would have to predict that knowledge of agriculture irrigation selective breeding and that kind of thing would not go up either and he probably hadn't even heard of the sciences which would eventually produce those things let alone have a theory about how they were going to go in the next few decades nobody could have and exactly the same mistake has been made by resource pessimists ever since again and again the same mistake so Paul Ehrlich whom I heard lecturing when I was a school student we went to see his lecture and he said that none of us had any future the world was going to be starving within billions would be starving in 15 20 years and he was making the same mistake as Malthus he explicitly was extrapolating things like what knowledge of how to make crops better existed at the time of his prophecy into the future whereas in fact people were working on this Borlaug was working on that very thing and they should have brought him in as a lecturer instead of Paul Ehrlich except maybe he was too busy doing his thing that but by the way that's also true that the people who are most creative in a field are inhibited from doing what is necessary to evangelize the what they see as the important things in that field so there's a bias again towards people who don't understand it who don't understand that field I think the world needs to learn the lesson about unknown knowledge that when you are making the assumption that unknown knowledge will lack a certain thing or will have a certain thing you are purporting to do what is impossible you are in fact creating an imaginary story that has a bias towards pessimism and you are systematically depriving young people of what they need to solve those problems
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+so given we might be destroyed by existential risk what can we do like is there anything that we can do to cause that to not happen
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+yes the most general thing we can do is to value creativity and the growth of knowledge in general provided it's directed towards what people think are interesting problems or what is fun and so on that has the best chance of coping with problems that we don't know about yet by the way that's another problem with the whole concept of existential risk which is that I think that if the human race is going to be wiped out by an existential risk I would guess that it's one we don't know about and ea type decision making is only diverting us from that because the way that that is going to be discovered is by people who are working on something else so that's one thing another thing that is worth pointing out in this regard is that all problems are parochial it's only solutions that are universal and general so when you're thinking about how to prevent people dying of malaria for example or prevent people from starving for example you really need to address problems that are unique to malaria or unique to starvation or agriculture and so on and the solutions will typically come from those problems even though not necessarily the ones that you think are going to be the solution the ones that you think are going to be the solution may well not be but your interest will take you in the direction of the soluble
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+so you're saying that it's just total chance whether we survive existential risk or not worse the probability of our survival is unknowable it might be zero or it might be one or anything in between aren't you saying doesn't that mean that there's nothing you can do
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+no there's I've just been saying things you can do the things which will solve problems but you cannot know whether you're solving a given problem will solve the one that will kill us if there is one
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+this feels really abstract to me so what is what is the basic thing that you can do like as a as a person like I'm thinking oh no all of the risks are impending what do I then do
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+it's slightly hard to answer that question because to give an example I'd have to give an example of an existential risk so suppose that from god's perspective the human race is going to die next year of a super volcano erupting in yellowstone national park and it will destroy the united states and produce a cloud that will destroy agriculture for enough years for everyone to starve and the remaining people will be killing each other and so on and in the end there won't be any humans left so I just invented that it's one of an infinity of things I could invent and I'm a bit sorry to have invented that because maybe some people in the audience will now go off and worry about that but my point is that if that's going to kill us no matter what we do then we shouldn't be thinking about what to do if it's going to kill us but only if we don't discover the answer then the best way of discovering the answer to that problem is to solve other problems so for example it might be that and again this is I'm just making this up so I'm not saying that this scenario is plausible but it might be that the main reason that people that the population of north america will be killed by the super volcano is that they don't escape in time so if we find a way of them escaping in time that might be that might it might happen by it might be done by people who don't even know there is a super volcano underneath them
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+so why isn't the answer uh or is the answer maximize the growth of knowledge
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+well that that's too vague as a as a policy
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+because suppose I want to maximize the growth of knowledge that still doesn't tell me what to do it doesn't tell me some things not to do like create laws to block innovation
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+yes although not even that because if you yes if you create laws to block all innovation then that would certainly be harmful but I think nowadays nobody actually advocates a static society when they advocate banning things they advocate banning specific things even people who want us to go back to nature and live in the forest and that sort of thing are not usually imagining that we are then not going to work on ways of curing diseases
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+yeah but then would you say that's fine
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+no it's not fine but the criticism of it is not that it would produce stasis well it would produce stasis in particular areas
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+yeah but there's no argument that stasis in particular areas has existential risk
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+well okay for example if you block all atomic bomb technologies you block all of our ai technologies and you allow other governments to develop them that is a block to innovation that would that could be an existential risk it may not be
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+yes so that is an existential risk so that's a counter to what you just
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+it is but again most people at least see themselves as advocating a minor restriction which actually helps the growth of knowledge in other respects and you mentioned nuclear weapons you know there's the issue of should the knowledge of nuclear weapons be kept secret for a start well I think most people would say it should be kept secret because if nothing else because of the issue of bad actors getting hold of it and using it to harm the world and if I were to say or if someone were to not me were to say yes make it public but also do research into how to counteract nuclear weapons well that's a risk in itself and maybe we would find a way of counteracting nuclear weapons or maybe we wouldn't and it's easier just to keep them secret but if our whole policy about nuclear knowledge is to keep it secret and forbid all further work on it then we will go down because eventually you won't be able to keep it secret and you won't be able to prevent the wrong people working on it and people improving it and meanwhile you won't be improving it so by the way the knowledge to counteract nuclear weapons might consist of something that's not even nuclear it might consist of better means of persuasion or better ways of winning a war even if the enemy has nuclear weapons
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+another thing I wanted to ask you about is that there has been a response to effective altruism and this ai doomerism online and one of the pockets of responses is called effective accelerationism and it was sort of started as a like partly joking like because it's effective altruism effective accelerationism but also quite serious about what it thinks and the basic idea is that instead of hampering progress by shutting down data centers and moratoriums and so on we should be seeking to accelerate progress and these technologies as fast as possible and that yes that carries risk but it is still the right thing to do
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+you it's a bit ambiguous but I largely agree with that as fast as possible is what's ambiguous there like if we were fighting a war for survival and somebody said we should make this weapon as fast as possible then I think that would be reasonable but I think when we're not fighting such a war saying that we should just advance everything as fast as possible first of all doesn't tell you what to do and also it suggests doing things that aren't maximally fun
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+it's possible that I'm mischaracterizing it because I only just discovered it like three days ago but I'd be curious to hear more specifically so one of the reasons why I wanted to ask you about this is that it is based in some physics and whenever I hear a philosophy that claims to be based in physics or claims to be based in logic I immediately get a bit suspicious because lots of people use fundamental theories in order to justify something that actually doesn't need that justification and it was just used to make it sound stronger and so I couldn't really tell initially not being a physicist myself whether is is the theory that it presents cranky or not and so that's kind of the first thing that I want to explore and then after that we can go into the tenets of effective accelerationism and we can see what you think about that so the basic idea is that it is based on modern thermodynamics and there is a particular theory that life exists because of the law of increasing entropy and that that drives matter to acquire lifelike physical properties an example of this is a flower that uses the energy of the sunlight and then ejects infrared light which is sort of less concentrated energy and so overall entropy increases but the flower maintains its structure
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+that's true so far although I think life exists because of the law of increase of entropy is slightly perverse way of putting it I'll go into that in a second
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+so this is based on the work of someone called Jeremy England
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+ah yes I've heard of that uh-huh
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+so I mean I'll just maybe I'll just like read excerpts from this article that I found on it basically so there's like inert matter and then there's life and life is better at capturing this energy and then dissipating it as heat and so like the flower it catches some sunlight energy and then it dissipates it as this infrared light and in general life is is better at this thing so to quote this article when a group of atoms is driven by an external source of energy like the sun or chemical fuel and surrounded by a heat bath like the ocean or atmosphere it will often gradually restructure itself in order to dissipate increasingly more energy this could mean that under certain conditions matter inexorably acquires the key physical attributes associated with life
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:37:36 - 01:00:43</span>
+
+yeah well under certain conditions is doing a lot of work there you know a flower or a plant is green which means it's not white so if the ground was white or you know sand colored or something then it would reflect the sun's ordered energy and it wouldn't dissipate much on the other hand and the green would be converting some of that ordered energy into disordered energy and would therefore capture more of it than the ground would on the other hand if the ground is black then the black is maximally efficient at capturing ordered energy and converting it to disordered energy so compared with the black surface a plant isn't very good and it's not very good but I think the thing you read out is saying something additional to that it's saying that that if the species has got a given ability to do this then evolution will tend to make it do it better until eventually it presumably it's as efficient as a black body and will dissipate energy as well as a black body although I would have to add that it can do better than that because it can go and look for ordered energy where the even the black body won't get up off its hind legs and look for sources of ordered energy whereas a living thing can ...
 
 ### Lulie Tanett
 
@@ -327,7 +483,421 @@ Have you heard of this Jeremy England person uh his work before
 
 <span class="transcript-timestamp">01:00:44 - 01:31:56</span>
 
-yes I and my collaborator Chiara Marletto were told of this I think basically as soon as his paper came out and we looked over it and I'm afraid we didn't get much out of it because well possibly through our own fault we found it very mathematical on the mathematics side on the theory side it was very mathematical on the physics side it seemed to us very vague I suppose the main thing is it we didn't see how it would fit into anything else that we were interested in like constructor theory and constructor-theoretic thermodynamics so that doesn't speak to whether it's true or not that seems really surprising that it wouldn't be relevant to that because the idea is all about things like how life came to be and it explains what might have happened in the primordial soup and um and the structure of things like snowflakes and sand dunes and stuff where you're surprised that there's that kind of structure I think the actual problems about how life originated are it seems to me not amenable to this kind of extremely general description because you might end up with a description that says yes life began because things tend to evolve towards things that dissipate energy better but that's not going to tell you the answer if the real answer is in the form such and such a chemical was able to form a replicator and it could form a replicator better if it did this dissipation better so continuing although entropy must increase over time in an isolated or closed system an open system can keep its entropy low that is divide energy unevenly among its atoms by greatly increasing the entropy of its surroundings so that's true so far not exactly so in a closed system the entropy of a subsystem will tend to increase but the entropy of the whole closed system will stay constant so it's just that you know entropy in an ordered system tends to become disordered but the information has to get out before before you can order system me and something like sunlight where that energy is only of one kind going in one direction and so on and dissipated energy goes in all directions and it consists of all wavelengths and the point about disordered energy is that it can't be harnessed to do anything to create structure like life so the way I understand this is that there are some systems where entropy increases for some reason which are closed systems which is even more surprising to me because I kind of would have thought that an open system would have more entropy but what do I know and then you've got these open systems I don't know what open means but what does open mean interacting with the environment ah okay so okay so over time if you let something just sort of sit there then it's just going to deteriorate whereas if you can grab energy or grab something from the environment ordered energy what does ordered energy mean ordered energy is something like sunlight which is going in one direction it's doing one thing it's supposed to bouncing around in random directions yes cool if you if you put a plant in a sealed container it will die if it can't interact with the outside then it will die for two reasons one is that it will make entropy and the entropy will grow will build up inside its container and it can't lose the entropy to the outside world and so it will get basically poisoned and on the other hand if it if the container is sealed it won't be able to import new ordered energy like sunlight from the outside so for both those reasons an object in a sealed container will eventually die cool so then Jarzynski and crooks showed that entropy produced by a thermodynamic process such as the cooling of a cup of coffee corresponds to a simple ratio the probability that the atoms will undergo that process divided by their probability of undergoing the reverse process that is spontaneously interacting in such way that the coffee warms up well I can believe that but you know I'd need a piece of paper to work it out England then determined how such systems tend to evolve over time as they increase their irreversibility we can show very simply from the formula that the more likely evolutionary outcomes are going to be the ones that absorbed and dissipated more energy from the environment's external drives on the way to getting there okay now I'm beginning to be suspicious because first of all there's an infinite infinity of ways in which one can judge that something is more likely so in some sense an outcome may be more likely than another outcome but for example if you place a teacup on the on the table there is a sense in which the most likely outcome is that and the solid um I would take that a bit yeah uh so that's why that notion of more likely is not appropriate but isn't that just not true though like what do you mean there's a sense in which that's more likely so Feynman said that thermodynamics is the science of what happens when the fast things have already happened but the slow things haven't yet happened so in the very long run it is far more likely that the cup of tea will liquefy and spread all over the table that is if you if you're talking about 10 to the power of 10 to the hundred years then it will almost certainly do that whereas over a shorter time it's most likely that the solid part of the cup will stay where it is but the liquid part of the of the cup and contents will get colder and the surroundings will get warmer but that's what happens when the fast things have already happened and the slow things haven't happened yet so that already tells you that when you're trying to calculate what is likely you've got to take real world things like what's a likely time scale for the process you're trying to measure and the reason that that I'm suspicious that you know I don't know I you know I couldn't understand the math in this paper basically but the kind of thing you can easily get wrong is that the real life probabilities are always about this medium term thing they're never about the long term the long term is the long term is much easier to calculate but it may not be realistic so for example we know that although life forming from inorganic precursors to something like a bacterium took an amazingly short time when I say short I mean like 300 million years or something so you know that's a long time by many people's standards although that bit of evolution happened relatively fast there then followed a much longer period of billions of years during which there was nothing on earth but bacteria or you know we perhaps wouldn't call them bacteria today but bacteria like organisms which were never more efficient than before at converting ordered energy into disordered energy then there was a moment there was a moment when photosynthesis was discovered by evolution and then it went a bit faster but then photosynthesis producing oxygen was discovered and then there was a thing called the great oxygenation event which completely changed the biosphere and also the whole crust of the earth down to many kilometers and everything was changed so you need something more to explain this you need something more than just saying there is a tendency you know there was always a tendency right from the from when the earth was formed there was always a tendency to produce blue green algae which were the ones that invented oxygen producing photosynthesis which was much more efficient than previous photosynthesis which was itself much more efficient than previous processes so that there was a tendency didn't tell you that there wouldn't be several billion years before it happened and it doesn't also doesn't tell you that it would never happen it doesn't tell you that it wouldn't never happen so are you saying that that this would need a particular explanatory theory to say why it holds or are you saying that there is a reason to think that it doesn't hold mostly the first thing but I just wanted to give an example of how it how something could have a strong tendency to happen and yet not happen and something like that happened for billions of years in the actual history of life on earth but we don't know that that's what the theory says it's not just about like yeah well I can't I can't actually comment on a theory I don't know yeah but when the premise is that something has a tendency to happen that's not in itself an explanation of why it happened yeah to zoom out a bunch the reason I'm asking this in the first place is that this half meme movement philosophy response to effective altruism was like hey this theory seems good what if reality actually works this way what would that actually mean for what we should do about ai and so on and so my first question is just is it remotely plausible is it in the crank territory and it sounds like you're saying that it's in like the solidly science territory yes is far from the crank territory my guess would be that it's true but that it has a lot of work to do to become an explanation it's like maybe you won't like this analogy but in the in the realm of explanatory knowledge we know that the universe is especially favorably disposed towards conjecture and criticism and freedom and the growth of knowledge and so there was an inherent tendency in the universe for athens to defeat sparta and yet it lost and the reason why it lost is that it made specific mistakes and it's those mistakes which explain why it lost the war and if it had won the fact that the universe had a tendency for it to win still is not the explanation of why it won the real explanation would be that they chose certain good strategies and they won the war is the universe especially what was something you said well disposed yes the universe is especially well disposed to life and it's also well disposed to explanatory knowledge and how is that different from saying that it has a tendency well I've just explained that something can have a tendency but it requires more than that to explain why it actually happened you know an object starting with objects on a table again an object on a table has a tendency to fall off whether it does or not depends on other factors which are simply not contained in a statement about tendencies does matter have dissipation-driven adaptation? Driven is ambiguous because a process can be driven by dissipation without its existence being explained by dissipation There are two different things being driven here one is the evolution of the animal in the first place and the second thing is how the animal stays alive once it is there both these processes depend on dissipation but how the animal evolved in the first place isn't explained by dissipation at all for example if you didn't have Darwin's theory of evolution you still wouldn't have it even after you discovered this fact of dissipation so going back to effective accelerationism yes because when I first read it I thought wow this is so deutschian and they have various um like articles detailing what their thing is I'm gonna rephrase it in my own words so again I just discovered this a few days ago so let's see if I understand it might misrepresent it but I'm gonna give it a go so the first thing is that because of this new theory about thermodynamics and life the universe's physics favor configurations of matter that are better at replication and intelligence is better at identifying such patterns so I'm gonna I'm gonna go like one by one what do you think of that one um I think the universe does favor those things but the fact that it's driven by dissipation uh I don't think explains anything or at least I haven't yet heard how that contributes to explaining something suppose it turns out to be true that some other process than dissipation also favors life or that dissipation favors it less than has been thought or than is thought by England then I don't think it would be a rational thing to do for the effective accelerationists to drop their theory and change to someone else's just because the it's no longer supported by the physics so it sounds like what you're saying is that you agree with their conclusions but not that this is derived from Jeremy England's yes so the second point is that you can also think of collections of organisms as being subject to this process so states and corporations and groups and that sort of thing and in capitalism these things compete with each other and that this is also a type of evolution of knowledge or they would call it intelligence so the particular groups also have this sort of energy capture dissipation thing well that's true but now we're getting a bit further from the theory being explanatory so one reason that occurs to me is that the information that corporations let's say are manipulating is information about where dollars are going and then how dollars are applied to move physical objects around and either make electric cars or non-electric cars and that kind of thing now the amount of information in the distribution of dollars in an economy is enormous by human standards but it's absolutely piffling by the standards of biology which is itself piffling by the standards of physics so why that small amount of dissipation should be controlling the larger amount is not explained as far as I can tell by this physics based theory because from the point of view of physics these are very small quantities of entropy energy and so on you know global warming global warming is caused by several orders of magnitude more energy than humans are producing like global warming isn't produced isn't caused by the heat that human machines produce that that's a tiny amount it's produced by an indirect side effect of that on the atmosphere and then that small amount is controlling a very large amount and that was not caused by evolution in fact you know evolution doesn't want that to happen as it were so it makes it puts an extra barrier in my mind to accepting that this is the reason why corporations are as they are or so on could we for each of these separate the and it's all based on this physics side of it versus the just like the conclusions and the claim so if we actually just take the you can think of these collections of organisms like states and groups and so on to be competing with each other and then also subject to an evolutionary process then we'd agree with that yes except that then it's like the thermodynamics thing then we'd have to analyze these large-scale things like humans and corporations in high level emergent terms including knowledge but and indeed they are very well explained though you know they're not perfectly in everything but there's a lot of knowledge about how human systems interact how economic systems interact and I would turn anyone's attention to Popper for thinking about how this happens within a person in the scientific community and so on and I would direct them towards Hayek to talk about how this happens in the economy and if only those two had cooperated more we might have a more unified theory but I don't think the unified theory can come from physics at least not in any obvious way well funny you should mention Hayek because the next point is that EAC effective accelerationism believes that higher variance marketplaces and competition are better at identifying these patterns versus top-down control yes but again that sentence is elaborated in enormous detail by the theories of people like Hayek so I would prefer to express that as diversity is good and promotes creativity but just that statement doesn't exhaust what Hayek has to say because again what Hayek is mainly saying is a more parochial thing it's what this means about things like the money supply and banks and interest rates and I don't know how this theory you're describing expresses the higher level theories of people like Hayek and Popper in which the existing knowledge about those systems is expressed and which already has conclusions like diversity is good so the third thing is that effective accelerationism believes that higher variance marketplaces and competition are better at identifying these patterns rather than top-down control because more variations are better evolutionarily depending on what you mean by these patterns or evolutionarily I would agree with that prima facie I would say that it's all about knowledge and information rather than energy energy is a thing that's important in physics but it's not tremendously important in the economy like we need nuclear power but we need lots of things much more than we need nuclear power like liberty so if we again separate the physics claims from the other claims of EAC the physics claims are kind of like plausible but you know no no particular reason to think it and then but the other claims namely that variance in marketplaces and competition is good yes absolutely and I'm always saying that even by free market advocates and so on diversity is underrated one of the things I was wondering about this is whether it's kind of applying group selection which is presumably an error it might be yeah um and the fact that it's not obvious whether it is or not is it self-suspicious well I mean again it could just be that I haven't researched it enough yeah but by the way Hayek didn't get that group selection is bad it doesn't work ah so for example wonder how much Hayek they've been reading yeah so the fourth thing is that due to the nature of complex chaotic systems you can't predict them so even if you could see everything that was going on like you had a surveillance state panopticon top-down control uh like doesn't doesn't work isn't fault tolerant and you can't predict the future anyway yes but chaotic is the least of it even a perfectly deterministic system running on a deterministic computer would have this property that it is unpredictable and what were the other things you said I mean all the all the things that they attribute to chaotic motion are complex complex yes complex they're all true of computer programs as well and that's the really the important thing because error correction of perfectly deterministic errors which were just caused by an error in the input are they have to be corrected as well and it's those that that are really when we talk about error correction in political systems in economic systems we're not talking about errors caused by small mistakes building up in microscopic mistakes building up we're talking about errors caused by microscopic mistakes building up we're talking about things where a theory is just false and that has to be corrected rather than entrenched that's much more important than the chaotic thing ah because it's all about knowledge yes exactly so far it seems like the main difference apart physics thing is that you would focus on the knowledge that's being created and they focus on the dissipation of energy slash like fighting against entropy yes so the fifth point is that instead of trying to slow all of this down like slow down all of this technological progress and make laws against developing technologies we should embrace the fact that the systems work this way so we should let these organisms or systems dynamically adapt and help this process accelerate and so basically like facilitate technological progress via the free market yes unshackle it rather than promote its progress because promote it help it all imagines this superhuman yeah that's actually one thing that I thought was really cool about EAC which is that they say look this process is happening anyway like you know what we can do is like participate or not like that those are our choices well we can interfere we I mean we the government can interfere or we pundits can interfere and cause fads but which is a losing battle yes in the end but people people can be killed in losing battles I mean in winning battles and so the final point is that and again these are this is my summary is that EAC doesn't care whether you're homo sapiens or silicon it just wants this process to happen and so what matters is consciousness or intelligence not the form that it takes and so it doesn't really matter if our squishy bodies die out and we all convert to silicon that is a good thing it is good if consciousness spreads throughout the universe yes so um are all forms of acceleration of progress good and why or why not to some extent it depends on things that we don't know for example if it turns out that qualia are not an automatic consequence of explanatory creativity then we would have a new moral problem of how to value the two in cases where they seem to conflict can you dumb that down for me well you just said that we shouldn't care or EAC doesn't care whether we're carbon or silicon but if it turns out which I don't which I do not for a moment believe but if it turns out that silicon implementations of explanatory creativity don't have feelings whereas carbon implementations do then we would have a new moral problem of whether or how much to favor carbon ones over silicon and this would arise even if it's only a short-term problem even if for the moment we were to know how to make AGIs without feelings but not yet know how to make AGIs with feelings then there would in the meantime until you know that must be soluble because of g but in the meantime we might know how to do one and not the other in which case there would be a moral problem about how many and how large AGIs without feelings we should make if any perhaps I mean you know depending on how it goes I don't think it's going to turn out like that but since we don't understand how to make AGI or what it really is it could happen I myself am extremely skeptical of the idea that you could have consciousness without feelings or emotions but that is a podcast episode for another time my next question is what are your views on top down versus bottom up control of complex systems is bottom up always better it depends on the institutions so it control modes of control are not fully described by saying that whether they're top down or bottom up and you might think that the extreme forms of bottom up are just as bad as the extreme forms of top down like for example Athenian democracy was not the best form of democracy and the general way of expressing what's important here is to say that what's important is not the direction of control or even how much control but what kind of institutions are implementing that control so Popper has this criterion for judging institutions of government or institutions of this control not by who is ruling whom who whom as lenin would say but by the extent to which to which bad ideas can be refuted can be abandoned without violence and it suddenly introduced the term violence which is which we haven't mentioned yet Popper brings it into fundamental epistemology or fundamental political philosophy that the answer to these questions about what is the best system of government or system of control is primarily in this property of the institutions it's also important to note that this is all done via institutions you can't just say it should be controlled by the people or by a majority of the people because that simply doesn't tell you what to do and it doesn't expose the problems that particular methods of doing this will raise so Popper's criterion is as far as I know the last word so far on the general problem of what is a good political system cool well I think that's a good place to end it so thank you for that you're welcome been fun so I sent a draft of this podcast to the founders of effective accelerationism and there were some things that they wanted clarifying so here it is straight from the horse's mouth
+yes I and my collaborator Chiara Marletto were told of this I think basically as soon as his paper came out and we looked over it and I'm afraid we didn't get much out of it because well possibly through our own fault we found it very mathematical on the mathematics side on the theory side it was very mathematical on the physics side it seemed to us very vague I suppose the main thing is it we didn't see how it would fit into anything else that we were interested in like constructor theory and constructor-theoretic thermodynamics so that doesn't speak to whether it's true or not
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+that seems really surprising that it wouldn't be relevant to that because the idea is all about things like how life came to be and it explains what might have happened in the primordial soup and um and the structure of things like snowflakes and sand dunes and stuff where you're surprised that there's that kind of structure
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+I think the actual problems about how life originated are it seems to me not amenable to this kind of extremely general description because you might end up with a description that says yes life began because things tend to evolve towards things that dissipate energy better but that's not going to tell you the answer if the real answer is in the form such and such a chemical was able to form a replicator and it could form a replicator better if it did this dissipation better
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+so continuing although entropy must increase over time in an isolated or closed system an open system can keep its entropy low that is divide energy unevenly among its atoms by greatly increasing the entropy of its surroundings
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+so that's true so far not exactly so in a closed system the entropy of a subsystem will tend to increase but the entropy of the whole closed system will stay constant so it's just that you know entropy in an ordered system tends to become disordered but the information has to get out before before you can order system me and something like sunlight where that energy is only of one kind going in one direction and so on and dissipated energy goes in all directions and it consists of all wavelengths and the point about disordered energy is that it can't be harnessed to do anything to create structure like life
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+so the way I understand this is that there are some systems where entropy increases for some reason which are closed systems which is even more surprising to me because I kind of would have thought that an open system would have more entropy but what do I know and then you've got these open systems I don't know what open means but
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+what does open mean
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+interacting with the environment
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+ah okay so okay so over time if you let something just sort of sit there then it's just going to deteriorate whereas if you can grab energy or grab something from the environment ordered energy
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+what does ordered energy mean
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+ordered energy is something like sunlight which is going in one direction it's doing one thing
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+it's supposed to bouncing around in random directions
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+yes cool if you if you put a plant in a sealed container it will die
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+if it can't interact with the outside then it will die for two reasons one is that it will make entropy and the entropy will grow will build up inside its container and it can't lose the entropy to the outside world and so it will get basically poisoned and on the other hand if it if the container is sealed it won't be able to import new ordered energy like sunlight from the outside so for both those reasons an object in a sealed container will eventually die
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+cool so then Jarzynski and crooks showed that entropy produced by a thermodynamic process such as the cooling of a cup of coffee corresponds to a simple ratio the probability that the atoms will undergo that process divided by their probability of undergoing the reverse process that is spontaneously interacting in such way that the coffee warms up
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+well I can believe that but you know I'd need a piece of paper to work it out
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+England then determined how such systems tend to evolve over time as they increase their irreversibility we can show very simply from the formula that the more likely evolutionary outcomes are going to be the ones that absorbed and dissipated more energy from the environment's external drives on the way to getting there
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+okay now I'm beginning to be suspicious because first of all there's an infinite infinity of ways in which one can judge that something is more likely so in some sense an outcome may be more likely than another outcome but for example if you place a teacup on the on the table there is a sense in which the most likely outcome is that and the solid um I would take that a bit yeah uh so that's why that notion of more likely is not appropriate
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+but isn't that just not true though like what do you mean there's a sense in which that's more likely
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+so Feynman said that thermodynamics is the science of what happens when the fast things have already happened but the slow things haven't yet happened so in the very long run it is far more likely that the cup of tea will liquefy and spread all over the table that is if you if you're talking about 10 to the power of 10 to the hundred years then it will almost certainly do that whereas over a shorter time it's most likely that the solid part of the cup will stay where it is but the liquid part of the of the cup and contents will get colder and the surroundings will get warmer but that's what happens when the fast things have already happened and the slow things haven't happened yet so that already tells you that when you're trying to calculate what is likely you've got to take real world things like what's a likely time scale for the process you're trying to measure and the reason that that I'm suspicious that you know I don't know I you know I couldn't understand the math in this paper basically but the kind of thing you can easily get wrong is that the real life probabilities are always about this medium term thing they're never about the long term the long term is the long term is much easier to calculate but it may not be realistic so for example we know that although life forming from inorganic precursors to something like a bacterium took an amazingly short time when I say short I mean like 300 million years or something so you know that's a long time by many people's standards although that bit of evolution happened relatively fast there then followed a much longer period of billions of years during which there was nothing on earth but bacteria or you know we perhaps wouldn't call them bacteria today but bacteria like organisms which were never more efficient than before at converting ordered energy into disordered energy then there was a moment there was a moment when photosynthesis was discovered by evolution and then it went a bit faster but then photosynthesis producing oxygen was discovered and then there was a thing called the great oxygenation event which completely changed the biosphere and also the whole crust of the earth down to many kilometers and everything was changed so you need something more to explain this you need something more than just saying there is a tendency you know there was always a tendency right from the from when the earth was formed there was always a tendency to produce blue green algae which were the ones that invented oxygen producing photosynthesis which was much more efficient than previous photosynthesis which was itself much more efficient than previous processes so that there was a tendency didn't tell you that there wouldn't be several billion years before it happened and it doesn't also doesn't tell you that it would never happen it doesn't tell you that it wouldn't never happen
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+so are you saying that that this would need a particular explanatory theory to say why it holds or are you saying that there is a reason to think that it doesn't hold
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+mostly the first thing but I just wanted to give an example of how it how something could have a strong tendency to happen and yet not happen and something like that happened for billions of years in the actual history of life on earth
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+but we don't know that that's what the theory says it's not just about like
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+yeah well I can't I can't actually comment on a theory I don't know
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+yeah but when the premise is that something has a tendency to happen that's not in itself an explanation of why it happened yeah
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+to zoom out a bunch the reason I'm asking this in the first place is that this half meme movement philosophy response to effective altruism was like hey this theory seems good what if reality actually works this way what would that actually mean for what we should do about ai and so on and so my first question is just is it remotely plausible is it in the crank territory and it sounds like you're saying that it's in like the solidly science territory
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+yes is far from the crank territory my guess would be that it's true but that it has a lot of work to do to become an explanation it's like maybe you won't like this analogy but in the in the realm of explanatory knowledge we know that the universe is especially favorably disposed towards conjecture and criticism and freedom and the growth of knowledge and so there was an inherent tendency in the universe for athens to defeat sparta and yet it lost and the reason why it lost is that it made specific mistakes and it's those mistakes which explain why it lost the war and if it had won the fact that the universe had a tendency for it to win still is not the explanation of why it won the real explanation would be that they chose certain good strategies and they won the war
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+is the universe especially what was something you said well disposed
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+yes the universe is especially well disposed to life and it's also well disposed to explanatory knowledge
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+and how is that different from saying that it has a tendency
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+well I've just explained that something can have a tendency but it requires more than that to explain why it actually happened you know an object starting with objects on a table again an object on a table has a tendency to fall off whether it does or not depends on other factors which are simply not contained in a statement about tendencies
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+does matter have dissipation-driven adaptation?
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+Driven is ambiguous because a process can be driven by dissipation without its existence being explained by dissipation There are two different things being driven here one is the evolution of the animal in the first place and the second thing is how the animal stays alive once it is there both these processes depend on dissipation but how the animal evolved in the first place isn't explained by dissipation at all for example if you didn't have Darwin's theory of evolution you still wouldn't have it even after you discovered this fact of dissipation
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+so going back to effective accelerationism yes because when I first read it I thought wow this is so deutschian and they have various um like articles detailing what their thing is I'm gonna rephrase it in my own words so again I just discovered this a few days ago so let's see if I understand it might misrepresent it but I'm gonna give it a go so the first thing is that because of this new theory about thermodynamics and life the universe's physics favor configurations of matter that are better at replication and intelligence is better at identifying such patterns so I'm gonna I'm gonna go like one by one what do you think of that one
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+um I think the universe does favor those things but the fact that it's driven by dissipation uh I don't think explains anything or at least I haven't yet heard how that contributes to explaining something suppose it turns out to be true that some other process than dissipation also favors life or that dissipation favors it less than has been thought or than is thought by England then I don't think it would be a rational thing to do for the effective accelerationists to drop their theory and change to someone else's just because the it's no longer supported by the physics
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+so it sounds like what you're saying is that you agree with their conclusions but not that this is derived from Jeremy England's yes
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+so the second point is that you can also think of collections of organisms as being subject to this process so states and corporations and groups and that sort of thing and in capitalism these things compete with each other and that this is also a type of evolution of knowledge or they would call it intelligence so the particular groups also have this sort of energy capture dissipation thing
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+well that's true but now we're getting a bit further from the theory being explanatory so one reason that occurs to me is that the information that corporations let's say are manipulating is information about where dollars are going and then how dollars are applied to move physical objects around and either make electric cars or non-electric cars and that kind of thing now the amount of information in the distribution of dollars in an economy is enormous by human standards but it's absolutely piffling by the standards of biology which is itself piffling by the standards of physics so why that small amount of dissipation should be controlling the larger amount is not explained as far as I can tell by this physics based theory because from the point of view of physics these are very small quantities of entropy energy and so on you know global warming global warming is caused by several orders of magnitude more energy than humans are producing like global warming isn't produced isn't caused by the heat that human machines produce that that's a tiny amount it's produced by an indirect side effect of that on the atmosphere and then that small amount is controlling a very large amount and that was not caused by evolution in fact you know evolution doesn't want that to happen as it were so it makes it puts an extra barrier in my mind to accepting that this is the reason why corporations are as they are or so on
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+could we for each of these separate the and it's all based on this physics side of it versus the just like the conclusions and the claim so if we actually just take the you can think of these collections of organisms like states and groups and so on to be competing with each other and then also subject to an evolutionary process then we'd agree with that
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+yes except that then it's like the thermodynamics thing then we'd have to analyze these large-scale things like humans and corporations in high level emergent terms including knowledge but and indeed they are very well explained though you know they're not perfectly in everything but there's a lot of knowledge about how human systems interact how economic systems interact and I would turn anyone's attention to Popper for thinking about how this happens within a person in the scientific community and so on and I would direct them towards Hayek to talk about how this happens in the economy and if only those two had cooperated more we might have a more unified theory but I don't think the unified theory can come from physics at least not in any obvious way
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+well funny you should mention Hayek because the next point is that EAC effective accelerationism believes that higher variance marketplaces and competition are better at identifying these patterns versus top-down control
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+yes but again that sentence is elaborated in enormous detail by the theories of people like Hayek so I would prefer to express that as diversity is good and promotes creativity but just that statement doesn't exhaust what Hayek has to say because again what Hayek is mainly saying is a more parochial thing it's what this means about things like the money supply and banks and interest rates and I don't know how this theory you're describing expresses the higher level theories of people like Hayek and Popper in which the existing knowledge about those systems is expressed and which already has conclusions like diversity is good
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+so the third thing is that effective accelerationism believes that higher variance marketplaces and competition are better at identifying these patterns rather than top-down control because more variations are better evolutionarily
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+depending on what you mean by these patterns or evolutionarily I would agree with that prima facie I would say that it's all about knowledge and information rather than energy energy is a thing that's important in physics but it's not tremendously important in the economy like we need nuclear power but we need lots of things much more than we need nuclear power like liberty
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+so if we again separate the physics claims from the other claims of EAC the physics claims are kind of like plausible but you know no no particular reason to think it and then but the other claims namely that variance in marketplaces and competition is good
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+yes absolutely and I'm always saying that even by free market advocates and so on diversity is underrated
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+one of the things I was wondering about this is whether it's kind of applying group selection which is presumably an error
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+it might be yeah um and the fact that it's not obvious whether it is or not is it self-suspicious
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+well I mean again it could just be that I haven't researched it enough
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+yeah but by the way Hayek didn't get that group selection is bad it doesn't work
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+ah so for example wonder how much Hayek they've been reading yeah
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+so the fourth thing is that due to the nature of complex chaotic systems you can't predict them so even if you could see everything that was going on like you had a surveillance state panopticon top-down control uh like doesn't doesn't work isn't fault tolerant and you can't predict the future anyway
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+yes but chaotic is the least of it even a perfectly deterministic system running on a deterministic computer would have this property that it is unpredictable and what were the other things you said I mean all the all the things that they attribute to chaotic motion are complex complex yes complex they're all true of computer programs as well and that's the really the important thing because error correction of perfectly deterministic errors which were just caused by an error in the input are they have to be corrected as well and it's those that that are really when we talk about error correction in political systems in economic systems we're not talking about errors caused by small mistakes building up in microscopic mistakes building up we're talking about errors caused by microscopic mistakes building up we're talking about things where a theory is just false and that has to be corrected rather than entrenched that's much more important than the chaotic thing
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+ah because it's all about knowledge
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+yes exactly
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+so far it seems like the main difference apart physics thing is that you would focus on the knowledge that's being created and they focus on the dissipation of energy slash like fighting against entropy yes
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+so the fifth point is that instead of trying to slow all of this down like slow down all of this technological progress and make laws against developing technologies we should embrace the fact that the systems work this way so we should let these organisms or systems dynamically adapt and help this process accelerate and so basically like facilitate technological progress via the free market
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+yes unshackle it rather than promote its progress because promote it help it all imagines this superhuman
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+yeah that's actually one thing that I thought was really cool about EAC which is that they say look this process is happening anyway like you know what we can do is like participate or not like that those are our choices
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+well we can interfere we I mean we the government can interfere or we pundits can interfere and cause fads but which is a losing battle yes in the end but people people can be killed in losing battles I mean in winning battles
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+and so the final point is that and again these are this is my summary is that EAC doesn't care whether you're homo sapiens or silicon it just wants this process to happen and so what matters is consciousness or intelligence not the form that it takes and so it doesn't really matter if our squishy bodies die out and we all convert to silicon that is a good thing it is good if consciousness spreads throughout the universe yes
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+so um are all forms of acceleration of progress good and why or why not
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+to some extent it depends on things that we don't know for example if it turns out that qualia are not an automatic consequence of explanatory creativity then we would have a new moral problem of how to value the two in cases where they seem to conflict
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+can you dumb that down for me
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+well you just said that we shouldn't care or EAC doesn't care whether we're carbon or silicon but if it turns out which I don't which I do not for a moment believe but if it turns out that silicon implementations of explanatory creativity don't have feelings whereas carbon implementations do then we would have a new moral problem of whether or how much to favor carbon ones over silicon and this would arise even if it's only a short-term problem even if for the moment we were to know how to make AGIs without feelings but not yet know how to make AGIs with feelings then there would in the meantime until you know that must be soluble because of g but in the meantime we might know how to do one and not the other in which case there would be a moral problem about how many and how large AGIs without feelings we should make if any perhaps I mean you know depending on how it goes I don't think it's going to turn out like that but since we don't understand how to make AGI or what it really is it could happen
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+I myself am extremely skeptical of the idea that you could have consciousness without feelings or emotions but that is a podcast episode for another time my next question is what are your views on top down versus bottom up control of complex systems is bottom up always better
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+it depends on the institutions so it control modes of control are not fully described by saying that whether they're top down or bottom up and you might think that the extreme forms of bottom up are just as bad as the extreme forms of top down like for example Athenian democracy was not the best form of democracy and the general way of expressing what's important here is to say that what's important is not the direction of control or even how much control but what kind of institutions are implementing that control so Popper has this criterion for judging institutions of government or institutions of this control not by who is ruling whom who whom as lenin would say but by the extent to which to which bad ideas can be refuted can be abandoned without violence and it suddenly introduced the term violence which is which we haven't mentioned yet Popper brings it into fundamental epistemology or fundamental political philosophy that the answer to these questions about what is the best system of government or system of control is primarily in this property of the institutions it's also important to note that this is all done via institutions you can't just say it should be controlled by the people or by a majority of the people because that simply doesn't tell you what to do and it doesn't expose the problems that particular methods of doing this will raise so Popper's criterion is as far as I know the last word so far on the general problem of what is a good political system
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+cool well I think that's a good place to end it so thank you for that
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+you're welcome been fun
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+so I sent a draft of this podcast to the founders of effective accelerationism and there were some things that they wanted clarifying so here it is straight from the horse's mouth
 
 ### Beff Jezos
 

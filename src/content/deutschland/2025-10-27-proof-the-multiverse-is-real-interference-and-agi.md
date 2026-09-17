@@ -127,7 +127,19 @@ Why couldn't evolution have simply created minds that solve problems without any
 
 <span class="transcript-timestamp">00:15:38 - 00:18:23</span>
 
-Well, the process of evolution did solve many problems without any explanation. But natural problems, but not about abstract thinking, abstract math, physics revolutions. So that's what I mean. So there are fundamental limitations on the kind of creativity that evolution is capable of. One major thing it can't do is it can't jump over a conceptual gap. So if there is an organism which could do with a certain improvement, like if there's a lizard and it would really benefit the lizard if it could breathe fire like a dragon, then the only way that evolution can generate a new organism which can breathe fire would be to have a sequence of organisms in successive generations which could come closer and closer to the ability to breathe fire. And every single one of those would have to be not only a viable organism in its own right because it has to survive, to reproduce, to be mutated and so on, but also be useful because if it's not useful, then its competitors who didn't have that slight mutation would outbreed it. So it's very difficult therefore for evolution to cross a conceptual gap like that. Whereas thinking, we can say, imagine that you had a flying car. Now the flying car won't work if you just imagine it. I used to imagine all sorts of flying and swimming and underwater cars when I was a child and at first I did not try to bridge that conceptual gap. But the way that humans do bridge it when they do is not by making something, by making a sequence of things that starts with the first one and ends with the one with the new ability. They think of how to bring it about. That is the explanatory part and evolution doesn't have explanations.
+Well, the process of evolution did solve many problems without any explanation.
+
+### Maciej Kawecki
+
+<span class="transcript-timestamp">00:15:38 - 00:18:23</span>
+
+But natural problems, but not about abstract thinking, abstract math, physics revolutions. So that's what I mean.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:15:38 - 00:18:23</span>
+
+So there are fundamental limitations on the kind of creativity that evolution is capable of. One major thing it can't do is it can't jump over a conceptual gap. So if there is an organism which could do with a certain improvement, like if there's a lizard and it would really benefit the lizard if it could breathe fire like a dragon, then the only way that evolution can generate a new organism which can breathe fire would be to have a sequence of organisms in successive generations which could come closer and closer to the ability to breathe fire. And every single one of those would have to be not only a viable organism in its own right because it has to survive, to reproduce, to be mutated and so on, but also be useful because if it's not useful, then its competitors who didn't have that slight mutation would outbreed it. So it's very difficult therefore for evolution to cross a conceptual gap like that. Whereas thinking, we can say, imagine that you had a flying car. Now the flying car won't work if you just imagine it. I used to imagine all sorts of flying and swimming and underwater cars when I was a child and at first I did not try to bridge that conceptual gap. But the way that humans do bridge it when they do is not by making something, by making a sequence of things that starts with the first one and ends with the one with the new ability. They think of how to bring it about. That is the explanatory part and evolution doesn't have explanations.
 
 ### Maciej Kawecki
 

@@ -267,11 +267,17 @@ So I don't take either of the theories seriously when you get to that stage. So 
 
 I think we need to tease apart the different ways that we're approaching this question. We're using the word infinity in many different respects, the infinity in quantum mechanics is a radically different kind than the infinities in cosmology. I think we recognize that. I think there are then questions in epistemology, both from an experimental and observational point of view as George stresses and from perhaps a cognitive capacity, obviously escaping from hyenas and jaguars on the African plains did not by force give us the capacity to understand quantum mechanics. So our brains evolved for a certain thing. I think that's Sara's point. So I think rather than blur all these different ways of thinking together, we need to tease them apart and address them separately. So Sara, one more question for you is that in the measure problem in cosmology, because of all these infinities, and you know, and because of the nature of infinity, if something is even remotely possible, if it's not like putting it in reverse, it's not impossible in infinity to occur, then that almost impossible thing but not impossible will also occur an infinite number of times, maybe with the same level of infinity. So it becomes very complicated. If there were an infinite universe, which you don't believe, but let me put the counterfactual to you, how would, ...
 
+### Robert Lawrence Kuhn
+
+<span class="transcript-timestamp">00:31:43 - 00:32:40</span>
+
+How would, would there be implications for identifying intelligent aliens, which is your life calling?
+
 ### Sara Walker
 
 <span class="transcript-timestamp">00:31:43 - 00:32:40</span>
 
-How would, would there be implications for identifying intelligent aliens, which is your life calling? Yeah. So the interesting thing to me is that question doesn't actually make sense in an infinite universe. And what I mean by that is I think the fact that we live in a finite universe and there's some locality to where we are, is in part how I can explain our existence because the information is built up over time. Whereas I think if you think, you know, there's no new physics needed in life and biological things can just fluctuate into existence anywhere, it suggests to me that the information necessary to generate a living thing, a complex thing, exists at every point in space, time everywhere. And therefore there's nothing special about it and there's no evolution or knowledge to be gained by the actual physics in the system. And I don't subscribe to a philosophy where everywhere there exists the design of complex things.
+Yeah. So the interesting thing to me is that question doesn't actually make sense in an infinite universe. And what I mean by that is I think the fact that we live in a finite universe and there's some locality to where we are, is in part how I can explain our existence because the information is built up over time. Whereas I think if you think, you know, there's no new physics needed in life and biological things can just fluctuate into existence anywhere, it suggests to me that the information necessary to generate a living thing, a complex thing, exists at every point in space, time everywhere. And therefore there's nothing special about it and there's no evolution or knowledge to be gained by the actual physics in the system. And I don't subscribe to a philosophy where everywhere there exists the design of complex things.
 
 ### Robert Lawrence Kuhn
 
@@ -361,7 +367,13 @@ Okay, I don't think it gets you anywhere. I think we all agree that infinity is 
 
 <span class="transcript-timestamp">00:47:38 - 00:48:04</span>
 
-I think we should keep it as a theoretical concept with the statement. It doesn't occur in reality. So I think it's useful as a theoretical concept with this additional statement. It's not going to occur in reality, as I said, because no matter what you've done, how far you've gone, you have never even made the first step on the road to infinity. Sara, you want to get rid of infinity?
+I think we should keep it as a theoretical concept with the statement. It doesn't occur in reality. So I think it's useful as a theoretical concept with this additional statement. It's not going to occur in reality, as I said, because no matter what you've done, how far you've gone, you have never even made the first step on the road to infinity.
+
+### Robert Lawrence Kuhn
+
+<span class="transcript-timestamp">00:47:38 - 00:48:04</span>
+
+Sara, you want to get rid of infinity?
 
 ### Sara Walker
 

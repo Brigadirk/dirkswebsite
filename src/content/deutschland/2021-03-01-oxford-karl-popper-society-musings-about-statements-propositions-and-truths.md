@@ -355,13 +355,13 @@ It's not dog that doesn't. So in my story, it started off by saying there is a r
 
 <span class="transcript-timestamp">00:46:46 - 00:47:00</span>
 
-So if I talk about the sun revolves around the earth, the sun has a reference in physical reality, but that statement about the sun would be false. Yes. But I guess
+So if I talk about the sun revolves around the earth, the sun has a reference in physical reality, but that statement about the sun would be false. Yes. But I guess independent of whether that statement is true or false, what does it mean for the sun in that statement to refer to the thing in physical reality? So like what does it mean to pick out a thing in physical reality for the abstraction to refer to?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:47:02 - 00:47:32</span>
 
-Independent of whether that statement is true or false, what does it mean for the sun in that statement to refer to the thing in physical reality? So like what does it mean to pick out a thing in physical reality for the abstraction to refer to? The trick I thought of and there are probably many other tricks is to first refer to the whole of physical reality, and then define unambiguously various bits of it until you zoom in on the one you want to talk about.
+The trick I thought of and there are probably many other tricks is to first refer to the whole of physical reality, and then define unambiguously various bits of it until you zoom in on the one you want to talk about.
 
 ### Jake Orthwein
 
@@ -409,7 +409,13 @@ What I had in mind was, I've noticed with theories as they've gone through time,
 
 <span class="transcript-timestamp">00:51:36 - 00:52:31</span>
 
-Well, so first of all, if there was just a finite number, but it was 10 to the 500, we wouldn't be much better off. So if there was a finite number, and some people think that there's, eventually there will be a single mathematical object, which is the only reasonable one to theorize corresponds with the physical world. And I don't think that would be the end of the story either, because there'd always be the problem of why is that physical object, why is that, sorry, abstract object physically instantiated and not some other one? It couldn't itself contain the explanation of that. Yeah, I see what you mean there. Yeah. Well, thank you. Then I kind of have a, ...
+Well, so first of all, if there was just a finite number, but it was 10 to the 500, we wouldn't be much better off. So if there was a finite number, and some people think that there's, eventually there will be a single mathematical object, which is the only reasonable one to theorize corresponds with the physical world. And I don't think that would be the end of the story either, because there'd always be the problem of why is that physical object, why is that, sorry, abstract object physically instantiated and not some other one? It couldn't itself contain the explanation of that.
+
+### Toby
+
+<span class="transcript-timestamp">00:51:36 - 00:52:31</span>
+
+Yeah, I see what you mean there. Yeah. Well, thank you. Then I kind of have a, ...
 
 ### Sam Kuypers
 

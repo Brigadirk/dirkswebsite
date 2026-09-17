@@ -313,7 +313,25 @@ What about in the other direction? Translate explicit ideas into implicit ideas 
 
 <span class="transcript-timestamp">00:41:31 - 00:42:27</span>
 
-Yeah well that I can't give such a knockdown argument in favour of that but if that weren't so it would be a pretty nasty trick played on us by evolution because it would be a boot stamping on a human face forever. You mean because you could have an inexplicit hang-up and then you'd never be able to learn anything to improve that? Yes. So it sounds very implausible especially if it's true that all these things co-evolved together. So it's very implausible that a thing evolved which made for inevitable unpleasantness like inherently inside the brain. Are all inexplicit ideas able to be made explicit?
+Yeah well that I can't give such a knockdown argument in favour of that but if that weren't so it would be a pretty nasty trick played on us by evolution because it would be a boot stamping on a human face forever.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:41:31 - 00:42:27</span>
+
+You mean because you could have an inexplicit hang-up and then you'd never be able to learn anything to improve that?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:41:31 - 00:42:27</span>
+
+Yes. So it sounds very implausible especially if it's true that all these things co-evolved together. So it's very implausible that a thing evolved which made for inevitable unpleasantness like inherently inside the brain.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:41:31 - 00:42:27</span>
+
+Are all inexplicit ideas able to be made explicit?
 
 ### Lulie Tanett
 
@@ -439,7 +457,31 @@ and what do you mean by conscious
 
 <span class="transcript-timestamp">00:59:25 - 00:59:41</span>
 
-well again you know I don't have a theory of consciousness so I can't but what is this word doing in this sentence it's distinguishing that kind of thing from unconscious things like the person's heart rate increasing which are done by a process that I would call unconscious the person is not aware of it happening or if they are aware of it happening they're not causing it so non-biological or can you have unconscious thoughts yes you can have those too
+well again you know I don't have a theory of consciousness so I can't
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:59:25 - 00:59:41</span>
+
+but what is this word doing in this sentence
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:59:25 - 00:59:41</span>
+
+it's distinguishing that kind of thing from unconscious things like the person's heart rate increasing which are done by a process that I would call unconscious the person is not aware of it happening or if they are aware of it happening they're not causing it
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:59:25 - 00:59:41</span>
+
+so non-biological or can you have unconscious thoughts
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:59:25 - 00:59:41</span>
+
+yes you can have those too
 
 ### Lulie Tanett
 
