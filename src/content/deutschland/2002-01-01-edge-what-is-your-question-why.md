@@ -7,7 +7,10 @@ pubDate: 2002-01-01
 [Read the response at Edge](https://www.edge.org/response-detail/11271)
 [Source collection](https://deranfangderunendlichkeit.de/mehr)
 
-## How Are Moral Assertions Connected with the World of Facts?
+*How Are Moral Assertions Connected with the World of Facts?*
+
+## Transcript
+### David Deutsch
 
 Unlike many ancient philosophical problems, this one has, paradoxically, been made both more urgent and less tractable by the gradual triumph of scientific rationality. Indeed, the prevailing modern attitude towards it is a sort of dogmatic despair: ‘you can’t get an ought from an is, therefore morality must be outside the domain of reason’. Having fallen for that non-sequitur, one has only two options: either to embrace unreason, or to try living without ever making a moral judgement. In either case, one becomes a menace to oneself and everyone else.
 

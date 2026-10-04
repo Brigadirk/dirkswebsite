@@ -1,5 +1,5 @@
 ---
-title: '2007-01-27 - Why Are Flowers Beautiful'
+title: '2007-01-27 - David Deutsch - Why Are Flowers Beautiful'
 description: 'A lecture / Q&A from 2007-01-27, featuring Rachel Thomas, David Deutsch, Audience questioner, titled "Why Are Flowers Beautiful".'
 pubDate: 2007-01-27
 ---

@@ -69,7 +69,7 @@ Fair enough. Now this other gentleman, we also talked about one of my other hero
 
 <span class="transcript-timestamp">00:06:56 - 00:08:42</span>
 
-I think it would be generally conceded that Newton had the sort of, what would you call it, the more powerful mind of the two. In fact, I don't know that one should describe Einstein as having a powerful mind. I mean, he was bold and able to challenge I think he was able to challenge much more in the pre-existing theory that existed before him than Newton was. Newton was in a way, he really was building on Galileo and he was saying, yes, Descartes is wrong, but the kind of explanation that he gave for physics was the same kind as Descartes. He was just saying Descartes is wrong, it's not vortices, it's forces. Whereas Einstein and Newton of course was also a significant figure in the history of mathematics. He was an amazing mathematician. Well, Einstein was not an amazing mathematician. He had to ask the advice of mathematicians to formulate his theory properly. So I think they were different. I would say Einstein was the greatest physicist of all time. Newton may well have been the greatest, what would you call it, thinker or at least a stem thinker.
+I think it would be generally conceded that Newton had the sort of, what would you call it, the more powerful mind of the two. In fact, I don't know that one should describe Einstein as having a powerful mind. I mean, he was bold and able to challenge I think he was able to challenge much more in the pre-existing theory that existed before him than Newton was. Newton was in a way, he really was building on Galileo and he was saying, yes, Descartes is wrong, but the kind of explanation that he gave for physics was the same kind as Descartes. He was just saying Descartes is wrong, it's not vortices, it's forces. Whereas Einstein and Newton of course was also a significant figure in the history of mathematics. He was an amazing mathematician. Well, Einstein was not an amazing mathematician. He had to ask the advice of mathematicians to formulate his theory properly. So I think they were different. I would say Einstein was the greatest physicist of all time. Newton may well have been the greatest, what would you call it, thinker or at least a STEM thinker.
 
 ### Gad Saad
 
@@ -99,7 +99,7 @@ Yeah, and I think I met him to the extent of shaking hands, but no more than tha
 
 <span class="transcript-timestamp">00:09:36 - 00:10:59</span>
 
-Well, it's interesting that you say about the guy sitting in the back, levying all sorts of criticism because this guy, although it wasn't in this book, we did mention him briefly last time and you said that you met him. Richard Feynman tells a story in, not in this book, this is a biography, but in his, surely you must be joking Mr. Feynman. He tells a story where he went, he was a doctoral student, I think, was he at Princeton? Yes, I think so. And so he's giving the departmental talk, which I certainly had to do before I go out onto the academic market, which is a very ominous thing because all of the big brains are there to tear you to pieces. Now, in his case, all the people who are there in the audience happen to be some of the biggest physicists of the 20th century. And so as he's presenting his stuff, there were some guys that were very much a la Teller that you were saying, just kind of hammering him and so on. And this gentleman from the back row or something, turns out to be Einstein, says something to the effect of, don't you think we owe the young man the courtesy to allow him to finish his thoughts? And then we could start asking him. And then apparently after that, not a single peep out of anyone. So you don't have to shout loudly for people to respect you. Had you heard that story?
+Well, it's interesting that you say about the guy sitting in the back, levying all sorts of criticism because this guy, although it wasn't in this book, we did mention him briefly last time and you said that you met him. Richard Feynman tells a story in, not in this book, this is a biography, but in his, Surely You're Joking, Mr. Feynman! He tells a story where he went, he was a doctoral student, I think, was he at Princeton? Yes, I think so. And so he's giving the departmental talk, which I certainly had to do before I go out onto the academic market, which is a very ominous thing because all of the big brains are there to tear you to pieces. Now, in his case, all the people who are there in the audience happen to be some of the biggest physicists of the 20th century. And so as he's presenting his stuff, there were some guys that were very much a la Teller that you were saying, just kind of hammering him and so on. And this gentleman from the back row or something, turns out to be Einstein, says something to the effect of, don't you think we owe the young man the courtesy to allow him to finish his thoughts? And then we could start asking him. And then apparently after that, not a single peep out of anyone. So you don't have to shout loudly for people to respect you. Had you heard that story?
 
 ### David Deutsch
 
@@ -141,19 +141,19 @@ That's true.
 
 <span class="transcript-timestamp">00:14:46 - 00:17:14</span>
 
-Um, in physics, it's kind of, it's more the other way around. There are problems that are very easy to state, like is space finite or infinite? Right. And it sounds as though, you know, it should be straightforward to either work that out or look through a telescope or whatever, but it's not. It's the more you look at it, the more complicated it gets. And physicists have kept changing their minds on this issue, you know, on a time scale of a couple of decades. So that's why I always, I'm always reluctant to give an opinion on things like, is it really true that knowledge can continue forever, literally into infinity? And I try to explain that, it's not really a meaningful question because it depends on which cosmological model you believe, or you favor, I shouldn't say believe. And cosmological models are being overturned on a time scale of, you know, less than a generation. Right. So one would look very silly pontificating on the basis of the current theory. Right. So that's, I think it's, that's different from mathematics. For a start when, in mathematics, when something is proved, there's after a while, I mean, even Andrew Wiles' proof was first criticized and then he had to fix the mistakes. But, you know, after a while, after the consensus has settled down, the mathematical proofs are very rarely overturned. What often happens though, is that they become uninteresting. So, you know, people realize that there are wider ways of looking at these mathematical objects and, you know, there's a Pythagoras's theorem and there's better versions of Pythagoras's theorem and so on. But what's interesting, I mean, you said that sometimes we solve something and then it becomes uninteresting.
+Um, in physics, it's kind of, it's more the other way around. There are problems that are very easy to state, like is space finite or infinite? Right. And it sounds as though, you know, it should be straightforward to either work that out or look through a telescope or whatever, but it's not. It's the more you look at it, the more complicated it gets. And physicists have kept changing their minds on this issue, you know, on a time scale of a couple of decades. So that's why I always, I'm always reluctant to give an opinion on things like, is it really true that knowledge can continue forever, literally into infinity? And I try to explain that, it's not really a meaningful question because it depends on which cosmological model you believe, or you favor, I shouldn't say believe. And cosmological models are being overturned on a time scale of, you know, less than a generation. Right. So one would look very silly pontificating on the basis of the current theory. Right. So that's, I think it's, that's different from mathematics. For a start when, in mathematics, when something is proved, there's after a while, I mean, even Andrew Wiles' proof was first criticized and then he had to fix the mistakes. But, you know, after a while, after the consensus has settled down, the mathematical proofs are very rarely overturned. What often happens though, is that they become uninteresting. So, you know, people realize that there are wider ways of looking at these mathematical objects and, you know, there's a Pythagoras's theorem and there's better versions of Pythagoras's theorem and so on.
 
 ### Gad Saad
 
 <span class="transcript-timestamp">00:17:14 - 00:18:07</span>
 
-There's a similar point to be made as relating specifically to Fermat. When people ask me, well, you know, should we judge the value of research by its applicability potential? And then I usually bring up the example of many of Fermat's solutions sat for hundreds of years collecting dust until you then had cryptography where suddenly you have an application to these otherwise completely esoteric problems that nobody cared about for hundreds of years. So what are your thoughts on that? Do you think, are you an epistemological purist in the sense of there is knowledge to be discovered, all I care about is discovering it, I leave it for someone else to care about how I apply it? Or are you of the slightly less purist version?
+But what's interesting, I mean, you said that sometimes we solve something and then it becomes uninteresting. There's a similar point to be made as relating specifically to Fermat. When people ask me, well, you know, should we judge the value of research by its applicability potential? And then I usually bring up the example of many of Fermat's solutions sat for hundreds of years collecting dust until you then had cryptography where suddenly you have an application to these otherwise completely esoteric problems that nobody cared about for hundreds of years. So what are your thoughts on that? Do you think, are you an epistemological purist in the sense of there is knowledge to be discovered, all I care about is discovering it, I leave it for someone else to care about how I apply it? Or are you of the slightly less purist version?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:18:07 - 00:18:55</span>
 
-No, no, there needs to be applications to what I'm thinking about. I think there's a danger to researching into something that one isn't interested in. So this question of is this of fundamental importance or will it be of fundamental importance 200 years hence or forever or whatever, those are dangerous questions. Because if the answer is different from whatever you're burning to know, whatever you're burning to find out, then well, that's obviously a dangerous way to live one's life. Because even if you're right, you will have sacrificed your life and not find out until after you're dead that you were right.
+No, no, there needn't be applications to what I'm thinking about. I think there's a danger to researching into something that one isn't interested in. So this question of is this of fundamental importance or will it be of fundamental importance 200 years hence or forever or whatever, those are dangerous questions. Because if the answer is different from whatever you're burning to know, whatever you're burning to find out, then well, that's obviously a dangerous way to live one's life. Because even if you're right, you will have sacrificed your life and not find out until after you're dead that you were right.
 
 ### Gad Saad
 
@@ -201,7 +201,7 @@ Ah, he didn't make the changes.
 
 <span class="transcript-timestamp">00:23:28 - 00:23:35</span>
 
-He didn't know. And I think he must have backslid as soon as we went out the door, he must have backslid.
+He didn't, no. And I think he must have backslid as soon as we went out the door, he must have backslid.
 
 ### Gad Saad
 
@@ -225,7 +225,19 @@ Right. Yeah. Beautiful. Okay. So now I want to slightly segue to more political 
 
 <span class="transcript-timestamp">00:26:50 - 00:27:00</span>
 
-I think I have heard the story. Yes, go on. Oh, okay. So maybe you heard- He said something politically incorrect and they threw him out or something like that.
+I think I have heard the story. Yes, go on.
+
+### Gad Saad
+
+<span class="transcript-timestamp">00:26:50 - 00:27:00</span>
+
+Oh, okay. So maybe you heard-
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:26:50 - 00:27:00</span>
+
+He said something politically incorrect and they threw him out or something like that.
 
 ### Gad Saad
 
@@ -267,7 +279,7 @@ Yeah. Um, so I wouldn't have gone and I, it makes me suspicious of the story. Th
 
 <span class="transcript-timestamp">00:30:10 - 00:30:37</span>
 
-What if he's trying to argue precisely to your point that those two words should not be linked together, right? I mean, science frees us, as I explained in parasitic mind, it frees us from the shackles of our personal identities. That's why science is beautiful. So he went there, maybe naively thinking, well, wait a second. I will present objective, quantifiable bibliometrics that shows that your narrative is nonsense. Isn't that worthwhile?
+What if he's trying to argue precisely to your point that those two words should not be linked together, right? I mean, science frees us, as I explained in The Parasitic Mind, it frees us from the shackles of our personal identities. That's why science is beautiful. So he went there, maybe naively thinking, well, wait a second. I will present objective, quantifiable bibliometrics that shows that your narrative is nonsense. Isn't that worthwhile?
 
 ### David Deutsch
 
@@ -321,7 +333,19 @@ Okay. But the general idea for the listeners and viewers who don't know about hi
 
 <span class="transcript-timestamp">00:37:52 - 00:41:59</span>
 
-The study of human beings is only partly a science because of the inherent limitations of science. The most important one of which is that it's impossible for anyone to predict the growth of knowledge, to predict the course that knowledge will take in the future. And that is because if they could predict it today, then it wouldn't be in the future and they would know it today. So that's an argument due to Popper. And it means that there's a fundamental limitation on predictability in any of the human philosophies. Oh, you don't use the word sciences. I noticed you didn't say you're trying to be precise. If I'm trying to be precise. Yes. I mean, there are scientific aspects to the human sciences, such as say, psychology also deals with things like optical illusions and why an optical illusion happens in some situations and not in others and so on. But once we get to issues where human creativity is involved, human free will, and so on, then I think it's fundamentally impossible to predict the outcome of a of a human thought process or of the thought process of lots of humans. It is possible though to explain it retrospectively. And that's not ruled out by this Popper view of what sciences you can. My favorite example is you can explain the Napoleonic Wars and what happened. You can form a view about who the better general was, Napoleon or Wellington. You can form a view about who won, why Napoleon won the battle of Austerlitz and so on, why Napoleon fell and so on. But you could not have done that in 1800, no matter how much knowledge you had about the human condition and no matter how much data you had about previous battles. Because Napoleon was a phenomenon that either, depending on how you look at it, either it had never happened before or it had only happened a handful of times and they're sufficiently different in other ways to be able to draw a conclusion. And if there had been a way of drawing a conclusion, then Napoleon was very scientifically minded. You could have gone to him with your bit of paper and showed him the equations and said, look, if you continue like this, you'll lose. And he would have said, are we? And then he would have changed what he did. And that's really the same thing as Popper's argument. So you still couldn't have predicted it because you couldn't have predicted the effect of the thing that he did that was different from all those previous dictators or whatever you call Napoleon. So, and what's true of dictators, I think is true of every human being. I think there are no two humans alike. I think the difference between two humans is much greater than the difference between say two biological species. They, you know, like just like a species can go extinct through not creating the knowledge that would be necessary to survive. So a human can make arbitrarily large errors.
+The study of human beings is only partly a science because of the inherent limitations of science. The most important one of which is that it's impossible for anyone to predict the growth of knowledge, to predict the course that knowledge will take in the future. And that is because if they could predict it today, then it wouldn't be in the future and they would know it today. So that's an argument due to Popper. And it means that there's a fundamental limitation on predictability in any of the human philosophies.
+
+### Gad Saad
+
+<span class="transcript-timestamp">00:37:52 - 00:41:59</span>
+
+Oh, you don't use the word sciences. I noticed you didn't say you're trying to be precise.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:37:52 - 00:41:59</span>
+
+If I'm trying to be precise. Yes. I mean, there are scientific aspects to the human sciences, such as say, psychology also deals with things like optical illusions and why an optical illusion happens in some situations and not in others and so on. But once we get to issues where human creativity is involved, human free will, and so on, then I think it's fundamentally impossible to predict the outcome of a of a human thought process or of the thought process of lots of humans. It is possible though to explain it retrospectively. And that's not ruled out by this Popper view of what sciences you can. My favorite example is you can explain the Napoleonic Wars and what happened. You can form a view about who the better general was, Napoleon or Wellington. You can form a view about who won, why Napoleon won the battle of Austerlitz and so on, why Napoleon fell and so on. But you could not have done that in 1800, no matter how much knowledge you had about the human condition and no matter how much data you had about previous battles. Because Napoleon was a phenomenon that either, depending on how you look at it, either it had never happened before or it had only happened a handful of times and they're sufficiently different in other ways to be able to draw a conclusion. And if there had been a way of drawing a conclusion, then Napoleon was very scientifically minded. You could have gone to him with your bit of paper and showed him the equations and said, look, if you continue like this, you'll lose. And he would have said, are we? And then he would have changed what he did. And that's really the same thing as Popper's argument. So you still couldn't have predicted it because you couldn't have predicted the effect of the thing that he did that was different from all those previous dictators or whatever you call Napoleon. So, and what's true of dictators, I think is true of every human being. I think there are no two humans alike. I think the difference between two humans is much greater than the difference between say two biological species. They, you know, like just like a species can go extinct through not creating the knowledge that would be necessary to survive. So a human can make arbitrarily large errors.
 
 ### David Deutsch
 
@@ -339,13 +363,13 @@ Please say as many things as you want.
 
 <span class="transcript-timestamp">00:42:31 - 00:45:54</span>
 
-Well, it's about evolution. One way in which people purport to explain human behavior is that they draw an analogy with animal behavior and evolution. So now I think that such explanations are never true for various reasons, but they may look true because of the existence of memes. So if you say, you know, the reason that that men sometimes go mad with rage if they suspect that their mate is unfaithful, then you could say, well, that's because genes for doing that would survive better than genes for not doing that. But that's also true of memes. And the thing is that meme evolution is much more sensitive to selection pressures and much more sophisticated. So animals who try to keep their mates from having sex with other people, they can only use very crude methods. I mean, they don't know what a mate is. They don't know what an offspring is. They don't know that something in them wants to, you know, all they know is that if a young animal of that species smells wrong, they will kill it. You know, they don't know why they're doing that. Whereas a human can conjecture what they want to have a pure bloodline for, what they want it for. And it might have started with some ruler, some ancient prehistoric king or ruler, you know, saying to his son, you know, one day all this will be yours. And so why does he say that to his son and not to his daughter or to his adopted son or to his stepson? I think suppose that originally it was because he had a greater influence over his son. He thinks that his son, when he takes over, will continue to run all this wonderful thing that they have in the same way that he would, whereas with his other possible heirs, he's not so sure. And so he made sure that his wife was never out of his sight. And so his son also did because he was taking his father's advice. And so a meme was born. And the meme, I'm oversimplifying here, but the meme could have had the same underlying logic as the gene that you're imagining, but I don't think that gene exists or could exist. But the argument for why people behave like that might still be largely true. So, all right, so a lot to unpack there.
+Well, it's about evolution. One way in which people purport to explain human behavior is that they draw an analogy with animal behavior and evolution. So now I think that such explanations are never true for various reasons, but they may look true because of the existence of memes. So if you say, you know, the reason that that men sometimes go mad with rage if they suspect that their mate is unfaithful, then you could say, well, that's because genes for doing that would survive better than genes for not doing that. But that's also true of memes. And the thing is that meme evolution is much more sensitive to selection pressures and much more sophisticated. So animals who try to keep their mates from having sex with other people, they can only use very crude methods. I mean, they don't know what a mate is. They don't know what an offspring is. They don't know that something in them wants to, you know, all they know is that if a young animal of that species smells wrong, they will kill it. You know, they don't know why they're doing that. Whereas a human can conjecture what they want to have a pure bloodline for, what they want it for. And it might have started with some ruler, some ancient prehistoric king or ruler, you know, saying to his son, you know, one day all this will be yours. And so why does he say that to his son and not to his daughter or to his adopted son or to his stepson? I think suppose that originally it was because he had a greater influence over his son. He thinks that his son, when he takes over, will continue to run all this wonderful thing that they have in the same way that he would, whereas with his other possible heirs, he's not so sure. And so he made sure that his wife was never out of his sight. And so his son also did because he was taking his father's advice. And so a meme was born. And the meme, I'm oversimplifying here, but the meme could have had the same underlying logic as the gene that you're imagining, but I don't think that gene exists or could exist. But the argument for why people behave like that might still be largely true.
 
 ### Gad Saad
 
 <span class="transcript-timestamp">00:45:54 - 00:46:30</span>
 
-You're ready? You're passing your seat belt. Okay. So I think actually I agree with a lot of what you're saying, but they're covered in evolutionary theory. So number one, your distinction of genes and memes is in a sense I can read. Well, first of all, you're exactly right. We're both a biological and cultural animal. Hence that's why Richard Dawkins was right when he said, genetic evolution is the propagation of genes, memetic evolution is the propagation of our memes. You and I are having a conversation right now. People are going to consume that and those memes are going to live on in other people's brains.
+So, all right, so a lot to unpack there. You're ready? Fasten your seat belt. Okay. So I think actually I agree with a lot of what you're saying, but they're covered in evolutionary theory. So number one, your distinction of genes and memes is in a sense I can read. Well, first of all, you're exactly right. We're both a biological and cultural animal. Hence that's why Richard Dawkins was right when he said, genetic evolution is the propagation of genes, memetic evolution is the propagation of our memes. You and I are having a conversation right now. People are going to consume that and those memes are going to live on in other people's brains.
 
 ### David Deutsch
 
@@ -411,25 +435,49 @@ Well, you know, it's, it's, I'm glad we're talking about creativity because in m
 
 <span class="transcript-timestamp">01:01:02 - 01:01:10</span>
 
-Not only do I subscribe, I feel like clapping, but I may damage the microphone. Oh, that's great. I want to burst into applause. Oh, that's wonderful.
+Not only do I subscribe, I feel like clapping, but I may damage the microphone.
+
+### Gad Saad
+
+<span class="transcript-timestamp">01:01:02 - 01:01:10</span>
+
+Oh, that's great.
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:01:02 - 01:01:10</span>
+
+I want to burst into applause.
 
 ### Gad Saad
 
 <span class="transcript-timestamp">01:01:10 - 01:01:27</span>
 
-Okay. Well, so that's what I always tell people because I receive countless messages from people, you know, asking me what's the secret to life. And I say, well, you know, there are many, many elements, but just do something that instantiates your creative impulse. I mean, it's easier said than done, but ...
+Oh, that's wonderful. Okay. Well, so that's what I always tell people because I receive countless messages from people, you know, asking me what's the secret to life. And I say, well, you know, there are many, many elements, but just do something that instantiates your creative impulse. I mean, it's easier said than done, but that's the whole enchilada.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:01:27 - 01:02:52</span>
 
-That's the whole enchilada. I, you mentioned bus drivers. I think that there's a really nice article and I'll send you a link if I can find it written on the internet by somebody who had been an art history professor in Moscow. And then when it became possible for Jews to leave the country, he went to Israel and in Israel, he couldn't get a job as an art history professor. So he got a job as a street sweeper. Wow. And the article explains how he was happy as a street sweeper. And a few years later, I wrote, I read an article about him saying that after that he did get a job. His next job was an attendant at a multi-story car park. And after that, he wrote a book with all this stuff. And now, now he, he, he's an author. Oh, amazing. He, he, it's really beautiful the way he linked, not only could he be happy as a street sweeper, but it, it was integrally linked to his previous life as an art history professor. That's gorgeous. I'll try and, I'll try. Yeah, please do. And then I'll share it on, ...
+I, you mentioned bus drivers. I think that there's a really nice article and I'll send you a link if I can find it written on the internet by somebody who had been an art history professor in Moscow. And then when it became possible for Jews to leave the country, he went to Israel and in Israel, he couldn't get a job as an art history professor. So he got a job as a street sweeper. Wow. And the article explains how he was happy as a street sweeper. And a few years later, I wrote, I read an article about him saying that after that he did get a job. His next job was an attendant at a multi-story car park. And after that, he wrote a book with all this stuff. And now, now he, he, he's an author. Oh, amazing. He, he, it's really beautiful the way he linked, not only could he be happy as a street sweeper, but it, it was integrally linked to his previous life as an art history professor.
+
+### Gad Saad
+
+<span class="transcript-timestamp">01:01:27 - 01:02:52</span>
+
+That's gorgeous.
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:01:27 - 01:02:52</span>
+
+I'll try and, I'll try.
 
 ### Gad Saad
 
 <span class="transcript-timestamp">01:02:52 - 01:03:27</span>
 
-On my social media. That's amazing. All right. Let's, we, we promised the people that we're going to do at least a short, uh, foray into some of the stuff that keeps us both up at night. I mean, frankly, you are one of the few, uh, academics that I know that, you know, weighs in on some of these issues. I don't know why more people don't do them. They probably don't have the courage, but what are your thoughts about what's going on with the orgiastic global Jew hatred that we're seeing? By the way, for people who don't know, you are Jewish. You were born in Haifa. Um, I knew it, take it away.
+Yeah, please do. And then I'll share it on my social media. That's amazing. All right. Let's, we, we promised the people that we're going to do at least a short, uh, foray into some of the stuff that keeps us both up at night. I mean, frankly, you are one of the few, uh, academics that I know that, you know, weighs in on some of these issues. I don't know why more people don't do them. They probably don't have the courage, but what are your thoughts about what's going on with the orgiastic global Jew hatred that we're seeing? By the way, for people who don't know, you are Jewish. You were born in Haifa. Um, I knew it, take it away.
 
 ### David Deutsch
 
@@ -501,7 +549,7 @@ I don't think it's hatred usually, but carry on.
 
 <span class="transcript-timestamp">01:11:10 - 01:14:09</span>
 
-Right. So Amy Chua, who is a professor of law at Yale university, who is the mentor of JD Vance, the guy who's running with Donald Trump, she's, she's actually been on my show. She introduced the term, which is I think a very powerful one, although the concept has existed for millennia. She calls it market dominant minorities. So the Jews would be the epitome of that, but you could have the Chinese in Malaysia, or you could have, you know, I don't know, the Lebanese and Liberia where it's a very, very small group of people within a society that tend to be punching well above their weight class to speak colloquially. So notwithstanding the pogroms, as you said, your point is well taken where you could have dirt poor non-influential Jews that we still hate and want to exterminate. The general dynamic is you've got these people that definitely band together that have a very strong sense of self that are in a larger sea of other people where there's a clear delineation between blue team and red team. And yet those asshole minorities seem to be the top physicians and the top lawyers and the top movie producers and the top bankers and the top scientists and on and on and on. So now let's, so put that aside for a second. Now I'm going to introduce another concept from psychology, the self-serving bias. So the self-serving bias is where people attribute successes internally and failures externally. So I did really well on the exam, well, because I'm very smart. I did very poorly on the exam because Professor Deutsch is a Jewish asshole and he was so unfair on the exam. And that's just a natural way by which people navigate their lives because it's an ego protective mechanism. I did well because of me, I did poorly because of outside. Well, now imagine if I can be given a carte blanche for all my failures and it's called the Jew precisely because of the earlier dynamic I said. So if my wife cheats on me, well, who put those lascivious thoughts in her head? It's the pornographers who are led by Jews. So it's not my wife's fault that she cheated on me. It's because the Jews put that idea in her head. And of course, growing up in the Middle East, I can assure you David, and I grew up in progressive, modern, tolerant Lebanon, it's everywhere. If it rains today, it's the Jew. If it didn't rain today, it's the Jew. So could it be as simple as these two mechanisms? You take market dominant minorities, you bring in the self-serving bias, and now you've got the perfect conditions to ensure that we always have a ready explanation for why we failed. It's the Jew over there.
+Right. So Amy Chua, who is a professor of law at Yale university, who is the mentor of JD Vance, the guy who's running with Donald Trump, she's, she's actually been on my show. She introduced the term, which is I think a very powerful one, although the concept has existed for millennia. She calls it market dominant minorities. So the Jews would be the epitome of that, but you could have the Chinese in Malaysia, or you could have, you know, I don't know, the Lebanese in Liberia where it's a very, very small group of people within a society that tend to be punching well above their weight class to speak colloquially. So notwithstanding the pogroms, as you said, your point is well taken where you could have dirt poor non-influential Jews that we still hate and want to exterminate. The general dynamic is you've got these people that definitely band together that have a very strong sense of self that are in a larger sea of other people where there's a clear delineation between blue team and red team. And yet those asshole minorities seem to be the top physicians and the top lawyers and the top movie producers and the top bankers and the top scientists and on and on and on. So now let's, so put that aside for a second. Now I'm going to introduce another concept from psychology, the self-serving bias. So the self-serving bias is where people attribute successes internally and failures externally. So I did really well on the exam, well, because I'm very smart. I did very poorly on the exam because Professor Deutsch is a Jewish asshole and he was so unfair on the exam. And that's just a natural way by which people navigate their lives because it's an ego protective mechanism. I did well because of me, I did poorly because of outside. Well, now imagine if I can be given a carte blanche for all my failures and it's called the Jew precisely because of the earlier dynamic I said. So if my wife cheats on me, well, who put those lascivious thoughts in her head? It's the pornographers who are led by Jews. So it's not my wife's fault that she cheated on me. It's because the Jews put that idea in her head. And of course, growing up in the Middle East, I can assure you David, and I grew up in progressive, modern, tolerant Lebanon, it's everywhere. If it rains today, it's the Jew. If it didn't rain today, it's the Jew. So could it be as simple as these two mechanisms? You take market dominant minorities, you bring in the self-serving bias, and now you've got the perfect conditions to ensure that we always have a ready explanation for why we failed. It's the Jew over there.
 
 ### David Deutsch
 
@@ -513,13 +561,13 @@ Yes. I mean, you don't need the beginning with the market dominant thing. The wh
 
 <span class="transcript-timestamp">01:14:22 - 01:14:28</span>
 
-Fair enough. A colleague of mine, Matjaž Leonardis, proposed a similar theory.
+Fair enough.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:14:28 - 01:16:36</span>
 
-You're trying to answer the question, why the Jews? Because the Jews are the traditional thing to blame. So he said, it's like gold. Why do people use gold as money? Well, it's because people use gold as money. And it grew up sometime in prehistory, because yes, gold has some obvious properties that make it suitable for being money. It's very dense. It can't be destroyed. But there are other things. And some cultures have used silver, and some cultures have used large nuts and so on. But gold is amazingly prevalent in this role of being money, basically, because it always has been. It has some properties that might make it more suitable than many things. But the real reason is because it's already used. So similarly, with Jews, if you want to have a universal explanation for what ails you, then reaching for the Jews gives you a ready-made, I was going to say infrastructure, but it's a framework of theories. Yes. Ready-made framework of theories, because thousands of people have been there before you. There are thousands of books about this. And nowadays, thousands of books about what the origin of it is, all of which I disagree. But well done. I mean, you've come up with something very close to what I think is the best explanation so far.
+A colleague of mine, Matjaž Leonardis, proposed a similar theory. You're trying to answer the question, why the Jews? Because the Jews are the traditional thing to blame. So he said, it's like gold. Why do people use gold as money? Well, it's because people use gold as money. And it grew up sometime in prehistory, because yes, gold has some obvious properties that make it suitable for being money. It's very dense. It can't be destroyed. But there are other things. And some cultures have used silver, and some cultures have used large nuts and so on. But gold is amazingly prevalent in this role of being money, basically, because it always has been. It has some properties that might make it more suitable than many things. But the real reason is because it's already used. So similarly, with Jews, if you want to have a universal explanation for what ails you, then reaching for the Jews gives you a ready-made, I was going to say infrastructure, but it's a framework of theories. Yes. Ready-made framework of theories, because thousands of people have been there before you. There are thousands of books about this. And nowadays, thousands of books about what the origin of it is, all of which I disagree. But well done. I mean, you've come up with something very close to what I think is the best explanation so far.
 
 ### Gad Saad
 
@@ -561,7 +609,19 @@ As I always say to this question, I don't want to give advice because whenever y
 
 <span class="transcript-timestamp">01:23:12 - 01:23:51</span>
 
-Exactly. Never mind afterwards. Wonderfully said. Go get this book, people. Get The Fabric of Reality. David, in Arabic we say, I often tell this to people, whenever you leave someone and you know, Arabic is a very flowery poetic language, when you leave someone, a beautiful way to leave them is you say, I mean, I'm translating in English, it is impossible to be satiated of you. While this holds true for you, sir, what a pleasure it is to talk to you. It's my distinct honor and privilege to have had this much time with you. Stay on the line so we could say goodbye offline and come back. And vice versa. Thank you, sir. Thank you so much.
+Exactly.
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:23:12 - 01:23:51</span>
+
+Never mind afterwards.
+
+### Gad Saad
+
+<span class="transcript-timestamp">01:23:12 - 01:23:51</span>
+
+Wonderfully said. Go get this book, people. Get The Fabric of Reality. David, in Arabic we say, I often tell this to people, whenever you leave someone and you know, Arabic is a very flowery poetic language, when you leave someone, a beautiful way to leave them is you say, I mean, I'm translating in English, it is impossible to be satiated of you. While this holds true for you, sir, what a pleasure it is to talk to you. It's my distinct honor and privilege to have had this much time with you. Stay on the line so we could say goodbye offline and come back. And vice versa. Thank you, sir. Thank you so much.
 
 ### David Deutsch
 

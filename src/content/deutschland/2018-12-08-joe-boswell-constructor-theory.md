@@ -61,7 +61,7 @@ That's why constructor theory is a theory of principles from which you derive th
 
 <span class="transcript-timestamp">00:05:53 - 00:06:26</span>
 
-Okay, great. There's a famous quotation by the physicist Eddington who said that the laws of thermodynamics, especially the second law, are more fundamental than anything else in physics. He said, you know. if your theory violates the law of conservation of energy or whatever, then you will say so much the worst for the law of conservation of energy. But if it violates the second law of thermodynamics, then there's nothing left to do but for you to withdraw in shame, something like that.
+Okay, great. There's a famous quotation by the physicist Eddington who said that the laws of thermodynamics, especially the second law, are more fundamental than anything else in physics. He said, you know, if your theory violates the law of conservation of energy or whatever, then you will say so much the worse for the law of conservation of energy. But if it violates the second law of thermodynamics, then there's nothing left to do but for you to withdraw in shame, something like that.
 
 ### David Deutsch
 

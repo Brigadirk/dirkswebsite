@@ -1,5 +1,5 @@
 ---
-title: '2011-10-01 - What Now with Ken Rose'
+title: '2011-10-01 - What Now with Ken Rose - David Deutsch'
 description: 'An interview / discussion from What Now with Ken Rose, featuring Ken Rose and David Deutsch, titled "What Now with Ken Rose".'
 pubDate: 2011-10-01
 ---
@@ -134,7 +134,7 @@ OK.
 
 <span class="transcript-timestamp">00:02:09 - 00:03:25</span>
 
-In the Royal Society of London's announcement of Deutsch becoming a Fellow of the Royal Society a couple of years ago, the Society described Deutsch's contributions thus: "David Deutsch laid the foundations of the quantum theory of computation, and has subsequently made or participated in many of the most important advances in the field, including the discovery of the first quantum algorithms, the theory of quantum logic gates and quantum computational networks, the first quantum error-correction scheme, and several fundamental quantum universality results. He has set the agenda for worldwide research efforts in this new, interdisciplinary field, made progress in understanding its philosophical implications (via a variant of the many-universes interpretation) and made it comprehensible to the general public, notably in his book The Fabric of Reality." And the Fabric of Reality is some 14, maybe 15 years old now, and the new book, which is causing quite a buzz, is called The Beginning of Infinity. So, we're very privileged to have you on the show and welcome and thank you.
+In the Royal Society of London's announcement of Deutsch becoming a Fellow of the Royal Society a couple of years ago, the Society described Deutsch's contributions thus: "David Deutsch laid the foundations of the quantum theory of computation, and has subsequently made or participated in many of the most important advances in the field, including the discovery of the first quantum algorithms, the theory of quantum logic gates and quantum computational networks, the first quantum error-correction scheme, and several fundamental quantum universality results. He has set the agenda for worldwide research efforts in this new, interdisciplinary field, made progress in understanding its philosophical implications (via a variant of the many-universes interpretation) and made it comprehensible to the general public, notably in his book The Fabric of Reality." And The Fabric of Reality is some 14, maybe 15 years old now, and the new book, which is causing quite a buzz, is called The Beginning of Infinity. So, we're very privileged to have you on the show and welcome and thank you.
 
 ### David Deutsch
 

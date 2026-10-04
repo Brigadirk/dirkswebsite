@@ -296,7 +296,7 @@ Yes.
 
 <span class="transcript-timestamp">00:19:29 - 00:20:49</span>
 
-This is super interesting, because usually I think of the stuff from art of accomplishment as being this emotional development thing. But actually, in this decisions course that I did last year, there was also a very big emphasis on what they called principles. In their conception of principles, a principle is something that makes a decision easier to make, or makes it more efficient or more enjoyable. Basically, it gives you what we would call knowledge to make the decision by. In the course, you come up with a list of principles that you have for yourself, and then you test them, and then you figure out what works well. I was thinking about this, and I was thinking, huh, it's interesting that they have this thing that is apparently not about emotions at all. It's about this concrete thing that you believe, this idea. How does that fit into all of this? Then I realized, and then I was also thinking about how this might correspond to the kind of Popperian, the Deutschian framework. I realized the thing that they call principles is the same thing as what you and Popper unusually call institutions.
+This is super interesting, because usually I think of the stuff from Art of Accomplishment as being this emotional development thing. But actually, in this decisions course that I did last year, there was also a very big emphasis on what they called principles. In their conception of principles, a principle is something that makes a decision easier to make, or makes it more efficient or more enjoyable. Basically, it gives you what we would call knowledge to make the decision by. In the course, you come up with a list of principles that you have for yourself, and then you test them, and then you figure out what works well. I was thinking about this, and I was thinking, huh, it's interesting that they have this thing that is apparently not about emotions at all. It's about this concrete thing that you believe, this idea. How does that fit into all of this? Then I realized, and then I was also thinking about how this might correspond to the kind of Popperian, the Deutschian framework. I realized the thing that they call principles is the same thing as what you and Popper unusually call institutions.
 
 ### David Deutsch
 
@@ -320,7 +320,7 @@ Well, yes, but I don't know if it's a disagreement with what you said. It does s
 
 <span class="transcript-timestamp">00:21:58 - 00:23:10</span>
 
-That's not what I said at all. I said the principles of things you make up. You make it up. You're like, okay, so for example, one of my principles last year was it should be fun. The idea of this principle is that if I notice that I'm doing something, but it's not fun, or that I'm doing this work, and I'm kind of doing this work for some other reason, and so it's a principle that sort of invites me to look like, ah, maybe there is a way to make this more fun, or maybe this is actually the wrong thing for me to be doing. And this was a principle I kind of came up later on in the course, and all of these are just made up. I don't know, I could have a dozen principles, and you do. You brainstorm them. So I don't think they're making the error. It's not about looking deep inside you. It's the opposite almost. It's the emotion side. That's maybe more about the looking deep inside you, but the principle side is something, it's basically a list of the things, like your best guesses about what your ideas would say if you were, and it's not just what your ideas would say if you were consistent, but it's about actually testing and iterating on them until you actually get something that does work for you.
+That's not what I said at all. I said the principles are things you make up. You make it up. You're like, okay, so for example, one of my principles last year was it should be fun. The idea of this principle is that if I notice that I'm doing something, but it's not fun, or that I'm doing this work, and I'm kind of doing this work for some other reason, and so it's a principle that sort of invites me to look like, ah, maybe there is a way to make this more fun, or maybe this is actually the wrong thing for me to be doing. And this was a principle I kind of came up later on in the course, and all of these are just made up. I don't know, I could have a dozen principles, and you do. You brainstorm them. So I don't think they're making the error. It's not about looking deep inside you. It's the opposite almost. It's the emotion side. That's maybe more about the looking deep inside you, but the principle side is something, it's basically a list of the things, like your best guesses about what your ideas would say if you were, and it's not just what your ideas would say if you were consistent, but it's about actually testing and iterating on them until you actually get something that does work for you.
 
 ### David Deutsch
 
@@ -332,7 +332,7 @@ I thought that the principles were ultimately about your feelings.
 
 <span class="transcript-timestamp">00:23:23 - 00:24:19</span>
 
-No, that's the thing. I'm saying it surprised me initially that in art of accomplishment, which is often about, oh, if you just sort out your feelings, feel your feelings, then everything is easier. It has this other component. And so when before you said, oh, well, I think that's going too far. That's the mirror image of trying to analyze everything is just trying to use your emotions on everything. Well, actually, it's not like they have this other thing, which is the other sort of equally important thing. Now, I think they don't, well, they don't have the same explicit philosophy that we do on that, namely institutions and stuff. But so the reason that I think that it's similar. So, okay, first of all, the way that you use the word institutions is really weird. You use it in situations like a relationship institution is the set of practices and knowledge about how to interact with a given person. Like if you have a relationship institution between you and another person and ...
+No, that's the thing. I'm saying it surprised me initially that in Art of Accomplishment, which is often about, oh, if you just sort out your feelings, feel your feelings, then everything is easier. It has this other component. And so when before you said, oh, well, I think that's going too far. That's the mirror image of trying to analyze everything is just trying to use your emotions on everything. Well, actually, it's not like they have this other thing, which is the other sort of equally important thing. Now, I think they don't, well, they don't have the same explicit philosophy that we do on that, namely institutions and stuff. But so the reason that I think that it's similar. So, okay, first of all, the way that you use the word institutions is really weird. You use it in situations like a relationship institution is the set of practices and knowledge about how to interact with a given person. Like if you have a relationship institution between you and another person and ...
 
 ### David Deutsch
 
@@ -410,13 +410,13 @@ And what's the institutions that it is part of? It is a bit of? Well, it's... Yo
 
 <span class="transcript-timestamp">00:27:10 - 00:27:59</span>
 
-All sorts of theories participate in implementing or judging the principle It Should Be Fun. To call something an institution and really nothing hangs by what you call it, but I would call something an institution if it's to do with how we judge and expecting. So if you have that principle and you then... you have that institution, what that means is that you are in the state of mind where if something isn't fun, it'll raise a flag. And someone who doesn't, someone who says, you know, what would Jesus do or, you know, whatever, would simply wouldn't raise a flag. Their flag would be ...
+All sorts of theories participate in implementing or judging the principle It Should Be Fun. To call something an institution and really nothing hangs by what you call it, but I would call something an institution if it's to do with how we judge and expecting. So if you have that principle and you then... you have that institution, what that means is that you are in the state of mind where if something isn't fun, it'll raise a flag. And someone who doesn't, someone who says, you know, what would Jesus do or, you know, whatever, would simply wouldn't raise a flag. Their flag would be raised by something completely different.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:27:59 - 00:29:06</span>
 
-Raised by something completely different. And I guess this also fits into that when things are going well, you're not making decisions. You just have this creative process that is modified by your ideas about what qualifies as a good idea and what you want and so on. Yes. So yeah, I find this really interesting. So on a knowledge or information perspective, if we're thinking like, okay, how do we get the best things possible? How do we get the most knowledge or the best knowledge or the best ideas or the most progress and whatever? And how do you make better or worse decisions? And it sounds like there's two things happening here. One of them is that you have this what you want thingy, which isn't just an algorithmic here is all of the information and therefore this is the necessary option that we will choose because there's a well, what do you want in this situation, which might be considered the emotion side of it? Question mark?
+And I guess this also fits into that when things are going well, you're not making decisions. You just have this creative process that is modified by your ideas about what qualifies as a good idea and what you want and so on. Yes. So yeah, I find this really interesting. So on a knowledge or information perspective, if we're thinking like, okay, how do we get the best things possible? How do we get the most knowledge or the best knowledge or the best ideas or the most progress and whatever? And how do you make better or worse decisions? And it sounds like there's two things happening here. One of them is that you have this what you want thingy, which isn't just an algorithmic here is all of the information and therefore this is the necessary option that we will choose because there's a well, what do you want in this situation, which might be considered the emotion side of it? Question mark?
 
 ### David Deutsch
 
@@ -446,13 +446,19 @@ What detail would you add there?
 
 <span class="transcript-timestamp">00:29:34 - 00:30:18</span>
 
-Well, one thing I'd add is that our wants may be contradictory. So, you know, when you ask somebody, do you want another piece of cake? They might well they might express their answer in all sorts of ways, which have the wrong epistemology and whatever. But the fact is, there's a process running in their mind that does want the cake and there's a process that does not want the cake. And they're in conflict and one one or other of them will win unless unless they're losing that part of their breath. They've lost that part of their brain and they just sit there forever, not knowing whether they want the cake or not. That part of their brain, namely the part that can solve the problem.
+Well, one thing I'd add is that our wants may be contradictory. So, you know, when you ask somebody, do you want another piece of cake? They might well they might express their answer in all sorts of ways, which have the wrong epistemology and whatever. But the fact is, there's a process running in their mind that does want the cake and there's a process that does not want the cake. And they're in conflict and one one or other of them will win unless unless they're losing that part of their brain. They've lost that part of their brain and they just sit there forever, not knowing whether they want the cake or not. That part of their brain, namely the part that can solve the problem.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:30:18 - 00:30:36</span>
 
-Well, no, I mean, according to this theory that you told me a few minutes ago. Well, they're they just wouldn't have wants in the first place. And so it'd be difficult to Well, they must want to choose otherwise they'd get up and walk away.
+Well, no, I mean, according to this theory that you told me a few minutes ago. Well, they're they just wouldn't have wants in the first place. And so it'd be difficult to
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:30:18 - 00:30:36</span>
+
+Well, they must want to choose otherwise they'd get up and walk away.
 
 ### David Deutsch
 
@@ -470,13 +476,13 @@ Yeah, but there would be maybe it's something like the relative salience of the 
 
 <span class="transcript-timestamp">00:31:07 - 00:31:14</span>
 
-That's not true. If everything feels the same, you just take the first one. Why the ...
+That's not true. If everything feels the same, you just take the first one.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:31:14 - 00:31:40</span>
 
-First one? Why not the second one? Well, yeah, or you take the second one or walk away or huh? Yeah, what is happening when that when okay, so when your emotions get messed up by brain damage? I mean, there does seem to be a thing where depressed people have a difficult time doing anything. And so they just lie in bed.
+Why the first one? Why not the second one? Well, yeah, or you take the second one or walk away or huh? Yeah, what is happening when that when okay, so when your emotions get messed up by brain damage? I mean, there does seem to be a thing where depressed people have a difficult time doing anything. And so they just lie in bed.
 
 ### David Deutsch
 
@@ -494,13 +500,13 @@ I'm not sure that these two things conflict. Okay, so maybe what's happening is 
 
 <span class="transcript-timestamp">00:32:13 - 00:32:18</span>
 
-Yes, but it shouldn't though. That's double checking or something. That's a that's a ...
+Yes, but it shouldn't though. That's double checking or something. That's a that's a hang up.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:32:18 - 00:32:58</span>
 
-Hang up. I don't I don't know it's fully. Because you can get in the state of mind where you are doubting every I mean, it could be a hang up or a mistake, but you can get into the state of mind where you become a skeptic about everything. And so suddenly you're thinking, oh, why do I think this? Or why do I want this? And maybe I'm wrong about that. Let me just check. And then the let me just check. You know, this is a sort of a thing. It's almost like you have to re figure out your existing ideas or your why you believe things or something like I don't know, this is kind of running into the justificationist stuff.
+I don't I don't know it's fully. Because you can get in the state of mind where you are doubting every I mean, it could be a hang up or a mistake, but you can get into the state of mind where you become a skeptic about everything. And so suddenly you're thinking, oh, why do I think this? Or why do I want this? And maybe I'm wrong about that. Let me just check. And then the let me just check. You know, this is a sort of a thing. It's almost like you have to re figure out your existing ideas or your why you believe things or something like I don't know, this is kind of running into the justificationist stuff.
 
 ### David Deutsch
 
@@ -518,13 +524,13 @@ None of our ideas are true or complete. And so all of our ideas have some kind o
 
 <span class="transcript-timestamp">00:34:12 - 00:34:18</span>
 
-Well, have some kind of falsity with them, but not necessarily a problem. Well, if ...
+Well, have some kind of falsity with them, but not necessarily a problem.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:34:18 - 00:34:22</span>
 
-You encounter a falsity, then isn't that a problem?
+Well, if you encounter a falsity, then isn't that a problem?
 
 ### David Deutsch
 
@@ -800,4 +806,4 @@ Thank you for having me.
 
 <span class="transcript-timestamp">00:53:46 - 00:54:18</span>
 
-So fun fact. The reason I have this podcast in the first place is that I did this art of accomplishment, how to make great decisions course, and it's coming up in about a week. And you have until January 8th to sign up. And if you use my code LULI100, you get a discount of one hundred dollars. So I super recommend this course. It has been very life changing for me. And I hope to see you there because I'm also going to be in this cohort.
+So fun fact. The reason I have this podcast in the first place is that I did this Art of Accomplishment, how to make great decisions course, and it's coming up in about a week. And you have until January 8th to sign up. And if you use my code LULI100, you get a discount of one hundred dollars. So I super recommend this course. It has been very life changing for me. And I hope to see you there because I'm also going to be in this cohort.

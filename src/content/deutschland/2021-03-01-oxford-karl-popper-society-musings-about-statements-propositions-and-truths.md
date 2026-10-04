@@ -13,13 +13,13 @@ pubDate: 2021-03-01
 
 <span class="transcript-timestamp">00:00:00 - 00:00:59</span>
 
-Good afternoon, everyone. Thanks very much for joining us. Today we have David Deutsch, author of The Beginning of Infinity and Fabric of Reality and physicist at Oxford. And David will talk about truth and propositions. And we have a slightly different format today, because David will be giving a kind of, this will be a conversation. So David will give a brief couple of remarks on the topic, and then we will have a discussion with David. And I think first Liberty and I will join into the discussion and later on we'll open it up for everyone. And with that being said, I give the floor to David. David, thanks for joining us at ...
+Good afternoon, everyone. Thanks very much for joining us. Today we have David Deutsch, author of The Beginning of Infinity and Fabric of Reality and physicist at Oxford. And David will talk about truth and propositions. And we have a slightly different format today, because David will be giving a kind of, this will be a conversation. So David will give a brief couple of remarks on the topic, and then we will have a discussion with David. And I think first Liberty and I will join into the discussion and later on we'll open it up for everyone. And with that being said, I give the floor to David. David, thanks for joining us at the Popper Society.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:00:59 - 00:05:58</span>
 
-The Popper Society. Hi, well, thanks for having me. It's statements, propositions and truth that I'm going to muse about. And the context in which I was musing is, first of all, Tarski's theory of truth as adopted by Popper, which is called correspondence theory of truth. And the idea is that a statement is true if it corresponds to the facts. So if I can, yes. Right. Now, there's a statement, and there is a fact. And that statement is true if and only if that really is a dog. And that's the correspondence theory of truth. And I thought it was satisfactory, and I believed Popper's treatment of it. But I started musing further about this in conversations with Lulie Tanett and other people, and also because of the talk that was given here by Danny Frederick about a slightly different issue, whether truth can be our epistemic aim. Not quite sure what he meant, but in any case, I realized that my own conception of truth was somewhat flawed. And I came up with some ideas to fix it, which I could have called it a simple theory that resolves all your misgivings about truth. Of course, it might not resolve all your misgivings. It might not be true, or it might be true but not original to me, in which case it's most likely to be found somewhere in Popper. Anyway, so there's a problem. What is the problem? Well, for a start, that's not a dog. That differs from a dog in a number of really vital ways. For a start, it's a cartoon. No dog actually looks like that. And secondly, when I say this is a dog, how do you know that I'm referring to that dog and not to some elephant that's in the room? So it might be referring to the elephant in the room, and then it would be false. And so I could make it more precise by saying on this page, this is a dog. That's more precise. But you see the point. I could go on adding qualifiers and explanations and so on, ad infinitum, and it still wouldn't be completely unambiguous. Yet reality is completely unambiguous. So how can an ambiguous thing correspond to an unambiguous thing? So that's one thing that's the problem. Something that's perfect and objective but not directly perceptible, that's the dog. How can that correspond to something that's imperfect, parochial, and perceptible, which is any kind of statement about a dog? Anything physical is like an idea in our brain or a statement in words, which can never be perfect, so it can never be perfectly true, nor can it be perfectly precise and perfectly unambiguous. So by the way, there's also a meta-language involved in this theory of truth, which says something like that, and this is true if this is a dog. So that's a statement in the meta-language. So there's a sort of triangle here of a statement and some reality and a meta-statement.
+Hi, well, thanks for having me. It's statements, propositions and truth that I'm going to muse about. And the context in which I was musing is, first of all, Tarski's theory of truth as adopted by Popper, which is called correspondence theory of truth. And the idea is that a statement is true if it corresponds to the facts. So if I can, yes. Right. Now, there's a statement, and there is a fact. And that statement is true if and only if that really is a dog. And that's the correspondence theory of truth. And I thought it was satisfactory, and I believed Popper's treatment of it. But I started musing further about this in conversations with Lulie Tanett and other people, and also because of the talk that was given here by Danny Frederick about a slightly different issue, whether truth can be our epistemic aim. Not quite sure what he meant, but in any case, I realized that my own conception of truth was somewhat flawed. And I came up with some ideas to fix it, which I could have called it a simple theory that resolves all your misgivings about truth. Of course, it might not resolve all your misgivings. It might not be true, or it might be true but not original to me, in which case it's most likely to be found somewhere in Popper. Anyway, so there's a problem. What is the problem? Well, for a start, that's not a dog. That differs from a dog in a number of really vital ways. For a start, it's a cartoon. No dog actually looks like that. And secondly, when I say this is a dog, how do you know that I'm referring to that dog and not to some elephant that's in the room? So it might be referring to the elephant in the room, and then it would be false. And so I could make it more precise by saying on this page, this is a dog. That's more precise. But you see the point. I could go on adding qualifiers and explanations and so on, ad infinitum, and it still wouldn't be completely unambiguous. Yet reality is completely unambiguous. So how can an ambiguous thing correspond to an unambiguous thing? So that's one thing that's the problem. Something that's perfect and objective but not directly perceptible, that's the dog. How can that correspond to something that's imperfect, parochial, and perceptible, which is any kind of statement about a dog? Anything physical is like an idea in our brain or a statement in words, which can never be perfect, so it can never be perfectly true, nor can it be perfectly precise and perfectly unambiguous. So by the way, there's also a meta-language involved in this theory of truth, which says something like that, and this is true if this is a dog. So that's a statement in the meta-language. So there's a sort of triangle here of a statement and some reality and a meta-statement.
 
 ### David Deutsch
 
@@ -79,7 +79,7 @@ Well I must say I didn't entirely understand his sceptical view, it was directed
 
 <span class="transcript-timestamp">00:21:54 - 00:22:01</span>
 
-Right, so this is not trying to address the kind of skepticism that Danny was advocating? I don't think so.
+Right, so this is not trying to address the kind of skepticism that Danny was advocating?
 
 ### David Deutsch
 
@@ -127,7 +127,7 @@ But I really am.
 
 <span class="transcript-timestamp">00:24:40 - 00:24:51</span>
 
-We fallibly guess that you really are. Cool. I see there's some more people who have questions, specifically Luli, as her hand raised. Luli, go ahead.
+We fallibly guess that you really are. Cool. I see there's some more people who have questions, specifically Lulie, has her hand raised. Lulie, go ahead.
 
 ### Lulie Tanett
 
@@ -145,7 +145,19 @@ I think it, whenever we say anything, we're about the world, let's say, we're do
 
 <span class="transcript-timestamp">00:26:27 - 00:26:37</span>
 
-So there's no such thing as a purely abstract statement? Sorry? So there's no such thing as a purely abstract statement or a purely non-abstract statement?
+So there's no such thing as a purely abstract statement?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:26:27 - 00:26:37</span>
+
+Sorry?
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:26:27 - 00:26:37</span>
+
+So there's no such thing as a purely abstract statement or a purely non-abstract statement?
 
 ### David Deutsch
 
@@ -157,7 +169,7 @@ Well, there is no such thing as, yeah, I see what you mean. Yes, well we can't u
 
 <span class="transcript-timestamp">00:28:02 - 00:28:13</span>
 
-Right, then I think I have another question, which is that, unless Luli wants to expand on her question, I hope I'm not interrupting. If not then...
+Right, then I think I have another question, which is that, unless Lulie wants to expand on her question, I hope I'm not interrupting. If not then...
 
 ### Lulie Tanett
 
@@ -169,25 +181,25 @@ No, go ahead.
 
 <span class="transcript-timestamp">00:28:15 - 00:28:50</span>
 
-Your idea of a statement is that purely linguistic? Because, for example, you were talking about the cartoon dog at the beginning of the presentation and it's basically... That also seems to be, in some sense, a statement, so it seems to be about not just sentences that we can construct, but also the cartoon dog is a statement that corresponds to some abstraction. Yes, I don't know... Okay, I hadn't thought of that.
+Your idea of a statement is that purely linguistic? Because, for example, you were talking about the cartoon dog at the beginning of the presentation and it's basically... That also seems to be, in some sense, a statement, so it seems to be about not just sentences that we can construct, but also the cartoon dog is a statement that corresponds to some abstraction.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:28:52 - 00:30:08</span>
 
-You could call this dog... You could call this mark that I made here... You could call that a statement, because... But it would normally be called more like something like a model or a representation. Statements, models, representations, and utterances, and sentences written down, all those things... The important thing from my point of view here is that those are all physical objects, and so they can't have the property of being true or false. But yes, this cartoon is, for present purposes, it's a statement about a dog, but I want, in this context, I want you to take that as if it was a real dog, so that I can talk about whether that other statement there on the left refers to it or not, or corresponds to it or not. But I can't, no matter how I try to talk about abstractions or reality, I can't directly represent them. I can only represent them as physical objects that aren't them. I see. Okay, thanks. Then Charles, I see
+Yes, I don't know... Okay, I hadn't thought of that. You could call this dog... You could call this mark that I made here... You could call that a statement, because... But it would normally be called more like something like a model or a representation. Statements, models, representations, and utterances, and sentences written down, all those things... The important thing from my point of view here is that those are all physical objects, and so they can't have the property of being true or false. But yes, this cartoon is, for present purposes, it's a statement about a dog, but I want, in this context, I want you to take that as if it was a real dog, so that I can talk about whether that other statement there on the left refers to it or not, or corresponds to it or not. But I can't, no matter how I try to talk about abstractions or reality, I can't directly represent them. I can only represent them as physical objects that aren't them.
 
 ### Sam Kuypers
 
 <span class="transcript-timestamp">00:30:08 - 00:30:23</span>
 
-Charles has his hand raised. Go ahead. Yes, I'm going to go to Charles. His hand raised. Go ahead.
+I see. Okay, thanks. Then Charles, I see Charles has his hand raised. Go ahead. Yes, I'm going to go to Charles. His hand raised. Go ahead.
 
 ### Charles Bédard
 
 <span class="transcript-timestamp">00:30:26 - 00:31:57</span>
 
-Yes, okay. Thank you. Hi. Thank you, David. Well, it's not a question. It's many ideas that I think would be quite cute to relate with other ideas of yours. I recently came about the chapter five of the fabric of reality, in which you speak about the Turing principle in a very grandiose way. Namely, I was kind of aware of the idea that computer programs can be put into correspondence with simulations of physical systems, but the chapter ends with the idea that not only physical systems can be, or virtual reality rendering of physical system can be given by computer programs, but also virtual reality renderings of abstract entities. So all that what mathematicians think and all men are mortal, can be also in a sense thought of abstract renderings. Well, no, virtual reality renderings of abstract entities. So the quest of science as search for truth in this context of trying to get a map between our virtual reality renderings of the reality out there can actually make sense, no? Because this is what we're kind of trying to do to get our ideas to correspond to the physical world.
+Yes, okay. Thank you. Hi. Thank you, David. Well, it's not a question. It's many ideas that I think would be quite cute to relate with other ideas of yours. I recently came about the chapter five of The Fabric of Reality, in which you speak about the Turing principle in a very grandiose way. Namely, I was kind of aware of the idea that computer programs can be put into correspondence with simulations of physical systems, but the chapter ends with the idea that not only physical systems can be, or virtual reality rendering of physical system can be given by computer programs, but also virtual reality renderings of abstract entities. So all that what mathematicians think and all men are mortal, can be also in a sense thought of abstract renderings. Well, no, virtual reality renderings of abstract entities. So the quest of science as search for truth in this context of trying to get a map between our virtual reality renderings of the reality out there can actually make sense, no? Because this is what we're kind of trying to do to get our ideas to correspond to the physical world.
 
 ### David Deutsch
 
@@ -229,7 +241,7 @@ But how do we understand them if we don't give ourselves some theory in some vir
 
 <span class="transcript-timestamp">00:34:56 - 00:35:30</span>
 
-For example, most mathematicians think that p doesn't equal np. And it could be true that p doesn't equal np. Suppose it's true and suppose it's not decidable. Well, we can still perfectly well have a theory that p doesn't equal np. It doesn't stop us at all. The fact is undecidable. We can even argue for and against that proposition. Because argument isn't proof. And by the way, proof is useless without explanatory argument.
+For example, most mathematicians think that P doesn't equal NP. And it could be true that P doesn't equal NP. Suppose it's true and suppose it's not decidable. Well, we can still perfectly well have a theory that P doesn't equal NP. It doesn't stop us at all. The fact is undecidable. We can even argue for and against that proposition. Because argument isn't proof. And by the way, proof is useless without explanatory argument.
 
 ### Sam Kuypers
 
@@ -241,7 +253,7 @@ Yeah, I think that's a very nice point because obviously mathematicians do resea
 
 <span class="transcript-timestamp">00:35:56 - 00:36:39</span>
 
-Yes. And before they can prove anything, they will have had a conjecture. A mathematician could spend 10 years proving that such and such as such a proposition is undecidable. But that's because the mathematician will have had arguments in mind that not only that it is undecidable, but that there's a way of proving it and so on. And if he fails to prove it, he may still think it's undecidable. And I think p doesn't equal np is a good example of how easily that can be true. Everybody believes that. And it could be that nobody will ever prove it.
+Yes. And before they can prove anything, they will have had a conjecture. A mathematician could spend 10 years proving that such and such as such a proposition is undecidable. But that's because the mathematician will have had arguments in mind that not only that it is undecidable, but that there's a way of proving it and so on. And if he fails to prove it, he may still think it's undecidable. And I think P doesn't equal NP is a good example of how easily that can be true. Everybody believes that. And it could be that nobody will ever prove it.
 
 ### Sam Kuypers
 
@@ -295,7 +307,19 @@ Yes. Well, you're quite right that there could be an abstraction. There are abst
 
 <span class="transcript-timestamp">00:39:22 - 00:40:04</span>
 
-But doesn't that like threaten a kind of infinite recursion there where it's never actually getting explained how it is that say the referent of particles picks out certain things in the world and not others? I just lost David's face on the screen there. I'm still here. Yeah. So the question is like, so it's not so much whether this description of particles is true of the world. It's what does it mean to pick out some subset of the world and designate particles and therefore have this reference relationship between-
+But doesn't that like threaten a kind of infinite recursion there where it's never actually getting explained how it is that say the referent of particles picks out certain things in the world and not others? I just lost David's face on the screen there.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:39:22 - 00:40:04</span>
+
+I'm still here.
+
+### Jake Orthwein
+
+<span class="transcript-timestamp">00:39:22 - 00:40:04</span>
+
+Yeah. So the question is like, so it's not so much whether this description of particles is true of the world. It's what does it mean to pick out some subset of the world and designate particles and therefore have this reference relationship between-
 
 ### David Deutsch
 
@@ -391,7 +415,19 @@ Might be a more efficient way. Okay, then I think Toby is next. Toby, go ahead.
 
 <span class="transcript-timestamp">00:47:58 - 00:48:43</span>
 
-Yes, in your book, I think you wrote that there's only a finite number of abstractions that could apply to the physical world, namely the computable abstractions. The countable number, yeah. The countable, yeah. So is it possible if there is a finite number of abstractions that could apply to physical theories or unique physical theories that we could rescue Popper's theory of truth-likeness so that we can get close to the truth because there's only a finite number of different physical theories we could discover?
+Yes, in your book, I think you wrote that there's only a finite number of abstractions that could apply to the physical world, namely the computable abstractions.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:47:58 - 00:48:43</span>
+
+The countable number, yeah.
+
+### Toby
+
+<span class="transcript-timestamp">00:47:58 - 00:48:43</span>
+
+The countable, yeah. So is it possible if there is a finite number of abstractions that could apply to physical theories or unique physical theories that we could rescue Popper's theory of truth-likeness so that we can get close to the truth because there's only a finite number of different physical theories we could discover?
 
 ### David Deutsch
 
@@ -439,7 +475,19 @@ Yes. Yeah, I think that's a very nice reply. And I also have what is kind of a d
 
 <span class="transcript-timestamp">00:57:29 - 00:58:21</span>
 
-Well, again, we can't be sure. And if the arithmetic of the integers really is inconsistent, then we're talking nonsense most of the time. At least we're talking nonsense in the sense of logical implications of what we say, but not in the sense of problem solving. All our theories are false. That doesn't mean they don't contain knowledge. And a theory such as... oops, why does it keep doing that? Can you see the dog again? Yeah, we can see the dog again. Weird. Yes, sorry, lost my train of thought.
+Well, again, we can't be sure. And if the arithmetic of the integers really is inconsistent, then we're talking nonsense most of the time. At least we're talking nonsense in the sense of logical implications of what we say, but not in the sense of problem solving. All our theories are false. That doesn't mean they don't contain knowledge. And a theory such as... oops, why does it keep doing that? Can you see the dog again?
+
+### Sam Kuypers
+
+<span class="transcript-timestamp">00:57:29 - 00:58:21</span>
+
+Yeah, we can see the dog again.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:57:29 - 00:58:21</span>
+
+Weird. Yes, sorry, lost my train of thought.
 
 ### Sam Kuypers
 
@@ -481,19 +529,19 @@ I have a question about mathematical truth. I mean, some more technical question
 
 <span class="transcript-timestamp">01:01:32 - 01:02:08</span>
 
-Yes. So I disagree with those philosophers of mathematics. I think that a perfectly well-formed mathematical proposition is either true or false independently of whether it is decidable or not. And decidable is in any case a matter of physics. So it seems to me ridiculous to base a theory of mathematical abstractions on what physics does or does not happen to be able to model. Well, I mean, I'm not sure whether set theory is really about physics because it ...
+Yes. So I disagree with those philosophers of mathematics. I think that a perfectly well-formed mathematical proposition is either true or false independently of whether it is decidable or not. And decidable is in any case a matter of physics. So it seems to me ridiculous to base a theory of mathematical abstractions on what physics does or does not happen to be able to model.
 
 ### Teknu
 
 <span class="transcript-timestamp">01:02:08 - 01:02:13</span>
 
-Postulates a lot of infinities that go beyond anything that physics might study. Oh, that ...
+Well, I mean, I'm not sure whether set theory is really about physics because it postulates a lot of infinities that go beyond anything that physics might study.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:02:13 - 01:03:45</span>
 
-Doesn't matter. It's not the sets that have to be finite. It's the method of proof. So it is that mathematics assumes that a proof is a finite sequence of propositions, each of which follows from the previous ones by rules of inference, which are also finite. They're finitely many of them. They're finitely long and so on. And the proof is a finite one of those. And finite here just means can be instantiated in a physical object. It's perfectly possible, logically possible, that physics is different from the way we think it is and that the rules of inference are really either more extensive than we think or less extensive. And it could be that the continuum hypothesis could be added as an axiom and actually be true of something such as the infinite things that we want to talk about. P equals NP is maybe a better example because doesn't the continuum hypothesis thing rest on the fact that there could be models in which it's true and models in which it isn't true.
+Oh, that doesn't matter. It's not the sets that have to be finite. It's the method of proof. So it is that mathematics assumes that a proof is a finite sequence of propositions, each of which follows from the previous ones by rules of inference, which are also finite. They're finitely many of them. They're finitely long and so on. And the proof is a finite one of those. And finite here just means can be instantiated in a physical object. It's perfectly possible, logically possible, that physics is different from the way we think it is and that the rules of inference are really either more extensive than we think or less extensive. And it could be that the continuum hypothesis could be added as an axiom and actually be true of something such as the infinite things that we want to talk about. P equals NP is maybe a better example because doesn't the continuum hypothesis thing rest on the fact that there could be models in which it's true and models in which it isn't true.
 
 ### Teknu
 
@@ -541,7 +589,19 @@ Yeah, I'm thinking that if you'd say that about the liar sentence, which doesn't
 
 <span class="transcript-timestamp">01:06:16 - 01:06:39</span>
 
-Yes. So proposition also has to be perfectly precise and unambiguous. So I think those, by the way, I think that particular one is a language meta language error. Yeah, I know. I guess you can have it for the cycles back, but it's more explicit if you Okay, yeah. Well, if something doesn't make sense, it's not a proposition.
+Yes. So proposition also has to be perfectly precise and unambiguous. So I think those, by the way, I think that particular one is a language meta language error.
+
+### Teknu
+
+<span class="transcript-timestamp">01:06:16 - 01:06:39</span>
+
+Yeah, I know. I guess you can have it for the cycles back, but it's more explicit if you
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:06:16 - 01:06:39</span>
+
+Okay, yeah. Well, if something doesn't make sense, it's not a proposition.
 
 ### Sam Kuypers
 
@@ -703,15 +763,15 @@ All right. Thank you very much.
 
 <span class="transcript-timestamp">01:24:00 - 01:24:05</span>
 
-Thank you for your question. And then we have Mike Skiba.
+Thank you for your question. And then we have Mike Skiba. Go ahead.
 
 ### Mike Skiba
 
 <span class="transcript-timestamp">01:24:06 - 01:24:19</span>
 
-Go ahead. All right. Hi, David. Thank you, Sam. So yeah, early on the discussion, you mentioned P and NP, and you described P as like a propositional variable, which, ...
+All right. Hi, David. Thank you, Sam. So yeah, early on the discussion, you mentioned P and NP, and you described P as like a propositional variable, which, ...
 
-### Sam Kuypers
+### Mike Skiba
 
 <span class="transcript-timestamp">01:24:19 - 01:24:20</span>
 
@@ -721,7 +781,19 @@ Yeah, I think
 
 <span class="transcript-timestamp">01:24:20 - 01:24:32</span>
 
-Is an interesting concept. And I was wondering- Sorry, that was a different P. Oh, sorry, a different P in terms of the NP? Yeah, yeah. Or P and not P, were you saying? We still have it all.
+Is an interesting concept. And I was wondering-
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:24:20 - 01:24:32</span>
+
+Sorry, that was a different P.
+
+### Mike Skiba
+
+<span class="transcript-timestamp">01:24:20 - 01:24:32</span>
+
+Oh, sorry, a different P in terms of the NP? Yeah, yeah. Or P and not P, were you saying? We still have it all.
 
 ### David Deutsch
 
@@ -763,25 +835,37 @@ No, that's helpful. Yeah, just because knowing the laws of physics and what they
 
 <span class="transcript-timestamp">01:26:47 - 01:28:01</span>
 
-Great. Okay, then I have a final question before we end the talk. So in your construction, there's really two worlds. There's the world- Well, it seems like there's three worlds. There's the world of statements, propositions, and reality. Yeah, statements are part of physical reality. Yes, and we are guessing at both of them in a sense. We're guessing at the statements and we're guessing at reality through guessing at statements. And so part of what we do when we try to learn about something is being as precise as necessary. Do you think that this means that paradoxes are problems that can be resolved? They're problems with how we think about the abstraction. So if someone utters the liar's paradox, they're being imprecise, but they're meaning something real, and we can make progress in our thinking about the propositions as well.
+Great. Okay, then I have a final question before we end the talk. So in your construction, there's really two worlds. There's the world- Well, it seems like there's three worlds. There's the world of statements, propositions, and reality.
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:26:47 - 01:28:01</span>
+
+Yeah, statements are part of physical reality.
+
+### Sam Kuypers
+
+<span class="transcript-timestamp">01:26:47 - 01:28:01</span>
+
+Yes, and we are guessing at both of them in a sense. We're guessing at the statements and we're guessing at reality through guessing at statements. And so part of what we do when we try to learn about something is being as precise as necessary. Do you think that this means that paradoxes are problems that can be resolved? They're problems with how we think about the abstraction. So if someone utters the liar's paradox, they're being imprecise, but they're meaning something real, and we can make progress in our thinking about the propositions as well.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:28:02 - 01:28:08</span>
 
-Yeah, I think it's very rare for people to intentionally talk nonsense. No doubt it could be done and no doubt it is done in some circumstances, but basically when people talk nonsense, it's because they really mean something. And that nonsense is actually an attempt to understand the world or to understand an abstraction or whatever. And at the other end of the scale, as I keep saying, we might all be talking nonsense if things like the arithmetical integers are inconsistent.
+Yeah, I think it's very rare for people to intentionally talk nonsense. No doubt it could be done and no doubt it is done in some circumstances, but basically when people talk nonsense, it's because they really mean something. And that nonsense is actually an attempt to understand the world or to understand an abstraction or whatever. And at the other end of the scale, as I keep saying, we might all be talking nonsense if things like the arithmetical integers are inconsistent. So yeah, is that what you meant?
 
 ### Sam Kuypers
 
 <span class="transcript-timestamp">01:28:08 - 01:29:05</span>
 
-So yeah, is that what you meant? I think I meant that there's a sense in which we can resolve a paradox. If we ever stumble upon a paradox in formulating physics or something, then there is a way of being more precise and ...
+I think I meant that there's a sense in which we can resolve a paradox. If we ever stumble upon a paradox in formulating physics or something, then there is a way of being more precise and resolving the issue of guessing at the abstractions.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:29:07 - 01:29:16</span>
 
-Resolving the issue of guessing at the abstractions. Accidentally hitting on a paradox is just one of the many ways we can be mistaken.
+Accidentally hitting on a paradox is just one of the many ways we can be mistaken.
 
 ### Sam Kuypers
 
@@ -800,9 +884,3 @@ Thanks for having me.
 <span class="transcript-timestamp">01:29:25 - 01:29:29</span>
 
 Yeah, okay. Thanks so much and see you at the next event. Bye-bye.
-
-### David Deutsch
-
-<span class="transcript-timestamp">01:29:43 - 01:29:44</span>
-
-You ...

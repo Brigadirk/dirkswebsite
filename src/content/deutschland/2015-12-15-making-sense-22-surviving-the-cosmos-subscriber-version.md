@@ -26,7 +26,7 @@ Oh, thank you very much for having me.
 
 <span class="transcript-timestamp">00:01:26 - 00:01:55</span>
 
-Listen, I've been, I don't know what part of the multiverse we're in where I can complain about jihadists by night and talk to you by day, but it's a very strange one we seem to be in at the moment because we're about to have a very different kind of conversation than I've had of late and I really have been looking forward to it. I spoke to Steven Pinker, told him that we were going to speak and he claimed that you are one of his favorite minds on the planet. I don't know if you know, Steven, but that's high praise indeed.
+Listen, I've been, I don't know what part of the multiverse we're in where I can complain about jihadists by night and talk to you by day, but it's a very strange one we seem to be in at the moment because we're about to have a very different kind of conversation than I've had of late and I really have been looking forward to it. I spoke to Steven Pinker, told him that we were going to speak and he claimed that you are one of his favorite minds on the planet. I don't know if you know Steven, but that's high praise indeed.
 
 ### David Deutsch
 
@@ -170,7 +170,7 @@ Yes, and that's what I call the momentous dichotomy. There can't be any third po
 
 <span class="transcript-timestamp">00:29:15 - 00:31:33</span>
 
-So how isn't this just a clever tautology, analogous to the ontological argument proving the existence of God? So many of our listeners will know that according to St. Anselm and Descartes and many others, it's believed that you can prove the existence of God simply by forcing your thoughts about him to essentially bite their own tails. And for instance, I could make the following claim. I can form a clear and distinct concept of the most perfect possible being. And such a being must exist, therefore, because a being that exists is more perfect than one that doesn't. So I said I'm thinking about the most perfect possible being. So an existence is somehow a predicate of perfection. Now of course, most people will recognize, certainly most people in my audience will recognize that this is just a trick of language. It could be used to prove the existence of anything. I could say I'm thinking of the most perfect chocolate mousse, and it must exist, therefore, because a mousse that exists is more perfect than one that doesn't. And I already told you that I'm thinking of the most perfect possible mousse. What you're saying here doesn't have the same structure, but I do worry that your performing a bit of a conjuring trick here because, and I'll just ask the question, for instance, why mightn't certain transformations of the material world be unachievable even in the presence of complete knowledge, merely by, and this is something I realize you do anticipate in your book, but I want you to flesh it out for the listeners, merely by, let's say, a contingency of geography, you know, so that, for instance, you and I are on an island and one of our friends comes down with an appendicitis, and let's say you and I both, we're both competent surgeons, we know everything there is to know about removing a man's appendix, but it just so happens we don't have any of the necessary tools and everything on that particular island just has the consistency of soft cheese, right? So there's, just by sheer accident of our personal histories, there is a gap between what is knowable and what is in fact known and what is achievable, even though there are no laws of nature that preclude our performing an appendectomy on a person. Why mightn't every space we occupy, just by a contingent fact of the way the universe is, not introduce some gap of that kind?
+So how isn't this just a clever tautology, analogous to the ontological argument proving the existence of God? So many of our listeners will know that according to St. Anselm and Descartes and many others, it's believed that you can prove the existence of God simply by forcing your thoughts about him to essentially bite their own tails. And for instance, I could make the following claim. I can form a clear and distinct concept of the most perfect possible being. And such a being must exist, therefore, because a being that exists is more perfect than one that doesn't. So I said I'm thinking about the most perfect possible being. So an existence is somehow a predicate of perfection. Now of course, most people will recognize, certainly most people in my audience will recognize that this is just a trick of language. It could be used to prove the existence of anything. I could say I'm thinking of the most perfect chocolate mousse, and it must exist, therefore, because a mousse that exists is more perfect than one that doesn't. And I already told you that I'm thinking of the most perfect possible mousse. What you're saying here doesn't have the same structure, but I do worry that you're performing a bit of a conjuring trick here because, and I'll just ask the question, for instance, why mightn't certain transformations of the material world be unachievable even in the presence of complete knowledge, merely by, and this is something I realize you do anticipate in your book, but I want you to flesh it out for the listeners, merely by, let's say, a contingency of geography, you know, so that, for instance, you and I are on an island and one of our friends comes down with an appendicitis, and let's say you and I both, we're both competent surgeons, we know everything there is to know about removing a man's appendix, but it just so happens we don't have any of the necessary tools and everything on that particular island just has the consistency of soft cheese, right? So there's, just by sheer accident of our personal histories, there is a gap between what is knowable and what is in fact known and what is achievable, even though there are no laws of nature that preclude our performing an appendectomy on a person. Why mightn't every space we occupy, just by a contingent fact of the way the universe is, not introduce some gap of that kind?
 
 ### David Deutsch
 
@@ -224,7 +224,19 @@ Yes. So we evolved somewhere in East Africa in the Great Rift Valley. And that w
 
 <span class="transcript-timestamp">00:43:21 - 00:43:44</span>
 
-So you are already an astronaut. Very much so. Your condition is as precarious as the condition of those in a well-established colony on Mars that can take certain technological advances for granted. And there's no reason to think that future doesn't await us, barring some catastrophe placed in our way, whether of our own making or not.
+So you are already an astronaut.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:43:21 - 00:43:44</span>
+
+Very much so.
+
+### Sam Harris
+
+<span class="transcript-timestamp">00:43:21 - 00:43:44</span>
+
+Your condition is as precarious as the condition of those in a well-established colony on Mars that can take certain technological advances for granted. And there's no reason to think that future doesn't await us, barring some catastrophe placed in our way, whether of our own making or not.
 
 ### David Deutsch
 
@@ -242,7 +254,19 @@ Again, that's an incredibly hopeful vision of our possible future. Thus far, we'
 
 <span class="transcript-timestamp">00:47:42 - 00:51:16</span>
 
-Yes. Well, you've actually made two or three different arguments there, all of which are wrong. Oh, nice. So let me start with the chicken thing. So there the point is the universality of computation. The thing about explanations is they consist of knowledge, which is a form of information. And information can only be processed in basically one way, that is with computation of the kind invented by Babbage and Turing. There is only one mode of computation available to physical objects, and that's the Turing mode. And we already know that the computers we have, like the ones through which we're having this conversation, are universal in the sense that given the right program, they can perform any transformation of information whatsoever, including knowledge creation, if we only knew how to program that. Now, there are two important caveats to that. There are two things that can limit that. One is lack of memory, lack of computer memory, lack of information storage capacity. And the other is lack of speed or lack of time. So apart from that, the computers we have, the brains that we have, any computers that will ever be built in the future or can ever be built anywhere in the universe has the same repertoire. That's the principle of the universality of computation. That means that the reason why I can't persuade a chicken has to be either that its neurons are too slow, which I don't think is right. They don't differ very much from ours. Or it doesn't have enough memory, which it certainly doesn't. Or it doesn't have the right knowledge. So it doesn't have the knowledge of how to learn language, how to learn what an explanation is, and so on. And we can't give it that. It's not the right animal. If you had said chimpanzee, then my guess would be that the brain of a chimpanzee could contain the knowledge of how to learn language, et cetera. But there's no way of giving that knowledge to it short of surgery, some sort of nano surgery, which would be presumably very immoral to perform. But in principle, I think it could be done because chimpanzee's brain isn't that much smaller than ours. And we have a whole lifetime to fill our memory. So we're not short of memory. Our thinking itself is not limited by available memory. Now, what if these aliens have a lot more memory than us? What if they have a lot more speed than us? Well, we already know the answer to that. We've been improving our memory capacity and our speed of computation for thousands of years already with the invention of things like writing, writing implements, just language itself, which enables more than one person to work on the same problem and to coordinate their understanding of it with each other. That also allows an increase in speed compared with what an unaided human would be able to do.
+Yes. Well, you've actually made two or three different arguments there, all of which are wrong.
+
+### Sam Harris
+
+<span class="transcript-timestamp">00:47:42 - 00:51:16</span>
+
+Oh, nice.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:47:42 - 00:51:16</span>
+
+So let me start with the chicken thing. So there the point is the universality of computation. The thing about explanations is they consist of knowledge, which is a form of information. And information can only be processed in basically one way, that is with computation of the kind invented by Babbage and Turing. There is only one mode of computation available to physical objects, and that's the Turing mode. And we already know that the computers we have, like the ones through which we're having this conversation, are universal in the sense that given the right program, they can perform any transformation of information whatsoever, including knowledge creation, if we only knew how to program that. Now, there are two important caveats to that. There are two things that can limit that. One is lack of memory, lack of computer memory, lack of information storage capacity. And the other is lack of speed or lack of time. So apart from that, the computers we have, the brains that we have, any computers that will ever be built in the future or can ever be built anywhere in the universe has the same repertoire. That's the principle of the universality of computation. That means that the reason why I can't persuade a chicken has to be either that its neurons are too slow, which I don't think is right. They don't differ very much from ours. Or it doesn't have enough memory, which it certainly doesn't. Or it doesn't have the right knowledge. So it doesn't have the knowledge of how to learn language, how to learn what an explanation is, and so on. And we can't give it that. It's not the right animal. If you had said chimpanzee, then my guess would be that the brain of a chimpanzee could contain the knowledge of how to learn language, et cetera. But there's no way of giving that knowledge to it short of surgery, some sort of nano surgery, which would be presumably very immoral to perform. But in principle, I think it could be done because chimpanzee's brain isn't that much smaller than ours. And we have a whole lifetime to fill our memory. So we're not short of memory. Our thinking itself is not limited by available memory. Now, what if these aliens have a lot more memory than us? What if they have a lot more speed than us? Well, we already know the answer to that. We've been improving our memory capacity and our speed of computation for thousands of years already with the invention of things like writing, writing implements, just language itself, which enables more than one person to work on the same problem and to coordinate their understanding of it with each other. That also allows an increase in speed compared with what an unaided human would be able to do.
 
 ### David Deutsch
 
@@ -254,13 +278,13 @@ Currently, we use computers and in the future, we can use computer implants and 
 
 <span class="transcript-timestamp">00:51:57 - 00:52:10</span>
 
-And this all falls out of the concept of the universality of computation, that there is no alternate version. So is Church also responsible for this or is this particular ...
+And this all falls out of the concept of the universality of computation, that there is no alternate version. So is Church also responsible for this or is this particular insight Turing's?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:52:10 - 00:52:28</span>
 
-Insight Turing? That's a very controversial question. I believe it was Turing who realized this particular aspect of computation. They're various species of universality, which different people got at different times. But I think it was Turing who fully got it.
+That's a very controversial question. I believe it was Turing who realized this particular aspect of computation. There are various species of universality, which different people got at different times. But I think it was Turing who fully got it.
 
 ### Sam Harris
 
@@ -296,7 +320,19 @@ The superintelligent alien is going to help us. The aliens are going to bridge u
 
 <span class="transcript-timestamp">00:54:53 - 00:55:10</span>
 
-Yes, yes. Forget about the aliens. We are such a species of primate that never invent computers. What I was questioning was the assumption that if everybody with an IQ of over 100 died, then in the next generation, nobody would have an IQ of over 100. It depends on culture.
+Yes, yes.
+
+### Sam Harris
+
+<span class="transcript-timestamp">00:54:53 - 00:55:10</span>
+
+Forget about the aliens. We are such a species of primate that never invent computers.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:54:53 - 00:55:10</span>
+
+What I was questioning was the assumption that if everybody with an IQ of over 100 died, then in the next generation, nobody would have an IQ of over 100. It depends on culture.
 
 ### Sam Harris
 
@@ -338,19 +374,19 @@ So difference in speed has to be judged relative to the available hardware. So l
 
 <span class="transcript-timestamp">01:03:56 - 01:04:01</span>
 
-But we're talking about something that can happen over the course of minutes or ...
+But we're talking about something that can happen over the course of minutes or hours, not years.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:04:01 - 01:04:14</span>
 
-Hours, not years. Before the technology exists to make it happen over the course of minutes, there'll be the technology to make it happen over the course of years. And that technology will simply be brain add-on technology.
+Before the technology exists to make it happen over the course of minutes, there'll be the technology to make it happen over the course of years. And that technology will simply be brain add-on technology. Which we can use too.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">01:04:14 - 01:05:14</span>
 
-Okay, well that comes to the other concern I have. Which we can use too. What if the problem of building AI just is more tractable than the problem of cracking the neural code and being able to design the implants which would allow us to merge or essentially become the limbic systems of this AI. And therefore the merging, we would need a super-intelligent AI to tell us how to link up with it. But we have just built a super-intelligent AI that has goals, however imperceptibly divergent from our own, which we only discover to be divergent once it is essentially an angry little god in a box that we can no longer control. Are you saying that there's something about that scenario that is in principle impossible or is just unlikely given certain assumptions, one being that we will figure out how to link up with it before it becomes too powerful?
+Okay, well that comes to the other concern I have. What if the problem of building AI just is more tractable than the problem of cracking the neural code and being able to design the implants which would allow us to merge or essentially become the limbic systems of this AI. And therefore the merging, we would need a super-intelligent AI to tell us how to link up with it. But we have just built a super-intelligent AI that has goals, however imperceptibly divergent from our own, which we only discover to be divergent once it is essentially an angry little god in a box that we can no longer control. Are you saying that there's something about that scenario that is in principle impossible or is just unlikely given certain assumptions, one being that we will figure out how to link up with it before it becomes too powerful?
 
 ### David Deutsch
 
@@ -398,13 +434,13 @@ We can't do otherwise. It's not a matter of emulating us. We have no culture oth
 
 <span class="transcript-timestamp">01:14:18 - 01:14:29</span>
 
-But we could, if we wanted, if we were stupid enough to do it, we could build a paperclip maximizer. We could just decide to throw all our resources toward that bizarre project and ...
+But we could, if we wanted, if we were stupid enough to do it, we could build a paperclip maximizer. We could just decide to throw all our resources toward that bizarre project and leave morality totally out of it.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:14:30 - 01:15:25</span>
 
-Leave morality totally out of it. And well, we have error-correcting mechanisms in our culture to prevent someone doing that, but they're not perfect and it could happen. And there's nothing—there's no fundamental reason why that can't happen, and something of the sort has happened in the past many times. So it's not that I'm saying that there's some magical force for good that will prevent bad things happening. I'm saying that the bad things that can reasonably be envisaged as happening on the invention of an AI are exactly the same things that we have to watch out for anyway. Slightly better, actually, because these AIs will be children of our—of the Western culture, very likely anyway, assuming that we don't stifle their creation by some misguided prohibition.
+And well, we have error-correcting mechanisms in our culture to prevent someone doing that, but they're not perfect and it could happen. And there's nothing—there's no fundamental reason why that can't happen, and something of the sort has happened in the past many times. So it's not that I'm saying that there's some magical force for good that will prevent bad things happening. I'm saying that the bad things that can reasonably be envisaged as happening on the invention of an AI are exactly the same things that we have to watch out for anyway. Slightly better, actually, because these AIs will be children of our—of the Western culture, very likely anyway, assuming that we don't stifle their creation by some misguided prohibition.
 
 ### Sam Harris
 
@@ -428,13 +464,13 @@ So this is not analogous to the claim that because of the universality of comput
 
 <span class="transcript-timestamp">01:16:45 - 01:17:04</span>
 
-Yes, yes, yes. So one of them is a claim about what must be so, and the other is a claim of what is available to us if we play our cards right. And I'm not so sure—you say it's very plausible to me—yeah, it's plausible to me that we will. It's plausible to me that we won't.
+Yes, yes, yes. So one of them is a claim about what must be so, and the other is a claim of what is available to us if we play our cards right. And I'm not so sure—you say it's very plausible to me—yeah, it's plausible to me that we will. It's plausible to me that we won't. I think it's something we have to work for.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">01:17:05 - 01:17:16</span>
 
-I think it's something we have to work for. It must be plausible to you that we might just fail to build AI for reasons of pure chaos on the ground that prevents us from doing it.
+It must be plausible to you that we might just fail to build AI for reasons of pure chaos on the ground that prevents us from doing it.
 
 ### David Deutsch
 
@@ -446,13 +482,13 @@ It's plausible that we will succeed in solving the problem of stabilizing civili
 
 <span class="transcript-timestamp">01:17:38 - 01:17:55</span>
 
-So I guess we should talk about the maintenance of civilization then, because if there's something to be concerned about, I would think this has to be at the top of everyone's list. Let me ask you, what worries you about the viability of the human career at this point?
+So I guess we should talk about the maintenance of civilization then, because if there's something to be concerned about, I would think this has to be at the top of everyone's list. Let me ask you, what worries you about the viability of the human career at this point? What's on your short list of concerns?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:17:55 - 01:21:53</span>
 
-What's on your short list of concerns? Well, I see human history as a long period of complete failure. Failure, that is, to make any progress. Our species has existed, depending on where you count it from, maybe 50,000 years, maybe 100,000, 200,000 years. The vast majority of that time, people were alive, they were thinking, they were suffering, they wanted things, nothing ever improved. The slow improvements that did happen happened so that geologists can't distinguish the difference between the artifacts from one era to another with a resolution of like 10,000 years. So from the point of view of a human lifetime, nothing ever improved, generation upon generation upon generation of suffering and stasis. Then there was a slow improvement and then a more rapid improvement. Then there were several attempts to institutionalize a tradition of criticism, which I think is the key to rapid progress in the sense that we think of it, progress discernible on the timescale of human lifetime, and also error corrections so that regression is less likely. That happened several times and failed every time except once in the European enlightenment of the 17th, 18th centuries. You asked what worries me. What worries me is that the inheritors of that little bit of progress, little bit of salutary progress, are only a small proportion of the population of the world today. It's the culture or civilization that we call the West. Only the West really has a tradition of criticism, institutionalized. This has manifested itself in various problems, including the problem of failed cultures which see their failure writ large by comparison of themselves with the West and therefore want to do something about this that doesn't involve creativity. That is very, very dangerous. Then there's the fact that in the West, the knowledge of what it takes to maintain our civilization is not widely known. In fact, as you've also said, the prevailing view among people in the West, including very educated people, is of a picture of the relationship between knowledge and progress and civilization and values and so on that's just wrong in so many different ways. Although the institutions of our culture are amazingly good, in that they have been able to manage stability in the face of rapid change for hundreds of years, the knowledge of what it takes to keep civilization stable in the face of rapidly increasing knowledge is not very widespread. In fact, severe misconceptions about several aspects of it are common among political leaders, educated people, and society at large. We're like people on a hugely well-designed submarine which has got all sorts of life-saving devices built in, but they don't know they're in a submarine. They think they're in a motorboat and they're going to open all the hatches because they want to have a nicer view.
+Well, I see human history as a long period of complete failure. Failure, that is, to make any progress. Our species has existed, depending on where you count it from, maybe 50,000 years, maybe 100,000, 200,000 years. The vast majority of that time, people were alive, they were thinking, they were suffering, they wanted things, nothing ever improved. The slow improvements that did happen happened so that geologists can't distinguish the difference between the artifacts from one era to another with a resolution of like 10,000 years. So from the point of view of a human lifetime, nothing ever improved, generation upon generation upon generation of suffering and stasis. Then there was a slow improvement and then a more rapid improvement. Then there were several attempts to institutionalize a tradition of criticism, which I think is the key to rapid progress in the sense that we think of it, progress discernible on the timescale of human lifetime, and also error corrections so that regression is less likely. That happened several times and failed every time except once in the European enlightenment of the 17th, 18th centuries. You asked what worries me. What worries me is that the inheritors of that little bit of progress, little bit of salutary progress, are only a small proportion of the population of the world today. It's the culture or civilization that we call the West. Only the West really has a tradition of criticism, institutionalized. This has manifested itself in various problems, including the problem of failed cultures which see their failure writ large by comparison of themselves with the West and therefore want to do something about this that doesn't involve creativity. That is very, very dangerous. Then there's the fact that in the West, the knowledge of what it takes to maintain our civilization is not widely known. In fact, as you've also said, the prevailing view among people in the West, including very educated people, is of a picture of the relationship between knowledge and progress and civilization and values and so on that's just wrong in so many different ways. Although the institutions of our culture are amazingly good, in that they have been able to manage stability in the face of rapid change for hundreds of years, the knowledge of what it takes to keep civilization stable in the face of rapidly increasing knowledge is not very widespread. In fact, severe misconceptions about several aspects of it are common among political leaders, educated people, and society at large. We're like people on a hugely well-designed submarine which has got all sorts of life-saving devices built in, but they don't know they're in a submarine. They think they're in a motorboat and they're going to open all the hatches because they want to have a nicer view.
 
 ### Sam Harris
 
@@ -518,7 +554,19 @@ Well, the one thing that makes it not as bad as one might think there is just th
 
 <span class="transcript-timestamp">01:29:14 - 01:32:57</span>
 
-There's another contradiction and another irony that's related, which is that she's willing to condemn you for not being a moral relativist. But the ironic thing is that moral relativism is a pathology that arises only in our culture. Every other culture doesn't have any doubt that there is such a thing as right and wrong. They've just got the wrong idea of what right and wrong are, but that there is such a thing, they don't doubt. And she won't condemn them for that, though she does condemn you for denying it. So that's another irony. I think you say hypocrisy. I think this all originated in the same mistake that we discussed at the very beginning of this conversation, empiricism or whatever it is, which has led to scientism. Now, you may not like this way of putting it. The idea that there can't be such a thing as morality because we can't do an experiment to test it. Your answer to that seems to be, but we can if we adopt a simple assumption of human thriving, human welfare. I forgot what term you used. Well-being. Human well-being, yes. Now, I think actually that's true, but I don't think you have to rest on that. I think the criterion of human well-being can be a conclusion, not an axiom, because this idea that there can't be any moral knowledge because it can't be derived from the senses is exactly the same argument that people make when they say there can't be any scientific knowledge because it can't be derived from the senses. In the 20th century, empiricism was found to be nonsense, and some people therefore concluded that therefore scientific knowledge is nonsense. But the real truth is that science is not based on empiricism. It's based on reason, and so is morality. So if you adopt a rational attitude to morality and therefore say that morality consists of moral knowledge, which consists always of conjectures, doesn't have any basis, doesn't need a basis, only needs modes of criticism, and those modes of criticism operate by criteria which are themselves subject to modes of criticism. Then you come to a sort of transcendent moral truth from which I think your one emerges as an approximation, which is that institutions that suppress the growth of moral knowledge are immoral because, well, because they can only be right if the final truth is already known. But if all knowledge is conjectural and subject to improvement, then protecting the means of improving knowledge is more important than any particular piece of knowledge. And I think that even without thinking of things like all humans are equal and so on, that will lead directly to, for example, that slavery is an abomination. And human welfare, I think, as I said, I think it's a good approximation in most practical situations, but it seems to me not an absolute truth.
+There's another contradiction and another irony that's related, which is that she's willing to condemn you for not being a moral relativist. But the ironic thing is that moral relativism is a pathology that arises only in our culture. Every other culture doesn't have any doubt that there is such a thing as right and wrong. They've just got the wrong idea of what right and wrong are, but that there is such a thing, they don't doubt. And she won't condemn them for that, though she does condemn you for denying it. So that's another irony. I think you say hypocrisy. I think this all originated in the same mistake that we discussed at the very beginning of this conversation, empiricism or whatever it is, which has led to scientism. Now, you may not like this way of putting it. The idea that there can't be such a thing as morality because we can't do an experiment to test it. Your answer to that seems to be, but we can if we adopt a simple assumption of human thriving, human welfare. I forgot what term you used.
+
+### Sam Harris
+
+<span class="transcript-timestamp">01:29:14 - 01:32:57</span>
+
+Well-being.
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:29:14 - 01:32:57</span>
+
+Human well-being, yes. Now, I think actually that's true, but I don't think you have to rest on that. I think the criterion of human well-being can be a conclusion, not an axiom, because this idea that there can't be any moral knowledge because it can't be derived from the senses is exactly the same argument that people make when they say there can't be any scientific knowledge because it can't be derived from the senses. In the 20th century, empiricism was found to be nonsense, and some people therefore concluded that therefore scientific knowledge is nonsense. But the real truth is that science is not based on empiricism. It's based on reason, and so is morality. So if you adopt a rational attitude to morality and therefore say that morality consists of moral knowledge, which consists always of conjectures, doesn't have any basis, doesn't need a basis, only needs modes of criticism, and those modes of criticism operate by criteria which are themselves subject to modes of criticism. Then you come to a sort of transcendent moral truth from which I think your one emerges as an approximation, which is that institutions that suppress the growth of moral knowledge are immoral because, well, because they can only be right if the final truth is already known. But if all knowledge is conjectural and subject to improvement, then protecting the means of improving knowledge is more important than any particular piece of knowledge. And I think that even without thinking of things like all humans are equal and so on, that will lead directly to, for example, that slavery is an abomination. And human welfare, I think, as I said, I think it's a good approximation in most practical situations, but it seems to me not an absolute truth.
 
 ### David Deutsch
 
@@ -530,19 +578,31 @@ I can imagine situations in which it would be right for the human race as a whol
 
 <span class="transcript-timestamp">01:33:04 - 01:37:03</span>
 
-– I guess I should spell out a little more clearly what I'm talking about. – I should read your book, I guess. – No, well, actually, I feel like speaking with you, having read much of your book and having this conversation with you allows me to put it a little better than perhaps I did in that book because there's kind of a homology between your open-ended picture of knowledge and explanation and my moral realism. I don't know that our realism with morality is precisely the same, but there's a line in your book which I loved, which is something like, moral philosophy is about the problem of what to do next. And then I think more generally, you said that it's about what sort of life to lead and what sort of world to want. But this phrase, the problem of what to do next, really captures morality for me because, and I've been talking about it for years as a kind of navigation problem. Forget that we even have the word morality or good and evil or right and wrong. We still have this navigation problem. We are in a universe of possible experience. And given that there's a difference, and I would think that there's probably no difference more salient in this universe between the worst possible misery for everyone and all other states of this universe, there's a question of just how to navigate in this space of possible experiences. What sorts of wellbeing are possible given the requisite minds? What sorts of meaning and beauty and bliss are available to conscious minds, appropriately constituted? For me, realism of every kind is just a statement that it's possible not to know what you're missing. If you're a realist with respect to geography, you have to acknowledge that there are parts of the world you may not know about. If the year was 1100 and you were living in Oxford and you had never heard of Africa, Africa nevertheless existed despite your ignorance and it was discoverable. And so this is realism with respect to geography. Things are true whether or not anyone necessarily knows that they're true. And knowing that they're true, people can forget this knowledge, as you pointed out, and whole civilizations could forget this knowledge. Well, this is true in the space of possible conscious states. And all you have to acknowledge is that there is some criterion that is as fundamental as any criterion we would have invoked in any other canonical domain of science by which we could acknowledge that certain states of consciousness are better or worse than others. And if you're not going to acknowledge that the worst possible misery for everyone is worse than many of the alternatives on offer in this universe, well then I don't know what language game you're playing, but it seems to me that this is, that's all I need to get this open-ended future of navigating in the space of possible experiences started. And then it really is this kind of forward movement toward we know not what, but we know that there's a difference between profound suffering that has no silver lining and many of the things that we value and are right to value in life. And these values, the fact value distinction, this is something that I think Thomas Kuhn once said that philosophy tends to export its worst products to the rest of culture. And it's kind of ironic because many of the things exported from Kuhn's work are also quite some, fairly terrible, but he got this part right. And so this notion that comes from a, I think, frankly, a misreading of Hume, that you can't get an ought from an is, and again, these are, you know, I have met physicists who think that this is somehow a, you know, inscribed at the back of the book of nature that you just cannot get an ought from an is, and therefore there's no statement of the way the world is that can tell you how it ought to be.
+I guess I should spell out a little more clearly what I'm talking about.
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:33:04 - 01:37:03</span>
+
+I should read your book, I guess.
+
+### Sam Harris
+
+<span class="transcript-timestamp">01:33:04 - 01:37:03</span>
+
+No, well, actually, I feel like speaking with you, having read much of your book and having this conversation with you allows me to put it a little better than perhaps I did in that book because there's kind of a homology between your open-ended picture of knowledge and explanation and my moral realism. I don't know that our realism with morality is precisely the same, but there's a line in your book which I loved, which is something like, moral philosophy is about the problem of what to do next. And then I think more generally, you said that it's about what sort of life to lead and what sort of world to want. But this phrase, the problem of what to do next, really captures morality for me because, and I've been talking about it for years as a kind of navigation problem. Forget that we even have the word morality or good and evil or right and wrong. We still have this navigation problem. We are in a universe of possible experience. And given that there's a difference, and I would think that there's probably no difference more salient in this universe between the worst possible misery for everyone and all other states of this universe, there's a question of just how to navigate in this space of possible experiences. What sorts of wellbeing are possible given the requisite minds? What sorts of meaning and beauty and bliss are available to conscious minds, appropriately constituted? For me, realism of every kind is just a statement that it's possible not to know what you're missing. If you're a realist with respect to geography, you have to acknowledge that there are parts of the world you may not know about. If the year was 1100 and you were living in Oxford and you had never heard of Africa, Africa nevertheless existed despite your ignorance and it was discoverable. And so this is realism with respect to geography. Things are true whether or not anyone necessarily knows that they're true. And knowing that they're true, people can forget this knowledge, as you pointed out, and whole civilizations could forget this knowledge. Well, this is true in the space of possible conscious states. And all you have to acknowledge is that there is some criterion that is as fundamental as any criterion we would have invoked in any other canonical domain of science by which we could acknowledge that certain states of consciousness are better or worse than others. And if you're not going to acknowledge that the worst possible misery for everyone is worse than many of the alternatives on offer in this universe, well then I don't know what language game you're playing, but it seems to me that this is, that's all I need to get this open-ended future of navigating in the space of possible experiences started. And then it really is this kind of forward movement toward we know not what, but we know that there's a difference between profound suffering that has no silver lining and many of the things that we value and are right to value in life. And these values, the fact value distinction, this is something that I think Thomas Kuhn once said that philosophy tends to export its worst products to the rest of culture. And it's kind of ironic because many of the things exported from Kuhn's work are also quite some, fairly terrible, but he got this part right. And so this notion that comes from a, I think, frankly, a misreading of Hume, that you can't get an ought from an is, and again, these are, you know, I have met physicists who think that this is somehow a, you know, inscribed at the back of the book of nature that you just cannot get an ought from an is, and therefore there's no statement of the way the world is that can tell you how it ought to be.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">01:37:03 - 01:37:10</span>
 
-There's no statement of fact that can tell you anything at all about values, and therefore values are just made up. They're just, they have no relationship to the ...
+There's no statement of fact that can tell you anything at all about values, and therefore values are just made up. They're just, they have no relationship to the truth claims of science.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:37:10 - 01:37:33</span>
 
-Truth claims of science. Yes, it's empiricism again, it's justificationism. So you can't deduce an ought from an is, but we're not after deducing, we're after explaining. And moral explanations can follow from factual explanations, as you have just done with thinking of the worst possible misery that a human being could be in.
+Yes, it's empiricism again, it's justificationism. So you can't deduce an ought from an is, but we're not after deducing, we're after explaining. And moral explanations can follow from factual explanations, as you have just done with thinking of the worst possible misery that a human being could be in.
 
 ### Sam Harris
 
@@ -608,7 +668,7 @@ We would expect to see the machines, right? Unless they're busy making paper cli
 
 <span class="transcript-timestamp">01:44:44 - 01:46:11</span>
 
-Actually, you just invoked explicitly the metaphor I use in my book, the moral landscape, which is, I believe that that's precisely the opportunity on offer for us, that there's a landscape of possible states of well-being, and this is almost an infinitely elastic term to capture the differences in pleasure across every possible axis. And that, yes, you can find yourself on a local peak that knows nothing of other peaks, and that there are many, many, many peaks, obviously, but there are many more ways not to be on a peak. And so there are many more ways to be struggling to get to some higher point that is nearer to you in terms of well-being. And you and I may differ in our sense of just how desirable certain peaks might be or how captivating they might be to conscious creatures like ourselves. And I think there are probably many peaks that are analogous to and compatible with a very high state of civilization, which are analogous to being the best heroin addicts in the galaxy, which is to say you've found some place of stasis where there is no pain and there is also not a lot of variation in what you do. You've just kind of plunged into a great reservoir of bliss, which you've managed to secure for yourself materially with your knowledge. And it's a very Aldous Huxley vision of the endgame.
+Actually, you just invoked explicitly the metaphor I use in my book, The Moral Landscape, which is, I believe that that's precisely the opportunity on offer for us, that there's a landscape of possible states of well-being, and this is almost an infinitely elastic term to capture the differences in pleasure across every possible axis. And that, yes, you can find yourself on a local peak that knows nothing of other peaks, and that there are many, many, many peaks, obviously, but there are many more ways not to be on a peak. And so there are many more ways to be struggling to get to some higher point that is nearer to you in terms of well-being. And you and I may differ in our sense of just how desirable certain peaks might be or how captivating they might be to conscious creatures like ourselves. And I think there are probably many peaks that are analogous to and compatible with a very high state of civilization, which are analogous to being the best heroin addicts in the galaxy, which is to say you've found some place of stasis where there is no pain and there is also not a lot of variation in what you do. You've just kind of plunged into a great reservoir of bliss, which you've managed to secure for yourself materially with your knowledge. And it's a very Aldous Huxley vision of the endgame.
 
 ### David Deutsch
 
@@ -620,13 +680,13 @@ Yes. If that's really what's happening across the galaxy, you have to find some 
 
 <span class="transcript-timestamp">01:47:17 - 01:48:05</span>
 
-Don't give the surprise away. Well, listen, David, it's been incredibly fun to talk to you. And I'm painfully aware that we haven't even spoken about the thesis for which you are perhaps best known. Actually, the two, the many worlds interpretation of quantum mechanics, as explained in both your books, the first book being the fabric of reality, which I read when it came out and loved. And nor have we spoken about quantum computation, but we'll definitely have to leave those for another time because you have been so generous with yours today. So I just want to encourage our listeners to read both your books, but especially the most recent one. And where can people find out more about you online? Is there a...
+Don't give the surprise away. Well, listen, David, it's been incredibly fun to talk to you. And I'm painfully aware that we haven't even spoken about the thesis for which you are perhaps best known. Actually, the two, the many worlds interpretation of quantum mechanics, as explained in both your books, the first book being The Fabric of Reality, which I read when it came out and loved. And nor have we spoken about quantum computation, but we'll definitely have to leave those for another time because you have been so generous with yours today. So I just want to encourage our listeners to read both your books, but especially the most recent one. And where can people find out more about you online? Is there a...
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:48:06 - 01:48:19</span>
 
-They can find me with Google very easily, but I also have a website, daviddeutsch.org.UK, and all the links linking to me link to each other as well. So I'm easy to find.
+They can find me with Google very easily, but I also have a website, daviddeutsch.org.uk, and all the links linking to me link to each other as well. So I'm easy to find.
 
 ### Sam Harris
 

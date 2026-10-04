@@ -1,6 +1,6 @@
 ---
 title: '2021-10-07 - ToKCast - David Deutsch answers a question about the nature of mind. A question for David number 9'
-description: 'An interview / discussion from David Deutsch answers a question about the nature of mind, featuring David Deutsch, Brett Hall, titled "A question for David 9".'
+description: 'An interview / discussion from 2021-10-07, featuring David Deutsch, Brett Hall, titled "A question for David 9".'
 pubDate: 2021-10-07
 ---
 

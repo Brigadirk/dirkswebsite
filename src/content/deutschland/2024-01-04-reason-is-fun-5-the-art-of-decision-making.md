@@ -26,7 +26,19 @@ I listened to the episode that you recorded with Lulie, and there was a few thin
 
 <span class="transcript-timestamp">00:01:04 - 00:04:13</span>
 
-As with many words and concepts in everyday language, should has two pretty opposite meanings. One of them is, I could say, it's the proposed solution of a problem, namely the problem of what to do next, which is a problem faced by any creative entity. So to be creative, creativity comes from solving problems, and all life is problem-solving, and the problem is at least two competing theories. And so in that sense, when I say I should do so and so, it should, that ought to be, should be the conclusion of a creative process, which at the beginning did not have, had many possible outcomes. So that's one way of looking at should. The other way of looking at should, and if I, it's often connected with other people, but to keep it uniform, let me think of it again as just being inside one mind, where you're saying, to cut a long story short, you're saying I want to do so and so, but I should, I shouldn't. So in the case of the ice cream, it would be that I want the ice cream, but I shouldn't. And existing culture kind of thinks that this is what morality is about, this is what life is about. We, there are, as Michael Lockwood said to me once, morality is the theory of, let me get this right, the theory of why you, why you don't do what you would do if you didn't know about morality. So his idea is, if it weren't for our theories of morality, there'd be a thing that we would do, like we would do the animal thing or the base thing, or the, but because we have moral theories, we don't do those anyway, despite in some sense wanting to do them. Now I think that is, that is a description of what happens when moral thinking goes wrong. It's, it's, it's a very bad way of characterizing moral thinking in general. Yeah. What's, what's wrong with it? Well, it, it envisages a perpetual unresolvable conflict. And you know, that, that's the definition of hell or something, you know, that, that's, that's, I mean, you know, it's never exactly that, that, that's, that's oversimplification of what the prevailing view of morality is, because I think the prevailing view also includes the idea that one can, one can want to be, to do the moral thing. It's not quite the same as saying one can want to be moral, because according to Michael Lockwood's definition, that want can coexist with another want to be immoral.
+As with many words and concepts in everyday language, should has two pretty opposite meanings. One of them is, I could say, it's the proposed solution of a problem, namely the problem of what to do next, which is a problem faced by any creative entity. So to be creative, creativity comes from solving problems, and all life is problem-solving, and the problem is at least two competing theories. And so in that sense, when I say I should do so and so, it should, that ought to be, should be the conclusion of a creative process, which at the beginning did not have, had many possible outcomes. So that's one way of looking at should. The other way of looking at should, and if I, it's often connected with other people, but to keep it uniform, let me think of it again as just being inside one mind, where you're saying, to cut a long story short, you're saying I want to do so and so, but I should, I shouldn't. So in the case of the ice cream, it would be that I want the ice cream, but I shouldn't. And existing culture kind of thinks that this is what morality is about, this is what life is about. We, there are, as Michael Lockwood said to me once, morality is the theory of, let me get this right, the theory of why you, why you don't do what you would do if you didn't know about morality. So his idea is, if it weren't for our theories of morality, there'd be a thing that we would do, like we would do the animal thing or the base thing, or the, but because we have moral theories, we don't do those anyway, despite in some sense wanting to do them. Now I think that is, that is a description of what happens when moral thinking goes wrong. It's, it's, it's a very bad way of characterizing moral thinking in general.
+
+### Mark Alexander
+
+<span class="transcript-timestamp">00:01:04 - 00:04:13</span>
+
+Yeah. What's, what's wrong with it?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:01:04 - 00:04:13</span>
+
+Well, it, it envisages a perpetual unresolvable conflict. And you know, that, that's the definition of hell or something, you know, that, that's, that's, I mean, you know, it's never exactly that, that, that's, that's oversimplification of what the prevailing view of morality is, because I think the prevailing view also includes the idea that one can, one can want to be, to do the moral thing. It's not quite the same as saying one can want to be moral, because according to Michael Lockwood's definition, that want can coexist with another want to be immoral.
 
 ### Mark Alexander
 
@@ -116,7 +128,13 @@ It's often the way, by the way, if you view an apparently intractable problem ju
 
 <span class="transcript-timestamp">00:08:28 - 00:08:47</span>
 
-In your, in your formulation solutions and decisions, what do they have in common and how do they, how are they different? So if a decision is problematic, then you can say the process of, you know, rationally reaching the right choice, making the right decision is a process of solving a problem.
+In your, in your formulation solutions and decisions, what do they have in common and how do they, how are they different?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:08:28 - 00:08:47</span>
+
+So if a decision is problematic, then you can say the process of, you know, rationally reaching the right choice, making the right decision is a process of solving a problem.
 
 ### David Deutsch
 
@@ -128,7 +146,13 @@ But I think many decisions don't have this kind of conflict in the first place. 
 
 <span class="transcript-timestamp">00:10:04 - 00:10:09</span>
 
-Oh, this is great. This is great. Doing A when you, when you want to do A and no longer want to do B, that's a solution.
+Oh, this is great. This is great.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:10:04 - 00:10:09</span>
+
+Doing A when you, when you want to do A and no longer want to do B, that's a solution.
 
 ### David Deutsch
 
@@ -206,7 +230,19 @@ Yeah, well, it's not pain. What about if we use the word suffering?
 
 <span class="transcript-timestamp">00:14:14 - 00:14:58</span>
 
-Yes, yes. So it's always caused by suffering, I think. I can't swear to that, but I'm guessing. It's always originally caused by suffering. But then, once it gets entrenched, it can become part of one's personality. So that one can have these circular type of thoughts, without it ever actually being painful. What happens is that you're kind of fearing the pain, but that's not right either, because fear is also suffering. But it's kind of, you're chronically avoiding the pain, and you've succeeded in never feeling it. Fear with resistance is suffering. Is that right? Yeah, quite possibly, yes.
+Yes, yes. So it's always caused by suffering, I think. I can't swear to that, but I'm guessing. It's always originally caused by suffering. But then, once it gets entrenched, it can become part of one's personality. So that one can have these circular type of thoughts, without it ever actually being painful. What happens is that you're kind of fearing the pain, but that's not right either, because fear is also suffering. But it's kind of, you're chronically avoiding the pain, and you've succeeded in never feeling it.
+
+### Mark Alexander
+
+<span class="transcript-timestamp">00:14:14 - 00:14:58</span>
+
+Fear with resistance is suffering. Is that right?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:14:14 - 00:14:58</span>
+
+Yeah, quite possibly, yes.
 
 ### Mark Alexander
 
@@ -284,13 +320,13 @@ Each new possibility was an attempt to solve the problem or problems in the old 
 
 <span class="transcript-timestamp">00:21:32 - 00:21:45</span>
 
-Wow. So you're following the pleasure. The fun, yeah. Yeah. So what's the role that fun has in your creative process? Because if I'm following, creativity is necessary in order for this not to ...
+Wow. So you're following the pleasure. The fun, yeah. Yeah. So what's the role that fun has in your creative process? Because if I'm following, creativity is necessary in order for this not to just be some game theoretic exploration.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:21:45 - 00:22:15</span>
 
-Just be some game theoretic exploration. Yes. Yes. So I think that fun, the state of mind that we call fun is intimately connected with creativity. It's unblocked creativity. That's what fun is, I think. I mean, you know, we can only talk in very hand-waving terms about mental states and mental processes. It's very ill understood in my view.
+Yes. Yes. So I think that fun, the state of mind that we call fun is intimately connected with creativity. It's unblocked creativity. That's what fun is, I think. I mean, you know, we can only talk in very hand-waving terms about mental states and mental processes. It's very ill understood in my view.
 
 ### Lulie Tanett
 
@@ -298,11 +334,17 @@ Just be some game theoretic exploration. Yes. Yes. So I think that fun, the stat
 
 Yeah. This is also why my podcast is called Reason is Fun. It's the same worldview. Yeah. Yeah.
 
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:22:29 - 00:23:35</span>
+
+I'm so curious to what extent this maps onto your way of thinking about things or the Art of Accomplishment way of thinking about things. Oh. And whether there are any disagreements in particular.
+
 ### Mark Alexander
 
 <span class="transcript-timestamp">00:22:29 - 00:23:35</span>
 
-I'm so curious to what extent this maps onto your way of thinking about things or the art of accomplishment way of thinking about things. Oh. And whether there are any disagreements in particular. Well, I'm not seeing any yet. And of course, that's the main thing that I've been looking for. The one that was kind of an interesting one was where David is saying, oh, I don't have dilemmas. I only ever have one want. And that made me think, maybe we're not talking about the same thing. Or maybe this really is David's world. And that's just how it is. And for many of the rest of us, it's not that way. Like, I encounter a lot of dilemmas or things that feel like dilemmas, places where there's competing wants. And that's where I find that some tools, or just to zoom back out and say, oh, wait a minute, what is it that I'm not willing to feel here? That tends to be a very fast path back to the creativity for me. But I think we're speaking the same language insofar as the connection of fun and creativity.
+Well, I'm not seeing any yet. And of course, that's the main thing that I've been looking for. The one that was kind of an interesting one was where David is saying, oh, I don't have dilemmas. I only ever have one want. And that made me think, maybe we're not talking about the same thing. Or maybe this really is David's world. And that's just how it is. And for many of the rest of us, it's not that way. Like, I encounter a lot of dilemmas or things that feel like dilemmas, places where there's competing wants. And that's where I find that some tools, or just to zoom back out and say, oh, wait a minute, what is it that I'm not willing to feel here? That tends to be a very fast path back to the creativity for me. But I think we're speaking the same language insofar as the connection of fun and creativity.
 
 ### David Deutsch
 
@@ -316,7 +358,29 @@ I just wanted to insert that having competing wants is not the same thing as bei
 
 In the emotions view of decision making, Mark, you said that it's a quick path to getting back to the creativity.
 
-Which reopens the options so that I can get to a good decision quickly. Whereas David's view seems to be something like taking a different perspective or there are tons of different ways to get to that. And this is one of the tensions that I have that I'm wondering about. When do I go into whatever emotion it is versus when do I find a different intellectual view or a different perspective or something? Because, okay, when most people go into their heads and try to intellectualize it, that takes them further away from the things they want. And then somehow in David, it doesn't. It takes you closer. It sounded like you were seeing a choice between feeling the emotion versus do I engage creativity or do I feel the emotions? And in my experience, it was more like what is the path to re-engaging creativity? And for me, that path is feeling the emotions. Like one just goes straight to the other. The emotions are the fastest path for me to get back to creativity, which opens up the options, which leads to a cleaner decision. I think David often recommends basically finding the fun or finding the enjoyment as your first step. Like if you're suffering, if you're whatever depressed or whatever, the first thing is feel better.
+### Mark Alexander
+
+<span class="transcript-timestamp">00:24:30 - 00:25:59</span>
+
+Which reopens the options so that I can get to a good decision quickly.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:24:30 - 00:25:59</span>
+
+Whereas David's view seems to be something like taking a different perspective or there are tons of different ways to get to that. And this is one of the tensions that I have that I'm wondering about. When do I go into whatever emotion it is versus when do I find a different intellectual view or a different perspective or something? Because, okay, when most people go into their heads and try to intellectualize it, that takes them further away from the things they want. And then somehow in David, it doesn't. It takes you closer.
+
+### Mark Alexander
+
+<span class="transcript-timestamp">00:24:30 - 00:25:59</span>
+
+It sounded like you were seeing a choice between feeling the emotion versus do I engage creativity or do I feel the emotions? And in my experience, it was more like what is the path to re-engaging creativity? And for me, that path is feeling the emotions. Like one just goes straight to the other. The emotions are the fastest path for me to get back to creativity, which opens up the options, which leads to a cleaner decision.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:24:30 - 00:25:59</span>
+
+I think David often recommends basically finding the fun or finding the enjoyment as your first step. Like if you're suffering, if you're whatever depressed or whatever, the first thing is feel better.
 
 ### David Deutsch
 
@@ -340,7 +404,7 @@ If there's nothing you know of, like a cup of tea or a hug or a run or whatever,
 
 <span class="transcript-timestamp">00:27:15 - 00:27:57</span>
 
-So here's where the emotions view comes into it, which is when there is nothing like that, that seems like it can just put you into a better state, according to this emotions view, like, okay, what is the suffering in the first place? I would say that it's some kind of resisting of an experience. And so if you find that place in you that you are resisting, that emotion that you're resisting, and then you embrace it, basically, this is why art of accomplishment uses it to get to this state of creativity. So I don't know if you agree with that, or what do you think of that whole thing?
+So here's where the emotions view comes into it, which is when there is nothing like that, that seems like it can just put you into a better state, according to this emotions view, like, okay, what is the suffering in the first place? I would say that it's some kind of resisting of an experience. And so if you find that place in you that you are resisting, that emotion that you're resisting, and then you embrace it, basically, this is why Art of Accomplishment uses it to get to this state of creativity. So I don't know if you agree with that, or what do you think of that whole thing?
 
 ### David Deutsch
 
@@ -376,43 +440,61 @@ Mm hmm.
 
 <span class="transcript-timestamp">00:30:57 - 00:32:44</span>
 
-I'm still personally curious when to do the going into emotions move versus when to do the David take another perspective, solve the problem mode. I encounter this, you know, every day of my life. Yeah, it sounds like there's even a decision process happening to determine which of those you take. What's going on when you find yourself in that position? Either I'm either I'm doing my practicing art of accomplishment thing, or I'm having conversation with David and so kind of doing that. Or let's see if I'm on my own. Ah, I have, I seem to have, I don't endorse this. I seem to have a, the idea that something like always go into the emotion thing, because that's what I should do. Because, because my head led me wrong in the past, and therefore it's not to be trusted for the time being while I'm relearning the whole embodied emotions thing. So it has, I don't know, it has bits of truth and bits of falsehood, shall we say. Yeah, what a landscape. Like there's, there's the should in it. There's the, I also hear the experiment in it. Like, oh, well, my mind steered me wrong last time. So I'm going to experiment with a new approach. I'm going to try this other thing. But there's also the, there's a going into the emotion, which sounds like a voluntary process. How does that work? Yeah. And there's also a reaching for what is the right answer. And will one of you tell me?
+I'm still personally curious when to do the going into emotions move versus when to do the David take another perspective, solve the problem mode. I encounter this, you know, every day of my life.
 
 ### Mark Alexander
+
+<span class="transcript-timestamp">00:30:57 - 00:32:44</span>
+
+Yeah, it sounds like there's even a decision process happening to determine which of those you take. What's going on when you find yourself in that position?
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:30:57 - 00:32:44</span>
+
+Either I'm either I'm doing my practicing Art of Accomplishment thing, or I'm having conversation with David and so kind of doing that. Or let's see if I'm on my own. Ah, I have, I seem to have, I don't endorse this. I seem to have a, the idea that something like always go into the emotion thing, because that's what I should do. Because, because my head led me wrong in the past, and therefore it's not to be trusted for the time being while I'm relearning the whole embodied emotions thing. So it has, I don't know, it has bits of truth and bits of falsehood, shall we say.
+
+### Mark Alexander
+
+<span class="transcript-timestamp">00:30:57 - 00:32:44</span>
+
+Yeah, what a landscape. Like there's, there's the should in it. There's the, I also hear the experiment in it. Like, oh, well, my mind steered me wrong last time. So I'm going to experiment with a new approach. I'm going to try this other thing. But there's also the, there's a going into the emotion, which sounds like a voluntary process. How does that work? Yeah. And there's also a reaching for what is the right answer. And will one of you tell me?
+
+### Lulie Tanett
 
 <span class="transcript-timestamp">00:32:49 - 00:32:51</span>
 
 Yeah. So what was your question? How does what work?
 
-### Lulie Tanett
+### Mark Alexander
 
 <span class="transcript-timestamp">00:32:52 - 00:33:09</span>
 
 How does it work when you're going into an emotion? And I just put up air quotes and what do you mean by how does it work? What are you, what are you doing when you say go? What are you doing to go into the emotion?
 
-### Mark Alexander
+### Lulie Tanett
 
 <span class="transcript-timestamp">00:33:11 - 00:33:38</span>
 
 Um, I'm looking for what is the strongest thread of sensation in my body. And I'm also asking myself the question, what am I resisting? What emotion am I or what sensation am I resisting? Well, I don't know. There's actually like a dozen different moves that I make that different things I asked myself and so on.
 
-### Lulie Tanett
+### Mark Alexander
 
 <span class="transcript-timestamp">00:33:39 - 00:33:50</span>
 
 Yeah. And it, my guess is that that's many times fruitful and sometimes not. Is that fair? Yeah. What's the difference between those two?
 
-### Mark Alexander
+### Lulie Tanett
 
 <span class="transcript-timestamp">00:33:50 - 00:34:13</span>
 
-Yeah. I can only think of specific examples where the, um, where I've been making specific, I now in retrospect think, um, errors. So for example, with sadness, then I might go into a sadness, but then it kind of like takes me over and then I just kind of get into a, ...
+Yeah. I can only think of specific examples where the, um, where I've been making specific, I now in retrospect think, um, errors. So for example, with sadness, then I might go into a sadness, but then it kind of like takes me over and then I just kind of get into a, into a wallowing state.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:34:14 - 00:35:13</span>
 
-Into a wallowing state. It, it occurs to me that there's this picture that you just painted. I mean, you know, I'm a, I'm a total newbie in this area, but you said there's, there's your analytical side and then there's the emotion side and you, you're, you're giving the problem to one or both of them and saying that, that you're hoping that one of them will tell you the answer. Well, they are actually in real life, both, both of them are part of you. They're, they're part of, um, but so is the thing that's giving them the problem yourself when you're giving it to them. And it seems to me that you're, the description you gave only allows two out of those three to be creative. You are just going to sit there and wait for the answer. So, but you know, I may have got hold of the wrong end of the stick in describing me.
+It, it occurs to me that there's this picture that you just painted. I mean, you know, I'm a, I'm a total newbie in this area, but you said there's, there's your analytical side and then there's the emotion side and you, you're, you're giving the problem to one or both of them and saying that, that you're hoping that one of them will tell you the answer. Well, they are actually in real life, both, both of them are part of you. They're, they're part of, um, but so is the thing that's giving them the problem yourself when you're giving it to them. And it seems to me that you're, the description you gave only allows two out of those three to be creative. You are just going to sit there and wait for the answer. So, but you know, I may have got hold of the wrong end of the stick in describing me.
 
 ### Mark Alexander
 
@@ -582,11 +664,17 @@ Do we ever have to suffer?
 
 Well, you know, depends. What does have to mean in that case? It is certainly within the capacity of the human mind to live a life without ever suffering. But there are things in the world that get in the way of that. And I think for young people, it's principally coercion. I mean, in the sense of other people coercing you. I think it is possible to get into a state of internal mental coercion or, you know, intractable problems mentally without being forced to from the outside. But I think that's unusual. It's not, that's not the usual, that's not the usual problem. It's usually the objective issue, the thing that is actually at stake is not very difficult. Like, you know, you're a toddler and you want the ice cream. And there certainly is a way in which the laws of physics don't stand in the way of you getting the ice cream. It's always your parents. In cases where it is the laws of physics, you don't usually get upset because a real problem, sorry, a real evil or whatever it is, is always, it's always amenable to solution. Not, maybe not directly, maybe not immediately. Like, you know, you say, oh, we've run out. Well, can we go to the shops? Well, the shops are shut. Well, will something else do? You know, there's always the problem, a real problem has a structure. I said, I think I said, in one of my books, I said that, yeah, it's in The Beginning of Infinity, that an imaginary, we're talking about antirational memes, and I said that the idea that there is a, that there's a, what's an evil spirit called, not a gremlin, Hobgoblin. That's it. So this was in the memes article, which everyone should read.
 
+### David Deutsch
+
+<span class="transcript-timestamp">00:47:09 - 00:47:20</span>
+
+Did I take it out of the book?
+
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:47:09 - 00:47:20</span>
 
-Did I take it out of the book? Well, well, now, well, now the evolution of culture has been published to the internet. It's, it's, I think one of David's best writings, it's all about coercion and hangups and everything.
+Well, well, now, well, now The Evolution of Culture has been published to the internet. It's, it's, I think one of David's best writings, it's all about coercion and hangups and everything.
 
 ### David Deutsch
 
@@ -616,4 +704,4 @@ Good. I'm really glad to hear that. This is awesome. I would love to do it again
 
 <span class="transcript-timestamp">00:48:40 - 00:49:12</span>
 
-So fun fact, the reason I have this podcast in the first place is that I did this art of accomplishment, how to make great decisions course, and it's coming up in about a week. And you have until January 8th to sign up. And if you use my code, LULI100, you get a discount of a hundred dollars. So I super recommend this course. It has been very life-changing for me. And I hope to see you there because I'm also going to be in this cohort.
+So fun fact, the reason I have this podcast in the first place is that I did this Art of Accomplishment, how to make great decisions course, and it's coming up in about a week. And you have until January 8th to sign up. And if you use my code, LULI100, you get a discount of a hundred dollars. So I super recommend this course. It has been very life-changing for me. And I hope to see you there because I'm also going to be in this cohort.

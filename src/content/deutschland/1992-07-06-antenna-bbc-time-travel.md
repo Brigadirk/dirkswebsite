@@ -53,7 +53,7 @@ In Einstein's picture of the universe, space and time are considered together as
 
 ### David Deutsch
 
-<span class="transcript-timestamp">00:06:20 - 00:09:26</span>
+<span class="transcript-timestamp">00:06:20 - 00:06:50</span>
 
 That means that it's not just the present that exists. The future also exists. The past also exists. The future and the past are as real as the present. From the point of view of physics, the dinosaurs exist, even though there's been no dinosaur on earth for 70 million years.
 
@@ -107,7 +107,7 @@ Taken literally, the equations of quantum mechanics say that each time the pinba
 
 ### Chris Isham
 
-<span class="transcript-timestamp">00:15:46 - 00:17:12</span>
+<span class="transcript-timestamp">00:15:46 - 00:16:20</span>
 
 The many worlds interpretation of quantum physics is one of these things that generates intense emotion amongst theoretical physicists. Some are very much in favour, some very much against. But there is one domain of physics where it's almost, I think, obligatory, and that's quantum cosmology. Quantum cosmologists use quantum theory to study the way space and time behave from the creation of the universe onwards. They rely on the many worlds interpretation in their calculations.
 
@@ -233,7 +233,7 @@ One of the key ingredients in time travel is a tear being set up in space-time. 
 
 ### David Deutsch
 
-<span class="transcript-timestamp">00:26:51 - 00:28:40</span>
+<span class="transcript-timestamp">00:26:51 - 00:27:20</span>
 
 At the moment, all routes to time travel are far beyond our technological capabilities, but more physicists than ever are doing research in this area, and all the traditional objections to time travel have turned out to be invalid. My gut feeling is that if technological obstacles are the only ones in our way, then one day time machines will be built. It will be a pity if it turns out that time travel is not possible. It would have been exciting to explore the universe in time as well as space.
 

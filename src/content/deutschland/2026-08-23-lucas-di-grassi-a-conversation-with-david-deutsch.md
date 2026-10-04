@@ -9,7 +9,7 @@ pubDate: 2026-08-23
 
 <span class="duration-label">Duration:</span> <span class="duration-time">01:26:38</span>
 
-Participants: Lucas di Grassi and David Deutsch.
+*Edited for readability. Verbal fillers, repetitions, and abandoned starts have been removed without changing the substance of the conversation.*
 
 ## Topic guide
 
@@ -31,9 +31,6 @@ Timestamps link to the corresponding point in the recording.
 - [79:50](https://www.youtube.com/watch?v=iQbGknvjyFM&t=4790s) - Humanity's future, AI, and optimism
 
 ## Transcript
-
-*Edited for readability. Verbal fillers, repetitions, and abandoned starts have been removed without changing the substance of the conversation.*
-
 ### Lucas di Grassi
 
 <span class="transcript-timestamp">00:00:00 - 00:00:51</span>

@@ -1,5 +1,5 @@
 ---
-title: '2011-09-28 - Sci-Fi London Fringe Event with Chris Patmore'
+title: '2011-09-28 - Sci-Fi London - Fringe Event with Chris Patmore'
 description: 'An interview / discussion from 2011-09-28, featuring David Deutsch, Chris Patmore, titled "Sci-Fi London Fringe Event with Chris Patmore".'
 pubDate: 2011-09-28
 ---
@@ -55,7 +55,7 @@ It's a tiny sliver of a much larger entity that includes many universes, that's 
 
 <span class="transcript-timestamp">00:06:42 - 00:06:50</span>
 
-So take the example of fringe, where the two universes have developed along different lines.
+So take the example of Fringe, where the two universes have developed along different lines.
 
 ### David Deutsch
 
@@ -193,7 +193,7 @@ Waves of energy.
 
 <span class="transcript-timestamp">00:21:45 - 00:23:20</span>
 
-Yeah, particle wave duality. Unfortunately, from my perspective, particle wave duality is part of the equivocation and nonsense that was talked by the early pioneers of quantum theory in an attempt to avoid the parallel universe's implications. And in fact, there is no particle wave duality. What the wave is, is not a vibration in anything. It's the extended... it's the extended nature of a wave that they were talking about. Not its changing, going up and down like a vibration. It's just the fact that it's in more than one place at a time. And the more than one place at a time in reality translates into being in different places in different universes. Not to moving from one to the other in a vibratory way. So if somebody had understood the parallel universe's implication of quantum mechanics somehow before the 1920s, vibration would have been the last word they would have used. They would have denied that quantum theory has anything to do with vibrations. They do use a word nowadays, fluctuations, which is likewise very misleading. Fluctuations is another of these double-talk words that pretends that objects kind of go from one to the other very rapidly. But there's no such process described by the equations. What the equations describe is existing in both places at once.
+Yeah, particle wave duality. Unfortunately, from my perspective, particle wave duality is part of the equivocation and nonsense that was talked by the early pioneers of quantum theory in an attempt to avoid the parallel universes implications. And in fact, there is no particle wave duality. What the wave is, is not a vibration in anything. It's the extended... it's the extended nature of a wave that they were talking about. Not its changing, going up and down like a vibration. It's just the fact that it's in more than one place at a time. And the more than one place at a time in reality translates into being in different places in different universes. Not to moving from one to the other in a vibratory way. So if somebody had understood the parallel universes implication of quantum mechanics somehow before the 1920s, vibration would have been the last word they would have used. They would have denied that quantum theory has anything to do with vibrations. They do use a word nowadays, fluctuations, which is likewise very misleading. Fluctuations is another of these double-talk words that pretends that objects kind of go from one to the other very rapidly. But there's no such process described by the equations. What the equations describe is existing in both places at once.
 
 ### Chris Patmore
 

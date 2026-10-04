@@ -63,13 +63,13 @@ No, we will never have the final truth. All we can do is correct errors and incr
 
 <span class="transcript-timestamp">00:06:39 - 00:06:55</span>
 
-Yeah, I want to go there in a while. In The Beginning of Infinity, the chapter two is called closer to the reality. Yes. Do you think like it could be named closer to the truth?
+Yeah, I want to go there in a while. In The Beginning of Infinity, the chapter two is called Closer to Reality. Yes. Do you think like it could be named closer to the truth?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:06:57 - 00:07:46</span>
 
-Well, yes, but I think that's more misleading because we're always an infinite distance away from the truth. So, you know, that's why it's The Beginning of Infinity. We're always, no matter how much we learn, no matter how much knowledge we have, we're always at The Beginning of Infinity. So saying that we move closer to the truth when we have like an infinitesimal amount of truth and then a larger infinitesimal amount of truth, that's really not well captured by saying that we're closer to the truth. That would mean closer to the ultimate truth. Okay.
+Well, yes, but I think that's more misleading because we're always an infinite distance away from the truth. So, you know, that's why it's The Beginning of Infinity. We're always, no matter how much we learn, no matter how much knowledge we have, we're always at the beginning of infinity. So saying that we move closer to the truth when we have like an infinitesimal amount of truth and then a larger infinitesimal amount of truth, that's really not well captured by saying that we're closer to the truth. That would mean closer to the ultimate truth. Okay.
 
 ### Salvador Duarte
 
@@ -171,13 +171,13 @@ Yeah. So what makes a theory inherently a universal theory is that denying, sayi
 
 <span class="transcript-timestamp">00:22:59 - 00:23:41</span>
 
-Okay, nice. So explanations are the currency of understanding, and the quest for better explanations is the essence of progress, right? Yes. Okay. And in the world we see today, overloaded with information and kind of shallow narratives, how can we truly cultivate the kind of epistemic patience to generate truly deep explanations rather than merely persuasive ones? Again, I think there are two different things there.
+Okay, nice. So explanations are the currency of understanding, and the quest for better explanations is the essence of progress, right? Yes. Okay. And in the world we see today, overloaded with information and kind of shallow narratives, how can we truly cultivate the kind of epistemic patience to generate truly deep explanations rather than merely persuasive ones?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:23:42 - 00:25:42</span>
 
-We don't necessarily have to pursue universal explanations. And in fact, I think universal explanations usually are created in order to solve a particular problem, which has nothing to do with being universal. So, you know, maybe it's a bad example, but I don't think Darwin was thinking of life on other planets when he invented his theory. It was only later, a century later, that people understood his theory more deeply and realized that it must be true on other planets as well. So I think the way we cope with the torrent of bad theories is the way we cope with any problem. We have to conjecture improvements to existing theories, and we don't have to solve everything. We don't have to solve any particular thing that someone tells us to solve. We should solve whatever we find interesting and, as I always say, fun. We should use the criterion of thinking about things that it's fun to think about, because I use that term fun to mean a state of mind where your explicit ideas and your inexplicit ideas and your unconscious ideas are all working in harmony and not opposing each other. If they oppose each other, then some of your creativity is being wasted in this war between, let's say, your explicit theories and your inexplicit desires or something like that.
+Again, I think there are two different things there. We don't necessarily have to pursue universal explanations. And in fact, I think universal explanations usually are created in order to solve a particular problem, which has nothing to do with being universal. So, you know, maybe it's a bad example, but I don't think Darwin was thinking of life on other planets when he invented his theory. It was only later, a century later, that people understood his theory more deeply and realized that it must be true on other planets as well. So I think the way we cope with the torrent of bad theories is the way we cope with any problem. We have to conjecture improvements to existing theories, and we don't have to solve everything. We don't have to solve any particular thing that someone tells us to solve. We should solve whatever we find interesting and, as I always say, fun. We should use the criterion of thinking about things that it's fun to think about, because I use that term fun to mean a state of mind where your explicit ideas and your inexplicit ideas and your unconscious ideas are all working in harmony and not opposing each other. If they oppose each other, then some of your creativity is being wasted in this war between, let's say, your explicit theories and your inexplicit desires or something like that.
 
 ### Salvador Duarte
 
@@ -225,13 +225,25 @@ Okay, okay, yeah. Let's talk about the evolution of knowledge and creativity. So
 
 <span class="transcript-timestamp">00:31:31 - 00:32:25</span>
 
-Sorry, I didn't hear what you said is more than ever. What is more than ever now? Rewards conformity. Oh, no, I don't think that's true. I think existing society in the West tries, doesn't always succeed, but it tries to reward innovation and creativity. And if there's some kind of static state of, let's say, a company, then we expect that company to decline. If the economy as a whole doesn't grow year by year, people complain. Nowadays we're satisfied with relatively low rates of growth, in other words, rates of progress. Yeah, I would say that's ...
+Sorry, I didn't hear what you said is more than ever. What is more than ever now?
+
+### Salvador Duarte
+
+<span class="transcript-timestamp">00:31:31 - 00:32:25</span>
+
+Rewards conformity.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:31:31 - 00:32:25</span>
+
+Oh, no, I don't think that's true. I think existing society in the West tries, doesn't always succeed, but it tries to reward innovation and creativity. And if there's some kind of static state of, let's say, a company, then we expect that company to decline. If the economy as a whole doesn't grow year by year, people complain. Nowadays we're satisfied with relatively low rates of growth, in other words, rates of progress.
 
 ### Salvador Duarte
 
 <span class="transcript-timestamp">00:32:25 - 00:32:31</span>
 
-More in the US, maybe because they also embrace the more capitalist worldview.
+Yeah, I would say that's more in the US, maybe because they also embrace the more capitalist worldview.
 
 ### David Deutsch
 
@@ -291,13 +303,13 @@ Yes, I think the labor market in particular was slower than the rest of the econ
 
 <span class="transcript-timestamp">00:44:52 - 00:45:13</span>
 
-But don't you think like AI is helping us, especially in the labor markets to find more creative jobs and to people not being so strict to like you work in this company and your goals are your boss's goals and it, it will just make you more miserable. Yes.
+But don't you think like AI is helping us, especially in the labor markets to find more creative jobs and to people not being so strict to like you work in this company and your goals are your boss's goals and it, it will just make you more miserable.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:45:13 - 00:46:48</span>
 
-So anything that a robot can do a human should not be doing ultimately. Yeah. That's, that's an, uh, an anti-human kind of, um, application for a human. And similarly in a, in an education system, any, um, kind of, um, uh, education that requires meeting a standard, um, is, is, um, well, um, let me say that more carefully because, uh, you will immediately say what if a lawyer or a doctor or an airline pilot doesn't have the standard skills? Um, the, um, aspect of education that is designed to meet educational tests is not educational. It may be temporarily necessary, but one day soon, maybe we will have airline pilots who are robots and we won't have lawyers who are robots, but we will have lawyers that spend their day doing the creative side of being a lawyer, not the mechanical side, the mechanical side will again be done by AIs and the same with surgeons and, uh, yeah.
+Yes. So anything that a robot can do a human should not be doing ultimately. Yeah. That's, that's an, uh, an anti-human kind of, um, application for a human. And similarly in a, in an education system, any, um, kind of, um, uh, education that requires meeting a standard, um, is, is, um, well, um, let me say that more carefully because, uh, you will immediately say what if a lawyer or a doctor or an airline pilot doesn't have the standard skills? Um, the, um, aspect of education that is designed to meet educational tests is not educational. It may be temporarily necessary, but one day soon, maybe we will have airline pilots who are robots and we won't have lawyers who are robots, but we will have lawyers that spend their day doing the creative side of being a lawyer, not the mechanical side, the mechanical side will again be done by AIs and the same with surgeons and, uh, yeah.
 
 ### Salvador Duarte
 
@@ -327,13 +339,13 @@ Uh, yes, I think, uh, on the large scale, uh, on a scale of decades, um, we, we 
 
 <span class="transcript-timestamp">00:52:05 - 00:52:29</span>
 
-How did you kind of apply this error correction theory to your own life? Like, you now like see failure and you just don't like kind of embrace it more than maybe you used to when you were, when you didn't know this, this error correction theory. Um, I don't know.
+How did you kind of apply this error correction theory to your own life? Like, you now like see failure and you just don't like kind of embrace it more than maybe you used to when you were, when you didn't know this, this error correction theory.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:52:29 - 00:53:40</span>
 
-I think I've been lucky in that. Um, I never, I never really thought of the future. Uh, I never thought about having a career and I've never really had a career. Uh, and, um, what I always thought of doing and only later realized that that was exactly the right thing to do was, uh, just do what I wanted to do. And when that wasn't possible, then I would first of all, do whatever is closest to what I want to do. And on the other hand, try to change things, uh, bit by bit, even by a small amount, um, to make, to make the obstacles, um, less severe and to find ways of getting around regulations and, uh, people's expectations and, you know, the kind of thing. Um, so, um, yeah, I think I was just lucky.
+Um, I don't know. I think I've been lucky in that. Um, I never, I never really thought of the future. Uh, I never thought about having a career and I've never really had a career. Uh, and, um, what I always thought of doing and only later realized that that was exactly the right thing to do was, uh, just do what I wanted to do. And when that wasn't possible, then I would first of all, do whatever is closest to what I want to do. And on the other hand, try to change things, uh, bit by bit, even by a small amount, um, to make, to make the obstacles, um, less severe and to find ways of getting around regulations and, uh, people's expectations and, you know, the kind of thing. Um, so, um, yeah, I think I was just lucky.
 
 ### Salvador Duarte
 
@@ -387,13 +399,13 @@ Yeah, it, it, I mean, I think I prefer blind optimism. If I think which one of t
 
 <span class="transcript-timestamp">00:56:51 - 00:56:57</span>
 
-What's your favorite book, David? Not counting mine.
+What's your favorite book, David?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:56:58 - 00:58:36</span>
 
-Huh? I think, I think, uh, my favorite book, um, trying to think how to distinguish between different books of Popper's depends what mood I'm in. I mean, but I think the myth of the framework is very powerful. Just the mostly the one essay in that book, which is called the myth of the framework is, is the powerful thing. But then if I think that, uh, you know, Bronowski wrote the Ascent of Man. And, uh, that's one of the, I think I've read that several times and I've read it more often than I've, than I've read any Popper book, even though Bronowski is kind of, uh, he's less great as a philosopher, you know, nobody in the 20th century was, was, uh, was even up to waist level of Popper. Um, he was, he was more than head and shoulders above everyone else. But nevertheless, um, Popper, I think could not have written the Ascent of Man. Uh, it's uplifting in a way that Popper can't be. And, uh, I wish the two of them had found more. I mean, I think they knew each other, but they didn't particularly get what was great about each other.
+Not counting mine. Huh? I think, I think, uh, my favorite book, um, trying to think how to distinguish between different books of Popper's depends what mood I'm in. I mean, but I think The Myth of the Framework is very powerful. Just the mostly the one essay in that book, which is called The Myth of the Framework is, is the powerful thing. But then if I think that, uh, you know, Bronowski wrote The Ascent of Man. And, uh, that's one of the, I think I've read that several times and I've read it more often than I've, than I've read any Popper book, even though Bronowski is kind of, uh, he's less great as a philosopher, you know, nobody in the 20th century was, was, uh, was even up to waist level of Popper. Um, he was, he was more than head and shoulders above everyone else. But nevertheless, um, Popper, I think could not have written The Ascent of Man. Uh, it's uplifting in a way that Popper can't be. And, uh, I wish the two of them had found more. I mean, I think they knew each other, but they didn't particularly get what was great about each other.
 
 ### Salvador Duarte
 
@@ -405,13 +417,7 @@ Uh, okay. Did you know Popper when he was still alive, did you get the chance to
 
 <span class="transcript-timestamp">00:58:52 - 00:59:32</span>
 
-Uh, no, no, I was, I was too young or too junior or something. I met him once. Uh, I, um, I went to visit him with, together with my, um, mentor or colleague or boss or whatever you could call him, um, Bryce DeWitt. We both went to see Popper. We tried to persuade him of the Everett interpretation, pretty much failed. And on another occasion, I went to watch, um, a lecture of Popper's. I didn't speak to him on that occasion. Um, but it was, it was, um, uh, a lecture. I've forgotten what.
-
-### Salvador Duarte
-
-<span class="transcript-timestamp">00:59:32 - 00:59:35</span>
-
-The details of what the lecture was about.
+Uh, no, no, I was, I was too young or too junior or something. I met him once. Uh, I, um, I went to visit him with, together with my, um, mentor or colleague or boss or whatever you could call him, um, Bryce DeWitt. We both went to see Popper. We tried to persuade him of the Everett interpretation, pretty much failed. And on another occasion, I went to watch, um, a lecture of Popper's. I didn't speak to him on that occasion. Um, but it was, it was, um, uh, a lecture. I've forgotten what the details of what the lecture was about.
 
 ### David Deutsch
 

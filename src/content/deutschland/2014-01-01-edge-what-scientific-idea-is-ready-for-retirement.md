@@ -7,7 +7,10 @@ pubDate: 2014-01-01
 [Read the response at Edge](https://www.edge.org/response-detail/25453)
 [Source collection](https://deranfangderunendlichkeit.de/mehr)
 
-## Quantum Jumps
+*Quantum Jumps*
+
+## Transcript
+### David Deutsch
 
 The term "quantum jump" has entered everyday language as a metaphor for a large, discontinuous change. It has also become widespread in the vast but sadly repetitive landscape of pseudo-science and mysticism.
 

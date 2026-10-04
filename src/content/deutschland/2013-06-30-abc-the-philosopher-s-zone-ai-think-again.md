@@ -13,7 +13,7 @@ pubDate: 2013-06-30
 
 <span class="transcript-timestamp">00:00:00 - 00:00:14</span>
 
-Hi, Fran Kelly here from RN Breakfast. Before you listen to this podcast, just a reminder that all our stories are online too. So if you want to download breakfast morning, noon or night, head to the RN homepage.
+Hi, Fran Kelly here from RN Breakfast. Before you listen to this podcast, just a reminder that all our stories are online too. So if you want to download Breakfast morning, noon or night, head to the RN homepage.
 
 ### Joe Gelonesi
 

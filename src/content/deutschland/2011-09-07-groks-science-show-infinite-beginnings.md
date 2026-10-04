@@ -56,7 +56,7 @@ And our world famous question of the week. Coming right up. Here. On the Groks S
 
 <span class="transcript-timestamp">00:01:22 - 00:02:00</span>
 
-Well, science is constantly in search of explanations about the world around us. But our explanations of the world are incomplete. And the search for better ones is ongoing. What constitutes a good explanation? And how do these explanations evolve? Well, joining us today to discuss this issue is Professor David Deutsch. Professor Deutsch is a professor of physics at Oxford University and a fellow of the Royal Society. Author of numerous scientific and popular works including the Fabric of Reality. His latest work, The Beginning of Infinity: Explanations that Transform the World, explores this topic for a general audience. And Professor Deutsch, we're very pleased to have you today on the Groks Science Show.
+Well, science is constantly in search of explanations about the world around us. But our explanations of the world are incomplete. And the search for better ones is ongoing. What constitutes a good explanation? And how do these explanations evolve? Well, joining us today to discuss this issue is Professor David Deutsch. Professor Deutsch is a professor of physics at Oxford University and a fellow of the Royal Society. Author of numerous scientific and popular works including The Fabric of Reality. His latest work, The Beginning of Infinity: Explanations that Transform the World, explores this topic for a general audience. And Professor Deutsch, we're very pleased to have you today on the Groks Science Show.
 
 ### David Deutsch
 
@@ -98,7 +98,7 @@ What about the idea that everyone should steal?
 
 <span class="transcript-timestamp">00:04:48 - 00:05:29</span>
 
-Yes. So one of the nice things about this critical worldview, which, by the way, isn't mine, it's due to the philosopher Karl Popper. Originally, I just applied it to this idea of good explanations is that no criterion of criticism is excluded a priori. So you can exclude something, but all of them have to contribute to this good explanation feature. So the idea that everyone should steal also has this property that it's hard to vary, but it doesn't account for the thing it's supposed to account for. Because if everyone could steal, that would have obvious practical disadvantages like running out of things to steal.
+Yes. So one of the nice things about this critical worldview, which, by the way, isn't mine, it's due to the philosopher Karl Popper originally, I just applied it to this idea of good explanations, is that no criterion of criticism is excluded a priori. So you can exclude something, but all of them have to contribute to this good explanation feature. So the idea that everyone should steal also has this property that it's hard to vary, but it doesn't account for the thing it's supposed to account for. Because if everyone could steal, that would have obvious practical disadvantages like running out of things to steal.
 
 ### Charles Lee
 
@@ -188,7 +188,7 @@ Exactly. Strangely, the idea that that should be so runs counter to the prevaili
 
 <span class="transcript-timestamp">00:14:50 - 00:15:04</span>
 
-Determining what is the objective truth is not always an easy process. Thomas Kuhn pointed this out in the structure of scientific revolutions. Whereas you might think that if it really is the truth, it would just become intuitively obvious that it is the truth.
+Determining what is the objective truth is not always an easy process. Thomas Kuhn pointed this out in The Structure of Scientific Revolutions. Whereas you might think that if it really is the truth, it would just become intuitively obvious that it is the truth.
 
 ### David Deutsch
 
@@ -242,7 +242,7 @@ Well, that's one of the intriguing aspects of the book, is that you argue that t
 
 <span class="transcript-timestamp">00:17:47 - 00:19:29</span>
 
-Yes, the world just is unsustainable. The 99.9% of all species that have ever existed have been wiped out by the very earth on which they evolved. And all of our sister species were wiped out by the same environment that they grew up in. And the great rift valley in Africa, where our species evolved, could hardly support any people by present day standards. And those that it did support, it supported only in tremendous misery, like it does with nearly all species. Nature is not only red in tooth and claw, it's cruel, it's full of starvation and slavery and sickness and conflict and so on. It's only humans that can improve things. And that's what we do. But improving them only gives us ever a temporary respite from this normal state of affairs in nature of being cruel and involving suffering. So what we do is we improve things, we reach a new level of problems thereby. We improve those and we reach a new level of problems there. If that couldn't go on forever, then we'd be headed for a brick wall. And we would go extinct like all of our predecessor species. But if it's unlimited, which I argue it is, then we can keep surviving and making our lives better, but only by a continual exercise of creativity.
+Yes, the world just is unsustainable. The 99.9% of all species that have ever existed have been wiped out by the very earth on which they evolved. And all of our sister species were wiped out by the same environment that they grew up in. And the Great Rift Valley in Africa, where our species evolved, could hardly support any people by present day standards. And those that it did support, it supported only in tremendous misery, like it does with nearly all species. Nature is not only red in tooth and claw, it's cruel, it's full of starvation and slavery and sickness and conflict and so on. It's only humans that can improve things. And that's what we do. But improving them only gives us ever a temporary respite from this normal state of affairs in nature of being cruel and involving suffering. So what we do is we improve things, we reach a new level of problems thereby. We improve those and we reach a new level of problems there. If that couldn't go on forever, then we'd be headed for a brick wall. And we would go extinct like all of our predecessor species. But if it's unlimited, which I argue it is, then we can keep surviving and making our lives better, but only by a continual exercise of creativity.
 
 ### Charles Lee
 

@@ -91,7 +91,7 @@ Yes, well, we definitely can't expect to reach a final truth. And again, as Karl
 
 <span class="transcript-timestamp">00:08:22 - 00:08:54</span>
 
-I'd just like to put forward or put to you Carlo Rovelli's, what he's written about the nature of reality, wrote this in reality is not what it seems in subsequent follow-ups. So he said that, quote, the external point of view is a point of view that doesn't exist and every description of the world is from inside it. So therefore, the externally observed world does not exist. What exists are only internal perspectives on the world which are partial and reflect one another. What would you say is wrong with that?
+I'd just like to put forward or put to you Carlo Rovelli's, what he's written about the nature of reality, wrote this in Reality Is Not What It Seems in subsequent follow-ups. So he said that, quote, the external point of view is a point of view that doesn't exist and every description of the world is from inside it. So therefore, the externally observed world does not exist. What exists are only internal perspectives on the world which are partial and reflect one another. What would you say is wrong with that?
 
 ### David Deutsch
 

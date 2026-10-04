@@ -55,7 +55,7 @@ Now what is, briefly, the quantum theory of computation? How does that work? How
 
 <span class="transcript-timestamp">00:06:03 - 00:06:51</span>
 
-A theory of computation within any laws of physics is the theory of how you can use physical objects to represent abstract objects. So you want to represent the integers, 1, 2, 3, and you can use physical objects like fingers to say that will be 1, that's called 2, that's called 3, and so on. And computers are ways of instantiating abstract objects and their relationships in physical objects and their motion. So now what happens with quantum computers is that we simply take the deepest physical theory, we have quantum theory, and we say what kind of information processing does quantum theory, in general, allow and what does it not allow? And that's the theory of quantum computation.
+A theory of computation within any laws of physics is the theory of how you can use physical objects to represent abstract objects. So you want to represent the integers, 1, 2, 3, and you can use physical objects like fingers to say that will be 1, that's called 2, that's called 3, and so on. And computers are ways of instantiating abstract objects and their relationships in physical objects and their motion. So now what happens with quantum computers is that we simply take the deepest physical theory we have, quantum theory, and we say what kind of information processing does quantum theory, in general, allow and what does it not allow? And that's the theory of quantum computation.
 
 ### Robert Lawrence Kuhn
 

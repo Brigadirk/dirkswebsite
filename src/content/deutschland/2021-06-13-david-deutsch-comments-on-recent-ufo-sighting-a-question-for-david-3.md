@@ -1,6 +1,6 @@
 ---
 title: '2021-06-13 - ToKCast - David Deutsch comments on recent UFO sighting (Tic Tacs: A question for David 3)'
-description: 'An interview / discussion from David Deutsch comments on recent UFO sighting, featuring David Deutsch, Brett Hall, titled "A question for David 3".'
+description: 'An interview / discussion from 2021-06-13, featuring David Deutsch, Brett Hall, titled "A question for David 3".'
 pubDate: 2021-06-13
 ---
 
@@ -17,7 +17,7 @@ pubDate: 2021-06-13
 
 Science is not you just go out into the world and observe stuff. It's a heck of a lot more complicated than that. So too for everything else. Even the cameraman from Groundhog Day understood this.
 
-### David Deutsch
+### Groundhog Day clip
 
 <span class="transcript-timestamp">00:00:11 - 00:00:24</span>
 

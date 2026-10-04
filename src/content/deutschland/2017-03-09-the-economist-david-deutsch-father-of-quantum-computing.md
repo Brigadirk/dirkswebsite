@@ -1,17 +1,20 @@
 ---
 title: '2017-03-09 - The Economist - David Deutsch, Father of Quantum Computing'
-description: "An Economist profile and interview about David Deutsch's ideas and the experimental work they inspired."
+description: 'An Economist profile and interview about David Deutsch''s ideas and the experimental work they inspired.'
 pubDate: 2017-03-09
 ---
 
 [Read the article at The Economist](https://www.economist.com/technology-quarterly/2017/03/09/david-deutsch-father-of-quantum-computing)
 [Source collection](https://deranfangderunendlichkeit.de/mehr)
 
-## David Deutsch, Father of Quantum Computing
-
 *Technology Quarterly · Brain scan · 9 March 2017*
 
-> A fundamentally new way of harnessing nature
+*A fundamentally new way of harnessing nature*
+
+*This article appeared in the Technology Quarterly section of the 11 March 2017 print edition under the headline “David Deutsch”.*
+
+## Transcript
+### The Economist
 
 “I OCCASIONALLY go down and look at the experiments being done in the basement of the Clarendon Lab, and it’s incredible.” David Deutsch, of the University of Oxford, is the sort of theoretical physicist who comes up with ideas that shock and confound his experimentalist colleagues—and then seems rather endearingly shocked and confounded by what they are doing. “Last year I saw their ion-trap experiment, where they were experimenting on a single calcium atom,” he says. “The idea of not just accessing but manipulating it, in incredibly subtle ways, is something I totally assumed would never happen. Now they do it routinely.”
 
@@ -22,5 +25,3 @@ Still, these are steps towards a powerful, universal quantum computer that could
 At the same time, quantum computation, and the quantum-mechanical theory from which it springs, are all subsumed in a newer idea that Dr Deutsch is pursuing. He contends that what he calls his “constructor theory” provides a perspective that will lead to the rewriting of physics altogether. As with classical computer science, quantum computation and even genetics, it is based on the role of information. But rather than letting physical laws define what is and is not possible, as science does now, constructor theory asserts that those laws actually arise from what is and is not possible.
 
 From observed possibilities, a mathematical object called a constructor can be fashioned. Operating with and on these constructors gives rise to what Dr Deutsch reckons is a theory even more fundamental than quantum mechanics. He is enthusiastic about the theory’s potential to upend the very foundations of science, but concedes that testing it experimentally remains a distant possibility. Then again, a few decades ago he would have said the same thing about quantum computers.
-
-*This article appeared in the Technology Quarterly section of the 11 March 2017 print edition under the headline “David Deutsch”.*

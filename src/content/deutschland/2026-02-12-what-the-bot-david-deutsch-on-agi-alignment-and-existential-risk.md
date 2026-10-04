@@ -296,7 +296,7 @@ So let me let me investigate both of those points. So I think the first one you 
 
 <span class="transcript-timestamp">00:44:53 - 00:45:10</span>
 
-Well I won't get rejected until you have a better one. Right. Right. You will you will have to creatively either try to tinker with it and improve it or go to another theory or tinker with someone else's theory or like religion or whatever.
+Well it won't get rejected until you have a better one. Right. Right. You will you will have to creatively either try to tinker with it and improve it or go to another theory or tinker with someone else's theory or like religion or whatever.
 
 ### Reuben Adams
 
@@ -404,13 +404,13 @@ So we've gone down this route of morality, metamorality, which is very interesti
 
 <span class="transcript-timestamp">00:56:48 - 00:58:24</span>
 
-Well, I don't think I mean, yes, well, that is a crux, if you like, I would be wrong in that case. But I don't think I haven't explained to you quite how wrong I would be if that were true. Because it would mean that there's something there's something other than computation, some deep fact about mathematics or about the physical world that prevents certain type of ideas from existing in certain hardware. What is it about the hardware? I mean, are you imagining two machines with the same hardware that end up fundamentally opposed in this way? Or is it just machines with different hardware? If it's with the same hardware, then obviously the difference between them is software. If it's with different hardware, then remember that each side can simulate the other. So we can if we if we can't if we can't understand why the AGI thinks that a certain thing is right and we think it's wrong, we can still simulate it. We can simply work out the problem as it sees it and see why it's coming to the conclusion that it came to. And then we can say, oh, yes, it's because but then I don't see how that can happen because it's as if there were two different kinds of information in the world.
+Well, I don't think I mean, yes, well, that is a crux, if you like, I would be wrong in that case. But I don't think I haven't explained to you quite how wrong I would be if that were true. Because it would mean that there's something there's something other than computation, some deep fact about mathematics or about the physical world that prevents certain type of ideas from existing in certain hardware. What is it about the hardware? I mean, are you imagining two machines with the same hardware that end up fundamentally opposed in this way? Or is it just machines with different hardware? If it's with the same hardware, then obviously the difference between them is software. If it's with different hardware, then remember that each side can simulate the other. So we can if we if we can't if we can't understand why the AGI thinks that a certain thing is right and we think it's wrong, we can still simulate it. We can simply work out the problem as it sees it and see why it's coming to the conclusion that it came to. And then we can say, oh, yes, it's because but then I don't see how that can happen because it's as if there were two different kinds of information in the world. And we think there's one.
 
 ### Reuben Adams
 
 <span class="transcript-timestamp">00:58:24 - 00:58:35</span>
 
-And we think there's one. I could simulate an LLM by hand without understanding why it's outputting a certain word rather than another word.
+I could simulate an LLM by hand without understanding why it's outputting a certain word rather than another word.
 
 ### David Deutsch
 

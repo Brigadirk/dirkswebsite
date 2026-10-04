@@ -55,7 +55,25 @@ Let me see if I can summarize that. Let's start with human bodies. In human bodi
 
 <span class="transcript-timestamp">00:07:50 - 00:07:57</span>
 
-Yes, so does a single bit of computer memory. Yeah, okay. And if it doesn't learn. Okay, that seems right.
+Yes, so does a single bit of computer memory.
+
+### Eli Tyre
+
+<span class="transcript-timestamp">00:07:50 - 00:07:57</span>
+
+Yeah, okay.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:07:50 - 00:07:57</span>
+
+And if it doesn't learn.
+
+### Eli Tyre
+
+<span class="transcript-timestamp">00:07:50 - 00:07:57</span>
+
+Okay, that seems right.
 
 ### Eli Tyre
 
@@ -157,37 +175,37 @@ So therefore, although there's such a thing as valid programs and invalid progra
 
 <span class="transcript-timestamp">00:17:00 - 00:17:22</span>
 
-Okay, which is akin... And that is akin to there are true ideas and false ideas, but we can't distinguish between them? There is no reliable process for distinguishing between them.
+Okay, which is akin... And that is akin to there are true ideas and false ideas, but we can't distinguish between them?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:17:22 - 00:17:30</span>
 
-What we can do is find errors. Which is sort of like noticing that some particular machine halts.
+There is no reliable process for distinguishing between them. What we can do is find errors.
 
 ### Eli Tyre
 
 <span class="transcript-timestamp">00:17:30 - 00:17:34</span>
 
-Yes, on a particular input. Yes. Yes. That's a good point.
+Which is sort of like noticing that some particular machine halts. Yes, on a particular input. Yes. Yes. That's a good point.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:17:34 - 00:18:02</span>
 
-Having an explanatory theory that a certain program won't halt. For example, if the program is finding prime numbers, you can actually form a theory of prime numbers, which tells you that that program won't halt. But that theory of prime numbers depends on the theory of integers, which Gödel proved cannot be proved consistent. So it's a conjecture. It seems like there are simpler cases. You could posit a Turing machine that just...
+Having an explanatory theory that a certain program won't halt. For example, if the program is finding prime numbers, you can actually form a theory of prime numbers, which tells you that that program won't halt. But that theory of prime numbers depends on the theory of integers, which Gödel proved cannot be proved consistent. So it's a conjecture.
 
 ### Eli Tyre
 
 <span class="transcript-timestamp">00:18:03 - 00:18:27</span>
 
-Its only instruction is it takes whatever's in the current register and moves over one, and then takes whatever's in that register and whatever it is, it moves over one. And I can look at that. I'm like, I'm pretty sure that's not going to halt because of... Yes. Very obvious. But the axioms that you use to prove that, and I'm not going to go into that, but the axioms that you use to prove that.
+It seems like there are simpler cases. You could posit a Turing machine that just... Its only instruction is it takes whatever's in the current register and moves over one, and then takes whatever's in that register and whatever it is, it moves over one. And I can look at that. I'm like, I'm pretty sure that's not going to halt because of...
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:18:27 - 00:19:15</span>
 
-Okay. A particular, pretty straightforward application of the axioms, but trying to prove the axioms is impossible. So the axiom is for any integer, there is an integer one larger than it. And the process that searches through the integers will not find a last one. Yes. Okay. And those are the axioms that set up the arithmetic of the integers. And we think it's true. We're sure it's true. It is true. But what we can't do is derive that it's true from anywhere. Yes. All right.
+Yes. Very obvious. But the axioms that you use to prove that, and I'm not going to go into that, but the axioms that you use to prove that. Okay. A particular, pretty straightforward application of the axioms, but trying to prove the axioms is impossible. So the axiom is for any integer, there is an integer one larger than it. And the process that searches through the integers will not find a last one. Yes. Okay. And those are the axioms that set up the arithmetic of the integers. And we think it's true. We're sure it's true. It is true. But what we can't do is derive that it's true from anywhere. Yes. All right.
 
 ### Eli Tyre
 
@@ -253,13 +271,13 @@ Well, what it will feel like or whatever. I mean, some stimuli make it go toward
 
 <span class="transcript-timestamp">00:22:41 - 00:22:58</span>
 
-I want to ask what you mean by it's not perfectly met. The expectation is not perfectly met. Is that because there's like a very... We couldn't mathematically crisply describe what the expectation is. No, no. Like... So if... Let's say that...
+I want to ask what you mean by it's not perfectly met. The expectation is not perfectly met. Is that because there's like a very... We couldn't mathematically crisply describe what the expectation is.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:22:58 - 00:25:32</span>
 
-I mean, we don't know how any of this works. So, you know, I have to just make up stuff about how to make a baby. We couldn't make a robot that behaves like a baby. So one thing is that some of these expectations are also desires, desires for certain sensations. So when it's drinking milk, it is not satisfied with the state of drinking milk because that whole process involves being unsatisfied so that you drink more. Okay. And then you come to a place where drinking milk is actually unpleasant. Because you're full. So you're... Yeah, when you're full. But it's not exactly when you're full because the physiological mechanisms aren't perfect either. They are just a guess as the evolution made as to what would be best for babies. And that's not perfect either. In fact, it's a cobbled together compromise. Because the sensory apparatus isn't good enough to detect the exact criterion of when the digestive system is, you know... So anyway, at the end, you have a conflict as well. So the baby decides whether to... How to cope with the problem of the pleasure of getting more milk with the discomfort of being full. And at some point, I think sooner rather than later, with something like a dog, they have similar ideas for newborn behavior. And they have also an inborn criterion for choosing between them. So if you get, you know, 100 different puppies and put them in exactly the same situation, they will start and stop drinking at exactly the same moment. And if it's the same moment, you know, you will be able to see what the difference was in the environment that triggered the one response rather than the other. And that's why there is such a thing as a book on canine newborn behavior. Okay.
+No, no. Like... So if... Let's say that... I mean, we don't know how any of this works. So, you know, I have to just make up stuff about how to make a baby. We couldn't make a robot that behaves like a baby. So one thing is that some of these expectations are also desires, desires for certain sensations. So when it's drinking milk, it is not satisfied with the state of drinking milk because that whole process involves being unsatisfied so that you drink more. Okay. And then you come to a place where drinking milk is actually unpleasant. Because you're full. So you're... Yeah, when you're full. But it's not exactly when you're full because the physiological mechanisms aren't perfect either. They are just a guess as the evolution made as to what would be best for babies. And that's not perfect either. In fact, it's a cobbled together compromise. Because the sensory apparatus isn't good enough to detect the exact criterion of when the digestive system is, you know... So anyway, at the end, you have a conflict as well. So the baby decides whether to... How to cope with the problem of the pleasure of getting more milk with the discomfort of being full. And at some point, I think sooner rather than later, with something like a dog, they have similar ideas for newborn behavior. And they have also an inborn criterion for choosing between them. So if you get, you know, 100 different puppies and put them in exactly the same situation, they will start and stop drinking at exactly the same moment. And if it's the same moment, you know, you will be able to see what the difference was in the environment that triggered the one response rather than the other. And that's why there is such a thing as a book on canine newborn behavior. Okay.
 
 ### Eli Tyre
 
@@ -331,7 +349,13 @@ It may even be necessary. So that baby... Okay. Hold on. Let me say that because
 
 <span class="transcript-timestamp">00:29:46 - 00:29:52</span>
 
-Yes, and can't be predicted. And can't be predicted. Why is that?
+Yes, and can't be predicted.
+
+### Eli Tyre
+
+<span class="transcript-timestamp">00:29:46 - 00:29:52</span>
+
+And can't be predicted. Why is that?
 
 ### Eli Tyre
 
@@ -357,19 +381,31 @@ Yes, that runs physics forward.
 
 You still don't know until you get to the point that you were wondering about. Why is it doing this and not that?
 
+### David Deutsch
+
+<span class="transcript-timestamp">00:30:26 - 00:31:08</span>
+
+So you've got a baby there and you can't predict what it will do until it does it in your program.
+
 ### Eli Tyre
 
 <span class="transcript-timestamp">00:30:26 - 00:31:08</span>
 
-So you've got a baby there and you can't predict what it will do until it does it in your program. Okay, I see. I see. But I can't predict in my program what it will do before it does it. But I could run the program like if I take two literal to the particle level clones of two babies, and I run one of them forward in the same conditions and then see what happens at time step n, then I can also predict that at time step n for the other baby, the same thing will happen. Is that right? First, you've set up a situation where predicting some baby is retrodicting another one.
+Okay, I see. I see. But I can't predict in my program what it will do before it does it. But I could run the program like if I take two literal to the particle level clones of two babies, and I run one of them forward in the same conditions and then see what happens at time step n, then I can also predict that at time step n for the other baby, the same thing will happen. Is that right?
 
 ### David Deutsch
+
+<span class="transcript-timestamp">00:30:26 - 00:31:08</span>
+
+First, you've set up a situation where predicting some baby is retrodicting another one.
+
+### Eli Tyre
 
 <span class="transcript-timestamp">00:31:10 - 00:31:13</span>
 
 Yes, that's exactly right. That is what I'm trying to do.
 
-### Eli Tyre
+### David Deutsch
 
 <span class="transcript-timestamp">00:31:13 - 00:31:18</span>
 
@@ -415,19 +451,19 @@ Right. All right.
 
 <span class="transcript-timestamp">00:32:36 - 00:33:12</span>
 
-So there's something different about knowledge creation from other physical processes. And here is where there is a weakness. If you want to find a weakness in my whole position about this. Okay. What is that thing that's different? What's the thing that makes creative computer programs different from non-creative ones? I don't know. All right. That's one of the problems of our age. Hold on. Is there a reason?
+So there's something different about knowledge creation from other physical processes. And here is where there is a weakness. If you want to find a weakness in my whole position about this. Okay. What is that thing that's different? What's the thing that makes creative computer programs different from non-creative ones? I don't know. All right. That's one of the problems of our age.
 
 ### Eli Tyre
 
 <span class="transcript-timestamp">00:33:12 - 00:33:31</span>
 
-So this is also not the okay. So the reason why it is not the case. So I can look at a bit of Python code and be like and work through the logic and predict what the Python code will output without running the Python code itself. And this is running it in your brain.
+Hold on. Is there a reason? So this is also not the okay. So the reason why it is not the case. So I can look at a bit of Python code and be like and work through the logic and predict what the Python code will output without running the Python code itself.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:33:35 - 00:33:44</span>
 
-Yeah. Unless you form an explanation of what it's doing. Then you might be able to predict what it's going to do without running it. Yeah.
+And this is running it in your brain. Yeah. Unless you form an explanation of what it's doing. Then you might be able to predict what it's going to do without running it. Yeah.
 
 ### Eli Tyre
 
@@ -633,7 +669,7 @@ The can't stop is sort of interesting because it seems like humans also can't st
 
 We can't choose not to do what we choose. But we still choose.
 
-### Eli Tyre
+### David Deutsch
 
 <span class="transcript-timestamp">00:45:10 - 00:45:11</span>
 
@@ -673,13 +709,13 @@ Yeah.
 
 <span class="transcript-timestamp">00:45:48 - 00:46:06</span>
 
-I'm a little bit suspicious of this concept of choice. I sort of expect that choice is a hand-wavy term that we use to describe the behavior of systems that are too complicated for us to predict well. Okay. Here's the thing.
+I'm a little bit suspicious of this concept of choice. I sort of expect that choice is a hand-wavy term that we use to describe the behavior of systems that are too complicated for us to predict well.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:46:10 - 00:47:02</span>
 
-The reason why it's vague is that it involves creativity and we don't understand creativity. However, that it exists is the conclusion of, I think, inescapable arguments like the ones that I've just said about predicting the baby. The growth of knowledge, for example, is unpredictable. We know that about it even though we don't know anything about how it works. I mean, sorry, we do know something. That's the thing. Yeah, we're not. In fact, we know quite a lot if you think that Popper's epistemology is in part a theory of creativity, then we do know something about it. But we don't know enough to program it. And that's the important question. We don't know.
+Okay. Here's the thing. The reason why it's vague is that it involves creativity and we don't understand creativity. However, that it exists is the conclusion of, I think, inescapable arguments like the ones that I've just said about predicting the baby. The growth of knowledge, for example, is unpredictable. We know that about it even though we don't know anything about how it works. I mean, sorry, we do know something. That's the thing. Yeah, we're not. In fact, we know quite a lot if you think that Popper's epistemology is in part a theory of creativity, then we do know something about it. But we don't know enough to program it. And that's the important question. We don't know.
 
 ### Eli Tyre
 
@@ -787,13 +823,13 @@ Or I'm not sure exactly how that process works, but you identify that...
 
 <span class="transcript-timestamp">00:50:39 - 00:50:54</span>
 
-That's an essential thing. The mere fact that they're conflicting, if you don't notice it, doesn't constitute a problem in the psychological sense. Right. Thinking is always the result of a problem. What am I getting from this?
+That's an essential thing. The mere fact that they're conflicting, if you don't notice it, doesn't constitute a problem in the psychological sense. Right. Thinking is always the result of a problem.
 
 ### Eli Tyre
 
 <span class="transcript-timestamp">00:50:54 - 00:51:23</span>
 
-One thing that is new that I sort of need to reformulate around is problems are central. And we start from problems. Okay, so we have ideas. The ideas have some conflict that produces a problem. Okay, so we have ideas. The ideas have some conflict that produces a problem. Yes. We identify that there's a problem via some mechanism. And...
+What am I getting from this? One thing that is new that I sort of need to reformulate around is problems are central. And we start from problems. Okay, so we have ideas. The ideas have some conflict that produces a problem. Yes. We identify that there's a problem via some mechanism. And...
 
 ### David Deutsch
 
@@ -859,13 +895,13 @@ Yeah, actually, what they're doing is interpreting the data in light of a theory
 
 <span class="transcript-timestamp">00:56:12 - 00:56:32</span>
 
-When one does that, one isn't creating knowledge. One may subjectively feel as though one is, as I said, because one mistakes the process as being one of getting the theory from the data. But what one is actually doing, what we do all the time, we have a theory. You're just making a guess, though. It's just a conjecture.
+When one does that, one isn't creating knowledge. One may subjectively feel as though one is, as I said, because one mistakes the process as being one of getting the theory from the data. But what one is actually doing, what we do all the time, we have a theory.
 
 ### Eli Tyre
 
 <span class="transcript-timestamp">00:56:32 - 00:56:36</span>
 
-There's still like many layers of criticism.
+You're just making a guess, though. It's just a conjecture. There's still like many layers of criticism.
 
 ### David Deutsch
 
@@ -877,13 +913,13 @@ I mean, everything is a conjecture. But in the case where, for example, the pers
 
 <span class="transcript-timestamp">00:57:24 - 00:57:34</span>
 
-I do feel like we're drawing some tight lines around thinking here, which I'm not sure if I would, on reflection, endorse. Creative thinking.
+I do feel like we're drawing some tight lines around thinking here, which I'm not sure if I would, on reflection, endorse.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:57:34 - 00:57:57</span>
 
-I'm using whatever shorthand is useful. But like I said, at some point in my past, I got the value of three times seven indelibly imprinted on my brain. And now whenever I want to know what three times seven is. Yeah, OK.
+Creative thinking. I'm using whatever shorthand is useful. But like I said, at some point in my past, I got the value of three times seven indelibly imprinted on my brain. And now whenever I want to know what three times seven is. Yeah, OK.
 
 ### Eli Tyre
 
@@ -937,13 +973,13 @@ Well, I don't think that's an infinite regress. Okay. When you say where the con
 
 <span class="transcript-timestamp">01:03:58 - 01:04:31</span>
 
-It is plausibly the case in the human generation of ideas, although it is, I'm not sure that that's the only way that it could work. Like the thing that I'm hearing you suggest is that when you're trying to solve a conflict between ideas, you start with basically a random seed. And then you're like, I'm just going to try something random. Does that solve the problem? It makes all the difference that where in the process this random, supposed random number happens.
+It is plausibly the case in the human generation of ideas, although it is, I'm not sure that that's the only way that it could work. Like the thing that I'm hearing you suggest is that when you're trying to solve a conflict between ideas, you start with basically a random seed. And then you're like, I'm just going to try something random. Does that solve the problem?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:04:31 - 01:05:15</span>
 
-It's not that you start with the random seed. It's that you start with say a very high level heuristic, which is, which is then unsatisfactory in some way. And so you want to modify it. And then you're like, well, I'm just going to try something random. Unsatisfactory in some way. And so you want to modify it. By a heuristic modifying heuristic and so on down to, you know, by the time you're 11 stages down, then you have somewhere where you don't have it heuristic. So that there's some process that says, well, let's try the first thing that comes to hand. It's not that it's a random number generator. It's right. Okay.
+It makes all the difference that where in the process this random, supposed random number happens. It's not that you start with the random seed. It's that you start with say a very high level heuristic, which is, which is then unsatisfactory in some way. And so you want to modify it. By a heuristic modifying heuristic and so on down to, you know, by the time you're 11 stages down, then you have somewhere where you don't have it heuristic. So that there's some process that says, well, let's try the first thing that comes to hand. It's not that it's a random number generator. It's right. Okay.
 
 ### Eli Tyre
 
@@ -961,25 +997,37 @@ It's just when eventually after 11 level 11, you get down to a place where you'v
 
 <span class="transcript-timestamp">01:05:45 - 01:05:56</span>
 
-Oh, wait, I didn't understand that sentence. You get down to so level 11, is there a specific level 11 or you're just like, I'm just, no, I mean, I'm sure it's not levels either.
+Oh, wait, I didn't understand that sentence. You get down to so level 11, is there a specific level 11 or you're just like, I'm just,
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:05:56 - 01:06:43</span>
 
-It's, it's because it's, it's much more opportunistic than that. Like at the highest level, you're, you're thinking, somebody says to you, do you know that there are actually white criminals as well? Okay. And that, and you say, no, your first thought is, no, that can't be. And then you think, well, actually I have seen newspaper reports. Okay. It's part of a conspiracy. They're just saying that. All right. So at this higher level, the nature of the problem is, has a large input into the nature of the conjectures to solve it.
+No, I mean, I'm sure it's not levels either. It's, it's because it's, it's much more opportunistic than that. Like at the highest level, you're, you're thinking, somebody says to you, do you know that there are actually white criminals as well? Okay. And that, and you say, no, your first thought is, no, that can't be. And then you think, well, actually I have seen newspaper reports. Okay. It's part of a conspiracy. They're just saying that. All right. So at this higher level, the nature of the problem is, has a large input into the nature of the conjectures to solve it.
 
 ### Eli Tyre
 
 <span class="transcript-timestamp">01:06:43 - 01:07:01</span>
 
-When you say a higher level, you're referring to, like at the level of human thoughts, as opposed to the level of the underlying mechanisms that are generating the thoughts. Yes. At the level of explicit thoughts. Got it. Got it. Of less explicit and so on.
+When you say a higher level, you're referring to, like at the level of human thoughts, as opposed to the level of the underlying mechanisms that are generating the thoughts.
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:06:43 - 01:07:01</span>
+
+Yes. At the level of explicit thoughts.
+
+### Eli Tyre
+
+<span class="transcript-timestamp">01:06:43 - 01:07:01</span>
+
+Got it. Got it.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:07:01 - 01:07:46</span>
 
-And there, yeah. And then, yeah. And then, if the problem isn't solved by the application specific considerations, like it, at the highest level, you're looking, you know, that you're looking for something that contains phrases like white people and black people and crime and so on. And then at the next level down, and you quickly scan through sort of various ones of those and see that that kind of thing isn't going to solve your problem.
+Of less explicit and so on. And there, yeah. And then, yeah. And then, if the problem isn't solved by the application specific considerations, like it, at the highest level, you're looking, you know, that you're looking for something that contains phrases like white people and black people and crime and so on. And then at the next level down, and you quickly scan through sort of various ones of those and see that that kind of thing isn't going to solve your problem.
 
 ### Eli Tyre
 
@@ -997,13 +1045,13 @@ Or all the ones that you've tried, all the ones that seem promising to you. Yep.
 
 <span class="transcript-timestamp">01:09:20 - 01:11:38</span>
 
-That one is actually on point. Okay. All right. So my, here's my story. Humans going about in the world, when they go about in the world, they have ideas. The, when they execute the ideas, they are in conflict with each other. That causes a problem. Some mechanism in a human mind recognizes there's a problem and initiates a process. Maybe the process is actually going on in the background all the time, but a process either starts or continues of generating conjecture that attempts to resolve the conflict between ideas. That conjecture process. So first of all, we don't really know how it works, but here's a conjecture about how the conjecture process works. Yes. We, we have a bunch of background. So, yeah, so now we're in the box of this is the conjecture generation procedure. We have a bunch of background knowledge and we will start by just applying our background knowledge and seeing if that solves our conflict. And, you know, we, we tried that a bunch. And then if that doesn't work, that doesn't resolve the conflict. Sometimes it does. Sometimes you're like, ah, you just forgot about regression to the mean. There it is. Yes. But if that doesn't work, then you might sit there and sort of modify your background ideas until you get a version that you're, then you're trying the modified versions. You're like, well, maybe it's not exactly. Yeah, we were using example of racism where we're like, well, okay, maybe it's. I have some idea that only black people commit crimes. And then I am like, okay, well, maybe it's mostly black people that commit crimes. And I'm like, does that solve the, yeah, I'm sort of, I'm sort of tweaking it a little bit. And then I'm continuing. So level one is I just try my background ideas. Level two is I am where again, levels is sort of like the order in which we're doing things. Maybe. You're changing your initial theory.
+That one is actually on point. Okay. All right. So my, here's my story. Humans going about in the world, when they go about in the world, they have ideas. The, when they execute the ideas, they are in conflict with each other. That causes a problem. Some mechanism in a human mind recognizes there's a problem and initiates a process. Maybe the process is actually going on in the background all the time, but a process either starts or continues of generating conjecture that attempts to resolve the conflict between ideas. That conjecture process. So first of all, we don't really know how it works, but here's a conjecture about how the conjecture process works. Yes. We, we have a bunch of background. So, yeah, so now we're in the box of this is the conjecture generation procedure. We have a bunch of background knowledge and we will start by just applying our background knowledge and seeing if that solves our conflict. And, you know, we, we tried that a bunch. And then if that doesn't work, that doesn't resolve the conflict. Sometimes it does. Sometimes you're like, ah, you just forgot about regression to the mean. There it is. Yes. But if that doesn't work, then you might sit there and sort of modify your background ideas until you get a version that you're, then you're trying the modified versions. You're like, well, maybe it's not exactly. Yeah, we were using example of racism where we're like, well, okay, maybe it's. I have some idea that only black people commit crimes. And then I am like, okay, well, maybe it's mostly black people that commit crimes. And I'm like, does that solve the, yeah, I'm sort of, I'm sort of tweaking it a little bit. And then I'm continuing. So level one is I just try my background ideas. Level two is I am where again, levels is sort of like the order in which we're doing things. Maybe.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:11:39 - 01:11:44</span>
 
-Yeah. You're changing it intentionally to meet, you know, to meet this problem.
+You're changing your initial theory. Yeah. You're changing it intentionally to meet, you know, to meet this problem.
 
 ### Eli Tyre
 
@@ -1023,7 +1071,7 @@ Yeah. You're thinking this, this kind of thing might solve the problem. Right.
 
 So I do want to flag that in terms of like in the project of designing how an AGI works saying we are intentionally doing it to solve this conflict sort of leaves open like a I can't write code that's like now come up with a solution that seems like it matches this conflict between ideas.
 
-### Eli Tyre
+### David Deutsch
 
 <span class="transcript-timestamp">01:12:11 - 01:12:17</span>
 
@@ -1159,13 +1207,13 @@ Definitely. Yes.
 
 <span class="transcript-timestamp">01:19:17 - 01:19:30</span>
 
-Although, I don't know how familiar you are with. So it seems to me that I would say that AlphaGo does do knowledge creation. Yes, it may.
+Although, I don't know how familiar you are with. So it seems to me that I would say that AlphaGo does do knowledge creation.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:19:30 - 01:19:39</span>
 
-If so, it's evolutionary knowledge creation. It doesn't know what it's doing. Yes. Yes. Like evolution.
+Yes, it may. If so, it's evolutionary knowledge creation. It doesn't know what it's doing. Yes. Yes. Like evolution.
 
 ### Eli Tyre
 
@@ -1291,13 +1339,13 @@ So I agree with Nick Bostrom that technological improvement will enable ways of 
 
 <span class="transcript-timestamp">01:27:02 - 01:28:30</span>
 
-Yeah, so I think I broadly agree with that. I don't think that superintelligences will have some fundamentally different sort of idea than humans and especially enhanced humans would have. There are some important details about how that enhancement can work that I would want to work through. Yeah. It seems to me though that we were just talking about a whole zoo of conjecture processes and critique processes and fractal conjecture critique processes and pruning processes that are happening in order to generate even a single conjecture for given conflict between ideas in a human mind. And as we say, we don't know how all of that works in detail. It seems to me like there is probably a class of algorithms that basically do those functions and that some of those algorithms are better or worse than other algorithms. And therefore, you could write a mind which is much better at doing epistemology, at getting better explanations faster and a mind that is much worse at that based on the algorithms that you're using to do all of these different functions. We already have that.
+Yeah, so I think I broadly agree with that. I don't think that superintelligences will have some fundamentally different sort of idea than humans and especially enhanced humans would have. There are some important details about how that enhancement can work that I would want to work through. Yeah. It seems to me though that we were just talking about a whole zoo of conjecture processes and critique processes and fractal conjecture critique processes and pruning processes that are happening in order to generate even a single conjecture for given conflict between ideas in a human mind. And as we say, we don't know how all of that works in detail. It seems to me like there is probably a class of algorithms that basically do those functions and that some of those algorithms are better or worse than other algorithms. And therefore, you could write a mind which is much better at doing epistemology, at getting better explanations faster and a mind that is much worse at that based on the algorithms that you're using to do all of these different functions.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:28:35 - 01:28:53</span>
 
-So the key concept is subroutines. We call subroutines and we know that many of the subroutines that we consciously call are executed unconsciously. It wouldn't make any difference to us if they were executed unconsciously in an add-on. It would feel exactly the same.
+We already have that. So the key concept is subroutines. We call subroutines and we know that many of the subroutines that we consciously call are executed unconsciously. It wouldn't make any difference to us if they were executed unconsciously in an add-on. It would feel exactly the same.
 
 ### Eli Tyre
 

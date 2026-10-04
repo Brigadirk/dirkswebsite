@@ -7,13 +7,14 @@ pubDate: 2012-10-03
 [Read the essay at Aeon](https://aeon.co/essays/how-close-are-we-to-creating-artificial-intelligence)
 [Source collection](https://deranfangderunendlichkeit.de/mehr)
 
-## Creative Blocks
-
 *By David Deutsch · Edited by Ed Lake · 3 October 2012*
 
-> The very laws of physics imply that artificial intelligence must be possible. What’s holding us up?
+*The very laws of physics imply that artificial intelligence must be possible. What’s holding us up?*
 
-David Deutsch is a physicist at the University of Oxford and a fellow of the Royal Society. His latest book is *The Beginning of Infinity*.
+*David Deutsch is a physicist at the University of Oxford and a fellow of the Royal Society. His latest book is _The Beginning of Infinity_.*
+
+## Transcript
+### David Deutsch
 
 It is uncontroversial that the human brain has capabilities that are, in some respects, far superior to those of all other known objects in the cosmos. It is the only kind of object capable of understanding that the cosmos is even there, or why there are infinitely many prime numbers, or that apples fall because of the curvature of space-time, or that obeying its own inborn instincts can be morally wrong, or that it itself exists. Nor are its unique abilities confined to such cerebral matters. The cold, physical fact is that it is the only kind of object that can propel itself into space and back without harm, or predict and prevent a meteor strike on itself, or cool objects to a billionth of a degree above absolute zero, or detect others of its kind across galactic distances.
 

@@ -67,13 +67,31 @@ Wonderful. I really hope we can pick apart some of the potential conflicts here 
 
 <span class="transcript-timestamp">00:13:52 - 00:15:42</span>
 
-Yeah I too don't think that what is questions are a good place to start because you only find out what something is when you have a theory of it. What is a dog? Well the only people that can really answer that question are zoologists or veterinarians who deal with dogs and they can answer such questions. So coming to what Lee was saying okay I don't mind things just happening and not primarily existing so things happen if they happen they happen according to rules I'm with you that far the rules can change I'm with you that far but I would draw the line at well the question is do the rules which change according to a rule and if that cannot change so then that's the only thing that can't change this rule that can't change or if everything can change then it's not true that everything that changes changes according to a rule. Right and that's a that's a paradox and I wrote a book with Roberto Mangabeira Unger who is a rather a very deep philosopher he thinks about many things and I certainly admire him and he that's a paradox according to him we've walked into it it's a paradox and he would argue that bringing oneself into a deep paradox is progress and that's that's what you've accomplished. And out we won't be able to come out of a deep paradox as well. Well that's that's what we can call it progress seriously that's that's how he thinks.
+Yeah I too don't think that what is questions are a good place to start because you only find out what something is when you have a theory of it. What is a dog? Well the only people that can really answer that question are zoologists or veterinarians who deal with dogs and they can answer such questions. So coming to what Lee was saying okay I don't mind things just happening and not primarily existing so things happen if they happen they happen according to rules I'm with you that far the rules can change I'm with you that far but I would draw the line at well the question is do the rules which change according to a rule and if that cannot change so then that's the only thing that can't change this rule that can't change or if everything can change then it's not true that everything that changes changes according to a rule.
+
+### Lee Smolin
+
+<span class="transcript-timestamp">00:13:52 - 00:15:42</span>
+
+Right and that's a that's a paradox and I wrote a book with Roberto Mangabeira Unger who is a rather a very deep philosopher he thinks about many things and I certainly admire him and he that's a paradox according to him we've walked into it it's a paradox and he would argue that bringing oneself into a deep paradox is progress and that's that's what you've accomplished.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:13:52 - 00:15:42</span>
+
+And out we won't be able to come out of a deep paradox as well.
+
+### Lee Smolin
+
+<span class="transcript-timestamp">00:13:52 - 00:15:42</span>
+
+Well that's that's what we can call it progress seriously that's that's how he thinks.
 
 ### Matt O'Dowd
 
 <span class="transcript-timestamp">00:15:43 - 00:15:50</span>
 
-Amanda do you have any comments on the pictures or things to expand on right now?
+Amanda do you have any comments on the pitches or things to expand on right now?
 
 ### Amanda Gefter
 
@@ -145,7 +163,7 @@ this is a great time for us to move on to theme two now
 
 <span class="transcript-timestamp">00:29:45 - 00:30:31</span>
 
-That we're getting to more of our philosophical definition and so I'm going to start by badly misquoting the great philosopher lewis carroll who wrote I see nothing on the road said alice I only wish I had such eyes the king remarked in a fretful tone to be able to see nothing and at such a distance too so an even greater philosopher Bertrand Russell warned about treating nothing as an object of study as being a logical mistake so theme two centers around the question of whether the paradoxes surrounding nothing can be dismissed so handily and I think we all have a lot to say but I'd like to move to lee for your thoughts on that
+That we're getting to more of our philosophical definition and so I'm going to start by badly misquoting the great philosopher Lewis Carroll who wrote I see nothing on the road said Alice I only wish I had such eyes the king remarked in a fretful tone to be able to see nothing and at such a distance too so an even greater philosopher Bertrand Russell warned about treating nothing as an object of study as being a logical mistake so theme two centers around the question of whether the paradoxes surrounding nothing can be dismissed so handily and I think we all have a lot to say but I'd like to move to Lee for your thoughts on that
 
 ### Lee Smolin
 
@@ -163,7 +181,7 @@ so David you were talking about the paradoxes of nothing and the reality of noth
 
 <span class="transcript-timestamp">00:31:21 - 00:33:30</span>
 
-I think it's always dangerous to define away a problem. If someone has a problem, if someone is wondering what, like I said, happened before the big bang or what is north of the north pole, that kind of thing, that arises from some kind of real conflict between ideas which were originally proposed for some purpose and which seem to serve that purpose. And so to just throw away that whole situation and say it's only a matter of words, I think, is a mistake. People can say things that are nonsense and are only a matter of words, but it's not always the case. And in particular in regard to nothing, I think behind the apparently nonsensical or the apparently just purely verbal conflicts there are often real conflicts that have real solutions. And I mentioned also that Immanuel Kant was perturbed by things like that, that there can't be a beginning of the universe, because and so on. And in fact, that was just resolved later by a better understanding of continua, so that there can be an infinite sequence of earlier times without the limit of that sequence really existing. Now whether that's how the universe really is, that's a matter for physics. But whether that makes sense, I think it does, and one needs a good theory of how things like that can make sense, which is a matter of mathematics. So we shouldn't just throw away problems.
+I think it's always dangerous to define away a problem. If someone has a problem, if someone is wondering what, like I said, happened before the big bang or what is north of the North Pole, that kind of thing, that arises from some kind of real conflict between ideas which were originally proposed for some purpose and which seem to serve that purpose. And so to just throw away that whole situation and say it's only a matter of words, I think, is a mistake. People can say things that are nonsense and are only a matter of words, but it's not always the case. And in particular in regard to nothing, I think behind the apparently nonsensical or the apparently just purely verbal conflicts there are often real conflicts that have real solutions. And I mentioned also that Immanuel Kant was perturbed by things like that, that there can't be a beginning of the universe, because and so on. And in fact, that was just resolved later by a better understanding of continua, so that there can be an infinite sequence of earlier times without the limit of that sequence really existing. Now whether that's how the universe really is, that's a matter for physics. But whether that makes sense, I think it does, and one needs a good theory of how things like that can make sense, which is a matter of mathematics. So we shouldn't just throw away problems.
 
 ### Matt O'Dowd
 
@@ -181,13 +199,25 @@ Well I think my response is the same as it was before I think there are question
 
 <span class="transcript-timestamp">00:35:16 - 00:35:42</span>
 
-Totally agree with that yeah. So Amanda it seems that you don't just think that nothing is a reasonable thing to study but rather an essential thing to study would you like to elaborate on that and on you know the context of nothing that should be studied? Yeah I mean I think one way into it is to ask what is ...
+Totally agree with that yeah. So Amanda it seems that you don't just think that nothing is a reasonable thing to study but rather an essential thing to study would you like to elaborate on that and on you know the context of nothing that should be studied?
 
 ### Amanda Gefter
 
 <span class="transcript-timestamp">00:35:42 - 00:38:26</span>
 
-Something right like what are we what's the other side of that coin that we're trying to talk about and I think one definition that I've come to from speaking to physicists is you can think of something being like a real thing like an ultimately real piece of furniture of the real stuff of the universe is that which is invariant in every reference frame. So if you have something that like from some perspective doesn't exist then you know think of like a mirage or a rainbow or something you know that's not like you know it's not imaginary but it's not like the real real stuff of the universe and you know you can go back to Einstein you know taking space and time which were thought to be these absolute you know the absolute scaffolding of the universe and then he said well wait actually space and time are relative to your perspective and it's this combined four-dimensional space time that's like the invariant thing and so the idea was well if you can find these invariants the things that aren't observer dependent then you have the something and then that's what you have to account for coming from the nothing right and so what I think has been really fascinating is if you look at sort of the progress of physics from Einstein forward one by one these things that seemed in classical physics to be absolute invariant you know perspective independent things have turned out to be observer dependent have turned out to somehow depend on your perspective and that progression and this was something that Wheeler thought a lot about seems to open up the possibility that eventually what you're going to find is that the only real thing is nothing and so I mean so that's a way in that's not purely philosophical you can say let's look at these things and say what is actually invariant what is not and you know so like the vacuum I was saying earlier seems like something that should be invariant but it's not you know space time when you get into like the holographic principle it seems not invariant in the way that Einstein thought so yeah. May I finally disagree? Please.
+Yeah I mean I think one way into it is to ask what is something right like what are we what's the other side of that coin that we're trying to talk about and I think one definition that I've come to from speaking to physicists is you can think of something being like a real thing like an ultimately real piece of furniture of the real stuff of the universe is that which is invariant in every reference frame. So if you have something that like from some perspective doesn't exist then you know think of like a mirage or a rainbow or something you know that's not like you know it's not imaginary but it's not like the real real stuff of the universe and you know you can go back to Einstein you know taking space and time which were thought to be these absolute you know the absolute scaffolding of the universe and then he said well wait actually space and time are relative to your perspective and it's this combined four-dimensional space time that's like the invariant thing and so the idea was well if you can find these invariants the things that aren't observer dependent then you have the something and then that's what you have to account for coming from the nothing right and so what I think has been really fascinating is if you look at sort of the progress of physics from Einstein forward one by one these things that seemed in classical physics to be absolute invariant you know perspective independent things have turned out to be observer dependent have turned out to somehow depend on your perspective and that progression and this was something that Wheeler thought a lot about seems to open up the possibility that eventually what you're going to find is that the only real thing is nothing and so I mean so that's a way in that's not purely philosophical you can say let's look at these things and say what is actually invariant what is not and you know so like the vacuum I was saying earlier seems like something that should be invariant but it's not you know space time when you get into like the holographic principle it seems not invariant in the way that Einstein thought so yeah.
+
+### Lee Smolin
+
+<span class="transcript-timestamp">00:35:42 - 00:38:26</span>
+
+May I finally disagree?
+
+### Matt O'Dowd
+
+<span class="transcript-timestamp">00:35:42 - 00:38:26</span>
+
+Please.
 
 ### Lee Smolin
 
@@ -203,7 +233,7 @@ So look Amanda I'm so compelled by the very loose idea that that you started to 
 
 ### Amanda Gefter
 
-<span class="transcript-timestamp">00:41:06 - 00:42:02</span>
+<span class="transcript-timestamp">00:41:06 - 00:45:07</span>
 
 Yeah so I mean Wheeler I certainly can't do justice to his ideas in a quick summary but he you know he went through these different stages in his career of trying to build the universe out of different material essentially and so early on he said you know everything is particles then that didn't work out because particles are not observer independent enough they're not invariant enough then he tried everything is space time he wanted to sort of use the topology of space time to kind of bootstrap you know charge and mass and all of these things and eventually he thought space time can't be the fundamental ingredient like that's that that's not solid enough and then he came to everything is information which you know had a huge impact on the field of quantum information theory but in his journals what he kept agonizing over is whose information is my information the same as your information that can't be guaranteed what happens when we disagree how do we piece that together into a shared universe and so yeah he came to this idea that the universe he believed is participatory in a fundamental way but he, you know, that wasn't fully resolved these questions about whose information how do we piece together my information your information but he had this quote in his journals where he said this is very Wheeler phrasing there is many a game we cannot play until we draw with chalk a line across the empty courtyard it doesn't matter where we draw it but only that we draw it and so right this is the idea you can think of the empty courtyard as nothing the little line creates a boundary that creates something and what it creates is something you can call observer something you can call observed and now you can define everything relative to everything else but the whole mystery there which is sort of what you're asking is like is the drawing of the line right is that chalk line I mean it's not meant to be something deeply real because you know it's chalk it can be erased it can be moved but yet everything that we see seems to depend upon it in some way and so you know I think the idea that he was groping toward was somehow everything seems to be defined relative to observers to observers asking a question right it's participatory it's not passive the observer asks the question the universe answers and yet if you sort of take that line away you're back to the nothing so I yeah in brief I think that was his thought
 
@@ -211,7 +241,7 @@ Yeah so I mean Wheeler I certainly can't do justice to his ideas in a quick summ
 
 <span class="transcript-timestamp">00:45:07 - 00:45:27</span>
 
-It's a beautiful image and it is you know the idea that the universe is information but whose uh makes me think david of your work um in quantum information I'm curious whether your notions of information are similar to Amanda's and John Wheeler's uh like you can say more
+It's a beautiful image and it is you know the idea that the universe is information but whose uh makes me think David of your work um in quantum information I'm curious whether your notions of information are similar to Amanda's and John Wheeler's uh like you can say more
 
 ### David Deutsch
 
@@ -241,7 +271,7 @@ Lee, could you elaborate on what particular European style of philosophy or Heid
 
 <span class="transcript-timestamp">00:51:13 - 00:54:35</span>
 
-Um, it's been it's been very hard for me to understand I am better telling stories about my failures to understand it like um I had a very good friend um who was a feminist philosopher in New York Drusilla Cornell and she um she read my first really philosophical book the book that became a joint book with Roberto Unger and she said there's somebody in our community who says the same things you say and it was Roberto Unger and as a result I met Roberto and we wrote this joint book together which consists of a just a kind of exploration of our disagreements which turned out to be an interesting thing to do I don't know if anybody reads it that way but that's the way you should read it um I'm caught between um between wonder at trying to understand time in the sense of a creation of the world a continuous creation of the world I wrote my first book I and I began with a introduction in which I um in which I quoted from Leibniz and I quoted from Leibniz this beautiful passage in which he says basically that the scientist trying to understand the world in all this in all this enormous variety is just like somebody in a city trying to understand the city that they live in terms of the enormous variety of ways that you can be a deserve and be what um what Amanda was calling who is observer who's observer and Leibniz was celebrating the variety of observers in a city as a metaphor for what there may be in the world and I think that there's an enormous there's something enormous enormously celebratory about the idea that the world is infinite variety has infinite capacity to teach us and surprise us and I think that's that's very promising especially at the moment but it may be that our you know friends Galileo and so forth Kepler all these figures are tremendously paradoxical if you read if you really read into them because they are both celebrants of variety and explorers of a world with simple laws
+Um, it's been it's been very hard for me to understand I am better telling stories about my failures to understand it like um I had a very good friend um who was a feminist philosopher in New York Drusilla Cornell and she um she read my first really philosophical book the book that became a joint book with Roberto Unger and she said there's somebody in our community who says the same things you say and it was Roberto Unger and as a result I met Roberto and we wrote this joint book together which consists of a just a kind of exploration of our disagreements which turned out to be an interesting thing to do I don't know if anybody reads it that way but that's the way you should read it um I'm caught between um between wonder at trying to understand time in the sense of a creation of the world a continuous creation of the world I wrote my first book I and I began with a introduction in which I um in which I quoted from Leibniz and I quoted from Leibniz this beautiful passage in which he says basically that the scientist trying to understand the world in all this in all this enormous variety is just like somebody in a city trying to understand the city that they live in terms of the enormous variety of ways that you can be an observer and be what um what Amanda was calling who is observer who's observer and Leibniz was celebrating the variety of observers in a city as a metaphor for what there may be in the world and I think that there's an enormous there's something enormous enormously celebratory about the idea that the world is infinite variety has infinite capacity to teach us and surprise us and I think that's that's very promising especially at the moment but it may be that our you know friends Galileo and so forth Kepler all these figures are tremendously paradoxical if you read if you really read into them because they are both celebrants of variety and explorers of a world with simple laws
 
 ### Matt O'Dowd
 

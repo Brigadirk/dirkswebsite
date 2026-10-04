@@ -67,7 +67,13 @@ Well, thank you. I've had lots of challenging events here over my nine years at 
 
 <span class="transcript-timestamp">00:25:36 - 00:25:42</span>
 
-Thank you. I might ask Martin and David just if they'd like to respond briefly to that.
+Thank you.
+
+### Karen O'Brien
+
+<span class="transcript-timestamp">00:25:36 - 00:25:42</span>
+
+I might ask Martin and David just if they'd like to respond briefly to that.
 
 ### Martin Rees
 
@@ -79,7 +85,13 @@ Well, I'd simply like to say that by expressing pessimism, I didn't want to disc
 
 <span class="transcript-timestamp">00:26:22 - 00:27:57</span>
 
-Yes, I'm surprised by how much I agree with both people who have spoken. But I think the crucial difference is not what we fear and what might happen, but as you said, what's best to do about it. And the optimistic view in the way I define it is that the thing to do is defence. Because the bad things will happen, not only the ones we know about. You spoke of, you know, you said our descendants won't forgive us for a mass extinction. Well, there are plenty of things much worse than that, for example, the non-existence of our descendants, which would be worse than that. And things which threaten that could come up, new things that we haven't thought of. And I can't see any alternative to the argument that the defence against that is rapid progress. So we need to think about these extreme high-consequence, low-probability risks and not enough thought has been given to them compared to the huge amount of attention being given to minor risks, in the carcinogens in the food, in the radiation doses and things like that. There's too much focus on those, but we're in denial about the possible but potentially catastrophic risks from these new technologies.
+Yes, I'm surprised by how much I agree with both people who have spoken. But I think the crucial difference is not what we fear and what might happen, but as you said, what's best to do about it. And the optimistic view in the way I define it is that the thing to do is defence. Because the bad things will happen, not only the ones we know about. You spoke of, you know, you said our descendants won't forgive us for a mass extinction. Well, there are plenty of things much worse than that, for example, the non-existence of our descendants, which would be worse than that. And things which threaten that could come up, new things that we haven't thought of. And I can't see any alternative to the argument that the defence against that is rapid progress.
+
+### Martin Rees
+
+<span class="transcript-timestamp">00:26:22 - 00:27:57</span>
+
+So we need to think about these extreme high-consequence, low-probability risks and not enough thought has been given to them compared to the huge amount of attention being given to minor risks, in the carcinogens in the food, in the radiation doses and things like that. There's too much focus on those, but we're in denial about the possible but potentially catastrophic risks from these new technologies.
 
 ### Karen O'Brien
 
@@ -87,7 +99,7 @@ Yes, I'm surprised by how much I agree with both people who have spoken. But I t
 
 Thank you. So in Matthew's spirit of a richer public debate about all of these issues, I'm going to open up the floor and ask for contributions. We've got some roving mics. It would be very helpful, not least because we're live streaming this event. If you could just briefly say your name and perhaps if you have an affiliation or something you'd just like to say about yourself, that would be fantastic. And then we'll try and move the discussion, as it were, horizontally as well as back and forth between yourselves and the podium. So I have a volunteer there.
 
-### David Wood
+### Audience questioner
 
 <span class="transcript-timestamp">00:28:28 - 00:29:05</span>
 
@@ -123,7 +135,7 @@ I'm David Wood, Chair of London Futurist. I wanted to ask Professor Deutsch abou
 
 Yes, but knowledge isn't a fluid. It's not something you can pour from one person into another mechanically. It's an active process on the part of the recipient. So giving them knowledge is rather the wrong metaphor for what needs to be done. They need knowledge. We can't give it to them. So indirect methods have to be used.
 
-### Audience member
+### Audience questioner
 
 <span class="transcript-timestamp">00:31:52 - 00:32:36</span>
 
@@ -151,7 +163,7 @@ Hi, Peter Sear, a fellow of the RSA. Some of the greatest buildings that have be
 
 <span class="transcript-timestamp">00:33:25 - 00:34:35</span>
 
-Can I respond? Well, I certainly think that's true. I mean, if you think back to those who built the cathedrals, they thought the world was only a few thousand years old and would last only another thousand, but they built cathedrals which they wouldn't live to see finished, which still inspire us centuries later. And that's why I did mention that I think that the religions are on our side in many of these attempts to promote long term thinking. But going back to, if I can just inject something slightly irrelevant about buildings, I think when we look at the London skyline, what depresses me is not the architecture, but the fact that until 50 years ago, the prominent buildings were all for the public. They were religious buildings, they were railway stations, museums, parliament, et cetera. Now they're either apartments for the transient super rich or their banks and things like that. And I think this shows a decline of our culture and civilization. And that's why I'm irritated whenever I see the London skyline.
+Can I respond? Well, I certainly think that's true. I mean, if you think back to those who built the cathedrals, they thought the world was only a few thousand years old and would last only another thousand, but they built cathedrals which they wouldn't live to see finished, which still inspire us centuries later. And that's why I did mention that I think that the religions are on our side in many of these attempts to promote long term thinking. But going back to, if I can just inject something slightly irrelevant about buildings, I think when we look at the London skyline, what depresses me is not the architecture, but the fact that until 50 years ago, the prominent buildings were all for the public. They were religious buildings, they were railway stations, museums, parliament, et cetera. Now they're either apartments for the transient super rich or they're banks and things like that. And I think this shows a decline of our culture and civilization. And that's why I'm irritated whenever I see the London skyline.
 
 ### Karen O'Brien
 
@@ -175,7 +187,7 @@ Well, as I said, I'm not a Luddite. So I think the Luddites were mistaken, as hi
 
 <span class="transcript-timestamp">00:35:57 - 00:37:28</span>
 
-Can I respond? I think in the long term, David may have it right, but in the medium term, clearly there is a concern about certain jobs being eroded and inequalities. And of course the jobs being eroded by machines are not just blue collar, but things like medical diagnosis and routine legal work and things like that. This is happening. And there is clearly a risk of greater inequality if the money earned by the robots, as it were, goes to an elite. And I personally think that under government's present complexion, this might happen. But I think this is an extra incentive for massive redistribution. So the money earned by the robots is used to provide dignified and secure work for the kind of jobs that anyone can do, which machines can't do as well, like caring, teaching assistants, gardening in public parks and things like that. So I think there will be a stronger need for massive redistribution in order to provide a fairer society. And remember, if we don't have a fairer society, if we have more embittered people than all the threats I mentioned earlier of individuals using bio-error or cyber-terror to cause disruption, we'll have more motivation. So we have an interest to ensure there are fewer embittered people. And that's another reason for reducing these inequalities.
+Can I respond? I think in the long term, David may have it right, but in the medium term, clearly there is a concern about certain jobs being eroded and inequalities. And of course the jobs being eroded by machines are not just blue collar, but things like medical diagnosis and routine legal work and things like that. This is happening. And there is clearly a risk of greater inequality if the money earned by the robots, as it were, goes to an elite. And I personally think that under government's present complexion, this might happen. But I think this is an extra incentive for massive redistribution. So the money earned by the robots is used to provide dignified and secure work for the kind of jobs that anyone can do, which machines can't do as well, like caring, teaching assistants, gardening in public parks and things like that. So I think there will be a stronger need for massive redistribution in order to provide a fairer society. And remember, if we don't have a fairer society, if we have more embittered people then all the threats I mentioned earlier of individuals using bio-error or cyber-terror to cause disruption, we'll have more motivation. So we have an interest to ensure there are fewer embittered people. And that's another reason for reducing these inequalities.
 
 ### Karen O'Brien
 
@@ -201,7 +213,7 @@ Now, on the flip side, of course, then it's a huge industry today that employs m
 
 Thanks very much. Back to the floor.
 
-### Audience member
+### Audience questioner
 
 <span class="transcript-timestamp">00:44:59 - 00:45:37</span>
 

@@ -103,7 +103,7 @@ So integrating those four, what are the implications? Where can you take it forw
 
 <span class="transcript-timestamp">00:07:17 - 00:08:11</span>
 
-In my first book, The Fabric of Reality, I just wanted to say that these four strands are fundamental in this sense. And I wanted to say that you can't understand any of them without the other three. And that all of them have been kind of underestimated in that they have been accepted as the right explanation in their own field, but they haven't been taken seriously as a component of people's worldview. So that for instance, people accept quantum theory, but they don't accept its parallel universe's implications. Other people accept the universality of computation, but they don't accept that this implies that it's possible to program artificial intelligence and so on.
+In my first book, The Fabric of Reality, I just wanted to say that these four strands are fundamental in this sense. And I wanted to say that you can't understand any of them without the other three. And that all of them have been kind of underestimated in that they have been accepted as the right explanation in their own field, but they haven't been taken seriously as a component of people's worldview. So that for instance, people accept quantum theory, but they don't accept its parallel-universe implications. Other people accept the universality of computation, but they don't accept that this implies that it's possible to program artificial intelligence and so on.
 
 ### Robert Lawrence Kuhn
 

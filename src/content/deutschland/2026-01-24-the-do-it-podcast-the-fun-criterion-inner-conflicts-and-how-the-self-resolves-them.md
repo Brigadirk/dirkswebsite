@@ -81,7 +81,7 @@ Yes, exactly. Does it also mean that when we're doing something quite mundane, b
 
 <span class="transcript-timestamp">00:06:20 - 00:07:05</span>
 
-Um, no forcing going on is, is, um, if you like a necessary, but not a sufficient condition, I think it is possible to enjoy grocery shopping. And I think it's possible not to enjoy it. Um, and I think, uh, if we're not enjoying it, we will feel things like boredom or tedium or impatience, uh, and, uh, and those are symptoms of something going wrong and one can conjecture what that might be and, uh, conjecture improvements to it. There's always a way of making one's life better. That that's true, even if one is in ecstasy.
+Um, no thwarting going on is, is, um, if you like a necessary, but not a sufficient condition, I think it is possible to enjoy grocery shopping. And I think it's possible not to enjoy it. Um, and I think, uh, if we're not enjoying it, we will feel things like boredom or tedium or impatience, uh, and, uh, and those are symptoms of something going wrong and one can conjecture what that might be and, uh, conjecture improvements to it. There's always a way of making one's life better. That that's true, even if one is in ecstasy.
 
 ### Edwin
 
@@ -99,7 +99,7 @@ Such a state is not optimal. Okay. I think that there are people who look forwar
 
 <span class="transcript-timestamp">00:08:01 - 00:08:24</span>
 
-Sometimes you also describe people opting for a choice that is more fun. For instance, in a podcast with Luli, I believe you mentioned Ginger GM, the chess player, and he, he was debating and choosing to follow an inexplicit idea because it feels more fun and leads to a more beautiful game. What does more fun in that context mean? Is that referring to a thought process or to a feeling?
+Sometimes you also describe people opting for a choice that is more fun. For instance, in a podcast with Lulie, I believe you mentioned Ginger GM, the chess player, and he, he was debating and choosing to follow an inexplicit idea because it feels more fun and leads to a more beautiful game. What does more fun in that context mean? Is that referring to a thought process or to a feeling?
 
 ### David Deutsch
 
@@ -195,7 +195,7 @@ There is. So you can do like an LLM. You can say, well, what's your unconscious 
 
 <span class="transcript-timestamp">00:18:35 - 00:18:49</span>
 
-Yeah. I think it's, I understand the fact that it can be creativity. I'm just trying to wrap my head around the fact that it's always creativity. When we're... It's usually creativity. When it isn't, then it's more along the lines of creativity.
+Yeah. I think it's, I understand the fact that it can be creativity. I'm just trying to wrap my head around the fact that it's always creativity. When we're...
 
 ### David Deutsch
 
@@ -375,13 +375,13 @@ So that's entirely mechanically, but in, when we're talking about ideas in the m
 
 <span class="transcript-timestamp">00:33:24 - 00:33:34</span>
 
-Hmm. I, I'm just wondering if there's like some underwater component to our minds where maybe there's some more mechanical churning going on there. Creative
+Hmm. I, I'm just wondering if there's like some underwater component to our minds where maybe there's some more mechanical churning going on there.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:33:34 - 00:33:58</span>
 
-Process must add some at the atomic level or at the cellular level must consist of non-creative processes, must consist of purely mechanical automatic processes. So creativity is an emergent property, an emergent high-level property of non-creative low-level processes.
+Creative process must add some at the atomic level or at the cellular level must consist of non-creative processes, must consist of purely mechanical automatic processes. So creativity is an emergent property, an emergent high-level property of non-creative low-level processes.
 
 ### Edwin
 
@@ -423,13 +423,13 @@ Biological evolution is in some sense, some sense, exhaustive search or not exha
 
 <span class="transcript-timestamp">00:36:41 - 00:36:48</span>
 
-Yeah, there must of course be something else going on. And that might be more targeted than we give it credit for. Might
+Yeah, there must of course be something else going on. And that might be more targeted than we give it credit for.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:36:48 - 00:37:26</span>
 
-Be. Well, targeted sounds a bit supernatural or something. It's not targeted. I mean, whatever it is evolved itself, it evolved, but it may be more than just information because some, some, the mode of storage privileges certain types of information over others, all methods of information storage privilege some information over others. So DNA does presumably.
+Might be. Well, targeted sounds a bit supernatural or something. It's not targeted. I mean, whatever it is evolved itself, it evolved, but it may be more than just information because some, some, the mode of storage privileges certain types of information over others, all methods of information storage privilege some information over others. So DNA does presumably.
 
 ### Edwin
 
@@ -441,13 +441,13 @@ Okay. When you discuss creativity in humans, you often also describe it as the o
 
 <span class="transcript-timestamp">00:37:37 - 00:37:42</span>
 
-Yes, but that's, that's at the high level. That's at the very emergent level. Maybe
+Yes, but that's, that's at the high level. That's at the very emergent level.
 
 ### Edwin
 
 <span class="transcript-timestamp">00:37:42 - 00:37:58</span>
 
-Related to this, is there a clear demarcation between new knowledge and learning existing things? As humans, we use our creativity to form all our understanding of both like just learning existing knowledge, but also to create new knowledge.
+Maybe related to this, is there a clear demarcation between new knowledge and learning existing things? As humans, we use our creativity to form all our understanding of both like just learning existing knowledge, but also to create new knowledge.
 
 ### David Deutsch
 
@@ -531,13 +531,13 @@ Probably the most important ones are inexplicit, but we, it's so hard to describ
 
 <span class="transcript-timestamp">00:45:57 - 00:46:09</span>
 
-So when I could ask, so I can interpret creative institutions to also contain any modes of thinking and different modes of criticism. Those are also encapsulated in this creative institutions of consent. And, ...
+So when I could ask, so I can interpret creative institutions to also contain any modes of thinking and different modes of criticism. Those are also encapsulated in this creative institutions of consent.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:46:09 - 00:46:17</span>
 
-And modes of conjecture and, uh, yes. And criteria. Um, yes, all of that.
+And, and modes of conjecture and, uh, yes. And criteria. Um, yes, all of that.
 
 ### Edwin
 
@@ -555,13 +555,13 @@ So it's, it has a lot of truth in it, but I wouldn't, you know, it, it can't be 
 
 <span class="transcript-timestamp">00:47:27 - 00:47:32</span>
 
-There is also just a single I in this case, a single self. Oh, in, ...
+There is also just a single I in this case, a single self.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:47:32 - 00:48:24</span>
 
-In a rational mind, there is a single self in that conflicts get resolved. And when they get resolved, then at the resolution, there's only one idea left so that there are no chronic hangovers of the rival theories left at the time when one acts or does whatever, whatever the problem was about. Um, but, um, people often report having, um, conflicting voices in their mind. I either, you know, really voices that sound like voices, but, uh, also, um, conflicting ideas that, that, that present themselves and won't go away. Even when other parts of the mind would like them to go away and that, that there's something, there's something irrational going on there, something anti-rational going on there.
+Oh, in, in a rational mind, there is a single self in that conflicts get resolved. And when they get resolved, then at the resolution, there's only one idea left so that there are no chronic hangovers of the rival theories left at the time when one acts or does whatever, whatever the problem was about. Um, but, um, people often report having, um, conflicting voices in their mind. I either, you know, really voices that sound like voices, but, uh, also, um, conflicting ideas that, that, that present themselves and won't go away. Even when other parts of the mind would like them to go away and that, that there's something, there's something irrational going on there, something anti-rational going on there.
 
 ### Edwin
 
@@ -609,31 +609,31 @@ It's true. If you, if you read into the scientists that describe focus, they, th
 
 <span class="transcript-timestamp">00:52:40 - 00:53:23</span>
 
-There's certainly the organist example shows you that it is trainable. It is learnable to some extent, but to what extent this is constrained by hardware properties of the brain. I don't know because I don't know how it works. I don't know how the sort of natural organization works, but obviously we can simulate parallel processing with serial processing if we want to, but that, that will slow it down. But so there's, there's no kind of thought that we can't reach because of. Hardware limitations, but there might be kinds of thought that are faster because of hardware or slower because of hardware.
+There's certainly the organist example shows you that it is trainable. It is learnable to some extent, but to what extent this is constrained by hardware properties of the brain. I don't know because I don't know how it works. I don't know how the sort of natural organization works, but obviously we can simulate parallel processing with serial processing if we want to, but that, that will slow it down. But so there's, there's no kind of thought that we can't reach because of hardware limitations, but there might be kinds of thought that are faster because of hardware or slower because of hardware.
 
 ### Edwin
 
 <span class="transcript-timestamp">00:53:23 - 00:53:50</span>
 
-Yeah, because I think it's quite common occurrence if we're sick or if we just had a bad night of sleep, it's our, our creativity definitely feels like it's hampered or at least severely more difficult. So there's definitely an interplay of hardware. In a conversation with Ludi, you guys also discussed that all explicit knowledge is rooted in inexplicit knowledge. Do you, do you recall this particular conversation? Well, as, ...
+Yeah, because I think it's quite common occurrence if we're sick or if we just had a bad night of sleep, it's our, our creativity definitely feels like it's hampered or at least severely more difficult. So there's definitely an interplay of hardware. In a conversation with Lulie, you guys also discussed that all explicit knowledge is rooted in inexplicit knowledge. Do you, do you recall this particular conversation?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:53:50 - 00:54:39</span>
 
-As we've already said, the way explicit knowledge is, is expressed in words, but the meaning of the words is not expressed entirely in words. Um, if it were, I mean, it can't be because if it were, that would be an infinite regress as dictionaries would, would, could never define anything. That again is a problem with LLMs because they don't have a root level of contact with reality. Um, they only have words and sentences in terms of other words and sentences. Once we have LLMs in robots where they, where they have some, some contact with reality as well, um, they might have the equivalent of unconscious ideas.
+Well, as, as we've already said, the way explicit knowledge is, is expressed in words, but the meaning of the words is not expressed entirely in words. Um, if it were, I mean, it can't be because if it were, that would be an infinite regress as dictionaries would, would, could never define anything. That again is a problem with LLMs because they don't have a root level of contact with reality. Um, they only have words and sentences in terms of other words and sentences. Once we have LLMs in robots where they, where they have some, some contact with reality as well, um, they might have the equivalent of unconscious ideas.
 
 ### Edwin
 
 <span class="transcript-timestamp">00:54:39 - 00:54:50</span>
 
-That's interesting to think about because also in an LLM, it doesn't know what it's doing. So in a sense, it could also be seen as inexplicit knowledge. No, it, it, it is, ...
+That's interesting to think about because also in an LLM, it doesn't know what it's doing. So in a sense, it could also be seen as inexplicit knowledge.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:54:50 - 00:55:20</span>
 
-It is explicit. Everything about the LLM is explicit. It has an architecture. I suppose, yes, I suppose that its architecture contains inexplicit knowledge or explicit knowledge that was put in by the programmers. But the idea is to, is to free it from that as much as possible, especially if they're hoping to make an AGI in vain, I think, but they, they, they're, they're trying not to let the hardware determine what it can think. All right.
+No, it, it, it is, it is explicit. Everything about the LLM is explicit. It has an architecture. I suppose, yes, I suppose that its architecture contains inexplicit knowledge or explicit knowledge that was put in by the programmers. But the idea is to, is to free it from that as much as possible, especially if they're hoping to make an AGI in vain, I think, but they, they, they're, they're trying not to let the hardware determine what it can think. All right.
 
 ### Edwin
 

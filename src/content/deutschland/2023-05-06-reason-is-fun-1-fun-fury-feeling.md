@@ -18,7 +18,7 @@ Welcome to the Reason is Fun podcast. I'm your host, Lulie Tanett, and today I'm
 
 ### David Deutsch
 
-<span class="transcript-timestamp">00:00:53 - 00:01:30</span>
+<span class="transcript-timestamp">00:00:53 - 00:01:10</span>
 
 No, I don't remember. But I do remember a previous video podcast or whatever you call it on the fun criterion. So we're going to expand on that today or what?
 
@@ -140,57 +140,165 @@ Ah, yeah, because then you've got this meta discussion layer going on. So instea
 
 <span class="transcript-timestamp">00:08:43 - 00:09:18</span>
 
-Yes. And it's not even only that because you've also got to think of the audience. So you're thinking about three things. You're thinking about how to put into, you're thinking about the game, you're thinking about how to put into words about the game. And then you're thinking about whether the way you said it is misleading the audience and making them think something else that you don't want them to think. And then if you have anxiety, you're also thinking about how you're coming across and whether you're good as a person. Well, okay, that's going to put a spanner in the works.
+Yes. And it's not even only that because you've also got to think of the audience. So you're thinking about three things. You're thinking about how to put into, you're thinking about the game, you're thinking about how to put into words about the game. And then you're thinking about whether the way you said it is misleading the audience and making them think something else that you don't want them to think.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:08:43 - 00:09:18</span>
+
+And then if you have anxiety, you're also thinking about how you're coming across and whether you're good as a person.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:08:43 - 00:09:18</span>
+
+Well, okay, that's going to put a spanner in the works.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:09:18 - 00:09:50</span>
 
-Yeah, possibly those people wouldn't go on Twitch for long. So now rarely we saw a game of his where he was not commentating. He was absolutely concentrating on the game in the Reykjavik Open and other people were commentating on the game. And they were like, oh my God, oh my God, you know, what a great game this is and so on. So wait, how do we get into that? Yeah, you were explaining in what way does Ginger GM use the fun criterion in your view?
+Yeah, possibly those people wouldn't go on Twitch for long.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:09:18 - 00:09:50</span>
+
+So now rarely we saw a game of his where he was not commentating. He was absolutely concentrating on the game in the Reykjavik Open and other people were commentating on the game. And they were like, oh my God, oh my God, you know, what a great game this is and so on. So wait, how do we get into that?
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:09:18 - 00:09:50</span>
+
+Yeah, you were explaining in what way does Ginger GM use the fun criterion in your view?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:09:50 - 00:11:31</span>
 
-Well he often says things like, okay, I can't remember whether he specifically says this move seems fun, but he says something like, okay, I'm really tempted to play so and so. No, I know I shouldn't. No, so I won't therefore. Okay, there's a better way. No, no, I can't resist. I'm going to play it. But you said in the fun criterion video that the fun criterion is when your explicit ideas and your inexplicit ideas converge or say to do the same thing. And now you're talking about a situation where his apparent explicit ideas are saying, oh, don't do that thing, but that thing is fun. Yes, I think that's not a contradiction. I think his explicit ideas are he's trying to be a chess commentator. So he is trying to say what in this position is most likely to lead to a win or something like that. I don't, probably you can't put into words what is most likely to lead to fun, except to say that it will. But I feel like there are often situations where you think, oh, I really shouldn't do this. But it's so much fun and fun in that situation is still the same as what you would call the fun criterion. Yes. Even if you're thinking, oh, this is bad, I shouldn't do it. Like, oh, this is a bit rebellious. I think in those situations, you've got several different voices, not only the inexplicit one and the explicit one, but also the commentator one. And ...
+Well he often says things like, okay, I can't remember whether he specifically says this move seems fun, but he says something like, okay, I'm really tempted to play so and so. No, I know I shouldn't. No, so I won't therefore. Okay, there's a better way. No, no, I can't resist. I'm going to play it.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:09:50 - 00:11:31</span>
+
+But you said in the fun criterion video that the fun criterion is when your explicit ideas and your inexplicit ideas converge or say to do the same thing. And now you're talking about a situation where his apparent explicit ideas are saying, oh, don't do that thing, but that thing is fun.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:09:50 - 00:11:31</span>
+
+Yes, I think that's not a contradiction. I think his explicit ideas are he's trying to be a chess commentator. So he is trying to say what in this position is most likely to lead to a win or something like that. I don't, probably you can't put into words what is most likely to lead to fun, except to say that it will.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:09:50 - 00:11:31</span>
+
+But I feel like there are often situations where you think, oh, I really shouldn't do this. But it's so much fun and fun in that situation is still the same as what you would call the fun criterion.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:09:50 - 00:11:31</span>
+
+Yes.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:09:50 - 00:11:31</span>
+
+Even if you're thinking, oh, this is bad, I shouldn't do it. Like, oh, this is a bit rebellious.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:09:50 - 00:11:31</span>
+
+I think in those situations, you've got several different voices, not only the inexplicit one and the explicit one, but also the commentator one. And there might be more than one commentator.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:11:31 - 00:11:35</span>
 
-There might be more than one commentator. Isn't the commentator the explicit one?
+Isn't the commentator the explicit one?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:11:35 - 00:14:18</span>
 
-No, no, because, to compare it with chess again, whenever you make a chess move, you're talking about something highly logical. You're talking about if this, then that and so on. But that isn't the only thing that is guiding your play. And then so whenever you make a chess move, there's some explicit theory behind it as well as an inexplicit one. But then when you're commentating, you haven't got access to all of that. The thing that so if you're if you're playing voluntarily, if you're playing to have fun, you know, if you're if you're doing what will make you enjoy the process the most, then you are integrating explicit with inexplicit theories. Chess is a game where you can't play unless you integrate them to some extent, unless you're unless you're a chess engine. They only have explicit theories and they're incapable of having fun. And their games, many of their games are notoriously not fun. Occasionally, they hit on one which is fun, but that's not because they were aiming towards it. It's because the third party can look at it and say, ah, yes, that's brilliant. That's beautiful. It doesn't know that it only knows that it's going to lead to a win. But you're saying the commentator part of you is different from the explicit part. Yes. Yes. Well, the explicit part can be focusing on something other than winning as well. I mean, the explicit part in the kind of talk that I was I was recalling from Ginger GM, he's saying something like again, I can't remember the words, but he's saying something like this move would be fun. Part of the fun is that it's raising possibilities that seem to lead to a good game and so on. I can't follow all the tracks down to their conclusion because it's too complicated. You have to be superhuman to do that. But they look good. And if I do them, something good is likely to happen, whether or not I win. If I win, it'll be like a very enjoyable win because it will have harnessed all these good things that make a game beautiful. So you're talking about the situation where you're playing this chess game on a Twitch stream and you've got the thoughts of what will be good for the audience, which is ...
+No, no, because, to compare it with chess again, whenever you make a chess move, you're talking about something highly logical. You're talking about if this, then that and so on. But that isn't the only thing that is guiding your play. And then so whenever you make a chess move, there's some explicit theory behind it as well as an inexplicit one. But then when you're commentating, you haven't got access to all of that. The thing that so if you're if you're playing voluntarily, if you're playing to have fun, you know, if you're if you're doing what will make you enjoy the process the most, then you are integrating explicit with inexplicit theories. Chess is a game where you can't play unless you integrate them to some extent, unless you're unless you're a chess engine. They only have explicit theories and they're incapable of having fun. And their games, many of their games are notoriously not fun. Occasionally, they hit on one which is fun, but that's not because they were aiming towards it. It's because the third party can look at it and say, ah, yes, that's brilliant. That's beautiful. It doesn't know that it only knows that it's going to lead to a win.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:11:35 - 00:14:18</span>
+
+But you're saying the commentator part of you is different from the explicit part.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:11:35 - 00:14:18</span>
+
+Yes. Yes. Well, the explicit part can be focusing on something other than winning as well. I mean, the explicit part in the kind of talk that I was I was recalling from Ginger GM, he's saying something like again, I can't remember the words, but he's saying something like this move would be fun. Part of the fun is that it's raising possibilities that seem to lead to a good game and so on. I can't follow all the tracks down to their conclusion because it's too complicated. You have to be superhuman to do that. But they look good. And if I do them, something good is likely to happen, whether or not I win. If I win, it'll be like a very enjoyable win because it will have harnessed all these good things that make a game beautiful.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:14:18 - 00:14:25</span>
 
-What you're calling the commentary. And then you've got the like what would be a good play, which may be explicit.
+So you're talking about the situation where you're playing this chess game on a Twitch stream and you've got the thoughts of what will be good for the audience, which is what you're calling the commentary. And then you've got the like what would be a good play, which may be explicit.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:14:25 - 00:14:33</span>
 
-I don't know. Maybe explicit and inexplicit. Yeah. And then you've got fun, which is this, I guess, broadly inexplicit thing.
+I don't know. Maybe explicit and inexplicit.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:14:25 - 00:14:33</span>
+
+Yeah. And then you've got fun, which is this, I guess, broadly inexplicit thing.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:14:33 - 00:15:12</span>
+
+Yes, exactly. Although you may have some theories about it.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:14:33 - 00:15:12</span>
 
-Yes, exactly. Although you may have some theories about it. Exactly. What about the situations where you're doing something and indeed your explicit theories say this is bad or naughty or something or like I'm, I don't know, having a chocolate cake or something and I'm breaking my diet, but it's a thing and no one will know. And there could be a fun to that. So how does that not violate the fun criterion? So I think in general, this is not good. So in general, if... That's spicy.
+Exactly. What about the situations where you're doing something and indeed your explicit theories say this is bad or naughty or something or like I'm, I don't know, having a chocolate cake or something and I'm breaking my diet, but it's a thing and no one will know. And there could be a fun to that. So how does that not violate the fun criterion?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:14:33 - 00:15:12</span>
+
+So I think in general, this is not good. So in general, if...
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:14:33 - 00:15:12</span>
+
+That's spicy.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:15:12 - 00:16:45</span>
 
-Yes, in general, if you're thinking I want to do this, but it's naughty, but no one will know, you know, no one will know is a dead giveaway. All right. So maybe I'm describing a situation that is too conflicted, but sometimes I'm on my Twitter and I want to say something that is a bit provocative or that is something that I don't fully believe myself, but I know that it's fun to say. And also I know that there's a chance that it will alienate some people. And I don't know, this is a bad example I realized because I do post it and I'm like, well, I believe in fun, but it does seem to suggest that I've got some explicit ideas that would cut against doing Twitter kind of trolly type things. You're right that the way you described it is ambiguous or at least multilayered. Humans are complicated. When I talk of explicit and inexplicit theories being in conflict, really I ought to give the impression that there are like a dozen explicit theories and a dozen inexplicit theories. And anyway, the distinction between them isn't so sharp anyway. So some of these theories are 90% explicit and 10% inexplicit and so on. And you also mentioned just now that the situation that I said is generally bad can be reinterpreted.
+Yes, in general, if you're thinking I want to do this, but it's naughty, but no one will know, you know, no one will know is a dead giveaway.
 
 ### Lulie Tanett
+
+<span class="transcript-timestamp">00:15:12 - 00:16:45</span>
+
+All right. So maybe I'm describing a situation that is too conflicted, but sometimes I'm on my Twitter and I want to say something that is a bit provocative or that is something that I don't fully believe myself, but I know that it's fun to say. And also I know that there's a chance that it will alienate some people. And I don't know, this is a bad example I realized because I do post it and I'm like, well, I believe in fun, but it does seem to suggest that I've got some explicit ideas that would cut against doing Twitter kind of trolly type things.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:15:12 - 00:16:45</span>
+
+You're right that the way you described it is ambiguous or at least multilayered. Humans are complicated. When I talk of explicit and inexplicit theories being in conflict, really I ought to give the impression that there are like a dozen explicit theories and a dozen inexplicit theories. And anyway, the distinction between them isn't so sharp anyway. So some of these theories are 90% explicit and 10% inexplicit and so on. And you also mentioned just now that the situation that I said is generally bad can be reinterpreted.
+
+### David Deutsch
 
 <span class="transcript-timestamp">00:16:45 - 00:17:04</span>
 
@@ -236,7 +344,13 @@ Well, I do disagree. Although I think there are things close to what you said, w
 
 <span class="transcript-timestamp">00:22:19 - 00:23:06</span>
 
-Yeah, I also want to clarify that I'm not suggesting dissociating because I think that would be the natural response to being tortured or whatever. It's more... Yeah, anyway, there's nuance here, but sorry, go on. So there are microorganisms that torture you for reasons of their own, like some of these horrible tropical diseases that make you itch unbearably until you've scratched away your flesh and that kind of thing. They have evolved over, I don't know, millions or hundreds of thousands of years to overcome. Like when you first get... Well, let me start a bit earlier. We scratch itches for a reason.
+Yeah, I also want to clarify that I'm not suggesting dissociating because I think that would be the natural response to being tortured or whatever. It's more... Yeah, anyway, there's nuance here, but sorry, go on.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:22:19 - 00:23:06</span>
+
+So there are microorganisms that torture you for reasons of their own, like some of these horrible tropical diseases that make you itch unbearably until you've scratched away your flesh and that kind of thing. They have evolved over, I don't know, millions or hundreds of thousands of years to overcome. Like when you first get... Well, let me start a bit earlier. We scratch itches for a reason.
 
 ### David Deutsch
 
@@ -304,23 +418,29 @@ Okay, so if I can continue to ad hoc modify my theory until it meets all of the 
 
 Yes, yes, so there are skydivers, there are also people who are being dangled off the top of a building by their enemy and they're terrified and it's not a good analysis of that situation to say that the only thing that's wrong is what's in their own mind.
 
-### Lulie Tanett
-
-<span class="transcript-timestamp">00:29:41 - 00:29:43</span>
-
-You could say, well, why are you suffering?
-
 ### David Deutsch
 
-<span class="transcript-timestamp">00:29:43 - 00:30:23</span>
+<span class="transcript-timestamp">00:29:41 - 00:30:23</span>
 
-Look at that skydiver up there, he's enjoying the same thing as what you're going through. It's not helpful because well, where there is a torturer, where there is someone actually thinking about how to thwart you, then it's not, I don't think it should be controversial there may be no way out because if there is, then you could apply it to the torturer. The torturer is also facing a problem and you can't both win. In that situation, I would say the appropriate emotion to feel, which you may disagree with, ...
+You could say, well, why are you suffering? Look at that skydiver up there, he's enjoying the same thing as what you're going through. It's not helpful because well, where there is a torturer, where there is someone actually thinking about how to thwart you, then it's not, I don't think it should be controversial there may be no way out because if there is, then you could apply it to the torturer. The torturer is also facing a problem and you can't both win.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:30:23 - 00:31:12</span>
 
-Is anger and anger would make that situation at least more enjoyable than if you didn't have that and so I'm wondering whether you've got this sort of anger-shaped gap in your view and so you say, ah, well, all suffering is internal really and it's all about reinterpretation except in this situation where it involves other people and other people's creativity and then I would say, well, in that situation, get angry. I don't think so. So this is a fruitful disagreement, I think, because I think whichever of us is right or wrong or both or whatever, there's certainly things I don't understand about this kind of situation but I think there are things you don't, so you know. May we learn from each other.
+In that situation, I would say the appropriate emotion to feel, which you may disagree with, is anger and anger would make that situation at least more enjoyable than if you didn't have that and so I'm wondering whether you've got this sort of anger-shaped gap in your view and so you say, ah, well, all suffering is internal really and it's all about reinterpretation except in this situation where it involves other people and other people's creativity and then I would say, well, in that situation, get angry.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:30:23 - 00:31:12</span>
+
+I don't think so. So this is a fruitful disagreement, I think, because I think whichever of us is right or wrong or both or whatever, there's certainly things I don't understand about this kind of situation but I think there are things you don't, so you know.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:30:23 - 00:31:12</span>
+
+May we learn from each other.
 
 ### David Deutsch
 
@@ -338,13 +458,31 @@ I mean, presumably he's already a bit pissed with you, otherwise why would he be
 
 <span class="transcript-timestamp">00:31:56 - 00:33:01</span>
 
-There are all sorts of reasons why he might be dangling you. He might be a sadist. He might just enjoy whatever or he might want to get the information out of you or whatever. He'll have reasons. It might be that he's already angry with you but that's only one possible reason. Okay. The thing about getting angry is that it's contagious. So you're getting angry with him. Basically, you're saying, you're hurting me but I'm refusing to be the victim you want me to be. I'm not going to react in the way that you want. I'm instead going to be at least verbally and emotionally aggressive towards you, just as you're being physically aggressive towards me. That is not anger and this is part of our disagreement about what anger is. That can and is often associated with anger. But I think the cleanest form of anger doesn't actually look like aggression.
+There are all sorts of reasons why he might be dangling you. He might be a sadist. He might just enjoy whatever or he might want to get the information out of you or whatever. He'll have reasons. It might be that he's already angry with you but that's only one possible reason. Okay. The thing about getting angry is that it's contagious. So you're getting angry with him. Basically, you're saying, you're hurting me but I'm refusing to be the victim you want me to be. I'm not going to react in the way that you want. I'm instead going to be at least verbally and emotionally aggressive towards you, just as you're being physically aggressive towards me.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:31:56 - 00:33:01</span>
+
+That is not anger and this is part of our disagreement about what anger is. That can and is often associated with anger. But I think the cleanest form of anger doesn't actually look like aggression.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:33:01 - 00:34:25</span>
 
-It looks more like having boundaries. If you are angry but you are not so caught up in your anger that that's the only blind rage and everything, and rather if it's something like you're angry and you're like, wow, this is not right. It is not right that he's doing this and I'm going to look for ways that I can say no to this. It looks more like determination. You can even, while being angry, take a particular strategy that looks like other emotions. That's perfectly legitimate. If he's this torturer and whatever and you know that if you respond in a particular way, then that could be part of the, ah, I'm determined and I'm going to get out of this situation. So this is what I'm going to do. Again, you're talking about layers, which I have to admit or rather assert exist. But I don't think that this fully describes the situation of suffering. What I was going to say earlier was that once you're both angry, you've basically shut down the modes of creativity that are going to solve this. So you've basically given up on solving it. Why would creativity be shut down then?
+It looks more like having boundaries. If you are angry but you are not so caught up in your anger that that's the only blind rage and everything, and rather if it's something like you're angry and you're like, wow, this is not right. It is not right that he's doing this and I'm going to look for ways that I can say no to this. It looks more like determination. You can even, while being angry, take a particular strategy that looks like other emotions. That's perfectly legitimate. If he's this torturer and whatever and you know that if you respond in a particular way, then that could be part of the, ah, I'm determined and I'm going to get out of this situation. So this is what I'm going to do.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:33:01 - 00:34:25</span>
+
+Again, you're talking about layers, which I have to admit or rather assert exist. But I don't think that this fully describes the situation of suffering. What I was going to say earlier was that once you're both angry, you've basically shut down the modes of creativity that are going to solve this. So you've basically given up on solving it.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:33:01 - 00:34:25</span>
+
+Why would creativity be shut down then?
 
 ### David Deutsch
 
@@ -362,13 +500,43 @@ I don't think that's true either. I mean, so would you say that is true of all e
 
 <span class="transcript-timestamp">00:34:57 - 00:35:39</span>
 
-No. Okay. What makes anger different? Good question. Well, actually, wait a minute. Wait a minute. No, I take that back. I think all emotions, not sensations, all emotions take ongoing creativity to maintain. Oh, you're doubling down on it. Okay, cool. Sensations are different because I can feel that the room is too hot, and I can carry on feeling that indefinitely as long as it remains too hot. But I can reinterpret that in all sorts of ways.
+No.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:34:57 - 00:35:39</span>
+
+Okay. What makes anger different?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:34:57 - 00:35:39</span>
+
+Good question. Well, actually, wait a minute. Wait a minute. No, I take that back. I think all emotions, not sensations, all emotions take ongoing creativity to maintain.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:34:57 - 00:35:39</span>
+
+Oh, you're doubling down on it. Okay, cool.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:34:57 - 00:35:39</span>
+
+Sensations are different because I can feel that the room is too hot, and I can carry on feeling that indefinitely as long as it remains too hot. But I can reinterpret that in all sorts of ways.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:35:39 - 00:36:31</span>
 
-What about emotional sensations? Emotional sensations. Well, hang on. We'll get there in a minute. So I think it's notorious that pleasure, like pleasure of eating, pleasure of sex, pleasure of physical sensations like having a hot bath and so on, are transient. You need to create, if you want them to continue, you need to create the framework and keep creating the framework for them to continue to be fun. In fact, come to think of it, in a way, nature has played a nasty trick on us with our sensations.
+What about emotional sensations?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:35:39 - 00:36:31</span>
+
+Emotional sensations. Well, hang on. We'll get there in a minute. So I think it's notorious that pleasure, like pleasure of eating, pleasure of sex, pleasure of physical sensations like having a hot bath and so on, are transient. You need to create, if you want them to continue, you need to create the framework and keep creating the framework for them to continue to be fun. In fact, come to think of it, in a way, nature has played a nasty trick on us with our sensations.
 
 ### David Deutsch
 
@@ -392,13 +560,13 @@ Behind my question was something like, so here you're talking about sensations t
 
 <span class="transcript-timestamp">00:40:30 - 00:42:01</span>
 
-There is a sense in which I agree with all that, but I think we're still disagreeing on some level. So I think, again, the reason why I'm agreeing is because you began to describe additional levels of what's going on or what could be going on. And so I would say anger can be helpful. That is, going into a state of anger can be helpful if your previous problem contained elements that are incompatible with anger. For example, if some part of you thought that you deserved this, or some part of you thought that you were a natural victim or second class citizen or whatever, then feeling anger could be associated with realizing that you're not. You're a fully fledged person with boundaries, as you say. And in that case, it's not that the anger is a good state. It's that the anger is a temporary side effect of getting yourself out of a previous error, which may be entrenched. And if it's entrenched, then all the more reason why an unusual state might help you to get out of it. I'm thinking of... I don't know if this will speak to you.
+There is a sense in which I agree with all that, but I think we're still disagreeing on some level. So I think, again, the reason why I'm agreeing is because you began to describe additional levels of what's going on or what could be going on. And so I would say anger can be helpful. That is, going into a state of anger can be helpful if your previous problem contained elements that are incompatible with anger. For example, if some part of you thought that you deserved this, or some part of you thought that you were a natural victim or second class citizen or whatever, then feeling anger could be associated with realizing that you're not. You're a fully fledged person with boundaries, as you say. And in that case, it's not that the anger is a good state. It's that the anger is a temporary side effect of getting yourself out of a previous error, which may be entrenched. And if it's entrenched, then all the more reason why an unusual state might help you to get out of it. I'm thinking of... I don't know if this will speak to you. Have you seen the movie Conan the Barbarian with Schwarzenegger?
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:42:01 - 00:42:09</span>
 
-Have you seen the movie Conan the Barbarian with Schwarzenegger? When I was a kid, maybe.
+When I was a kid, maybe.
 
 ### David Deutsch
 
@@ -410,27 +578,75 @@ Maybe I shouldn't mention this because some people will get spoilers. Well, so s
 
 <span class="transcript-timestamp">00:44:26 - 00:45:58</span>
 
-I think that is so, first of all, he may well not have been angry. I can also imagine coming at that from a playful point of view. So like, ah, like, lol, there's a vulture there, I will bite it, lol. I could also imagine having a type of anger, like, ah, I'm really going to step up here. But I think when you think of rage, you think of something aggressive. Whereas I would say anger is not inherently aggressive. It can be aggressive, but the most fundamental version of anger is more about determination, clarity, boundaries, drawing lines. You said that to me before and I keep forgetting it, so you'll probably have to say it again. I wonder whether there are situations where you would see something kind of happening and you wouldn't class it as anger, although I would, because of the physiological things that are going on inside them, because the anger is what I would call clean. And this also ties back to things about whether weeping from something beautiful or something so sweet or so happy, and whether you think that's a good state of mind. I don't know what your current view on that is. I'm not sure. You're right that my natural interpretation of that is that there's something wrong with it. Yeah, I've also gone back and forth. What is my current view on this?
+I think that is so, first of all, he may well not have been angry. I can also imagine coming at that from a playful point of view. So like, ah, like, lol, there's a vulture there, I will bite it, lol. I could also imagine having a type of anger, like, ah, I'm really going to step up here. But I think when you think of rage, you think of something aggressive. Whereas I would say anger is not inherently aggressive. It can be aggressive, but the most fundamental version of anger is more about determination, clarity, boundaries, drawing lines.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:44:26 - 00:45:58</span>
+
+You said that to me before and I keep forgetting it, so you'll probably have to say it again.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:44:26 - 00:45:58</span>
+
+I wonder whether there are situations where you would see something kind of happening and you wouldn't class it as anger, although I would, because of the physiological things that are going on inside them, because the anger is what I would call clean. And this also ties back to things about whether weeping from something beautiful or something so sweet or so happy, and whether you think that's a good state of mind. I don't know what your current view on that is.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:44:26 - 00:45:58</span>
+
+I'm not sure. You're right that my natural interpretation of that is that there's something wrong with it.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:44:26 - 00:45:58</span>
+
+Yeah, I've also gone back and forth. What is my current view on this?
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:45:58 - 00:46:28</span>
+
+I think quite often it's to do with a mixture of, yeah, I'm not sure, I'd have to think about this. But, okay, but winding back a bit. So you said that anger in some situations can cause you to think of solutions that you wouldn't have otherwise thought of, and in those situations maybe anger is good?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:45:58 - 00:46:28</span>
 
-I think quite often it's to do with a mixture of, yeah, I'm not sure, I'd have to think about this. But, okay, but winding back a bit. So you said that anger in some situations can cause you to think of solutions that you wouldn't have otherwise thought of, and in those situations maybe anger is good? Yes, but it's only good in it itself is still bad, but in the overall situation that can often happen.
+Yes, but it's only good in it itself is still bad, but in the overall situation that can often happen.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:46:28 - 00:46:46</span>
 
-So I still want to ask you why anger is bad, but I'll just finish my question, which is to what extent is that true of all emotions? To what extent is what true? That the emotion is only good to feel if it is providing you with solutions that you wouldn't otherwise have?
+So I still want to ask you why anger is bad, but I'll just finish my question, which is to what extent is that true of all emotions?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:46:28 - 00:46:46</span>
+
+To what extent is what true?
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:46:28 - 00:46:46</span>
+
+That the emotion is only good to feel if it is providing you with solutions that you wouldn't otherwise have?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:46:48 - 00:47:23</span>
 
-Yes, maybe providing you with is the wrong phrase, because as I said, I now think, you know, in this conversation I have realised that it's the solutions that you're finding, the creativity that you're exerting, that make it pleasant in the first place, or that cure the unpleasantness in the first place. So it's not that the emotion is providing you with something, it's just a description of the same thing. I'm not sure if I understand.
+Yes, maybe providing you with is the wrong phrase, because as I said, I now think, you know, in this conversation I have realised that it's the solutions that you're finding, the creativity that you're exerting, that make it pleasant in the first place, or that cure the unpleasantness in the first place. So it's not that the emotion is providing you with something, it's just a description of the same thing.
 
 ### Lulie Tanett
+
+<span class="transcript-timestamp">00:46:48 - 00:47:23</span>
+
+I'm not sure if I understand.
+
+### David Deutsch
 
 <span class="transcript-timestamp">00:47:23 - 00:47:30</span>
 
@@ -440,31 +656,103 @@ You asked, is it true of all emotions that they are helpful in that they provide
 
 <span class="transcript-timestamp">00:47:30 - 00:48:53</span>
 
-Well, yes, but that's maybe misleading terminology, because I don't think emotions provide you with anything. They cause a frame of mind that make it easier to think of some solutions that you were cutting out of your solution set. Yes, and the example that I thought of is maybe a class of examples that you consider too narrow, namely the class where the reason it was difficult before is some kind of irrationality that you had, because you had an entrenched mistake before, and then this emotion puts you in a new situation in which you can then creatively think of why you were wrong before and what a better state of mind is. Whereas I think you want to say it's not only that situation, it's that you can just solve, an emotion might help you to solve things, and indeed you probably want to say that whenever you solve something, it's because your emotions and your explicit and inexplicit theories and all that stuff work together, even when there's no bad state that had preceded this, just a state of having a problem even in the best possible sense.
+Well, yes, but that's maybe misleading terminology, because I don't think emotions provide you with anything.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:47:30 - 00:48:53</span>
+
+They cause a frame of mind that make it easier to think of some solutions that you were cutting out of your solution set.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:47:30 - 00:48:53</span>
+
+Yes, and the example that I thought of is maybe a class of examples that you consider too narrow, namely the class where the reason it was difficult before is some kind of irrationality that you had, because you had an entrenched mistake before, and then this emotion puts you in a new situation in which you can then creatively think of why you were wrong before and what a better state of mind is. Whereas I think you want to say it's not only that situation, it's that you can just solve, an emotion might help you to solve things, and indeed you probably want to say that whenever you solve something, it's because your emotions and your explicit and inexplicit theories and all that stuff work together, even when there's no bad state that had preceded this, just a state of having a problem even in the best possible sense.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:48:53 - 00:52:12</span>
 
-Yeah, my picture is that when emotions are free to move instead of getting jammed up, then you're constantly having all sorts of emotions and it's part of the creativity process. And then, so there is a sense in which I could agree with that or at least consider it plausible, but then you're inclined, I think, to then just smoothly go over into sensations like pain and pleasure and so on, or we maybe disagree about whether anger is one of them, but I think in this conversation, the most successful case I had was considering large amounts of pain and how that, so that's a sensation much more than it is an emotion. So once you go into sensations, the trouble with that is that sensations are felt by the brain, but they are very much tied to the body, at least many of them are, there are sensations like grief, which doesn't originate in the body or at least doesn't seem to, but when you extend this idea that all creativity is associated with emotions, when you extend it to sensations as well, it's very hard to find a way of connecting that to my general ideas about information flow and computation. In the Popperian framework, but if people like David Chapman are right, then this might, this actually is one of the big things that's causing me to look into David Chapman's stuff, because I think there is a big question mark around this stuff that I have found from all of this personal development, emotions, psychology and so on, and that it doesn't neatly yet fit into everything I'm hoping to find a way. But okay, I think, so that would be a fascinating conversation, this sensations versus emotions versus mental stuff. I would love to have that conversation in a future chat. Let's go back to the fun criterion stuff, because I have some further hard hitting questions for you. Okay, that wasn't hard hitting. I will create hard hitting questions for you. So here's my first one. You, so going back to fun is when your explicit ideas and your inexplicit ideas are in alignment. Yes. To use a buzz phrase of the day. Right. Oh yeah, so it is. You also say that the mind doesn't have beliefs and that it is full of contradictions and that at any given time, you've got a ton of different contradicting ideas. Yes. So how are these two, like, because your ideas are never in alignment, so what's up?
+Yeah, my picture is that when emotions are free to move instead of getting jammed up, then you're constantly having all sorts of emotions and it's part of the creativity process.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:48:53 - 00:52:12</span>
+
+And then, so there is a sense in which I could agree with that or at least consider it plausible, but then you're inclined, I think, to then just smoothly go over into sensations like pain and pleasure and so on, or we maybe disagree about whether anger is one of them, but I think in this conversation, the most successful case I had was considering large amounts of pain and how that, so that's a sensation much more than it is an emotion. So once you go into sensations, the trouble with that is that sensations are felt by the brain, but they are very much tied to the body, at least many of them are, there are sensations like grief, which doesn't originate in the body or at least doesn't seem to, but when you extend this idea that all creativity is associated with emotions, when you extend it to sensations as well, it's very hard to find a way of connecting that to my general ideas about information flow and computation in the Popperian framework.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:48:53 - 00:52:12</span>
+
+But if people like David Chapman are right, then this might, this actually is one of the big things that's causing me to look into David Chapman's stuff, because I think there is a big question mark around this stuff that I have found from all of this personal development, emotions, psychology and so on, and that it doesn't neatly yet fit into everything I'm hoping to find a way. But okay, I think, so that would be a fascinating conversation, this sensations versus emotions versus mental stuff. I would love to have that conversation in a future chat. Let's go back to the fun criterion stuff, because I have some further hard hitting questions for you. Okay, that wasn't hard hitting. I will create hard hitting questions for you. So here's my first one. You, so going back to fun is when your explicit ideas and your inexplicit ideas are in alignment. Yes. To use a buzz phrase of the day. Right. Oh yeah, so it is. You also say that the mind doesn't have beliefs and that it is full of contradictions and that at any given time, you've got a ton of different contradicting ideas. Yes. So how are these two, like, because your ideas are never in alignment, so what's up?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:52:12 - 00:56:10</span>
 
-Well, it's not the ideas that have to be in alignment, it's the processes. So the conventional culturally accepted picture of the brain and thinking and mental processes is, I don't know whether this was always true or whether it's the fault of the ancient Greeks or whatever, but the picture that our conceptual framework and terminology have is that the brain is, the mind is largely consistent. That is, if we're sane, it's largely consistent and that inconsistencies are bad and that the ideal state is to have a consistent state of mind. And on that view, you can misinterpret the fun criterion as saying that your inexplicit theories and your explicit theories in particular should be consistent with each other. And that's really the opposite of what I think, because if they were consistent with each other, then you wouldn't be thinking, you'd just be sitting there like a zombie. And as I say in Beginning of Infinity, its other name is death. So, you know, you would be in effect dead because there'd be no incentive to think. The creativity always begins with the problem. So my picture of the mind is that it's full of conflicting theories, but ideally they're not causing coercion, they're not causing suffering, they're causing something really good. And as I have often said, it's unfortunate that in our language and conceptual framework, the word problem is used to refer to both to the best thing in the world and to the worst thing in the world. And we don't have a rich enough terminology. Every time we come to this issue, I have to explain at length that by problem in one context, I mean one thing, in another context, I mean another thing. And they're not unrelated, they're opposites. So, first of all, the difference between fun and not fun is not in whether the ideas are in conflict, it's whether the processes trying to resolve the conflict are opposing each other or not. When I say opposing each other, I don't mean that they come from different objectives or whatever. That can also happen and is all part of the fun. I mean that they're not actually thwarting each other. What's the difference between thwarting something and presenting a problem? Well, thwarting... So, if I'm playing chess against the computer, let's take out the element of having an opponent. If I'm playing chess against the computer and the computer makes a move that I didn't expect, which causes all sorts of thoughts to spring up in my mind, how on earth am I going to counter that? Or has it made a mistake? Or whatever. That's fun. That's the kind of conflict which we need to have if we are not to die. On the other hand, if the computer crashes and I can't remember what the position was, that is thwarting my fun, my problem solving. And that is something that I have to get over. It's not a problem that I enjoy having. So is it expected problem versus un-ing?
+Well, it's not the ideas that have to be in alignment, it's the processes. So the conventional culturally accepted picture of the brain and thinking and mental processes is, I don't know whether this was always true or whether it's the fault of the ancient Greeks or whatever, but the picture that our conceptual framework and terminology have is that the brain is, the mind is largely consistent. That is, if we're sane, it's largely consistent and that inconsistencies are bad and that the ideal state is to have a consistent state of mind. And on that view, you can misinterpret the fun criterion as saying that your inexplicit theories and your explicit theories in particular should be consistent with each other. And that's really the opposite of what I think, because if they were consistent with each other, then you wouldn't be thinking, you'd just be sitting there like a zombie. And as I say in Beginning of Infinity, its other name is death. So, you know, you would be in effect dead because there'd be no incentive to think. The creativity always begins with the problem. So my picture of the mind is that it's full of conflicting theories, but ideally they're not causing coercion, they're not causing suffering, they're causing something really good. And as I have often said, it's unfortunate that in our language and conceptual framework, the word problem is used to refer to both to the best thing in the world and to the worst thing in the world. And we don't have a rich enough terminology. Every time we come to this issue, I have to explain at length that by problem in one context, I mean one thing, in another context, I mean another thing. And they're not unrelated, they're opposites. So, first of all, the difference between fun and not fun is not in whether the ideas are in conflict, it's whether the processes trying to resolve the conflict are opposing each other or not. When I say opposing each other, I don't mean that they come from different objectives or whatever. That can also happen and is all part of the fun. I mean that they're not actually thwarting each other. What's the difference between thwarting something and presenting a problem? Well, thwarting... So, if I'm playing chess against the computer, let's take out the element of having an opponent. If I'm playing chess against the computer and the computer makes a move that I didn't expect, which causes all sorts of thoughts to spring up in my mind, how on earth am I going to counter that? Or has it made a mistake? Or whatever. That's fun. That's the kind of conflict which we need to have if we are not to die. On the other hand, if the computer crashes and I can't remember what the position was, that is thwarting my fun, my problem solving. And that is something that I have to get over. It's not a problem that I enjoy having.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:52:12 - 00:56:10</span>
+
+So is it expected problem versus un-ing?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:56:10 - 00:57:19</span>
 
-No. What's the difference? Well, the whole problem situation is different. I began this chess game hoping that there would be the first kind of problem and hoping that there wouldn't be the second kind of problem. But it's not that I was... the second kind of problem doesn't give me the fun that I was hoping to have. Now you can say, you can have fun resurrecting a computer after a crash. Yes, you can. But that requires creativity to get you into the state of mind of having fun resurrecting a computer. How is hoping different from expecting? What is the actual difference between the two? I think if I could really answer that question satisfactorily, I'd know how to do AGI. But I can say a lot about it. I mean, I think a lot is known by Popper and by me about what the difference is. It's the same as asking what is the difference between a creative process and automatism.
+No.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:56:10 - 00:57:19</span>
+
+What's the difference?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:56:10 - 00:57:19</span>
+
+Well, the whole problem situation is different. I began this chess game hoping that there would be the first kind of problem and hoping that there wouldn't be the second kind of problem. But it's not that I was... the second kind of problem doesn't give me the fun that I was hoping to have. Now you can say, you can have fun resurrecting a computer after a crash. Yes, you can. But that requires creativity to get you into the state of mind of having fun resurrecting a computer.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:56:10 - 00:57:19</span>
+
+How is hoping different from expecting? What is the actual difference between the two?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:56:10 - 00:57:19</span>
+
+I think if I could really answer that question satisfactorily, I'd know how to do AGI. But I can say a lot about it. I mean, I think a lot is known by Popper and by me about what the difference is. It's the same as asking what is the difference between a creative process and automatism.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:57:19 - 00:59:32</span>
+
+What's the difference between behaving, just enacting your program and being your own programmer?
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:57:19 - 00:59:32</span>
 
-What's the difference between behaving, just enacting your program and being your own programmer? But this is a situation where a non-creative action caused you annoyance, namely the computer shutting down. Yes. So in both cases, the problem that I have is caused by a non-creative system. It's caused by my non-creative environment. So the difference between the two is the difference between... so in the case where the computer crashes, in order to get back into a good frame of mind, I have to convert this. So let me step back a bit. You may not immediately see why this is relevant, but there are two kinds of computer programs possible. There's the creative ones and the non-creative ones. And we do not know how to even check a computer program, even if we have the code in front of us. We do not know how to check whether it is creative or not. However, there are these two kinds, and the creative kind at the moment, the only computers that we know that are running creative programs are human brains and the human mind is such a program. One day we will have artificial ones as well, but we don't know how to detect the difference. We don't know how to make a creative program either. Now, if I'm right, and this may be oversimplifying the issue, but even if it is, it doesn't matter for the point I'm making at the moment. We therefore don't know what kinds of program can suffer. I assume that the AGI kind can, and the non-AGI kind can't. It may turn out to be more complicated than that in reality, but there's going to be some kind of distinction like that in reality, which we will eventually know about. Do you think dogs suffer?
+But this is a situation where a non-creative action caused you annoyance, namely the computer shutting down.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:57:19 - 00:59:32</span>
+
+Yes. So in both cases, the problem that I have is caused by a non-creative system. It's caused by my non-creative environment. So the difference between the two is the difference between... so in the case where the computer crashes, in order to get back into a good frame of mind, I have to convert this. So let me step back a bit. You may not immediately see why this is relevant, but there are two kinds of computer programs possible. There's the creative ones and the non-creative ones. And we do not know how to even check a computer program, even if we have the code in front of us. We do not know how to check whether it is creative or not. However, there are these two kinds, and the creative kind at the moment, the only computers that we know that are running creative programs are human brains and the human mind is such a program. One day we will have artificial ones as well, but we don't know how to detect the difference. We don't know how to make a creative program either. Now, if I'm right, and this may be oversimplifying the issue, but even if it is, it doesn't matter for the point I'm making at the moment. We therefore don't know what kinds of program can suffer. I assume that the AGI kind can, and the non-AGI kind can't. It may turn out to be more complicated than that in reality, but there's going to be some kind of distinction like that in reality, which we will eventually know about.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:57:19 - 00:59:32</span>
+
+Do you think dogs suffer?
 
 ### David Deutsch
 
@@ -482,7 +770,31 @@ Do you think cats suffer?
 
 <span class="transcript-timestamp">00:59:50 - 01:02:25</span>
 
-Much less possible. It could be that the solar system suffers, or that peanut butter suffers. Panpsychism? Yeah, it may be. People who should know better have seriously suggested that. And who knows they're right, because when we don't know what the truth is, when we have no idea really, sorry it's exaggerating to say we have no idea, but where we simply don't know how to cross the gap between us and actually understanding this, we should be modest about dismissing people who say, well, maybe the answer lies in such and such direction. But, okay, having said that, between you and me, panpsychism is silly. Okay, we're going back to... Yeah, so we fundamentally don't know. So there's going to be a computer just sitting there, and it might be, given the program in it, it might be suffering or not. It might be having enormous satisfaction, like maybe superhuman satisfaction or superhuman suffering. I don't think so, but you know, perhaps, but at any rate, there is a distinction. We don't know what that is. We don't know how to create it. We don't know how to detect it. But we know, I think, that there are some computer programs that it is highly immoral to run, and some that it is highly desirable to run. We know that, even though we can't tell the difference between the two. Now, since we can't even... we don't even have a viable theory of what that distinction is, it's not surprising that I can't properly articulate the difference between suffering because your mountaineering expedition has gone wrong in a bad way. I can't put it better than that. And being exhilarated because your mountaineering expedition has gone wrong in an unforeseeable way, which is exactly what you were hoping for when you set out that you were hoping it would set you problems.
+Much less possible. It could be that the solar system suffers, or that peanut butter suffers.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:59:50 - 01:02:25</span>
+
+Panpsychism?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:59:50 - 01:02:25</span>
+
+Yeah, it may be. People who should know better have seriously suggested that. And who knows they're right, because when we don't know what the truth is, when we have no idea really, sorry it's exaggerating to say we have no idea, but where we simply don't know how to cross the gap between us and actually understanding this, we should be modest about dismissing people who say, well, maybe the answer lies in such and such direction. But, okay, having said that, between you and me, panpsychism is silly.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:59:50 - 01:02:25</span>
+
+Okay, we're going back to...
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:59:50 - 01:02:25</span>
+
+Yeah, so we fundamentally don't know. So there's going to be a computer just sitting there, and it might be, given the program in it, it might be suffering or not. It might be having enormous satisfaction, like maybe superhuman satisfaction or superhuman suffering. I don't think so, but you know, perhaps, but at any rate, there is a distinction. We don't know what that is. We don't know how to create it. We don't know how to detect it. But we know, I think, that there are some computer programs that it is highly immoral to run, and some that it is highly desirable to run. We know that, even though we can't tell the difference between the two. Now, since we can't even... we don't even have a viable theory of what that distinction is, it's not surprising that I can't properly articulate the difference between suffering because your mountaineering expedition has gone wrong in a bad way. I can't put it better than that. And being exhilarated because your mountaineering expedition has gone wrong in an unforeseeable way, which is exactly what you were hoping for when you set out that you were hoping it would set you problems.
 
 ### Lulie Tanett
 
@@ -506,13 +818,49 @@ Unlike Popper, who actually was one.
 
 <span class="transcript-timestamp">01:03:40 - 01:07:39</span>
 
-True. How interesting. Yes. Yes. But the spirit of what I'm imagining must be true. So you set off on this expedition. You weren't hoping that nothing would happen on it that you didn't imagine in advance. You're hoping that unexpected things will happen, like when you're entering a chess game or anything enjoyable. You're hoping that things will happen into which you can sink your creative claws and then munch on the meat, even though you don't know in advance, if you knew in advance everything that was going to happen, it wouldn't have the property that you were looking for. So, just as I can't tell you the difference between given, of course, it's always given the mountaineer's existing problem situation, and given the mountaineer's existing problem situation, we don't know how to specify the difference between an unexpected problem that makes him suffer and an unexpected situation that just adds to the enjoyment. Ultimately, we don't know what the difference is between the two kinds of problems, or the kind that is the worst thing in the world and the kind that's the best thing in the world. However, in many cases, in many interesting cases, we know it when we see it. And also in many interesting cases, the denial that there's a difference between the two is a time-honoured piece of sophistry that everybody concerned knows is a piece of sophistry, at least at some level, sometimes even explicitly. And they're saying, you know, like the slave owners in America in the 19th century would say, well, we've got slaves and we make them work, but you do exactly the same thing with your workers. Like if they didn't work, they would starve. And so that's wage slavery. And they knew that at some level, they knew that this was a concocted argument, because they weren't making that argument before they had to defend slavery. That argument came up in the context of defending slavery. Nobody ever thought of that otherwise. Even Karl Marx thought of that in the context of advocating violence. So, you know, we're advocating violence because after all, you, the people that we are going to use violence against, are starving people, even as we speak. And so whether I'm right in psychologising that everybody always knew that this was sophistry, it is, objectively. And in fact, there's a huge objective difference between slavery and employment. Even though it's perfectly possible that a slave could be happy and it's perfectly possible that an employee could be very unhappy. Even so, that happiness and the unhappiness aren't attributes of the slavery or employment. They are attributes of other parts of the person's mind. So, also, there is an objective difference between being thwarted and being presented with an interesting, fun problem. But you don't know in words what that difference is exactly.
+True. How interesting. Yes. Yes. But the spirit of what I'm imagining must be true. So you set off on this expedition. You weren't hoping that nothing would happen on it that you didn't imagine in advance. You're hoping that unexpected things will happen, like when you're entering a chess game or anything enjoyable. You're hoping that things will happen into which you can sink your creative claws and then munch on the meat, even though you don't know in advance, if you knew in advance everything that was going to happen, it wouldn't have the property that you were looking for. So, just as I can't tell you the difference between given, of course, it's always given the mountaineer's existing problem situation, and given the mountaineer's existing problem situation, we don't know how to specify the difference between an unexpected problem that makes him suffer and an unexpected situation that just adds to the enjoyment. Ultimately, we don't know what the difference is between the two kinds of problems, or the kind that is the worst thing in the world and the kind that's the best thing in the world. However, in many cases, in many interesting cases, we know it when we see it. And also in many interesting cases, the denial that there's a difference between the two is a time-honoured piece of sophistry that everybody concerned knows is a piece of sophistry, at least at some level, sometimes even explicitly. And they're saying, you know, like the slave owners in America in the 19th century would say, well, we've got slaves and we make them work, but you do exactly the same thing with your workers. Like if they didn't work, they would starve. And so that's wage slavery. And they knew that at some level, they knew that this was a concocted argument, because they weren't making that argument before they had to defend slavery. That argument came up in the context of defending slavery. Nobody ever thought of that otherwise. Even Karl Marx thought of that in the context of advocating violence. So, you know, we're advocating violence because after all, you, the people that we are going to use violence against, are starving people, even as we speak. And so whether I'm right in psychologising that everybody always knew that this was sophistry, it is, objectively. And in fact, there's a huge objective difference between slavery and employment. Even though it's perfectly possible that a slave could be happy and it's perfectly possible that an employee could be very unhappy. Even so, that happiness and the unhappiness aren't attributes of the slavery or employment. They are attributes of other parts of the person's mind. So, also, there is an objective difference between being thwarted and being presented with an interesting, fun problem.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:03:40 - 01:07:39</span>
+
+But you don't know in words what that difference is exactly.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:07:39 - 01:11:40</span>
 
-I can't express in words what it is. And I can't even reliably tell in every case, even if I knew all the facts. But I think in realistic cases and in cases that people argue about, it is fairly obvious. And you have to make a sort of great philosophical obfuscation in order to obscure the difference between the two. You know, like children are punished in school for doing a thing rather than another. But they're also punished in the playground if they misstep on the playground apparatus and fall down and hurt themselves. In both cases, they have ideas which are incompatible with the world around them. And if they go too far, they get hurt. And so it's OK to spank them. In some sense, we all know that is a false analogy. For a start, our terminology, which automatically builds in all sorts of other errors that we make, hasn't done it in this case. We know perfectly well that spanking and falling off of playground equipment are completely different situations. We have completely different terminology to describe them. And we know that as soon as you take this to somebody's wife or somebody's employee, the logic, we know that the logic breaks down. It's not logic. It's sophistry. It's obfuscation. As I said, there are cases where it's not clear. And you've been sort of probing at situations where it's not clear, like whether the anger is a good thing or a bad thing. Well, I mean, you say it's not a bad thing intrinsically, but whether it's integral to solving the problem or not integral or a side effect or an accidental side or solving the problem is an accidental side effect or whatever. If you take enough care describing the situation, I won't be able to articulate why I think the anger is in itself a bad thing. And I won't even know. I mean, I won't even know whether it is. It's possible that my intuition about these things are wrong in these specially constructed cases. Or you have a wrong theory about what emotions are and how they work. It could be that I have a wrong theory about everything, including knowledge and information flow and so on. I mean, you think you do have a wrong theory about everything because all theories are wrong. Yes, but there are some things that I think I have a well explored critique of. Like, for example, I know that if I stick a pin in my finger, the pain that I feel is not in the finger, even though I'm experiencing it there. It is actually in the brain. You'll probably agree with that one. But if I say if I am queasy in my stomach, then even though there's a lot of information processing going on in the stomach, maybe more than in the brain because the stomach has a number of nerves, although it's not as much as in the brain, it's a substantial proportion of the number of nerves in the brain. I know that my feeling of discomfort is nevertheless entirely in my brain and not in my stomach. So in summary, we don't know exactly which features of a situation cause suffering and which cause fun.
+I can't express in words what it is. And I can't even reliably tell in every case, even if I knew all the facts. But I think in realistic cases and in cases that people argue about, it is fairly obvious. And you have to make a sort of great philosophical obfuscation in order to obscure the difference between the two. You know, like children are punished in school for doing a thing rather than another. But they're also punished in the playground if they misstep on the playground apparatus and fall down and hurt themselves. In both cases, they have ideas which are incompatible with the world around them. And if they go too far, they get hurt. And so it's OK to spank them. In some sense, we all know that is a false analogy. For a start, our terminology, which automatically builds in all sorts of other errors that we make, hasn't done it in this case. We know perfectly well that spanking and falling off of playground equipment are completely different situations. We have completely different terminology to describe them. And we know that as soon as you take this to somebody's wife or somebody's employee, the logic, we know that the logic breaks down. It's not logic. It's sophistry. It's obfuscation. As I said, there are cases where it's not clear. And you've been sort of probing at situations where it's not clear, like whether the anger is a good thing or a bad thing. Well, I mean, you say it's not a bad thing intrinsically, but whether it's integral to solving the problem or not integral or a side effect or an accidental side or solving the problem is an accidental side effect or whatever. If you take enough care describing the situation, I won't be able to articulate why I think the anger is in itself a bad thing. And I won't even know. I mean, I won't even know whether it is. It's possible that my intuition about these things are wrong in these specially constructed cases.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:07:39 - 01:11:40</span>
+
+Or you have a wrong theory about what emotions are and how they work.
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:07:39 - 01:11:40</span>
+
+It could be that I have a wrong theory about everything, including knowledge and information flow and so on.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:07:39 - 01:11:40</span>
+
+I mean, you think you do have a wrong theory about everything because all theories are wrong.
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:07:39 - 01:11:40</span>
+
+Yes, but there are some things that I think I have a well explored critique of. Like, for example, I know that if I stick a pin in my finger, the pain that I feel is not in the finger, even though I'm experiencing it there. It is actually in the brain. You'll probably agree with that one. But if I say if I am queasy in my stomach, then even though there's a lot of information processing going on in the stomach, maybe more than in the brain because the stomach has a number of nerves, although it's not as much as in the brain, it's a substantial proportion of the number of nerves in the brain. I know that my feeling of discomfort is nevertheless entirely in my brain and not in my stomach.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:07:39 - 01:11:40</span>
+
+So in summary, we don't know exactly which features of a situation cause suffering and which cause fun.
 
 ### David Deutsch
 
@@ -530,10 +878,28 @@ Given that all of our ideas are contradictory anyway, in what sense is it the ca
 
 <span class="transcript-timestamp">01:11:56 - 01:12:37</span>
 
-Well, in essence, it's because it's not the ideas, it's the processes. So the difference between being thwarted and being presented with an interesting problem has nothing to do with the actual theories involved. Those could be the same in principle, they could be the same in both cases. The difference is in the processes, whether the process that is stopped and has to do something else is stopped by a problem or whether it's stopped by a thwarting is, I think, an objective difference, but I can't characterize that with infinite precision. And processes are the way that you are thinking about something?
+Well, in essence, it's because it's not the ideas, it's the processes. So the difference between being thwarted and being presented with an interesting problem has nothing to do with the actual theories involved. Those could be the same in principle, they could be the same in both cases. The difference is in the processes, whether the process that is stopped and has to do something else is stopped by a problem or whether it's stopped by a thwarting is, I think, an objective difference, but I can't characterize that with infinite precision.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">01:11:56 - 01:12:37</span>
+
+And processes are the way that you are thinking about something?
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:12:37 - 01:12:45</span>
+
+Yes.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">01:12:37 - 01:12:45</span>
 
-Yes. Cool. Alright, well I think that's all of the time that we have for today, so this was fun, let's do it more. Yes, let's.
+Cool. Alright, well I think that's all of the time that we have for today, so this was fun, let's do it more.
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:12:37 - 01:12:45</span>
+
+Yes, let's.

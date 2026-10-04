@@ -19,7 +19,7 @@ It would be coming out of a sort of, let's say, new golden age in the rapidity w
 
 <span class="transcript-timestamp">00:00:13 - 00:01:10</span>
 
-Welcome to Future Makers, your invitation to cutting-edge debates on our changing society. I'm Peter Millican, Professor of Philosophy. Thank you for joining me for this special one-off episode on quantum computing. After hearing from colleagues like Professor Simon Benjamin, I decided to step outside Hertford College and search among the famous spires of Oxford to discover the truth about the race to develop the world's first truly scalable quantum computer. I met a wide range of researchers who gave me their thoughts on the powerful next realm of computation their work opens up from the fundamental building blocks of quantum computer to the ultimate goal of a truly universal quantum computer. But is it right to think of this as a race? Will we ever reach the goal of a universal quantum computer? And what would it mean for our society if we did?
+Welcome to Futuremakers, your invitation to cutting-edge debates on our changing society. I'm Peter Millican, Professor of Philosophy. Thank you for joining me for this special one-off episode on quantum computing. After hearing from colleagues like Professor Simon Benjamin, I decided to step outside Hertford College and search among the famous spires of Oxford to discover the truth about the race to develop the world's first truly scalable quantum computer. I met a wide range of researchers who gave me their thoughts on the powerful next realm of computation their work opens up from the fundamental building blocks of quantum computer to the ultimate goal of a truly universal quantum computer. But is it right to think of this as a race? Will we ever reach the goal of a universal quantum computer? And what would it mean for our society if we did?
 
 ### Peter Leek
 
@@ -31,13 +31,13 @@ Quantum computing fundamentally is the best way to process information based on 
 
 <span class="transcript-timestamp">00:01:28 - 00:01:43</span>
 
-I had constructed what I thought of as the generalization of the universal Turing machine in quantum formalism. I proposed this thing, which we today call a universal quantum computer and realized that it was more powerful. We have the equations
+I had constructed what I thought of as the generalization of the universal Turing machine in quantum formalism. I proposed this thing, which we today call a universal quantum computer and realized that it was more powerful.
 
 ### Simon Benjamin
 
 <span class="transcript-timestamp">00:01:43 - 00:02:03</span>
 
-So I could put on my whiteboard the equation that tells you whether or not two molecules will react with each other but we can't actually use it to predict things because it's just too complex to do that task. So it's a strange situation you know the rules of the game but you can't actually play the game because it's too complicated.
+We have the equations. So I could put on my whiteboard the equation that tells you whether or not two molecules will react with each other but we can't actually use it to predict things because it's just too complex to do that task. So it's a strange situation you know the rules of the game but you can't actually play the game because it's too complicated.
 
 ### Peter Millican
 
@@ -67,7 +67,7 @@ Quantum mechanics says that there isn't any fact about at the microscopic level 
 
 <span class="transcript-timestamp">00:05:50 - 00:06:36</span>
 
-It took some decades until the late 1970s until colleagues here at Oxford were able to make the leap from Schrödinger's cat to the computational potential that was hidden in the quantum realm. At the time physicists were arguing over theories about what's known as the wave function collapse or in other words why an observer would always see the cat as determinantly either alive or dead and not see the superposition of states in between. David Deutsch of Oxford's physics department made the key breakthrough in what became a landmark paper on the universal quantum computer. That paper was rejected by physical review. This was in something like 1977. It wasn't published until 1985.
+It took some decades until the late 1970s until colleagues here at Oxford were able to make the leap from Schrödinger's cat to the computational potential that was hidden in the quantum realm. At the time physicists were arguing over theories about what's known as the wave function collapse or in other words why an observer would always see the cat as determinantly either alive or dead and not see the superposition of states in between. David Deutsch of Oxford's physics department made the key breakthrough in what became a landmark paper on the universal quantum computer. That paper was rejected by Physical Review. This was in something like 1977. It wasn't published until 1985.
 
 ### David Deutsch
 
@@ -85,7 +85,7 @@ Hugh Everett was a leading proponent of the many worlds interpretation of quantu
 
 <span class="transcript-timestamp">00:07:19 - 00:08:20</span>
 
-And I thought of a thought experiment contrary to what everyone had said including Everett up to then which could distinguish in principle between the parallel universe's interpretation and the single universe interpretation thus making them not interpretations but different theories. To make this thought experiment work it required something to stand in for the observer which appears in the non-Everett way of doing quantum theory. So you could have a computer being that it would have to be a universal computer so it would have to be able to do anything that any other physical object could do. I proposed this thing and this thing was what we today call a universal quantum computer. But I didn't think of it like that. I thought of it as just a physical object which was going to be used in this thought experiment. At first I didn't know this would be useful. In fact I guessed it would not be useful but it was just a mode of computation that classical computers couldn't perform.
+And I thought of a thought experiment contrary to what everyone had said including Everett up to then which could distinguish in principle between the parallel universes interpretation and the single universe interpretation thus making them not interpretations but different theories. To make this thought experiment work it required something to stand in for the observer which appears in the non-Everett way of doing quantum theory. So you could have a computer being that it would have to be a universal computer so it would have to be able to do anything that any other physical object could do. I proposed this thing and this thing was what we today call a universal quantum computer. But I didn't think of it like that. I thought of it as just a physical object which was going to be used in this thought experiment. At first I didn't know this would be useful. In fact I guessed it would not be useful but it was just a mode of computation that classical computers couldn't perform.
 
 ### Peter Millican
 
@@ -109,7 +109,7 @@ That's the very very basic necessity of a quantum computer that whatever you cho
 
 <span class="transcript-timestamp">00:09:29 - 00:09:42</span>
 
-But how can such quantum bits give us potentially more computing power than a standard or classical computer? Professor David Lucas visited me here in the Hobbs Room to explain more.
+But how can such quantum bits give us potentially more computing power than a standard or classical computer? Professor David Lucas visited me here in the Hobbes Room to explain more.
 
 ### David Lucas
 
@@ -157,7 +157,19 @@ There are a number of different candidates back sort of in the early days a lot 
 
 <span class="transcript-timestamp">00:15:34 - 00:17:24</span>
 
-An ion trap is essentially a device that allows you to trap charged particles, charged atoms in our case. We often work with calcium atoms when you take a single electron of calcium it is charged becomes a calcium plus ion and it can be trapped in a vacuum using electric fields. So we have electric fields which trap the ions and then we've got single atoms essentially that we can then manipulate with lasers. And the important thing about it being an ion of calcium rather than an atom is that you've taken an electron off so it's actually positively charged and that's what enables you to move it around and manipulate it. In other words it can be trapped by electric fields and it can be then moved and manipulated but a lot of the manipulations of the quantum state of the atoms are done with either laser fields or microwave fields in our experiments. And what sorts of manipulations are possible there? We can initialize the atoms to a particular internal state so as you're aware atoms if I take simplest atom hydrogen there are certain quantum states of energy which the atom is allowed to be in and in our calcium ions we take the two lowest energy states as our two different qubit states and we can as I say initialize those ions in a particular state using a process called optical pumping with a laser beam and we can manipulate the qubit put into arbitrary superposition states again with carefully controlled pulses of a laser and we can even control the motion of the ion using laser pulses because light has momentum and that's what allows us to couple to the motion of the ions and do these multi-qubit gates because when I have two ions in a trap it's they're a little bit like two masses joined by a spring and this the oscillatory motion of those masses in the trap is they're coupled together because they're charged particles so when one particle moves it affects the other particle.
+An ion trap is essentially a device that allows you to trap charged particles, charged atoms in our case. We often work with calcium atoms when you take a single electron of calcium it is charged becomes a calcium plus ion and it can be trapped in a vacuum using electric fields. So we have electric fields which trap the ions and then we've got single atoms essentially that we can then manipulate with lasers. And the important thing about it being an ion of calcium rather than an atom is that you've taken an electron off so it's actually positively charged and that's what enables you to move it around and manipulate it. In other words it can be trapped by electric fields and it can be then moved and manipulated but a lot of the manipulations of the quantum state of the atoms are done with either laser fields or microwave fields in our experiments.
+
+### Peter Millican
+
+<span class="transcript-timestamp">00:15:34 - 00:17:24</span>
+
+And what sorts of manipulations are possible there?
+
+### David Lucas
+
+<span class="transcript-timestamp">00:15:34 - 00:17:24</span>
+
+We can initialize the atoms to a particular internal state so as you're aware atoms if I take simplest atom hydrogen there are certain quantum states of energy which the atom is allowed to be in and in our calcium ions we take the two lowest energy states as our two different qubit states and we can as I say initialize those ions in a particular state using a process called optical pumping with a laser beam and we can manipulate the qubit put into arbitrary superposition states again with carefully controlled pulses of a laser and we can even control the motion of the ion using laser pulses because light has momentum and that's what allows us to couple to the motion of the ions and do these multi-qubit gates because when I have two ions in a trap it's they're a little bit like two masses joined by a spring and this the oscillatory motion of those masses in the trap is they're coupled together because they're charged particles so when one particle moves it affects the other particle.
 
 ### Peter Millican
 
@@ -307,13 +319,13 @@ In addition to building scalable networks of qubits and developing suitable erro
 
 <span class="transcript-timestamp">00:26:17 - 00:27:20</span>
 
-Turns out that all the abstractions that we developed for high level classical programming are completely useless. Loops don't really exist on a quantum computer variables don't even really exist on a quantum computer because in a classical computer you have a variable say x equals two and then you can use x in lots of different ways but if that x is now a quantum variable turns out that you can only use it once you might say well let's just copy that quantum variable x turns out that quantum information can't be copied so the very notion of a variable as we're familiar with it in classical programming becomes completely useless and it's a big problem so we can then say okay what's going wrong here why doesn't quantum information speak this language this language that we've developed over 80 years of the development of modern computer science and one possibility is that it's because quantum information in fact doesn't really speak the language of logic as we've come to know it and develop it what it speaks is the language of geometry. As I understand this quantum information
+Turns out that all the abstractions that we developed for high level classical programming are completely useless. Loops don't really exist on a quantum computer variables don't even really exist on a quantum computer because in a classical computer you have a variable say x equals two and then you can use x in lots of different ways but if that x is now a quantum variable turns out that you can only use it once you might say well let's just copy that quantum variable x turns out that quantum information can't be copied so the very notion of a variable as we're familiar with it in classical programming becomes completely useless and it's a big problem so we can then say okay what's going wrong here why doesn't quantum information speak this language this language that we've developed over 80 years of the development of modern computer science and one possibility is that it's because quantum information in fact doesn't really speak the language of logic as we've come to know it and develop it what it speaks is the language of geometry.
 
 ### Peter Millican
 
 <span class="transcript-timestamp">00:27:21 - 00:27:53</span>
 
-Speaks the language of geometry because superposition involves the addition of vectors like following a sequence of arrows around a space rather than adding simple numbers earlier David Lucas and I had discussed how this potentially gives vastly more power than a classical computer. Along this journey I'd heard repeatedly about the prospect of so-called quantum supremacy and went back to Simon Benjamin and Jason Smith to find out more about this exciting sounding future.
+As I understand this quantum information speaks the language of geometry because superposition involves the addition of vectors like following a sequence of arrows around a space rather than adding simple numbers earlier David Lucas and I had discussed how this potentially gives vastly more power than a classical computer. Along this journey I'd heard repeatedly about the prospect of so-called quantum supremacy and went back to Simon Benjamin and Jason Smith to find out more about this exciting sounding future.
 
 ### Simon Benjamin
 
@@ -325,19 +337,19 @@ Crossing over this 50-ish qubit threshold is called the quantum supremacy thresh
 
 <span class="transcript-timestamp">00:29:27 - 00:29:44</span>
 
-Realistically then how far are we along the journey to develop a genuinely useful quantum computer professor andrew briggs told me that developments around qubits now were a little like the early development of the aeroplane nobody went straight from the ...
+Realistically then how far are we along the journey to develop a genuinely useful quantum computer Professor Andrew Briggs told me that developments around qubits now were a little like the early development of the aeroplane nobody went straight from the ...
 
 ### Andrew Briggs
 
 <span class="transcript-timestamp">00:29:44 - 00:30:03</span>
 
-Kitty hawk to the 747 commercial plane there were many intermediate stages it may be that the first quantum computer is not the eventual quantum computer I think that's more than likely suppose we compare this work towards developing a quantum computer with the early work to develop the ...
+Kitty Hawk to the 747 commercial plane there were many intermediate stages it may be that the first quantum computer is not the eventual quantum computer I think that's more than likely
 
 ### Peter Millican
 
 <span class="transcript-timestamp">00:30:03 - 00:30:14</span>
 
-Classical computer from that perspective are we closer to the analytical engine of Charles Babbage or to Alan Turing's monumental breakthroughs Simon Benjamin
+suppose we compare this work towards developing a quantum computer with the early work to develop the classical computer from that perspective are we closer to the analytical engine of Charles Babbage or to Alan Turing's monumental breakthroughs Simon Benjamin
 
 ### Simon Benjamin
 
@@ -349,7 +361,7 @@ I would say that we are past the Babbage stage of just having a good idea and ho
 
 <span class="transcript-timestamp">00:32:01 - 00:32:08</span>
 
-And peter leek again
+And Peter Leek again
 
 ### Peter Leek
 
@@ -367,19 +379,43 @@ We heard earlier about American mathematician Peter Shor's work with Andrew Stea
 
 <span class="transcript-timestamp">00:33:31 - 00:34:57</span>
 
-With one billion dollars you will be able to build a quantum computer that can break the public key infrastructure if we're not yet near the stage of having a quantum computer that can run Shor's algorithm is this something we really need to worry about now it works in retrospect so are you happy with like all your personal details health records financial records being publicly available in the next five years seven years if you're happy with that then yeah you might not be in trouble but if you're not then you are in trouble from now because you really need to switch to the new generation of classical cryptography which is called post quantum cryptography that relies on different math that happens to be you know not vulnerable against quantum computers are there any sectors particularly at risk the health and financial for different reasons I mean health is about privacy you don't want to reveal anything about your health record not in the next five years in the next 15 and 20 and 25 years right which makes it a weak spot for others that might use that information and also the financial sector because there the information you know is far more important to corporates and businesses and those who have deals that they don't want to reveal you know in the next five or ten years etc there are sectors that are not even good you know at using the current crypto systems that we're using so these are the sectors that I'm really worried about
+With one billion dollars you will be able to build a quantum computer that can break the public key infrastructure
+
+### Peter Millican
+
+<span class="transcript-timestamp">00:33:31 - 00:34:57</span>
+
+if we're not yet near the stage of having a quantum computer that can run Shor's algorithm is this something we really need to worry about now
+
+### Ali El Kaafarani
+
+<span class="transcript-timestamp">00:33:31 - 00:34:57</span>
+
+it works in retrospect so are you happy with like all your personal details health records financial records being publicly available in the next five years seven years if you're happy with that then yeah you might not be in trouble but if you're not then you are in trouble from now because you really need to switch to the new generation of classical cryptography which is called post quantum cryptography that relies on different math that happens to be you know not vulnerable against quantum computers
+
+### Peter Millican
+
+<span class="transcript-timestamp">00:33:31 - 00:34:57</span>
+
+are there any sectors particularly at risk
+
+### Ali El Kaafarani
+
+<span class="transcript-timestamp">00:33:31 - 00:34:57</span>
+
+the health and financial for different reasons I mean health is about privacy you don't want to reveal anything about your health record not in the next five years in the next 15 and 20 and 25 years right which makes it a weak spot for others that might use that information and also the financial sector because there the information you know is far more important to corporates and businesses and those who have deals that they don't want to reveal you know in the next five or ten years etc there are sectors that are not even good you know at using the current crypto systems that we're using so these are the sectors that I'm really worried about
 
 ### Peter Millican
 
 <span class="transcript-timestamp">00:34:57 - 00:35:15</span>
 
-So with many nations and companies believing that a quantum computer is inevitable and investing heavily in their development what do our researchers think Natalia Ares tyson jones and Jamie Vicary share their somewhat contrasting thoughts it's
+So with many nations and companies believing that a quantum computer is inevitable and investing heavily in their development what do our researchers think Natalia Ares Tyson Jones and Jamie Vicary share their somewhat contrasting thoughts
 
 ### Natalia Ares
 
 <span class="transcript-timestamp">00:35:15 - 00:35:28</span>
 
-Just too early to say you know what the winning realization is of who's going to last and it's just too early to say
+it's just too early to say you know what the winning realization is of who's going to last and it's just too early to say
 
 ### Tyson Jones
 
@@ -397,7 +433,7 @@ at some point in the future it will become clear that we've cracked it that we'v
 
 <span class="transcript-timestamp">00:35:56 - 00:36:19</span>
 
-but if jamie is right and the world of quantum computers is just over the horizon what will this world look like will the quantum computer become as ubiquitous as the classical computer is now Simon Benjamin doesn't think so he believes that quantum computers offer an additional option not a replacement qubits will never be as robust at being bits as our conventional technology so you will still be ...
+but if Jamie is right and the world of quantum computers is just over the horizon what will this world look like will the quantum computer become as ubiquitous as the classical computer is now Simon Benjamin doesn't think so he believes that quantum computers offer an additional option not a replacement qubits will never be as robust at being bits as our conventional technology so you will still be ...
 
 ### Simon Benjamin
 
@@ -409,13 +445,13 @@ Horses for courses it will still be the case that if what you want to do is add 
 
 <span class="transcript-timestamp">00:36:41 - 00:36:43</span>
 
-But how will quantum computers change
+But how will quantum computers change society
 
 ### Peter Leek
 
 <span class="transcript-timestamp">00:36:43 - 00:36:53</span>
 
-Society this is going to change the world right I mean even if it all it does is enables us to design a battery that's 20 more efficient than all the others before that already changes the world
+this is going to change the world right I mean even if it all it does is enables us to design a battery that's 20 more efficient than all the others before that already changes the world
 
 ### Chris Timpson
 
@@ -457,19 +493,19 @@ Suddenly you'd have access to much better drugs better materials things like tha
 
 <span class="transcript-timestamp">00:39:05 - 00:39:20</span>
 
-As new pharmaceutical compounds typically contain thousands of atoms way beyond the most sophisticated compound we can simulate today I asked tyson jones how a quantum computer might transform everyday work in the lab
+As new pharmaceutical compounds typically contain thousands of atoms way beyond the most sophisticated compound we can simulate today I asked Tyson Jones how a quantum computer might transform everyday work in the lab
 
 ### Tyson Jones
 
 <span class="transcript-timestamp">00:39:21 - 00:39:40</span>
 
-So maybe now the lab assistants who are currently going through these many drug designs for pharmaceutical companies will instead be programming on their quantum computer to inform the next generation of drugs. And it's not simply the direct effects of a fully scalable fault-tolerant quantum computer that interest researchers here at Oxford, but the ...
+So maybe now the lab assistants who are currently going through these many drug designs for pharmaceutical companies will instead be programming on their quantum computer to inform the next generation of drugs.
 
 ### Peter Millican
 
 <span class="transcript-timestamp">00:39:40 - 00:39:46</span>
 
-Exciting prospect of what they're calling the post quantum world. Here's Chris Timpson.
+And it's not simply the direct effects of a fully scalable fault-tolerant quantum computer that interest researchers here at Oxford, but the exciting prospect of what they're calling the post quantum world. Here's Chris Timpson.
 
 ### Chris Timpson
 
@@ -481,7 +517,7 @@ So there's a world that is one in which we see the rules of quantum mechanics th
 
 <span class="transcript-timestamp">00:40:24 - 00:40:46</span>
 
-The ability to control the incredibly small in the quantum world may also inform some really big questions Natalia Ares andrew briggs and I discussed how with small enough masses held close enough together we could start to learn more about one of the fundamental forces we understand least gravity
+The ability to control the incredibly small in the quantum world may also inform some really big questions Natalia Ares, Andrew Briggs and I discussed how with small enough masses held close enough together we could start to learn more about one of the fundamental forces we understand least gravity
 
 ### Andrew Briggs
 
@@ -499,7 +535,7 @@ And actually as well you know quantum mechanics is all about measuring quantitie
 
 <span class="transcript-timestamp">00:41:37 - 00:42:20</span>
 
-And what we're trying to do is to say well if you've got two objects with the gravitational field between them is the field between them classical the sort of thing that would have been understood by 19th century physicists like James Clerk Maxwell or is it quantum the sort of thing that you know was builds on insights of people like plank and Einstein and others who came after and it's quantum in the same way that photons are quantum nobody knows the answer to that question at the moment and the amazing thing is that with laboratory scale experiments here in Oxford
+And what we're trying to do is to say well if you've got two objects with the gravitational field between them is the field between them classical the sort of thing that would have been understood by 19th century physicists like James Clerk Maxwell or is it quantum the sort of thing that you know was builds on insights of people like Planck and Einstein and others who came after and it's quantum in the same way that photons are quantum nobody knows the answer to that question at the moment and the amazing thing is that with laboratory scale experiments here in Oxford
 
 ### Peter Millican
 
@@ -517,7 +553,7 @@ It has been speculated over the years that the human brain might have quantum st
 
 <span class="transcript-timestamp">00:42:53 - 00:42:56</span>
 
-Or says chris timpson the complexities of black holes
+Or says Chris Timpson the complexities of black holes
 
 ### Chris Timpson
 
@@ -529,10 +565,10 @@ But it turns out that there's some kind of intriguingly rich analogies or what m
 
 <span class="transcript-timestamp">00:43:52 - 00:44:54</span>
 
-I must say it's been an absolutely fascinating trip into the world of quantum computers and it's going to be very exciting following my Oxford colleagues endeavors to create the world's first truly scalable quantum computer it's only left for me to thank them in full for their time so thank you to peter leek David Deutsch Vera Schafer and david lucas from Oxford's department of physics Simon Benjamin tyson jones natalia ares jason smith and andrew briggs from our materials department chris timpson from the faculty of philosophy Jamie Vicary from the department of computer science and Ali El Kaafarani from the mathematical institute and my thanks again to you listener that's it for this one-off special episode of future makers we'll be back in the autumn for season two which is going to be all about how we can tackle climate change and build a sustainable future on planet earth I'm peter millican and you've been listening to future makers
+I must say it's been an absolutely fascinating trip into the world of quantum computers and it's going to be very exciting following my Oxford colleagues endeavors to create the world's first truly scalable quantum computer it's only left for me to thank them in full for their time so thank you to Peter Leek David Deutsch Vera Schafer and David Lucas from Oxford's department of physics Simon Benjamin Tyson Jones Natalia Ares Jason Smith and Andrew Briggs from our materials department Chris Timpson from the faculty of philosophy Jamie Vicary from the department of computer science and Ali El Kaafarani from the mathematical institute and my thanks again to you listener that's it for this one-off special episode of Futuremakers we'll be back in the autumn for season two which is going to be all about how we can tackle climate change and build a sustainable future on planet earth I'm Peter Millican and you've been listening to Futuremakers
 
 ### Podcast promo voices
 
 <span class="transcript-timestamp">00:45:02 - 00:46:48</span>
 
-Thanks guys good show today no worries actually this one reminds me of that podcast we were telling you about which one it's the end of the world podcast with josh clark it's really interesting stuff yeah we've both been listening to it it's about the ways humanity might accidentally wipe itself out with the technology we're developing now really so artificial intelligence haphazard physics experiments that kind of thing sure and even how an artificially mutated virus could escape a lab and create a global pandemic serious stuff then yeah and it also covers some fascinating science and it's got a beautiful score and really cinematic sound design that's an original score as well I think there's all sorts of stuff in there spacecraft trying to navigate into interstellar space yeah there's a bit on the far future where humans have evolved into a post biological species who live in digital form a post biological species that sounds a bit like ben already where can I get that I listen on apple podcasts you listen somewhere else right steve the iHeart radio app but you can get it wherever you get your podcasts or look out for the eotw josh clark hashtag on social media for more info there are 10 to listen to as well peter so that's your weekend thank you I'll look forward to it we asked Al Murray the pub landlord if he knew scientists may be on the verge of making quantum computers that can do insanely complicated calculations in a split second possibly by trying out all the answers in zillions of parallel universes no no you're making it up that surely doesn't exist we're sure you must have a question about the technology that holds such revolutionary promise for the advanced civilization to find out what quantum questions al asked listen to stupid cupid quantum computing for the clueless where we'll also answer the questions what the photonic muck is a quantum computer do they really work in parallel universes and could they be set to achieve quantum supremacy available via your favorite podcast provider or direct from stupidcupid.com
+Thanks guys good show today no worries actually this one reminds me of that podcast we were telling you about which one it's the end of the world podcast with Josh Clark it's really interesting stuff yeah we've both been listening to it it's about the ways humanity might accidentally wipe itself out with the technology we're developing now really so artificial intelligence haphazard physics experiments that kind of thing sure and even how an artificially mutated virus could escape a lab and create a global pandemic serious stuff then yeah and it also covers some fascinating science and it's got a beautiful score and really cinematic sound design that's an original score as well I think there's all sorts of stuff in there spacecraft trying to navigate into interstellar space yeah there's a bit on the far future where humans have evolved into a post biological species who live in digital form a post biological species that sounds a bit like ben already where can I get that I listen on Apple Podcasts you listen somewhere else right steve the iHeart radio app but you can get it wherever you get your podcasts or look out for the eotw josh clark hashtag on social media for more info there are 10 to listen to as well peter so that's your weekend thank you I'll look forward to it we asked Al Murray the pub landlord if he knew scientists may be on the verge of making quantum computers that can do insanely complicated calculations in a split second possibly by trying out all the answers in zillions of parallel universes no no you're making it up that surely doesn't exist we're sure you must have a question about the technology that holds such revolutionary promise for the advanced civilization to find out what quantum questions al asked listen to stupid cupid quantum computing for the clueless where we'll also answer the questions what the photonic muck is a quantum computer do they really work in parallel universes and could they be set to achieve quantum supremacy available via your favorite podcast provider or direct from stupidcupid.com

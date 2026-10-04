@@ -16,7 +16,19 @@ pubDate: 2024-10-23
 
 <span class="transcript-timestamp">00:00:00 - 00:02:49</span>
 
-With great excitement, I introduce you to Northwood University, a truly exceptional institution in American higher education. Since 1959, this private, accredited university has been a vibrant bastion of free thought and enterprise standing out among the thousands of other schools in the US. Known as America's free enterprise university, Northwood is dedicated to nurturing the next generation of leaders who drive global social and economic progress. At the heart of Northwood lies the Northwood Idea, a philosophy that celebrates individual freedom, responsibility, and the importance of moral law and free enterprise. This entrepreneurial spirit is evident in that one third of Northwood alumni own businesses. Northwood is more than an institution. It's a movement that empowers students to think critically and champion liberty. It is a rare gem in today's academic world. If you're passionate about supporting a university that values intellectual growth and free enterprise or to learn more about its academic programs, visit northwood.edu. Hi everybody, this is Gad Saad. I don't know what I've done in a former life to be able to convince all these unbelievable people to actually hold conversations with me. Today I've got the brilliant British physicist Dr. David Deutsch on the show. How are you doing, David? Fine, and it's an honor to be on it. Oh, you're very kind. Let me just read for the people who may not know you a few. You sent me a bio that would have taken me a few hours to read, so I distilled it to a few things. You're currently an honorary fellow of Wolfson College at Oxford University. You were the first to publish a proof of the universality of a universal quantum computer. We'll try to see if we can understand what that means. Published the first quantum algorithm proving to be exponentially faster than any Turing machine algorithm. Look what I've got here, David, the biography of Alan Turing, and then some pioneer in the field of quantum computation received the Breakthrough Prize in Physics, the Institute of Physics Isaac Newton Medal and Prize, the Micius Quantum Prize, the Dirac, Paul Dirac. Here's his biography, the Paul Dirac Medal and Prize. Holy moly, that's a lot of awards. You were a fellow of the Royal Society in 2008, and I'll just mention your two books meant to be consumed by the general public, The Beginning of Infinity and The Fabric of Reality. Anything else you want to add before we dive deep into this?
+With great excitement, I introduce you to Northwood University, a truly exceptional institution in American higher education. Since 1959, this private, accredited university has been a vibrant bastion of free thought and enterprise standing out among the thousands of other schools in the US. Known as America's free enterprise university, Northwood is dedicated to nurturing the next generation of leaders who drive global social and economic progress. At the heart of Northwood lies the Northwood Idea, a philosophy that celebrates individual freedom, responsibility, and the importance of moral law and free enterprise. This entrepreneurial spirit is evident in that one third of Northwood alumni own businesses. Northwood is more than an institution. It's a movement that empowers students to think critically and champion liberty. It is a rare gem in today's academic world. If you're passionate about supporting a university that values intellectual growth and free enterprise or to learn more about its academic programs, visit northwood.edu. Hi everybody, this is Gad Saad. I don't know what I've done in a former life to be able to convince all these unbelievable people to actually hold conversations with me. Today I've got the brilliant British physicist Dr. David Deutsch on the show. How are you doing, David?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:00:00 - 00:02:49</span>
+
+Fine, and it's an honor to be on it.
+
+### Gad Saad
+
+<span class="transcript-timestamp">00:00:00 - 00:02:49</span>
+
+Oh, you're very kind. Let me just read for the people who may not know you a few. You sent me a bio that would have taken me a few hours to read, so I distilled it to a few things. You're currently an honorary fellow of Wolfson College at Oxford University. You were the first to publish a proof of the universality of a universal quantum computer. We'll try to see if we can understand what that means. Published the first quantum algorithm proving to be exponentially faster than any Turing machine algorithm. Look what I've got here, David, the biography of Alan Turing, and then some pioneer in the field of quantum computation received the Breakthrough Prize in Physics, the Institute of Physics Isaac Newton Medal and Prize, the Micius Quantum Prize, the Dirac, Paul Dirac. Here's his biography, the Paul Dirac Medal and Prize. Holy moly, that's a lot of awards. You were a fellow of the Royal Society in 2008, and I'll just mention your two books meant to be consumed by the general public, The Beginning of Infinity and The Fabric of Reality. Anything else you want to add before we dive deep into this?
 
 ### David Deutsch
 
@@ -118,7 +130,7 @@ But it's not intuitive, maybe, that's what you were saying.
 
 <span class="transcript-timestamp">00:13:35 - 00:17:11</span>
 
-Oh, yeah. It's not intuitive, but nor is the fact that the earth is round. Fair enough. In fact, as I always say, I actually find it an extreme effort to grok the fact that people in Australia are upside down. And if I look down into the ground and imagine looking down, what I will see is their feet. Now, I know that intellectually, I can show it in mathematical terms, I can give evidence, you know, and so on. But actually intuitively understanding it, I don't think I've quite got there. Amazing. When you do any kind of science, when you get to the edge, of course, you find things that are counterintuitive, because if they had been intuitive, they would have been discovered long ago. Right. Aristotle did lots of observations and he got lots of things wrong. And so science is about understanding things that go beyond our intuition. So the way we go from one to the other, you know, I thought you were going to ask, this is at the nano level, how do we know that it applies to the everyday level and to the quasar level and so on? Well, we do. I mean, of course, all scientific theories are temporary. So we will no doubt have better theories in the future. But there's no problem with understanding the world in so far as it goes via quantum theory or via general relativity or both. The way we know, for example, is that the cosmic microwave background radiation was released into somewhere that we can see when the universe was very small compared with how it is now and very small and very dense. And the physical processes affecting it were subject to another quantum phenomenon, quantum fluctuations, which is a bowdlerized or sanitized way of saying interference from other universes. But we call it fluctuations as if, you know, it's going fizzing like boiling water. But it's not like that at all. It's just different in different universes and they affect each other. And we can work out from that how that microwave background radiation is going to look 13 point something billion years later when we look up in the sky and we see the microwave background radiation is patchy. Well, what are those patches? You know, how big are they? How intense are they? We can work it out from quantum theory. And lo and behold, that's what we see. Well, actually, we see it, I forget what it is now. We see it about 40% different from how it actually looks from what we predict, which is a big problem in cosmology at the moment. But, you know, that doesn't affect the fact that the smallest level we know about affects the largest level we know about Amazing.
+Oh, yeah. It's not intuitive, but nor is the fact that the earth is round. Fair enough. In fact, as I always say, I actually find it an extreme effort to grok the fact that people in Australia are upside down. And if I look down into the ground and imagine looking down, what I will see is their feet. Now, I know that intellectually, I can show it in mathematical terms, I can give evidence, you know, and so on. But actually intuitively understanding it, I don't think I've quite got there. Amazing. When you do any kind of science, when you get to the edge, of course, you find things that are counterintuitive, because if they had been intuitive, they would have been discovered long ago. Right. Aristotle did lots of observations and he got lots of things wrong. And so science is about understanding things that go beyond our intuition. So the way we go from one to the other, you know, I thought you were going to ask, this is at the nano level, how do we know that it applies to the everyday level and to the quasar level and so on? Well, we do. I mean, of course, all scientific theories are temporary. So we will no doubt have better theories in the future. But there's no problem with understanding the world in so far as it goes via quantum theory or via general relativity or both. The way we know, for example, is that the cosmic microwave background radiation was released into somewhere that we can see when the universe was very small compared with how it is now and very small and very dense. And the physical processes affecting it were subject to another quantum phenomenon, quantum fluctuations, which is a bowdlerized or sanitized way of saying interference from other universes. But we call it fluctuations as if, you know, it's going fizzing like boiling water. But it's not like that at all. It's just different in different universes and they affect each other. And we can work out from that how that microwave background radiation is going to look 13 point something billion years later when we look up in the sky and we see the microwave background radiation is patchy. Well, what are those patches? You know, how big are they? How intense are they? We can work it out from quantum theory. And lo and behold, that's what we see. Well, actually, we see it, I forget what it is now. We see it about 40% different from how it actually looks from what we predict, which is a big problem in cosmology at the moment. But, you know, that doesn't affect the fact that the smallest level we know about affects the largest level we know about. Amazing.
 
 ### Gad Saad
 
@@ -154,7 +166,19 @@ With viruses. Oh, so by universal, it means you've demonstrated it with light. Y
 
 <span class="transcript-timestamp">00:21:37 - 00:22:56</span>
 
-Yes. But a virus is a manifestation of material, isn't it? So why is that a third instantiation of the mystery? Well, according to us theorists, it isn't different. But some people were saying, and still do to this day, that the quantum, it's only the microscopic world that constantly divides itself into many universes, but then it collapses back into one. And so they would have to predict that when enough atoms are involved in an interference phenomenon, it'll go away. The interference phenomenon will go away. And so when you aim viruses or something at this grid of holes, you will get just a shadow of the grid, nothing special. They'll just land wherever there's a gap and not when there isn't a gap. And so that's why experimentalists, they want to have something to do. So they are trying to do this with more and more objects. On the other hand, there's another way of doing it with more and more objects, which I think is more impressive, and that is with a quantum computer.
+Yes.
+
+### Gad Saad
+
+<span class="transcript-timestamp">00:21:37 - 00:22:56</span>
+
+But a virus is a manifestation of material, isn't it? So why is that a third instantiation of the mystery?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:21:37 - 00:22:56</span>
+
+Well, according to us theorists, it isn't different. But some people were saying, and still do to this day, that the quantum, it's only the microscopic world that constantly divides itself into many universes, but then it collapses back into one. And so they would have to predict that when enough atoms are involved in an interference phenomenon, it'll go away. The interference phenomenon will go away. And so when you aim viruses or something at this grid of holes, you will get just a shadow of the grid, nothing special. They'll just land wherever there's a gap and not when there isn't a gap. And so that's why experimentalists, they want to have something to do. So they are trying to do this with more and more objects. On the other hand, there's another way of doing it with more and more objects, which I think is more impressive, and that is with a quantum computer.
 
 ### Gad Saad
 
@@ -184,7 +208,19 @@ That's exactly right. But note that the factor by which it increases it depends 
 
 <span class="transcript-timestamp">00:26:16 - 00:26:42</span>
 
-Wow. So, but for any task, it's going to increase it. But depending on the task, the extent to which it increases, it changes. Exactly right. Okay, got it. Exactly right. So then I would imagine that for things that require great computational burden, searches, that's where you're most likely to see this application?
+Wow. So, but for any task, it's going to increase it. But depending on the task, the extent to which it increases, it changes.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:26:16 - 00:26:42</span>
+
+Exactly right.
+
+### Gad Saad
+
+<span class="transcript-timestamp">00:26:16 - 00:26:42</span>
+
+Okay, got it. Exactly right. So then I would imagine that for things that require great computational burden, searches, that's where you're most likely to see this application?
 
 ### David Deutsch
 
@@ -220,13 +256,25 @@ Okay, got it. That's the only reason. And what's the, I mean, I know we always g
 
 <span class="transcript-timestamp">00:28:54 - 00:29:21</span>
 
-You've been more hesitant. You're a bit slow off the blocks. Okay, I want to talk a bit about Turing. Then I want to come back to, so in looking at your work, and maybe many physicists have this kind of synthetic thing where they want to put everything under a universal mechanism. I would call it, and I'm not sure if, tell me if you're familiar with the term. Are you familiar with the term consilience, David, of E.O. Wilson? I've heard it. That's Wilson.
+You've been more hesitant. You're a bit slow off the blocks. Okay, I want to talk a bit about Turing. Then I want to come back to, so in looking at your work, and maybe many physicists have this kind of synthetic thing where they want to put everything under a universal mechanism. I would call it, and I'm not sure if, tell me if you're familiar with the term. Are you familiar with the term consilience, David, of E.O. Wilson?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:28:54 - 00:29:21</span>
+
+I've heard it. That's Wilson.
+
+### Gad Saad
+
+<span class="transcript-timestamp">00:29:22 - 00:29:26</span>
+
+Exactly.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:29:22 - 00:29:26</span>
 
-Exactly. I haven't read it. It's on my shelf.
+I haven't read it. It's on my shelf.
 
 ### Gad Saad
 
@@ -286,7 +334,19 @@ Brain, so of the human brain. Amazing. Well, we have some good friends who are a
 
 <span class="transcript-timestamp">00:37:04 - 00:38:32</span>
 
-Yes. Well, Gödel's proofs and Turing's are closely related. They didn't think of it like that at the time, as often happens. One only sees things in perspective and the originators of an idea usually don't see the full ramifications. So yeah, Gödel's results were unexpected to most mathematicians. They were extremely fundamental. They were, as you say, they were an amazing intellectual feat. Both of them, both Turing and Gödel were replying to one of the questions that David Hilbert had asked in 1900. Those are sort of the 10, here are the 10 fundamental problems we all need to be paying attention to. Yeah. Right. And Turing and Gödel both addressed that problem, both got the right answer. Turing was focused on what could be done by a physical object. And he showed that this one object could do anything that the other object could do. Gödel was focused on what can't be done by any physical object. Within any axiomatic system, there are questions that you could never answer. Is that right? Yeah.
+Yes. Well, Gödel's proofs and Turing's are closely related. They didn't think of it like that at the time, as often happens. One only sees things in perspective and the originators of an idea usually don't see the full ramifications. So yeah, Gödel's results were unexpected to most mathematicians. They were extremely fundamental. They were, as you say, they were an amazing intellectual feat. Both of them, both Turing and Gödel were replying to one of the questions that David Hilbert had asked in 1900. Those are sort of the 10, here are the 10 fundamental problems we all need to be paying attention to. Yeah. Right. And Turing and Gödel both addressed that problem, both got the right answer. Turing was focused on what could be done by a physical object. And he showed that this one object could do anything that the other object could do. Gödel was focused on what can't be done by any physical object.
+
+### Gad Saad
+
+<span class="transcript-timestamp">00:37:04 - 00:38:32</span>
+
+Within any axiomatic system, there are questions that you could never answer. Is that right?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:37:04 - 00:38:32</span>
+
+Yeah.
 
 ### Gad Saad
 
@@ -298,7 +358,13 @@ Okay. But which have true, I mean, there's a truth of the matter.
 
 <span class="transcript-timestamp">00:38:36 - 00:38:42</span>
 
-Exactly. We cannot. I never thought of it this way. I never thought about, you know, one is doing what I...
+Exactly. We cannot.
+
+### Gad Saad
+
+<span class="transcript-timestamp">00:38:36 - 00:38:42</span>
+
+I never thought of it this way. I never thought about, you know, one is doing what I...
 
 ### Gad Saad
 
@@ -346,13 +412,25 @@ Oh, wow. Wonderful. Okay. So let's go back as promised to the idea of consilienc
 
 <span class="transcript-timestamp">00:43:19 - 00:44:10</span>
 
-Okay, first of all, so many things occurred to me while you were explaining it just now. But the first thing that occurred to me is that I now remember why it's on my shelf and I haven't taken it down. Okay. It's because E.O. Wilson doesn't understand evolution. Wow, those are big words. So I think he had a row with Richard Dawkins and they were, I think he was Richard Dawkins' hero too for a while. And then suddenly he betrayed Richard Dawkins by talking about group selection and so on, which is like facepalm. And actually I had the same reaction where towards the end of his career, he came out with some ...
+Okay, first of all, so many things occurred to me while you were explaining it just now. But the first thing that occurred to me is that I now remember why it's on my shelf and I haven't taken it down. Okay. It's because E.O. Wilson doesn't understand evolution.
+
+### Gad Saad
+
+<span class="transcript-timestamp">00:43:19 - 00:44:10</span>
+
+Wow, those are big words.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:43:19 - 00:44:10</span>
+
+So I think he had a row with Richard Dawkins and they were, I think he was Richard Dawkins' hero too for a while. And then suddenly he betrayed Richard Dawkins by talking about group selection and so on, which is like facepalm.
 
 ### Gad Saad
 
 <span class="transcript-timestamp">00:44:10 - 00:44:27</span>
 
-Papers. I said, either I'm not getting it or he's totally off base. So, okay, go on.
+And actually I had the same reaction where towards the end of his career, he came out with some papers. I said, either I'm not getting it or he's totally off base. So, okay, go on.
 
 ### David Deutsch
 
@@ -382,13 +460,13 @@ No, no, but I was just trying to link E.O. Wilson's concept of consilience to yo
 
 <span class="transcript-timestamp">00:48:03 - 00:49:57</span>
 
-Yes. Well, yes, I'm not sure that these connections between things were done by trying to find a way to link them. For example, quantum theory and computation, which I did, I wasn't looking for a way to unify them. The way to unify them emerged as a consequence of the work I did. The first work I did, which had a quantum computer in it, I didn't know that it was a quantum computer. I wasn't looking for a quantum computer, let alone a universal one. I needed it for an experiment to test the many universes theory in quantum theory. And when I say I needed it, I needed the theory of it. Actually doing the experiment is not really relevant. And then it was several years later that I began to think that there's a new mode of computation enabled by this machine that I had designed for a completely different purpose. So I don't know. And then Popper, he eventually called it evolutionary epistemology because of its relationship with the theory of evolution. But he didn't call it that when he first invented it. So these things, I always say all problems are parochial. Solutions can be universal when you are lucky. But usually they aren't.
+Yes. Well, yes, I'm not sure that these connections between things were done by trying to find a way to link them. For example, quantum theory and computation, which I did, I wasn't looking for a way to unify them. The way to unify them emerged as a consequence of the work I did. The first work I did, which had a quantum computer in it, I didn't know that it was a quantum computer. I wasn't looking for a quantum computer, let alone a universal one. I needed it for an experiment to test the many universes theory in quantum theory. And when I say I needed it, I needed the theory of it. Actually doing the experiment is not really relevant. And then it was several years later that I began to think that there's a new mode of computation enabled by this machine that I had designed for a completely different purpose. So I don't know. And then Popper, he eventually called it evolutionary epistemology because of its relationship with the theory of evolution. But he didn't call it that when he first invented it. So these things, I always say all problems are parochial. Solutions can be universal when you are lucky. But usually they aren't. Usually they're parochial too.
 
 ### Gad Saad
 
 <span class="transcript-timestamp">00:49:57 - 00:52:37</span>
 
-Usually they're parochial too. Well, universal Darwinism, which is a term that I'm sure you're familiar with. What excites me about that term is that, well, first, so you write that there are elements that are bottom up. In your case, it was organic that you saw the link between the quantum work you were doing and then the application and quantum computing. But there is, I think also a top down mechanism whereby some thinkers and scientists are inherently or they score higher on the quest for synthetic thinking. So the way my brain works, so my doctoral dissertation was in psychology of decision making. I was looking at the specific problem I was studying, David, was when is it that people have collected enough information to stop and make a decision? So it's a search problem, but it's a stopping decision. I don't search all of the available search space, but rather there's a cognitive mechanism where I say, I've seen enough, I'm ready to marry her. I'm ready to buy this car. I'm ready to believe this theory. So it's an iterative sequential sampling mechanism. What excited me about that process, which I could then apply in marketing or political behavior or mate choice is precisely that, that it could cause me or allow me to traverse into, I don't want to say an infinite number, but a boundless number of intellectual ecosystems. The same itch was able to be scratched when I became an evolutionist, which is I could now apply evolutionary thinking to study certain psychiatric disorders or study gift-giving behavior that are very, very different. And the capacity to have this key that allows me to unlock all sorts of problems is what allowed me in my view to have an exciting career that can then permit me to have, I hope, an intelligent conversation with David Deutsch, but tomorrow I could speak with, and that polymath ability is very important to me, but it's exactly what is not rewarded in academia where you have to be a hyper specialist. So maybe that's the next segue of our conversation. What are your thoughts about this perennial battle between what our graduate students are expected to be, which is hyper specialist versus the truly big thinkers, the John von Neumanns are defined by the fact that they can make contributions across a bewildering number of fields.
+Well, universal Darwinism, which is a term that I'm sure you're familiar with. What excites me about that term is that, well, first, so you're right that there are elements that are bottom up. In your case, it was organic that you saw the link between the quantum work you were doing and then the application and quantum computing. But there is, I think also a top down mechanism whereby some thinkers and scientists are inherently or they score higher on the quest for synthetic thinking. So the way my brain works, so my doctoral dissertation was in psychology of decision making. I was looking at the specific problem I was studying, David, was when is it that people have collected enough information to stop and make a decision? So it's a search problem, but it's a stopping decision. I don't search all of the available search space, but rather there's a cognitive mechanism where I say, I've seen enough, I'm ready to marry her. I'm ready to buy this car. I'm ready to believe this theory. So it's an iterative sequential sampling mechanism. What excited me about that process, which I could then apply in marketing or political behavior or mate choice is precisely that, that it could cause me or allow me to traverse into, I don't want to say an infinite number, but a boundless number of intellectual ecosystems. The same itch was able to be scratched when I became an evolutionist, which is I could now apply evolutionary thinking to study certain psychiatric disorders or study gift-giving behavior that are very, very different. And the capacity to have this key that allows me to unlock all sorts of problems is what allowed me in my view to have an exciting career that can then permit me to have, I hope, an intelligent conversation with David Deutsch, but tomorrow I could speak with, and that polymath ability is very important to me, but it's exactly what is not rewarded in academia where you have to be a hyper specialist. So maybe that's the next segue of our conversation. What are your thoughts about this perennial battle between what our graduate students are expected to be, which is hyper specialist versus the truly big thinkers, the John von Neumanns are defined by the fact that they can make contributions across a bewildering number of fields.
 
 ### David Deutsch
 
@@ -424,4 +502,16 @@ Well, the basic way to do it, the basic thing that's in the way of that at the m
 
 <span class="transcript-timestamp">01:03:11 - 01:04:50</span>
 
-Yeah. It's funny you say this because that's probably one of my things that triggers my ire the most when a student comes to see me at the end of class. And I'm excited because I'm hoping that they're going to ask something interesting and say, Oh, what you just mentioned about the evolutionary root, blah, blah, blah. Is that going to be on Wednesday's exam? And I get so pissed off because it's exactly the tension between intrinsic motivation and extrinsic. I'd love for all of you to be there for intrinsic reasons. There's one thing that's really annoying me. I'm looking at my thing and it says you only have 2.5 gigabytes of storage left on your computer. And I'm worried about that because I don't know if I run out of storage, whether the computer will shut down or not, because I'm not, I wasn't planning on finishing this conversation. So what I would like to do is at least end it now in a very anticlimactic way, but I have it right here. You only have 2.5 gigabytes. And then maybe we can set up a, because I was still hoping to discuss Israel. I was hoping to discuss the increase of global Jew hatred. We were going to maybe talk about some of the parasitic mind stuff. So there's a lot for us to continue. Can we shelve that for round two at whatever time is appropriate for you? Certainly. So thank you so much. What a mind blowing conversation. I can't wait to post it. I just want to make sure that this is stored and that my computer doesn't die. Thank you so much. Stay on the line, David, so we could say goodbye officially offline and round two coming up soon. Thank you so much, David.
+Yeah. It's funny you say this because that's probably one of my things that triggers my ire the most when a student comes to see me at the end of class. And I'm excited because I'm hoping that they're going to ask something interesting and say, Oh, what you just mentioned about the evolutionary root, blah, blah, blah. Is that going to be on Wednesday's exam? And I get so pissed off because it's exactly the tension between intrinsic motivation and extrinsic. I'd love for all of you to be there for intrinsic reasons. There's one thing that's really annoying me. I'm looking at my thing and it says you only have 2.5 gigabytes of storage left on your computer. And I'm worried about that because I don't know if I run out of storage, whether the computer will shut down or not, because I'm not, I wasn't planning on finishing this conversation. So what I would like to do is at least end it now in a very anticlimactic way, but I have it right here. You only have 2.5 gigabytes. And then maybe we can set up a, because I was still hoping to discuss Israel. I was hoping to discuss the increase of global Jew hatred. We were going to maybe talk about some of the parasitic mind stuff. So there's a lot for us to continue. Can we shelve that for round two at whatever time is appropriate for you?
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:03:11 - 01:04:50</span>
+
+Certainly.
+
+### Gad Saad
+
+<span class="transcript-timestamp">01:03:11 - 01:04:50</span>
+
+So thank you so much. What a mind blowing conversation. I can't wait to post it. I just want to make sure that this is stored and that my computer doesn't die. Thank you so much. Stay on the line, David, so we could say goodbye officially offline and round two coming up soon. Thank you so much, David.

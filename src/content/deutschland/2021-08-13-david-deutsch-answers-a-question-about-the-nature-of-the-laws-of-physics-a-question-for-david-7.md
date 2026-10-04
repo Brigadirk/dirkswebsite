@@ -1,6 +1,6 @@
 ---
 title: '2021-08-13 - ToKCast - David Deutsch answers a question about the nature of the laws of physics. A question for David 7'
-description: 'An interview / discussion from David Deutsch answers a question about the nature of the laws of physics, featuring David Deutsch, Brett Hall, titled "A question for David 7".'
+description: 'An interview / discussion from 2021-08-13, featuring David Deutsch, Brett Hall, titled "A question for David 7".'
 pubDate: 2021-08-13
 ---
 
@@ -33,13 +33,13 @@ Another thing which I think is still slightly mysterious is what kind of an abst
 
 <span class="transcript-timestamp">00:08:11 - 00:08:13</span>
 
-Well, you'd have some significant explaining to do, ...
+Well, you'd have some significant explaining to do, wouldn't you?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:08:13 - 00:08:26</span>
 
-Wouldn't you? Well, if you wanted explanations, you'd have a lot of explaining to do. You would in fact have all the explaining to do at the end of that huge process that you had at the beginning. You wouldn't have explained anything.
+Well, if you wanted explanations, you'd have a lot of explaining to do. You would in fact have all the explaining to do at the end of that huge process that you had at the beginning. You wouldn't have explained anything.
 
 ### Brett Hall
 

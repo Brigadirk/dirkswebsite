@@ -85,13 +85,37 @@ But, you know, we do have even within quantum gravity, standard theories of the 
 
 <span class="transcript-timestamp">00:14:52 - 00:15:52</span>
 
-It is simply wrong to use probability in that way. And it would be better to make the assumptions explicit rather than say, you know, well, well, you know, it's not going to be we're not going to supersede the second law of thermodynamics or something. By the way, thermodynamics, at least in one version of it, depends on information theory. Information theory has been overturned. I mean, Shannon information theory has been overturned by quantum information theory. So, for example, supplanted, perhaps is a better word. I mean, you know, still most of the most of the results of information theory are still true in quantum information theory. Most of the usual claims about information still continue there. So the entropy remains finite in quantum information theory.
+It is simply wrong to use probability in that way. And it would be better to make the assumptions explicit rather than say, you know, well, well, you know, it's not going to be we're not going to supersede the second law of thermodynamics or something. By the way, thermodynamics, at least in one version of it, depends on information theory. Information theory has been overturned. I mean, Shannon information theory has been overturned by quantum information theory. So, for example, supplanted, perhaps is a better word. I mean, you know, still most of the most of the results of information theory are still true in quantum information theory. Most of the usual claims about information still continue there.
+
+### Robin Hanson
+
+<span class="transcript-timestamp">00:14:52 - 00:15:52</span>
+
+So the entropy remains finite in quantum information theory?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:15:53 - 00:18:24</span>
+
+It does. But the fact that entropy is governed by slightly different laws and that these allow exponentially more information to apparently exist in some situations and others means that we have to change our conception of information and then our conception of information may or may not feed into the practical conclusions that we want this information theory to inform.
 
 ### Robin Hanson
 
 <span class="transcript-timestamp">00:15:53 - 00:18:24</span>
 
-It does. But the fact that entropy is governed by slightly different laws and that these allow exponentially more information to apparently exist in some situations and others means that we have to change our conception of information and then our conception of information may or may not feed into the practical conclusions that we want this information theory to inform. But the amount of negentropy in this class in this class is not substantially changed by quantum information theory. We can still say, you know, if that's all you have, then and you can only grow it at a certain rate, then that means our future economy descendants can only grow at a certain rate. I mean, that's still a robust conclusion, even if we switch to quantum information. It happens to be so for quantum information theory. But quantum information theory allows information channels to transmit twice as much information as classical channels. So it would have been, you know, if we'd been having this conversation 40 years ago or whatever it is, whenever channel capacity doubling was invented, we would have said, you know, we know for sure that if an object can hold to this, it can be in two distinguishable states and used for information transfer, then the rate at which it transfers information is also one bit per unit time or whatever it is. But it's actually two. So we couldn't have predicted that it won't be 10 or 50 or infinite. Say you were with me on a project to develop a nuclear reactor for thorium, you know, you might have some qualifications for that, right. And say I'm a part of this project and I'm trying to work out a tentative design for our thorium reactor and some tentative ways to test this. And I make some suggested claims to you that this particular design could have this rate and this density and this heat conductivity, etc. And then for any tentative design I offered you, you could play the same game you're playing now and say, well, yeah, but you're using standard information theory and what about potential future information theories? And you're assuming standard gravity and what about potential future gravities? And I might say, well, you're not helping very much to design this reactor if you're going to point out all the logical ways it could be wrong. Don't you want to, like, make some tentative assumptions and get in the game?
+But the amount of negentropy in this class in this class is not substantially changed by quantum information theory. We can still say, you know, if that's all you have, then and you can only grow it at a certain rate, then that means our future economy descendants can only grow at a certain rate. I mean, that's still a robust conclusion, even if we switch to quantum information.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:15:53 - 00:18:24</span>
+
+It happens to be so for quantum information theory. But quantum information theory allows information channels to transmit twice as much information as classical channels. So it would have been, you know, if we'd been having this conversation 40 years ago or whatever it is, whenever channel capacity doubling was invented, we would have said, you know, we know for sure that if an object can hold to this, it can be in two distinguishable states and used for information transfer, then the rate at which it transfers information is also one bit per unit time or whatever it is. But it's actually two. So we couldn't have predicted that it won't be 10 or 50 or infinite.
+
+### Robin Hanson
+
+<span class="transcript-timestamp">00:15:53 - 00:18:24</span>
+
+Say you were with me on a project to develop a nuclear reactor for thorium, you know, you might have some qualifications for that, right. And say I'm a part of this project and I'm trying to work out a tentative design for our thorium reactor and some tentative ways to test this. And I make some suggested claims to you that this particular design could have this rate and this density and this heat conductivity, etc. And then for any tentative design I offered you, you could play the same game you're playing now and say, well, yeah, but you're using standard information theory and what about potential future information theories? And you're assuming standard gravity and what about potential future gravities? And I might say, well, you're not helping very much to design this reactor if you're going to point out all the logical ways it could be wrong. Don't you want to, like, make some tentative assumptions and get in the game?
 
 ### David Deutsch
 
@@ -159,11 +183,17 @@ But you and I are right now in the context of a larger intellectual world, which
 
 Well, the idea that decision theory should be analyzed in terms of how much we care about our future selves or about our descendants, I'm very skeptical of that theory because it's a subjective psychological theory of really an objective thing, which is the growth of knowledge. So I haven't actually heard before this theory of whether offsprings matter.
 
+### David Deutsch
+
+<span class="transcript-timestamp">00:28:30 - 00:29:49</span>
+
+I mean, there's also the I don't know if you've studied the case as well. There's sooner or later we're going to go immortal. And then we won't have offspring. And how will we value our future then? Well, I think this can't be deduced from biology. It can't be deduced from psychology. There will be objective factors.
+
 ### Robin Hanson
 
 <span class="transcript-timestamp">00:28:30 - 00:29:49</span>
 
-I mean, there's also the I don't know if you've studied the case as well. There's sooner or later we're going to go immortal. And then we won't have offspring. And how will we value our future then? Well, I think this can't be deduced from biology. It can't be deduced from psychology. There will be objective factors. So evolution hasn't encoded preferences in us for what happens when we get immortal, because that never happened. So at the best, it would project the preferences we have across our lifetime into the future. But that does seem to be roughly this factor of two per generation that we at the moment are discounting our own personal immortality with. That is, if we ask how much is it worth to us to prevent ourselves from dying in a century, we don't actually willing to put very many resources into it because of this factor of two per generation. But over time, that will change. And then I might use an evolutionary analysis to talk about how that would change. I might say, well, when there are immortal creatures and there's selection, variation and selection, then what kind of preferences will be selected for? That seems to me the way I want to do the analysis. But it seems sounds like you're somewhat skeptical of analyzing preferences for time using evolution.
+So evolution hasn't encoded preferences in us for what happens when we get immortal, because that never happened. So at the best, it would project the preferences we have across our lifetime into the future. But that does seem to be roughly this factor of two per generation that we at the moment are discounting our own personal immortality with. That is, if we ask how much is it worth to us to prevent ourselves from dying in a century, we don't actually willing to put very many resources into it because of this factor of two per generation. But over time, that will change. And then I might use an evolutionary analysis to talk about how that would change. I might say, well, when there are immortal creatures and there's selection, variation and selection, then what kind of preferences will be selected for? That seems to me the way I want to do the analysis. But it seems sounds like you're somewhat skeptical of analyzing preferences for time using evolution.
 
 ### David Deutsch
 
@@ -271,19 +301,31 @@ And again, if you're choosing your pensions, you're going to make those assumpti
 
 <span class="transcript-timestamp">00:41:45 - 00:42:00</span>
 
-Well, I think I'm going to hedge against those events. To some degree, but you'll still mostly bet that that's the most likely outcome. Well, I have no choice. So it's more like... You know, they've got this Bitcoin thing.
+Well, I think I'm going to hedge against those events.
+
+### Robin Hanson
+
+<span class="transcript-timestamp">00:41:45 - 00:42:00</span>
+
+To some degree, but you'll still mostly bet that that's the most likely outcome.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:41:45 - 00:42:00</span>
+
+Well, I have no choice. So it's more like... You know, they've got this Bitcoin thing.
 
 ### Robin Hanson
 
 <span class="transcript-timestamp">00:42:00 - 00:42:04</span>
 
-If you really think everything's going to hell, you could just buy a lot of Bitcoin, right?
+If you really think everything's going to hell, you could just buy a lot of Bitcoin, right? I'm sure you can find some people willing to sell it to you.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:42:04 - 00:42:54</span>
 
-I'm sure you can find some people willing to sell it to you. People say that. And the reason is that they are not being explicit about their assumptions again. And I would rather say nothing is secure. Therefore, I'm going to make my investments on the basis that if this investment goes wrong, I will have bigger worries than that. For example, it may be that democracy has broken down or that there's a world war or something like that. So then I will have been wrong about my investment. I should have put all my money into rubidium because that's the basis of the future weapons. But I was not to know that.
+People say that. And the reason is that they are not being explicit about their assumptions again. And I would rather say nothing is secure. Therefore, I'm going to make my investments on the basis that if this investment goes wrong, I will have bigger worries than that. For example, it may be that democracy has broken down or that there's a world war or something like that. So then I will have been wrong about my investment. I should have put all my money into rubidium because that's the basis of the future weapons. But I was not to know that.
 
 ### Robin Hanson
 
@@ -313,13 +355,13 @@ All the specific examples you've given are… If you like, it's a matter of term
 
 <span class="transcript-timestamp">00:45:25 - 00:45:39</span>
 
-Yes, absolutely. That's my basic conclusion. I'm all over that. I'm into generating new scenarios for things to go wrong that other people haven't been talking about. I have been generating such scenarios. Great.
+Yes, absolutely. That's my basic conclusion. I'm all over that. I'm into generating new scenarios for things to go wrong that other people haven't been talking about. I have been generating such scenarios.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:45:41 - 00:46:08</span>
 
-But this is just a special case of the fact that what we really should be doing is creating more knowledge, more general purpose knowledge, knowledge that is potentially applicable to applications that we don't yet know. So one of them is the one you've just mentioned, but there's also just doing pure mathematics or working on things that don't even have names yet.
+Great. But this is just a special case of the fact that what we really should be doing is creating more knowledge, more general purpose knowledge, knowledge that is potentially applicable to applications that we don't yet know. So one of them is the one you've just mentioned, but there's also just doing pure mathematics or working on things that don't even have names yet.
 
 ### Robin Hanson
 
@@ -361,7 +403,13 @@ Assuming that there are no asteroids out there heading on a collision course is 
 
 <span class="transcript-timestamp">00:50:39 - 00:51:27</span>
 
-But when you have the right theory of asteroids, then it can make a stochastic prediction and you have chance. You need a theory of asteroids with a theory that predicts their distribution. We do actually have such theories. I mean, people have actually calculated the rate of asteroids with stochastic models like that. That's a common thing. So our best theories of planetary formations say that gas giants ought to form in the outer stellar system. And indeed, they have in our solar system. But all the other solar systems we look at have them be formed near to their star and nobody knows why.
+But when you have the right theory of asteroids, then it can make a stochastic prediction and you have chance. You need a theory of asteroids with a theory that predicts their distribution. We do actually have such theories. I mean, people have actually calculated the rate of asteroids with stochastic models like that. That's a common thing.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:50:39 - 00:51:27</span>
+
+So our best theories of planetary formations say that gas giants ought to form in the outer stellar system. And indeed, they have in our solar system. But all the other solar systems we look at have them be formed near to their star and nobody knows why.
 
 ### David Deutsch
 

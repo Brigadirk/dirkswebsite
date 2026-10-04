@@ -1,5 +1,5 @@
 ---
-title: '2011-09-20 - Bloggingheads TV with John Horgan'
+title: '2011-09-20 - Bloggingheads.tv - Science Saturday with John Horgan'
 description: 'An interview / discussion from 2011-09-20, featuring David Deutsch, John Horgan, titled "Bloggingheads TV with John Horgan".'
 pubDate: 2011-09-20
 ---
@@ -25,7 +25,7 @@ Yes, hello.
 
 <span class="transcript-timestamp">00:00:06 - 00:00:31</span>
 
-It's great to have you here on Blogging Heads, David. Let me just introduce myself and then I'll let you do the same. Okay. I am John Horgan. I'm a science journalist and occasional science correspondent for Blogging Heads TV. And I have a really special guest with me today. The physicist, British physicist, David Deutsch, who is now in, you're in Oxford right now?
+It's great to have you here on Bloggingheads, David. Let me just introduce myself and then I'll let you do the same. Okay. I am John Horgan. I'm a science journalist and occasional science correspondent for Bloggingheads.tv. And I have a really special guest with me today. The physicist, British physicist, David Deutsch, who is now in, you're in Oxford right now?
 
 ### David Deutsch
 
@@ -61,7 +61,7 @@ Yes, it was actually I actually began thinking about quantum computers in the 19
 
 <span class="transcript-timestamp">00:03:22 - 00:03:28</span>
 
-That's OK. It's those little glitches that make blogging heads so charming to some people.
+That's OK. It's those little glitches that make Bloggingheads so charming to some people.
 
 ### David Deutsch
 

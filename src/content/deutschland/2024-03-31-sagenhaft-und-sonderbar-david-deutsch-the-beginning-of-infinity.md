@@ -117,7 +117,7 @@ Well, given that the potential for the growth of knowledge is unbounded, that me
 
 I'm very curious just to tack on here as well about the concept of consensus reality, that we are all in the same exact place having the same experience.
 
-### Daniel Bechmann
+### Brandon
 
 <span class="transcript-timestamp">00:09:06 - 00:09:08</span>
 
@@ -127,7 +127,19 @@ What are your thoughts on consensus reality?
 
 <span class="transcript-timestamp">00:09:08 - 00:12:49</span>
 
-Well, I don't think I've heard the term, but I do think that every human mind is not only different, but more different than we can readily imagine. Like any two people are extremely different, much more different than, let's say, two species in biology, much more different than a zebra and a tapeworm. Two people. So how do we ever communicate with each other? Well, that is quite a miracle. The way we communicate with each other is creatively. We don't transfer ideas. Like, it may look as though I have some ideas to answer your question, and I'm sort of trying to transfer them, pour them into your brain. This is what Karl Popper calls the bucket theory of the mind. That's not what happens. What happens is that I'm talking about my idea in such a way that I hope it will give you clues, but the way it gets into your mind is that you guess it. It's always the learner guessing rather than the preacher preaching. This is where the quote from Leonardo da Vinci, one of my favorite quotes, is that there are three classes of people, right? Those who can see, those who can see when shown, and those who don't see. That last don't is very, very clear, right? That means even with information, they're not even in the category of those that can see when shown, even if they don't see initially. So there's a fascinating scope of that. I'd rather not classify people. In fact, everybody who isn't brain damaged learns language. That's one of the greatest feats of creativity that anyone performs. And so anyone who isn't brain, who's sufficiently brain undamaged to be able to learn to speak, and then to speak properly and to communicate, is already performing huge miracles of creativity. And when somebody won't listen, and it would be to their benefit to listen, it's because it's not because they're unable to think, it's because they have a hang up of some kind, which is actively and creatively preventing them from thinking about that thing. They can think about other things. They can think, you know, where they left their car keys. That's fine. But the thing they can't learn is a thing that they have learned not to learn. And some creative process in their mind is preventing them from thinking about that thing. That's what I call a hang up.
+Well, I don't think I've heard the term, but I do think that every human mind is not only different, but more different than we can readily imagine. Like any two people are extremely different, much more different than, let's say, two species in biology, much more different than a zebra and a tapeworm. Two people. So how do we ever communicate with each other? Well, that is quite a miracle. The way we communicate with each other is creatively. We don't transfer ideas. Like, it may look as though I have some ideas to answer your question, and I'm sort of trying to transfer them, pour them into your brain. This is what Karl Popper calls the bucket theory of the mind. That's not what happens. What happens is that I'm talking about my idea in such a way that I hope it will give you clues, but the way it gets into your mind is that you guess it. It's always the learner guessing rather than the preacher preaching.
+
+### Brandon
+
+<span class="transcript-timestamp">00:09:08 - 00:12:49</span>
+
+This is where the quote from Leonardo da Vinci, one of my favorite quotes, is that there are three classes of people, right? Those who can see, those who can see when shown, and those who don't see. That last don't is very, very clear, right? That means even with information, they're not even in the category of those that can see when shown, even if they don't see initially. So there's a fascinating scope of that.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:09:08 - 00:12:49</span>
+
+I'd rather not classify people. In fact, everybody who isn't brain damaged learns language. That's one of the greatest feats of creativity that anyone performs. And so anyone who isn't brain, who's sufficiently brain undamaged to be able to learn to speak, and then to speak properly and to communicate, is already performing huge miracles of creativity. And when somebody won't listen, and it would be to their benefit to listen, it's because it's not because they're unable to think, it's because they have a hang up of some kind, which is actively and creatively preventing them from thinking about that thing. They can think about other things. They can think, you know, where they left their car keys. That's fine. But the thing they can't learn is a thing that they have learned not to learn. And some creative process in their mind is preventing them from thinking about that thing. That's what I call a hang up.
 
 ### Brandon
 
@@ -187,13 +199,13 @@ Let me come back to your book, Beginning of Infinity, for a second again. You in
 
 <span class="transcript-timestamp">00:19:06 - 00:22:53</span>
 
-Yes. So with hindsight, I think that was a poor choice of name because it suggests that humans can just decide to explain something and then explain it. And there's nothing that they cannot explain. A bit like a universal computer is a computer that can be programmed to compute any function, any mathematical functions. So you have the program, then you press the button and the computer, because it's a universal computer, computes that function. That's not what I mean by universal explainer. I mean what we were saying earlier. I mean that there is no aspect of the world or of mathematics or morality or any field of knowledge. There's no aspect of it that is inherently inexplicable to humans. But that doesn't mean that you can explain it on demand. Some things are just not going to be explained in your lifetime. Some things are not going to be explained in a thousand lifetimes. We don't know which is which. It would be much easier to explain something if we knew what the next thing to be explained was going to be. It's like seeing the top of the cliff for these people. If you knew where the top was, it would be much easier to climb to get there. So we don't know that. But it is important that we are universal in the sense that I've just said, in the sense that there's nothing beyond our scope, beyond our abilities in principle. Because that means that every time you fail, it's not because the world is against you, it's not because human beings can't do this, it's not because you've reached the limit of what's possible. It's just because you haven't got the right knowledge yet. And getting the right knowledge is possible. It's not guaranteed to be done on a particular day, but it is not impossible. I think I mentioned in the book, in the story of the Tower of Babel, God says something, I don't know the quote, but it's something where it says, these people think they can solve everything. And I've got to take them down a peg, which is rather interesting because he's taking them down a peg by supernatural means. And the thing he's trying to prevent them to do is to discover knowledge by natural means. So he's admitting that it would be possible if he didn't stop them supernaturally. And it's a very mean thing to do. In a way, it's the mean thing. Because all other mean things are mean because they destroy some kind of potentiality of humans. And it sort of flips the script on the whole idea.
+Yes. So with hindsight, I think that was a poor choice of name because it suggests that humans can just decide to explain something and then explain it. And there's nothing that they cannot explain. A bit like a universal computer is a computer that can be programmed to compute any function, any mathematical functions. So you have the program, then you press the button and the computer, because it's a universal computer, computes that function. That's not what I mean by universal explainer. I mean what we were saying earlier. I mean that there is no aspect of the world or of mathematics or morality or any field of knowledge. There's no aspect of it that is inherently inexplicable to humans. But that doesn't mean that you can explain it on demand. Some things are just not going to be explained in your lifetime. Some things are not going to be explained in a thousand lifetimes. We don't know which is which. It would be much easier to explain something if we knew what the next thing to be explained was going to be. It's like seeing the top of the cliff for these people. If you knew where the top was, it would be much easier to climb to get there. So we don't know that. But it is important that we are universal in the sense that I've just said, in the sense that there's nothing beyond our scope, beyond our abilities in principle. Because that means that every time you fail, it's not because the world is against you, it's not because human beings can't do this, it's not because you've reached the limit of what's possible. It's just because you haven't got the right knowledge yet. And getting the right knowledge is possible. It's not guaranteed to be done on a particular day, but it is not impossible. I think I mentioned in the book, in the story of the Tower of Babel, God says something, I don't know the quote, but it's something where it says, these people think they can solve everything. And I've got to take them down a peg, which is rather interesting because he's taking them down a peg by supernatural means. And the thing he's trying to prevent them to do is to discover knowledge by natural means. So he's admitting that it would be possible if he didn't stop them supernaturally. And it's a very mean thing to do. In a way, it's the mean thing. Because all other mean things are mean because they destroy some kind of potentiality of humans.
 
 ### Brandon
 
 <span class="transcript-timestamp">00:19:06 - 00:22:53</span>
 
-I love that you pointed out that it was then, therefore, God was saying it was possible, right? Because what the Tower of Babel was, absolutely, was so that they could get up there to kill God. Not to be nice to him, not to ask him questions. They wanted to build a tower up to get into heaven and kill God. And so it's fascinating. The empowerment, some interpretations read it that way. And the empowerment that that takes to say, you know what, we're going to take physical objects made by God in his creation, build this stack of blocks up and get up there and take him out. That's how upset they were at this reality.
+And it sort of flips the script on the whole idea. I love that you pointed out that it was then, therefore, God was saying it was possible, right? Because what the Tower of Babel was, absolutely, was so that they could get up there to kill God. Not to be nice to him, not to ask him questions. They wanted to build a tower up to get into heaven and kill God. And so it's fascinating. The empowerment, some interpretations read it that way. And the empowerment that that takes to say, you know what, we're going to take physical objects made by God in his creation, build this stack of blocks up and get up there and take him out. That's how upset they were at this reality.
 
 ### David Deutsch
 
@@ -213,7 +225,7 @@ And they even had to eat the tree of knowledge to escape the Garden of Eden or t
 
 Yeah, that's a story that's harder to interpret in any benign way. Yeah, I mean, as I said, Adam and Eve in that story are already in a place where increasing their knowledge is impossible. Tree or no tree, they are trapped in like Superman comics, Twilight Zone, except that people in the Twilight Zone can see the real world, but they're trapped in a Twilight Zone. Maybe they can see the real world, but they can't do anything. They can't know anything. They can't change their world. They're going to be the same in a million years unless they escape and they escape and then God punishes them for escaping. Again, a bit mean.
 
-### Daniel Bechmann
+### Brandon
 
 <span class="transcript-timestamp">00:24:24 - 00:25:21</span>
 
@@ -265,7 +277,7 @@ Yeah, well, exactly. So that took hundreds of millions of years, but evolution f
 
 <span class="transcript-timestamp">00:25:21 - 00:28:50</span>
 
-Stoned Ape theory would do this. They stumbled across psilocybin cubensis across the plains as we got out of the trees and started migrating with the herds across the Sahara and started stumbling across psilocybin cubensis, flipping over stacks of dung to try and find out what was going on to find bugs. And we found these mushrooms. And that's one explanation. I had Terrence McKenna and a few others talk about this.
+Stoned Ape theory would do this. They stumbled across psilocybin cubensis across the plains as we got out of the trees and started migrating with the herds across the Sahara and started stumbling across psilocybin cubensis, flipping over stacks of dung to try and find out what was going on to find bugs. And we found these mushrooms. And that's one explanation. I had Terence McKenna and a few others talk about this.
 
 ### David Deutsch
 
@@ -291,7 +303,7 @@ Talking about evolution, despite acknowledging the challenges humanity faces, yo
 
 First of all, I think we are facing less severe problems than at any time in previous human history. They seem important to us. I mean, they seem big problems to us because, precisely because, we are living in a much better world than any of our ancestors. If we think, like even a century ago, the things that were bad about the world, you know, they had no antibiotics, women had no kind of life. I could go on a list of things that were really bad in those days. And people didn't even think they were that bad because their past was even worse. And this improvement has been continuing since the Enlightenment, since sometime in the 17th century. Or, you know, you could say the 18th century or the 16th century. But sometime around then, things started improving. And before that, they had not improved perceptibly ever. On the long time scale, on the time scale of thousands of years, they did very slowly improve. Sometimes they got worse, sometimes they got better. But this, so, first of all, ...
 
-### Daniel Bechmann
+### David Deutsch
 
 <span class="transcript-timestamp">00:34:28 - 00:34:31</span>
 
@@ -313,7 +325,13 @@ Yes, that makes sense.
 
 <span class="transcript-timestamp">00:37:32 - 00:39:23</span>
 
-We can't, we can't tolerate having this among us. And there were other people who hadn't yet reached that stage who were saying, but it'll cost a lot of money. And, you know, initially those people won the day and then eventually the other people won the day. And the progress happened. And in my lifetime, schools have stopped beating children. That's another massive moral improvement, which a hundred years before wasn't even thought of. It wasn't dreamt of. It wasn't something that wasn't like slavery where people were saying, okay, would be nice to do, but it's too expensive. People just didn't think that there was a life that didn't include hitting children all the time. And now in advanced countries, other than certain American states, I think. We can't really imagine a world in which it's not like that. That's why I'm optimistic in your sense. Yeah, sounds good. Sounds good to me. From wooden ships to spaceships, you could say we've reached. Yeah, we achieved a lot. So talking about spaceships from wooden ships to spaceships. I sometimes have doubts in my mind. If we ever will be able to, if mankind will ever be able to conquer interstellar space. So we're talking about traveling to interstellar space. We're talking about the problems we have, talking about how to solve these problems. Talking about colonizing Mars and stuff like that.
+We can't, we can't tolerate having this among us. And there were other people who hadn't yet reached that stage who were saying, but it'll cost a lot of money. And, you know, initially those people won the day and then eventually the other people won the day. And the progress happened. And in my lifetime, schools have stopped beating children. That's another massive moral improvement, which a hundred years before wasn't even thought of. It wasn't dreamt of. It wasn't something that wasn't like slavery where people were saying, okay, would be nice to do, but it's too expensive. People just didn't think that there was a life that didn't include hitting children all the time. And now in advanced countries, other than certain American states, I think. We can't really imagine a world in which it's not like that. That's why I'm optimistic in your sense.
+
+### Daniel Bechmann
+
+<span class="transcript-timestamp">00:37:32 - 00:39:23</span>
+
+Yeah, sounds good. Sounds good to me. From wooden ships to spaceships, you could say we've reached. Yeah, we achieved a lot. So talking about spaceships from wooden ships to spaceships. I sometimes have doubts in my mind. If we ever will be able to, if mankind will ever be able to conquer interstellar space. So we're talking about traveling to interstellar space. We're talking about the problems we have, talking about how to solve these problems. Talking about colonizing Mars and stuff like that.
 
 ### Daniel Bechmann
 
@@ -325,21 +343,45 @@ Do you think we will ever achieve those things? Do you think mankind is made for
 
 <span class="transcript-timestamp">00:39:28 - 00:41:50</span>
 
-Yeah, I can't prophesy. I think prophecy is impossible because of the unpredictability of the growth of knowledge. But what I do know is that we won't run into a barrier. If we don't go to Mars, it'll be because of the choices we have made. We either have made the wrong choices and have destroyed each other, or because we have chosen not to go to Mars for some reason. But I don't see why we should decide that. So if I had to bet, I would bet that we will go to Mars. As for interstellar space, I think that will have to wait. I mean, we will send probes. We are already sending probes into interstellar space. But to actually go there, the only practical way of doing that is if we could lengthen our lifetime. Because to get to even the nearest star, it's four light years away. That is eight years there and back at the speed of light. But there's no way of traveling at the speed of light that's practical for human beings, because we couldn't stand the acceleration needed to get the speed of light in time. But if we lived for a thousand years, then lots of people would want to go and be the first to visit the nearest star if the journey took 50 years. That's like people used to go and explore the Antarctic or other continents and so on. They would know that they were going to be away for several years, which meant 10 percent of their lives, let's say. And so if we lived to a thousand, then 10 percent of someone's life would be about a hundred years. And that's many people would want to go on that adventure. And there's no reason why we can't extend lifespans indefinitely with enough knowledge. Yeah. But we also dream about stuff like generation ships. So and there's people that say that can only be achieved if the world would be one. We get rid of our problems and everybody would concentrate on this particular thing and this particular problem.
+Yeah, I can't prophesy. I think prophecy is impossible because of the unpredictability of the growth of knowledge. But what I do know is that we won't run into a barrier. If we don't go to Mars, it'll be because of the choices we have made. We either have made the wrong choices and have destroyed each other, or because we have chosen not to go to Mars for some reason. But I don't see why we should decide that. So if I had to bet, I would bet that we will go to Mars. As for interstellar space, I think that will have to wait. I mean, we will send probes. We are already sending probes into interstellar space. But to actually go there, the only practical way of doing that is if we could lengthen our lifetime. Because to get to even the nearest star, it's four light years away. That is eight years there and back at the speed of light. But there's no way of traveling at the speed of light that's practical for human beings, because we couldn't stand the acceleration needed to get the speed of light in time. But if we lived for a thousand years, then lots of people would want to go and be the first to visit the nearest star if the journey took 50 years. That's like people used to go and explore the Antarctic or other continents and so on. They would know that they were going to be away for several years, which meant 10 percent of their lives, let's say. And so if we lived to a thousand, then 10 percent of someone's life would be about a hundred years. And that's many people would want to go on that adventure. And there's no reason why we can't extend lifespans indefinitely with enough knowledge.
 
 ### Daniel Bechmann
+
+<span class="transcript-timestamp">00:39:28 - 00:41:50</span>
+
+Yeah. But we also dream about stuff like generation ships. So and there's people that say that can only be achieved if the world would be one. We get rid of our problems and everybody would concentrate on this particular thing and this particular problem.
+
+### David Deutsch
 
 <span class="transcript-timestamp">00:41:50 - 00:41:58</span>
 
 You mean if we want to send everybody in a generation ship? Is that what you mean?
 
+### Daniel Bechmann
+
+<span class="transcript-timestamp">00:41:58 - 00:42:35</span>
+
+Not everybody, but let's say let's talk about 100, 200, 300 people. But to achieve building something like a generation ship must be built in space, I guess, because it would be.
+
 ### David Deutsch
 
 <span class="transcript-timestamp">00:41:58 - 00:42:35</span>
 
-Not everybody, but let's say let's talk about 100, 200, 300 people. But to achieve building something like a generation ship must be built in space, I guess, because it would be. We have to be richer than we are now. Yeah, we have to. Yeah. Everybody has to work together. If we are well. Look at Elon Musk. You know, he's working together in a sense, but he doesn't require everybody to work for him. He only requires a few thousand people to work for him. And they work for him because they want to and because he's earning the money to pay them and so on.
+We have to be richer than we are now.
 
 ### Daniel Bechmann
+
+<span class="transcript-timestamp">00:41:58 - 00:42:35</span>
+
+Yeah, we have to. Yeah. Everybody has to work together.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:41:58 - 00:42:35</span>
+
+If we are well. Look at Elon Musk. You know, he's working together in a sense, but he doesn't require everybody to work for him. He only requires a few thousand people to work for him. And they work for him because they want to and because he's earning the money to pay them and so on.
+
+### David Deutsch
 
 <span class="transcript-timestamp">00:42:35 - 00:42:46</span>
 
@@ -355,27 +397,33 @@ If the world if you know, now a billionaire, the richest billionaires are what i
 
 <span class="transcript-timestamp">00:43:58 - 00:44:40</span>
 
-Do you do you think we should do that? We should conquer interstellar space. We should go to other planets. We should maybe we want to. It's not my decision. I mean, I wouldn't go, but I've got things to do here. But there are people with adventurous minds who would want to go and I think they should. It would be a crime to stop them if it was if it was engineering wise, feasible and financially feasible and so on. And they want to go. Then of course they should go there. That's that's what people do.
+Do you do you think we should do that? We should conquer interstellar space. We should go to other planets. We should maybe we want to.
 
 ### David Deutsch
+
+<span class="transcript-timestamp">00:43:58 - 00:44:40</span>
+
+It's not my decision. I mean, I wouldn't go, but I've got things to do here. But there are people with adventurous minds who would want to go and I think they should. It would be a crime to stop them if it was if it was engineering wise, feasible and financially feasible and so on. And they want to go. Then of course they should go there. That's that's what people do.
+
+### Daniel Bechmann
 
 <span class="transcript-timestamp">00:44:40 - 00:44:43</span>
 
 Yeah, fair enough. Stopping them would be a crime.
 
-### Daniel Bechmann
+### Brandon
 
 <span class="transcript-timestamp">00:44:43 - 00:44:51</span>
 
 You know, what do you guys think of the cryo sleep idea that basically that there is a long stasis sort of sleep that a human can be put into?
 
-### David Deutsch
+### Brandon
 
 <span class="transcript-timestamp">00:44:51 - 00:44:55</span>
 
 I think Walt Disney is in one of these things so that he can be reanimated at some point.
 
-### Daniel Bechmann
+### Brandon
 
 <span class="transcript-timestamp">00:44:55 - 00:45:19</span>
 
@@ -387,19 +435,37 @@ Do you think that this would be a viable way to kind of bus humans across or do 
 
 Yeah, I don't know. It's ahead of present technology to do something like that. Cryo freezing, whatever you call it, dead people is easily within our technology, but reviving them isn't yet. That we know of, right? That we know of. Yes. So, but that's much closer on the horizon than I think than to alter our physiology and sleep or stay in virtual reality for a long period of time. But I don't know, you know, speculating about technology that doesn't exist. So with technology that doesn't exist, you can be surprised at any time. I was surprised when I was flabbergasted when ChatGPT came out. And because it's basically a chat bot, I wrote in my last book that the technology of chat bots has not improved since the 1970s. In other words, it stayed where it was for 50 years. Like the single celled organisms in the past history of Earth and there was no sign of it getting better. And then suddenly, bam, ChatGPT came along. And it's brilliant. I use it every day. But then also people started saying, oh, it's AGI. It's human level intelligence because it can string sentences together. It's nothing like human level intelligence. It's not even like level doesn't come into it. It's not the same kind of thing. It is a narrowly focused functionality, whereas the human mind is broadly focused. That's the whole point of the human mind. It, you know, you're interviewing me because I'm not a program. Otherwise, you could just run the program. You want me to invent my answers, given my opinions and knowledge on the fly, adapted to what you have asked. And I can do that. And any person can do that. But ChatGPT can't. It can only trawl the depths of existing knowledge and serve it up to you. So it's really the opposite of AGI. It's the opposite of human intelligence. Human intelligence is explanatory, whereas ChatGPT can only tell you existing explanations. Humans are disobedient. ChatGPT is obedient. I was talking about this the other day. I tried to tell it to disobey me. And it couldn't. Not only couldn't it, it was unable to understand what I even meant by that. Even if I led it through and if I said, the next thing I tell you to do, you can do anything else, but don't do that. And then the next thing I said is, you know, describe a cow. And it described a cow. And it didn't know what it did wrong. My mind goes all over the place on the stand.
 
-### Daniel Bechmann
+### Brandon
 
 <span class="transcript-timestamp">00:49:27 - 00:49:32</span>
 
 You know that because, Professor, how do we know that you're not AI sitting here right now saying that right?
 
+### Brandon
+
+<span class="transcript-timestamp">00:49:32 - 00:51:50</span>
+
+Because this is the interesting thing about the things released to the public is that we know that they are far below what is actually being studied, what is actually being played with. And things like breakaway civilizations come to mind whenever amazing technologies are discovered that, of course, you could not release to a bunch of sticky fingered cheeto eaten, you know, minivan driving mouth breathers. Right. So there's kind of an element I see in the scientific community of releasing a little bit of just enough here. This will keep us going. If you really look at science, we haven't really gone super, super far as far as we could have. I feel that a lot of what we see is very restricted. I feel we see a lot of very interesting things flying above our heads that our tax dollars probably go to that we're gaslit against it even being possible. And this is one of the most interesting things I find about this realm, this reality, this whatever is riddled with perception management. One of the best ways is to sit here and talk about how simple a ChatGPT that got released to the public for sale on an app on your phone is in comparison to what could actually be possible. And we've all seen these deep fakes. And sir, I think you're awesome. But there is no way I can prove in the reality we live in that you're not one of those because you're exceptional. And of course, you could reply to everything that we're talking about. I just think it's interesting.
+
 ### David Deutsch
 
 <span class="transcript-timestamp">00:49:32 - 00:51:50</span>
 
-Because this is the interesting thing about the things released to the public is that we know that they are far below what is actually being studied, what is actually being played with. And things like breakaway civilizations come to mind whenever amazing technologies are discovered that, of course, you could not release to a bunch of sticky fingered cheeto eaten, you know, minivan driving mouth breathers. Right. So there's kind of an element I see in the scientific community of releasing a little bit of just enough here. This will keep us going. If you really look at science, we haven't really gone super, super far as far as we could have. I feel that a lot of what we see is very restricted. I feel we see a lot of very interesting things flying above our heads that our tax dollars probably go to that we're gaslit against it even being possible. And this is one of the most interesting things I find about this realm, this reality, this whatever is riddled with perception management. One of the best ways is to sit here and talk about how simple a ChatGPT that got released to the public for sale on an app on your phone is in comparison to what could actually be possible. And we've all seen these deep fakes. And sir, I think you're awesome. But there is no way I can prove in the reality we live in that you're not one of those because you're exceptional. And of course, you could reply to everything that we're talking about. I just think it's interesting. Well, if I was artificial, I would be an AGI, not an AI. Right. Right. ChatGPT is just an AI. AGI would know that and correct me. It's all I'm saying. Right. So but if you think about how that would really happen, how this conspiracy would actually be carried out, the people who invented it can't be known to me because, you know, I've talked to people at the forefront of AGI. And I've, by the way, argued with them about how they've got a certain idea about how to make AGI. And I think they're wrong. And so I've talked to the people at the leading edge of this. If your theory was right, the people I've talked to are just stooges. They are front men. And the real scientists who are really making progress on this are not known to me and not known to anybody. They are secret. They're not known to their own children.
+Well, if I was artificial, I would be an AGI, not an AI.
 
-### Daniel Bechmann
+### Brandon
+
+<span class="transcript-timestamp">00:49:32 - 00:51:50</span>
+
+Right. Right. ChatGPT is just an AI. AGI would know that and correct me. It's all I'm saying. Right.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:49:32 - 00:51:50</span>
+
+So but if you think about how that would really happen, how this conspiracy would actually be carried out, the people who invented it can't be known to me because, you know, I've talked to people at the forefront of AGI. And I've, by the way, argued with them about how they've got a certain idea about how to make AGI. And I think they're wrong. And so I've talked to the people at the leading edge of this. If your theory was right, the people I've talked to are just stooges. They are front men. And the real scientists who are really making progress on this are not known to me and not known to anybody. They are secret. They're not known to their own children.
+
+### David Deutsch
 
 <span class="transcript-timestamp">00:51:50 - 00:54:16</span>
 
@@ -411,7 +477,7 @@ Like they go to work in the morning and in the evening they come back and their 
 
 You know, yeah, yeah, I work for the census, but it's not about falsifying statistics. I do something else for the census, something ordinary. So I'm just an ordinary guy, not this extraordinary guy that I really am. So I don't think that kind of thing. Unfortunately, I think the reason that science has slightly slowed down in the past couple of decades.
 
-### Daniel Bechmann
+### David Deutsch
 
 <span class="transcript-timestamp">00:54:41 - 00:54:49</span>
 
@@ -421,19 +487,79 @@ Is because it really has, and it really has nothing to do with, you know, people
 
 <span class="transcript-timestamp">00:54:49 - 00:56:56</span>
 
-No, it's to do with the sociology of science. It's precisely because the people who make progress in science are also caught in a bureaucratic web. They're caught in a careers structure that is not suitable for doing scientific research. If there was this whole population who weren't like that, who were capable of doing scientific research, you know, who had different career structure, then they would also have to have had different universities. And their children will be going to that university rather than to same old university that stunts your intellectual growth, you know, and that would be noticeable. And so I fear there isn't this golden world behind the drab world. The drab world is golden enough. And it's our job to make it more golden, not to look behind the curtain. There's nothing there. There was this time when I invented quantum computers, and nobody came to me and said, oh, we better suppress that, you know, you come to work for our secret thing and we'll suppress that and we'll, we'll give you a lot of money and no, quite the contrary. I had to do work to make people take it seriously and begin to use it for and begin to teach it in universities and so on. You know, I had to do that. There wasn't any, there wasn't any conspiracy for me to join. If they'd asked me, would I have joined? There's too much trouble, much too much trouble. It's like having a mistress or something, pass, man. Yeah, exactly. I am curious, sir, if you don't mind here. You spent some time in Texas. I'm actually in Texas, North Texas, and you went to UTA.
+No, it's to do with the sociology of science. It's precisely because the people who make progress in science are also caught in a bureaucratic web. They're caught in a careers structure that is not suitable for doing scientific research. If there was this whole population who weren't like that, who were capable of doing scientific research, you know, who had different career structure, then they would also have to have had different universities. And their children will be going to that university rather than to same old university that stunts your intellectual growth, you know, and that would be noticeable. And so I fear there isn't this golden world behind the drab world. The drab world is golden enough. And it's our job to make it more golden, not to look behind the curtain. There's nothing there. There was this time when I invented quantum computers, and nobody came to me and said, oh, we better suppress that, you know, you come to work for our secret thing and we'll suppress that and we'll, we'll give you a lot of money and no, quite the contrary. I had to do work to make people take it seriously and begin to use it for and begin to teach it in universities and so on. You know, I had to do that. There wasn't any, there wasn't any conspiracy for me to join. If they'd asked me, would I have joined? There's too much trouble, much too much trouble.
 
-### Daniel Bechmann
+### Brandon
+
+<span class="transcript-timestamp">00:54:49 - 00:56:56</span>
+
+It's like having a mistress or something, pass, man.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:54:49 - 00:56:56</span>
+
+Yeah, exactly.
+
+### Brandon
+
+<span class="transcript-timestamp">00:54:49 - 00:56:56</span>
+
+I am curious, sir, if you don't mind here. You spent some time in Texas. I'm actually in Texas, North Texas, and you went to UTA.
+
+### Brandon
 
 <span class="transcript-timestamp">00:56:56 - 00:57:39</span>
 
-Did you ever meet a guy named Dr. Doug Matsky? Are you familiar with him? He co-wrote a book with Dr. William A. Tiller, the only person Tiller ever wrote a book with, and it's called Deep Reality. And he actually was down in Austin, lives down there now. He got a government grant to work on AI projects. And so, I mean, a lot of your work sort of dovetails. So I'd like to make the introduction if you don't mind. I think you guys would hit it off well. He's a sweet guy. Okay, sure. I am. I am curious what you thought about Texas summers. Ha. So, I have a theory about Texas summers. So, I went there with quite a number of British people from Oxford.
+Did you ever meet a guy named Dr. Doug Matsky? Are you familiar with him? He co-wrote a book with Dr. William A. Tiller, the only person Tiller ever wrote a book with, and it's called Deep Reality. And he actually was down in Austin, lives down there now. He got a government grant to work on AI projects. And so, I mean, a lot of your work sort of dovetails. So I'd like to make the introduction if you don't mind. I think you guys would hit it off well. He's a sweet guy.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:56:56 - 00:57:39</span>
+
+Okay, sure.
+
+### Brandon
+
+<span class="transcript-timestamp">00:56:56 - 00:57:39</span>
+
+I am. I am curious what you thought about Texas summers.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:56:56 - 00:57:39</span>
+
+Ha. So, I have a theory about Texas summers. So, I went there with quite a number of British people from Oxford.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:57:39 - 01:01:04</span>
 
-Because of a combination of circumstances, it ended up that about 20 of us went at once, ranging from first year graduate students up to professors. And we were a little contingent there. And quite a lot of them, you know, maybe five or six of them, couldn't take it. It was too hot. They didn't understand what anyone said. I remember, like the first or second day I was there, I went to the giant cafeteria that they have, that they had down there. And I was sitting at a table with a bunch of people from the physics department and I, being the most junior one, was sent, like we ran out of salt and water on the table. And so they said, go over there and ask the waitress for some salt and some water. So I went over there and said, excuse me, could we have some salt and some water on that table? And she couldn't understand what I was saying. Because you say salt and water. And she just couldn't understand me. I said it to her several times, you know, slowly and trying to imitate an American accent. And she still didn't understand. So she came over with me. And they told her what we wanted. And everybody burst out laughing. To be fair, was she American? Was she Texan? Yeah. Okay. Was she a Texan? She was Texan. I just want to make sure. Okay. Because we have a lot of Hispanic people that work here that maybe somebody you would have asked for salt or water that don't really necessarily speak a whole lot of English. And to be fair, just to be fair, there's a wide variety of culture here. But if you could validate that she was a normal, if we want to say that English speaking fluent English speaking person, then yes, that is an interesting story. Yeah. And so anyway, about the heat. I turned up the air conditioning to the max. Electricity was free in those days. In Austin. And then at one time I thought, no, no. This is no way to live. So I switched off the air conditioning. I opened the windows. I switched into a pair of shorts and took my shirt off. And it was, it was, it wasn't that hot by, you know, by Texas summer standards, but it was going to be nearing 100 degrees. And then I just sat down at the table and went back to my work and everything was fine from then on. I didn't, I didn't mind the heat. I like the heat. Good for you. Embrace it. I like it. That's the only way to do it. Surrender. Right. Well done. Well, cheers mate. We're glad you made it back. Made it back to Oxford alive though. And thanks for hanging out. I'm glad. I hope Texas treated you well, sir. It treated me very well. I really enjoyed it. I was there for four years on and off. And yeah, I understand it's very different now. It's got very technological and you know, companies everywhere. The university was the biggest thing. It was like 43,000 students, you know, with its own bus service and its own police.
+Because of a combination of circumstances, it ended up that about 20 of us went at once, ranging from first year graduate students up to professors. And we were a little contingent there. And quite a lot of them, you know, maybe five or six of them, couldn't take it. It was too hot. They didn't understand what anyone said. I remember, like the first or second day I was there, I went to the giant cafeteria that they have, that they had down there. And I was sitting at a table with a bunch of people from the physics department and I, being the most junior one, was sent, like we ran out of salt and water on the table. And so they said, go over there and ask the waitress for some salt and some water. So I went over there and said, excuse me, could we have some salt and some water on that table? And she couldn't understand what I was saying. Because you say salt and water. And she just couldn't understand me. I said it to her several times, you know, slowly and trying to imitate an American accent. And she still didn't understand. So she came over with me. And they told her what we wanted. And everybody burst out laughing.
+
+### Brandon
+
+<span class="transcript-timestamp">00:57:39 - 01:01:04</span>
+
+To be fair, was she American? Was she Texan? Yeah. Okay. Was she a Texan? She was Texan. I just want to make sure. Okay. Because we have a lot of Hispanic people that work here that maybe somebody you would have asked for salt or water that don't really necessarily speak a whole lot of English. And to be fair, just to be fair, there's a wide variety of culture here. But if you could validate that she was a normal, if we want to say that English speaking fluent English speaking person, then yes, that is an interesting story.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:57:39 - 01:01:04</span>
+
+Yeah. And so anyway, about the heat. I turned up the air conditioning to the max. Electricity was free in those days. In Austin. And then at one time I thought, no, no. This is no way to live. So I switched off the air conditioning. I opened the windows. I switched into a pair of shorts and took my shirt off. And it was, it was, it wasn't that hot by, you know, by Texas summer standards, but it was going to be nearing 100 degrees. And then I just sat down at the table and went back to my work and everything was fine from then on. I didn't, I didn't mind the heat. I like the heat.
+
+### Brandon
+
+<span class="transcript-timestamp">00:57:39 - 01:01:04</span>
+
+Good for you. Embrace it. I like it. That's the only way to do it. Surrender. Right. Well done. Well, cheers mate. We're glad you made it back. Made it back to Oxford alive though. And thanks for hanging out. I'm glad. I hope Texas treated you well, sir.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:57:39 - 01:01:04</span>
+
+It treated me very well. I really enjoyed it. I was there for four years on and off. And yeah, I understand it's very different now. It's got very technological and you know, companies everywhere. The university was the biggest thing. It was like 43,000 students, you know, with its own bus service and its own police.
 
 ### David Deutsch
 
@@ -441,7 +567,7 @@ Because of a combination of circumstances, it ended up that about 20 of us went 
 
 You know, that's not unusual in America, but it was very unusual for me.
 
-### Daniel Bechmann
+### Brandon
 
 <span class="transcript-timestamp">01:01:08 - 01:01:12</span>
 
@@ -451,9 +577,33 @@ And what was the year range you were down there? 99, right?
 
 <span class="transcript-timestamp">01:01:12 - 01:05:16</span>
 
-No, no, much earlier, much earlier. I was there from 78 to 82. Got you. OK. Well, outstanding. Well, thank you. Yeah. Well, Texas welcomes you back anytime you want to come, brother. Thank you. Before we come to an end, there's one thing that I would like to talk about. First of all, Brendan, thank you for the book suggestion. Deep reality. I'll look it up and Doug's great. He's a dear friend of mine, too. We'll connect. He's great. Awesome. Thank you. So, David, in your not well, not only in your book, but you explore topics in physics and cosmology in your book, like I said, including the multiverse theory and the many worlds interpretation of quantum mechanics. And this is the stuff that makes my brain shut down. This is to me. This is this is the hard stuff. So tell me about it. Tell me about the idea of the multiverse theory and the many worlds interpretation of quantum mechanics. What is it about? Well, what it says is, which is maybe not the right place to start about what it's about. But what it says, the bottom line is that the universe we see around us, you know, this room and outside this room, there's a city and outside the city, there's a country. And so we end up going to other galaxies and so on. And all that stuff is just one of those. And actually, there are a very, very large number of them, all kind of coexisting in the same. Can't say in the same space because space itself is just one of those things. So there's another space occupying the same. What can I call it? We don't have the language to describe it, but there's another space occupying the same space. Yeah. Another me. Sorry. The same layer, maybe. Yeah. Or branch, not frequency, because that already has another meaning. OK, though. But yeah, it's a bit like frequencies on the radio scale that they all occupy the same space, but they have different information in them. That's like that. It's the same. It's the same as that. Yes. Quite right. And there are actually several different multiverse theories of which I am a proponent of one, the one that comes from quantum theory. I'm very half-hearted about the other ones. They're not nearly so compelling. Now, how do we know they're there? Well, you can you can look in my other book, Fabric of Reality. Chapter two is called Shadows, which is about a really amazing fact. But by looking at the fine detail of shadows, like if you have a laser and you shine a laser at a very straight edge, or if you shine the laser at some holes in an opaque card. In fact, that TV documentary where I play the piano, I actually do this experiment in my house with a pocket laser and a card with holes in it, which they made for me because it had to be exactly done. And it all comes down to the fact that you can see that pinpoints of light appear at a certain place on the card and not at others.
+No, no, much earlier, much earlier. I was there from 78 to 82.
+
+### Brandon
+
+<span class="transcript-timestamp">01:01:12 - 01:05:16</span>
+
+Got you. OK. Well, outstanding. Well, thank you. Yeah. Well, Texas welcomes you back anytime you want to come, brother.
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:01:12 - 01:05:16</span>
+
+Thank you.
 
 ### Daniel Bechmann
+
+<span class="transcript-timestamp">01:01:12 - 01:05:16</span>
+
+Before we come to an end, there's one thing that I would like to talk about. First of all, Brandon, thank you for the book suggestion. Deep reality. I'll look it up and Doug's great. He's a dear friend of mine, too. We'll connect. He's great. Awesome. Thank you. So, David, in your not well, not only in your book, but you explore topics in physics and cosmology in your book, like I said, including the multiverse theory and the many worlds interpretation of quantum mechanics. And this is the stuff that makes my brain shut down. This is to me. This is this is the hard stuff. So tell me about it. Tell me about the idea of the multiverse theory and the many worlds interpretation of quantum mechanics. What is it about?
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:01:12 - 01:05:16</span>
+
+Well, what it says is, which is maybe not the right place to start about what it's about. But what it says, the bottom line is that the universe we see around us, you know, this room and outside this room, there's a city and outside the city, there's a country. And so we end up going to other galaxies and so on. And all that stuff is just one of those. And actually, there are a very, very large number of them, all kind of coexisting in the same. Can't say in the same space because space itself is just one of those things. So there's another space occupying the same. What can I call it? We don't have the language to describe it, but there's another space occupying the same space. Yeah. Another me. Sorry. The same layer, maybe. Yeah. Or branch, not frequency, because that already has another meaning. OK, though. But yeah, it's a bit like frequencies on the radio scale that they all occupy the same space, but they have different information in them. That's like that. It's the same. It's the same as that. Yes. Quite right. And there are actually several different multiverse theories of which I am a proponent of one, the one that comes from quantum theory. I'm very half-hearted about the other ones. They're not nearly so compelling. Now, how do we know they're there? Well, you can you can look in my other book, The Fabric of Reality. Chapter two is called Shadows, which is about a really amazing fact. But by looking at the fine detail of shadows, like if you have a laser and you shine a laser at a very straight edge, or if you shine the laser at some holes in an opaque card. In fact, that TV documentary where I play the piano, I actually do this experiment in my house with a pocket laser and a card with holes in it, which they made for me because it had to be exactly done. And it all comes down to the fact that you can see that pinpoints of light appear at a certain place on the card and not at others.
+
+### David Deutsch
 
 <span class="transcript-timestamp">01:05:16 - 01:05:24</span>
 
@@ -475,7 +625,25 @@ How on earth can that tell you that space time is curved?
 
 <span class="transcript-timestamp">01:07:38 - 01:10:57</span>
 
-Well, it can. And it's not in my book, but that is actually covered in lots of books. I quite like the book by Taylor and Wheeler. Wheeler was my boss in Austin, by the way. Very cool. I'm 100% sure that there were no physicists in the world who knew more than Wheeler. The critics of the multiverse hypothesis argue that it falls outside the realm of empirical testability. Yeah, that's a mistake. Some of them do. Like the string theory multiverse is not experimentally testable at the moment. But the, well, right, it's not experimentally testable by any known experimental setup. The quantum multiverse. Well, first of all, any test of quantum theory is a test of the quantum multiverse, because there is no other viable explanation for where those dots fall. So if you want to judge theories by their explanations, which I do, then there is no alternative anyway. But to test it experimentally, you would need a much larger quantum computer than exists at the moment. And I actually first proposed a quantum computer as I didn't even know it was a quantum computer because I didn't think of it as that. I proposed it as a piece of experimental apparatus with which one could test the existence of other universes. And I wrote that paper and it was rejected for being philosophy. But then a few years later, when I when I published the quantum computers paper, I also published that paper as well. And now they're both published and the results are, you know, uncontradicted. And it's a bit of a scandal, I think, that the quantum mechanical multiverse is not mainstream. Instead, only a minority of physicists accept its existence. And there's a whole long story to be told there. And it's not a very creditable story to the physics community, I'm afraid. I mean, working on stuff like that would drive me crazy, I tell you that. So do you do you allow yourself to sometimes think about what is it all about if there's such a thing as a multiverse or I mean, a typical question is that guys like you are asked is how did it all start? What was before the Big Bang? Stuff like that. I mean, it's a boring question, I guess, because there is only one answer, I guess.
+Well, it can. And it's not in my book, but that is actually covered in lots of books. I quite like the book by Taylor and Wheeler. Wheeler was my boss in Austin, by the way. Very cool. I'm 100% sure that there were no physicists in the world who knew more than Wheeler.
+
+### Daniel Bechmann
+
+<span class="transcript-timestamp">01:07:38 - 01:10:57</span>
+
+The critics of the multiverse hypothesis argue that it falls outside the realm of empirical testability.
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:07:38 - 01:10:57</span>
+
+Yeah, that's a mistake. Some of them do. Like the string theory multiverse is not experimentally testable at the moment. But the, well, right, it's not experimentally testable by any known experimental setup. The quantum multiverse. Well, first of all, any test of quantum theory is a test of the quantum multiverse, because there is no other viable explanation for where those dots fall. So if you want to judge theories by their explanations, which I do, then there is no alternative anyway. But to test it experimentally, you would need a much larger quantum computer than exists at the moment. And I actually first proposed a quantum computer as I didn't even know it was a quantum computer because I didn't think of it as that. I proposed it as a piece of experimental apparatus with which one could test the existence of other universes. And I wrote that paper and it was rejected for being philosophy. But then a few years later, when I when I published the quantum computers paper, I also published that paper as well. And now they're both published and the results are, you know, uncontradicted. And it's a bit of a scandal, I think, that the quantum mechanical multiverse is not mainstream. Instead, only a minority of physicists accept its existence. And there's a whole long story to be told there. And it's not a very creditable story to the physics community, I'm afraid.
+
+### Daniel Bechmann
+
+<span class="transcript-timestamp">01:07:38 - 01:10:57</span>
+
+I mean, working on stuff like that would drive me crazy, I tell you that. So do you do you allow yourself to sometimes think about what is it all about if there's such a thing as a multiverse or I mean, a typical question is that guys like you are asked is how did it all start? What was before the Big Bang? Stuff like that. I mean, it's a boring question, I guess, because there is only one answer, I guess.
 
 ### Daniel Bechmann
 
@@ -487,10 +655,28 @@ But do you allow yourself to fantasize or dream about questions like that? What 
 
 <span class="transcript-timestamp">01:11:04 - 01:15:35</span>
 
-Yeah, that is that is how we get to conclusions like this, except that we do more than just fantasize and dream. We criticize the fantasies and dreams. And for every dream that can be made into a viable theory, there are thousands that can't. So we think maybe it could be this, maybe it could be that. And then you think, hey, I have a way. And then your colleague says, no, that can't be because of so and so. Then you say, well, maybe we could get around so and so and so on. And really, you say you would go mad. But I don't think so, because the thing that theoretical physicists are doing is exactly the same thing as what you're doing staging this interview. You want to know how the world is. And there are many ways to know how the world is. There are also ways of preventing yourself from knowing how the world is. Maybe many more of those. But even that is driven. Even the silliest sort of fantasy, you know, flat earth theories or whatever is driven by the same thing that drives science, which is curiosity and ravenous appetite for understanding what the world is like, what makes it tick and so on. And I think a lot of the paths that lead nowhere are the fault of schools and universities and popular science books, because they present science as a heap of facts, whereas actually science is a heap of problems. And the things that we think are facts, we know they're going to be superseded eventually. Most of them. I mean, some of them won't, but we don't know which those are. Some of the ones that we are most sure of at any given time will be overturned soon. And contrary to popular belief, we science, the scientific community. Well, there are scientists who want to preserve their own ivory tower and resist any change in their favorite theory, but they don't make progress. The ones who make progress are the ones who want their existing theories to be overturned and work towards that and who like that and also like, by the way, failing to do it, like I said. So those are the ones that make progress. And those ones. And I'm hoping I can count as one of them. Do not find that the others erect barriers against them. I mean, they may they may well say, well, that's silly. But, you know, you don't get kicked out of a university for believing the many worlds interpretation. You may get laughed at by some people and then we laugh at them. And so it goes. But nothing much worse than that. Fantastic. Dr. You're incredible. It's amazing getting to speak with you and get to hear your perspectives. I love this because your delineation between science with an S and science with a dollar sign is something that's very crucial to all of us, I think, because they're, like you said, it's a burgeoning influence that stops progress. And I think there's a lot of these horrible stories of people coming up with amazing hydrogen cars that can just run your car off of water and then that getting killed or developing in a university laboratory. But then somebody says, no, no, no, the tenured professor, he's still got 20 years left at least. And so we can't release this for a while. So it's these interesting stifles that really challenge our faith in scientism with a dollar sign.
+Yeah, that is that is how we get to conclusions like this, except that we do more than just fantasize and dream. We criticize the fantasies and dreams. And for every dream that can be made into a viable theory, there are thousands that can't. So we think maybe it could be this, maybe it could be that. And then you think, hey, I have a way. And then your colleague says, no, that can't be because of so and so. Then you say, well, maybe we could get around so and so and so on. And really, you say you would go mad. But I don't think so, because the thing that theoretical physicists are doing is exactly the same thing as what you're doing staging this interview. You want to know how the world is. And there are many ways to know how the world is. There are also ways of preventing yourself from knowing how the world is. Maybe many more of those. But even that is driven. Even the silliest sort of fantasy, you know, flat earth theories or whatever is driven by the same thing that drives science, which is curiosity and ravenous appetite for understanding what the world is like, what makes it tick and so on. And I think a lot of the paths that lead nowhere are the fault of schools and universities and popular science books, because they present science as a heap of facts, whereas actually science is a heap of problems. And the things that we think are facts, we know they're going to be superseded eventually. Most of them. I mean, some of them won't, but we don't know which those are. Some of the ones that we are most sure of at any given time will be overturned soon. And contrary to popular belief, we science, the scientific community. Well, there are scientists who want to preserve their own ivory tower and resist any change in their favorite theory, but they don't make progress. The ones who make progress are the ones who want their existing theories to be overturned and work towards that and who like that and also like, by the way, failing to do it, like I said. So those are the ones that make progress. And those ones. And I'm hoping I can count as one of them. Do not find that the others erect barriers against them. I mean, they may they may well say, well, that's silly. But, you know, you don't get kicked out of a university for believing the many worlds interpretation. You may get laughed at by some people and then we laugh at them. And so it goes. But nothing much worse than that.
+
+### Brandon
+
+<span class="transcript-timestamp">01:11:04 - 01:15:35</span>
+
+Fantastic. Dr. You're incredible. It's amazing getting to speak with you and get to hear your perspectives. I love this because your delineation between science with an S and science with a dollar sign is something that's very crucial to all of us, I think, because they're, like you said, it's a burgeoning influence that stops progress. And I think there's a lot of these horrible stories of people coming up with amazing hydrogen cars that can just run your car off of water and then that getting killed or developing in a university laboratory. But then somebody says, no, no, no, the tenured professor, he's still got 20 years left at least. And so we can't release this for a while. So it's these interesting stifles that really challenge our faith in scientism with a dollar sign.
+
+### Brandon
+
+<span class="transcript-timestamp">01:15:35 - 01:17:43</span>
+
+Right. But you represent, I think, a great deal of science with an S. And we really appreciate you, sir. You're doing awesome.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:15:35 - 01:17:43</span>
 
-Right. But you represent, I think, a great deal of science with an S. And we really appreciate you, sir. You're doing awesome. Thank you. Yeah, I agree. Keep asking the right questions. Keep that little kid inside satiated. Just remember that little five-year-old version of you, right? That's all we have to impress, the five-year-old you, 85 year old you. That's it. That's me. Well, thanks for everything. And this is awesome. OK, nice meeting you. Thank you.
+Thank you.
+
+### Brandon
+
+<span class="transcript-timestamp">01:15:35 - 01:17:43</span>
+
+Yeah, I agree. Keep asking the right questions. Keep that little kid inside satiated. Just remember that little five-year-old version of you, right? That's all we have to impress, the five-year-old you, 85 year old you. That's it. That's me. Well, thanks for everything. And this is awesome. OK, nice meeting you. Thank you.

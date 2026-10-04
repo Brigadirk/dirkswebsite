@@ -128,7 +128,7 @@ Well, I'm easy. My website is easy to find on the Internet. Just look for my nam
 
 <span class="transcript-timestamp">00:30:36 - 00:31:12</span>
 
-And the link to your website is in the live chat. It will also be in the description. David Deutsch, thank you very much. I think we only scratched the surface. Hopefully you'll be back on the channel. And thank you, everybody, for joining us. We will be back tomorrow with the Daily Objective at a special start time of 430 p.m. UK time, 1130 a.m. Eastern. And sorry, people on the West Coast, but that's 830 a.m. Pacific. Yeah, it's a one time thing. Back to our normal scheduled time on Monday. Thanks again, David, and we'll see you all tomorrow.
+And the link to your website is in the live chat. It will also be in the description. David Deutsch, thank you very much. I think we only scratched the surface. Hopefully you'll be back on the channel. And thank you, everybody, for joining us. We will be back tomorrow with the Daily Objective at a special start time of 4:30 p.m. UK time, 11:30 a.m. Eastern. And sorry, people on the West Coast, but that's 8:30 a.m. Pacific. Yeah, it's a one time thing. Back to our normal scheduled time on Monday. Thanks again, David, and we'll see you all tomorrow.
 
 ### David Deutsch
 
