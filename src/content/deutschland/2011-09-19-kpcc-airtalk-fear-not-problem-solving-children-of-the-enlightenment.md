@@ -43,7 +43,7 @@ One thing that's very interesting here is you make a very sharp distinction abou
 
 <span class="transcript-timestamp">00:01:53 - 00:02:52</span>
 
-The only reason that one might avoid the words truth and knowledge, which I don't, is that they have traditionally been given very irrational meanings. Knowledge has been defined as that which you know for certain and that sort of thing, and that's not available. I like the philosopher Karl Popper, whom I sort of follow in these matters. If you define knowledge as just being true and useful information, then we certainly can gain knowledge. But an explanation to me is a statement about reality, and a good explanation is a statement about reality that accounts for something and is hard to vary while still accounting for it. That, I think, is the key difference between, let's say, science and pre-scientific ways of trying to understand the world, such as faith or myth.
+The only reason that one might avoid the words truth and knowledge, which I don't, is that they have traditionally been given very irrational meanings. Knowledge has been defined as that which you know for certain and that sort of thing, and that's not available. Like the philosopher Karl Popper, whom I sort of follow in these matters, if you define knowledge as just being true and useful information, then we certainly can gain knowledge. But an explanation to me is a statement about reality, and a good explanation is a statement about reality that accounts for something and is hard to vary while still accounting for it. That, I think, is the key difference between, let's say, science and pre-scientific ways of trying to understand the world, such as faith or myth.
 
 ### David Lazarus
 
@@ -151,19 +151,19 @@ Well, it's a matter of whether one is critical. The ideas are always, always com
 
 <span class="transcript-timestamp">00:11:36 - 00:12:09</span>
 
-You're also defining an almost organic process, this generation of ideas, this perpetuation of progress. And you are indeed a very optimistic person in your book. You do write that problems are inevitable, but you also write that problems are soluble. And yet, you focus on the European enlightenment as one of those signal moments in mankind's history where things sort of kickstarted to a whole other level. Why did we see that one moment? Why aren't we seeing a steady progression of ideas as opposed to this one sudden flurry of ideas?
+You're also defining an almost organic process, this generation of ideas, this perpetuation of progress. And you are indeed a very optimistic person in your book. You do write that problems are inevitable, but you also write that problems are soluble. And yet, you focus on the European Enlightenment as one of those signal moments in mankind's history where things sort of kickstarted to a whole other level. Why did we see that one moment? Why aren't we seeing a steady progression of ideas as opposed to this one sudden flurry of ideas?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:12:09 - 00:13:22</span>
 
-Oh, perhaps I understated what the enlightenment was. I think the reason why the enlightenment is a sort of a one-off idea is that it is the beginning of infinity. It's not that everything happened at that time. In fact, scientific progress is happening much, much faster now than it did at the height of what is called the enlightenment in the 18th century. But what changed between the 18th century and the whole of human history before that, apart from a few attempted enlightenments that very tragically failed, is that they found a way of making sustained progress. And that was of having a tradition of criticism. For most of human history, those are two opposing concepts. Tradition is usually about preventing change and preventing criticism. But this magical thing, a tradition of criticism, if it can be stabilized, and it only has been stabilized once in history at the thing we call the enlightenment, is the beginning of an open-ended creation of knowledge, exponentially growing indefinitely.
+Oh, perhaps I understated what the Enlightenment was. I think the reason why the Enlightenment is a sort of a one-off idea is that it is the beginning of infinity. It's not that everything happened at that time. In fact, scientific progress is happening much, much faster now than it did at the height of what is called the Enlightenment in the 18th century. But what changed between the 18th century and the whole of human history before that, apart from a few attempted enlightenments that very tragically failed, is that they found a way of making sustained progress. And that was of having a tradition of criticism. For most of human history, those are two opposing concepts. Tradition is usually about preventing change and preventing criticism. But this magical thing, a tradition of criticism, if it can be stabilized, and it only has been stabilized once in history at the thing we call the Enlightenment, is the beginning of an open-ended creation of knowledge, exponentially growing indefinitely.
 
 ### David Lazarus
 
 <span class="transcript-timestamp">00:13:22 - 00:13:35</span>
 
-Prior to the enlightenment in the so-called dark ages, was it a matter of us not having this criticism around us, or was it a matter of something holding it back, that something more than likely the Church?
+Prior to the Enlightenment in the so-called dark ages, was it a matter of us not having this criticism around us, or was it a matter of something holding it back, that something more than likely the Church?
 
 ### David Deutsch
 
@@ -175,7 +175,7 @@ I think the external manifestations of repression, which hold back the growth of
 
 <span class="transcript-timestamp">00:14:28 - 00:14:36</span>
 
-866-893-5722 is the number Dave calling from Costa Mesa. Welcome to the program.
+866-893-5722 is the number. Dave calling from Costa Mesa. Welcome to the program.
 
 ### Caller Dave
 
@@ -241,4 +241,4 @@ Well thank you. It's been fun.
 
 <span class="transcript-timestamp">00:17:01 - 00:17:30</span>
 
-And if you have any theories of your own or explanations about how things are the way they are, please share them with us online at kpcc.org. Click on through to the Air Talk page. We will segue in just a moment from quantum mechanics to, well, television. There you go. A natural segue as we're joined by Mary McNamara of the LA Times to give us a recap of what happened at the Emmys. I'm David Lazarus in for Larry Mantle. This is Air Talk on 89.3 KPCC. Let's head straight into the newsroom now and check in with Hetty Lynn Hurdy.
+And if you have any theories of your own or explanations about how things are the way they are, please share them with us online at kpcc.org. Click on through to the Air Talk page. We will segue in just a moment from quantum mechanics to, well, television. There you go. A natural segue as we're joined by Mary McNamara of the LA Times to give us a recap of what happened at the Emmys. I'm David Lazarus in for Larry Mantle. This is Air Talk on 89.3 KPCC. Let's head straight into the newsroom now and check in with Hettie Lynne Hurtes.

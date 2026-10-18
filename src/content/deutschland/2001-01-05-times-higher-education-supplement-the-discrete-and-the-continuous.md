@@ -1,17 +1,20 @@
 ---
 title: '2001-01-05 - Times Higher Education Supplement - The Discrete and the Continuous'
-description: "David Deutsch examines Zeno's paradox, quantization, continuous change, and the role of the multiverse in quantum theory."
+description: 'David Deutsch examines Zeno''s paradox, quantization, continuous change, and the role of the multiverse in quantum theory.'
 pubDate: 2001-01-05
 ---
 
 [Read the article on David Deutsch's website](https://www.daviddeutsch.org.uk/wp-content/DiscreteAndContinuous.html)
 [Source collection](https://deranfangderunendlichkeit.de/mehr)
 
-## Article
-
 *By David Deutsch*
 
 *An abridged version of this article appeared in The Times Higher Educational Supplement on 5 January 2001.*
+
+*Copyright © 2001 by David Deutsch and News International Limited.*
+
+## Transcript
+### David Deutsch
 
 A journey of a thousand miles begins, obviously, with a single step. But isn’t it equally obvious that a step of a single metre must begin with a single millimetre? And before you can begin the last micron of that millimetre, don’t you have to get through 999 other microns first? And so ad infinitum? That “ad infinitum” bit is what worried the philosopher Zeno of Elea. Can our every action really consist of sub-actions each consisting of sub-sub-actions ... so that before we can move at all, we have to perform a literally infinite number of distinct, consecutive actions?
 
@@ -22,5 +25,3 @@ This dilemma kept coming up in various guises: does matter consist of atoms? how
 How can that be? Regrettably, the standard answer taught to subsequent generations of physics students was nonsense: “It's a particle and a wave — discrete and continuous — simultaneously”. Or: “It isn't really localised or spread out until you see the result of your experiment”. The fact that scientists could take such positions — and students accept them — marks an embarrassing period in the history of physics. A resolution compelling enough to satisfy Zeno is not yet available, but quantum theory brings us substantially closer. I believe that the resolution depends on an implication of quantum theory yet to be widely accepted: the existence of parallel universes. In short, within each universe all observable quantities are discrete, but the multiverse as a whole is a continuum. When the equations of quantum theory describe a continuous but not-directly-observable transition between two values of a discrete quantity, what they are telling us is that the transition does not take place entirely within one universe. So perhaps the price of continuous motion is not an infinity of consecutive actions, but an infinity of concurrent actions taking place across the multiverse. A kind of progress, surely.
 
 Nowadays we rely on quantum theory to explain every last counter-intuitive nuance of the behaviour of matter at atomic scales. One of the objectives in my own field is to build quantum computers — devices that will be capable of qualitatively new types of information processing. Only the very simplest have been built so far: quantum cryptographic devices whose security depends not, as all current systems do, on transient assumptions about how much computer power or mathematical ingenuity is available to potential eavesdroppers, but on the timeless laws of quantum mechanics. It will probably be decades before even more spectacular applications, such as cracking the best existing cryptographic systems, become feasible. It is an extremely challenging task. Many different technologies have been proposed. Some doubt that it can be done, but no one seriously disputes that if these computers can be built, they will possess those capabilities. For the predictions of quantum theory are superbly corroborated in every known test. In 1900, Max Planck wasn't sure what he had discovered. He didn't like it, but he knew that somehow it had to contain the explanation for the observed phenomena — so he ran with it. He was right. Later generations discovered what it meant; and the longer we live with it, the more sense it makes.
-
-Copyright © 2001 by David Deutsch and News International Limited.

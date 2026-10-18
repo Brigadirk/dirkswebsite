@@ -169,7 +169,7 @@ Well, universal explanation is both about the ability to generate explanations a
 
 <span class="transcript-timestamp">00:23:45 - 00:23:59</span>
 
-If we have such a gift of explanation why some people are struggling with simple math and others are discovering relativity? Why some people struggle with basic math while others discover relativity? How can we be universal when our abilities are so different?
+If we have such a gift of explanation why some people are struggling with simple math and others are discovering relativity? How can we be universal when our abilities are so different?
 
 ### David Deutsch
 

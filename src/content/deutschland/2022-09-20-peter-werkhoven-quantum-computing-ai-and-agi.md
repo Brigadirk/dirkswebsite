@@ -13,13 +13,13 @@ pubDate: 2022-09-20
 
 <span class="transcript-timestamp">00:00:00 - 00:01:27</span>
 
-What is the future vision of AI? In 2022, TNO will be 90 years old. A number of experts from the organisation have written their future vision on AI. They wonder where we will be in 10 years' time with regard to artificial intelligence. And they wonder what it means for industry, mobility, sustainability... our health and research itself. The full text is available online. But we were also curious to see how others would think about TNO's future vision. That's why we invited some prominent people from the business world... politics, culture and science to read our story. They will go into the subject a bit deeper in a conversation with TNO. Peter Werkhoven, Chief Scientific Officer at TNO, speaks digitally with David Deutsch... physicist, professor at Oxford and one of the pioneers in quantum computing. In 1997, he put his vision into the book The Fabric of Reality. Together, they discuss the meaning of quantum computing for AI's development and application. Will AI ever be able to generate explanatory knowledge... or to learn ethics from people? Let's take a look at Deutsch's vision of the future. Hi, David. Good to see you.
+What is the future vision of AI? In 2022, TNO will be 90 years old. A number of experts from the organisation have written their future vision on AI. They wonder where we will be in 10 years' time with regard to artificial intelligence. And they wonder what it means for industry, mobility, sustainability... our health and research itself. The full text is available online. But we were also curious to see how others would think about TNO's future vision. That's why we invited some prominent people from the business world... politics, culture and science to read our story. They will go into the subject a bit deeper in a conversation with TNO. Peter Werkhoven, Chief Scientific Officer at TNO, speaks digitally with David Deutsch... physicist, professor at Oxford and one of the pioneers in quantum computing. In 1997, he put his vision into the book The Fabric of Reality. Together, they discuss the meaning of quantum computing for AI's development and application. Will AI ever be able to generate explanatory knowledge... or to learn ethics from people? Let's take a look at Deutsch's vision of the future.
 
 ### Peter Werkhoven
 
 <span class="transcript-timestamp">00:01:28 - 00:01:56</span>
 
-Hi. Really good to see you and to have you in the studio for an interview... about digitalisation, about AI, data, the role in human society. And you're one of the persons I love to interview about this topic. Back to your contributions to science in terms of quantum computing, quantum algorithms. What do you think quantum computing will mean for AI?
+Hi, David. Good to see you. Hi. Really good to see you and to have you in the studio for an interview... about digitalisation, about AI, data, the role in human society. And you're one of the persons I love to interview about this topic. Back to your contributions to science in terms of quantum computing, quantum algorithms. What do you think quantum computing will mean for AI?
 
 ### David Deutsch
 
@@ -79,7 +79,19 @@ That's a good one. I think that's a very important notion. So if you talk about 
 
 <span class="transcript-timestamp">00:15:12 - 00:17:34</span>
 
-No, I think all such cases are going to be cases where... the knowledge has been pre-programmed into the programme or its data... by someone who already knew that explanatory knowledge. They may not have done it consciously... but it's very easy when you're writing the programme... to include knowledge that you know. For example, knowledge of how to partition the possible data... into what is relevant and what is irrelevant. Or even within the relevant things, what the types are. For example, as you mentioned... all the positions, for example, is a category that you would feed into the programme. So you're already telling the programme... to find an answer in the form, all the positions obey such and such. But that's not what physicists do when they discover a new law. They discover the concepts behind all the something. So you don't know what to ask until you have an explanatory theory. So you already feed AI by the type of question you ask. And this brings me... And then it's... Sorry, as you said, it then does the hard work. But the hard work is not the discovery of a new law.
+No, I think all such cases are going to be cases where... the knowledge has been pre-programmed into the programme or its data... by someone who already knew that explanatory knowledge. They may not have done it consciously... but it's very easy when you're writing the programme... to include knowledge that you know. For example, knowledge of how to partition the possible data... into what is relevant and what is irrelevant. Or even within the relevant things, what the types are. For example, as you mentioned... all the positions, for example, is a category that you would feed into the programme. So you're already telling the programme... to find an answer in the form, all the positions obey such and such. But that's not what physicists do when they discover a new law. They discover the concepts behind all the something. So you don't know what to ask until you have an explanatory theory.
+
+### Peter Werkhoven
+
+<span class="transcript-timestamp">00:15:12 - 00:17:34</span>
+
+So you already feed AI by the type of question you ask. And this brings me...
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:15:12 - 00:17:34</span>
+
+And then it's... Sorry, as you said, it then does the hard work. But the hard work is not the discovery of a new law.
 
 ### Peter Werkhoven
 

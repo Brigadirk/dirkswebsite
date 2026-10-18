@@ -121,7 +121,7 @@ I'm sorry, with the slot machine, I'm pretty much just going to be able to see w
 
 <span class="transcript-timestamp">00:54:22 - 00:54:32</span>
 
-Well, the idea is that I'm not sure which version of quantum theory you're thinking in terms of possibly collapsed theory in which there is a certain thing.
+Well, the idea is that I'm not sure which version of quantum theory you're thinking in terms of possibly collapse theory in which there is a certain thing.
 
 ### Audience questioner
 
@@ -283,7 +283,7 @@ It's asserting that reality has something to do with this thing that we know.
 
 <span class="transcript-timestamp">01:03:46 - 01:04:10</span>
 
-No, it's just saying that if-so it's taking an idealized game with idealized processes happening both for randomizing and for the players, and it's analyzing how those players would behave if they believed some-if they conformed to some elements of rationality that have nothing to do with probability.
+No, it's just saying that if—so it's taking an idealized game with idealized processes happening both for randomizing and for the players, and it's analyzing how those players would behave if they believed some—if they conformed to some elements of rationality that have nothing to do with probability.
 
 ### Audience questioner
 
@@ -301,7 +301,7 @@ Yes, it's counterfactual, but then you need an argument to say that a real situa
 
 <span class="transcript-timestamp">01:05:10 - 01:05:20</span>
 
-But it's-so it's based, as you said, on a guess on the correspondence between what you might be doing in certain situations to something that is counterfactual.
+But it's—so it's based, as you said, on a guess on the correspondence between what you might be doing in certain situations to something that is counterfactual.
 
 ### David Deutsch
 

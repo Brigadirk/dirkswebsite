@@ -10,12 +10,11 @@ pubDate: 2024-01-26
 <span class="duration-label">Duration:</span> <span class="duration-time">01:14:28</span>
 
 ## Transcript
-
 ### Naval Ravikant
 
 <span class="transcript-timestamp">00:00:00 - 00:00:21</span>
 
-So let's go through the fabric of reality, the four theories. Feel free to start wherever you'd like, but the four theories that you think comprise the theory of everything, and maybe especially one of the biggest things that even peers, colleagues, contemporaries don't understand or don't fully appreciate that makes each one of these deeper or perhaps more counterintuitive or more interesting than it might be at first glance.
+So let's go through The Fabric of Reality, the four theories. Feel free to start wherever you'd like, but the four theories that you think comprise the theory of everything, and maybe especially one of the biggest things that even peers, colleagues, contemporaries don't understand or don't fully appreciate that makes each one of these deeper or perhaps more counterintuitive or more interesting than it might be at first glance.
 
 ### David Deutsch
 
@@ -159,7 +158,7 @@ They don't have their own problems. The problem is imposed from the outside. And
 
 <span class="transcript-timestamp">00:22:30 - 00:24:20</span>
 
-So another example I use to illustrate this, an example from physics, is that Newton's theory of gravity had an arbitrary constant in it, which we now call capital G. I think historically it wasn't G. It was mg in the mass of the Earth times g or something, which was the fundamental constant. It's neither here nor there, but it had a constant which Newton didn't know. And then later Cavendish invented this very clever experiment to determine this constant. Now, I think Newton's discovery was not incomplete by not knowing that constant. His discovery was an explanation. And that explanation is the same before and after Cavendish. Cavendish no doubt used tremendous creativity to design the Cavendish apparatus and to make it measure g with an accuracy that you'd be amazed was possible in those days. He did that. That involved creativity, but that wasn't creativity about gravity. That was creativity about brass balls and whatever he did it with, wires and so on. Incredibly sophisticated. By the way, experimentation in science is hard. I don't know if that comes up anywhere in the four strands, but that's another thing that people just don't realize. They don't realize that mistakes happen all the time. And to do an experiment where you can form a good explanation that you have measured the thing that you're saying you have measured is very difficult. And sometimes beyond our technology or our knowledge at the moment. And so people just do a bad experiment and publish that. So that's another thing that happens that people don't get.
+So another example I use to illustrate this, an example from physics, is that Newton's theory of gravity had an arbitrary constant in it, which we now call capital G. I think historically it wasn't G. It was mg in the mass of the Earth times g or something, which was the fundamental constant. It's neither here nor there, but it had a constant which Newton didn't know. And then later Cavendish invented this very clever experiment to determine this constant. Now, I think Newton's discovery was not incomplete by not knowing that constant. His discovery was an explanation. And that explanation is the same before and after Cavendish. Cavendish no doubt used tremendous creativity to design the Cavendish apparatus and to make it measure G with an accuracy that you'd be amazed was possible in those days. He did that. That involved creativity, but that wasn't creativity about gravity. That was creativity about brass balls and whatever he did it with, wires and so on. Incredibly sophisticated. By the way, experimentation in science is hard. I don't know if that comes up anywhere in the four strands, but that's another thing that people just don't realize. They don't realize that mistakes happen all the time. And to do an experiment where you can form a good explanation that you have measured the thing that you're saying you have measured is very difficult. And sometimes beyond our technology or our knowledge at the moment. And so people just do a bad experiment and publish that. So that's another thing that happens that people don't get.
 
 ### Brett Hall
 
@@ -237,7 +236,7 @@ It seems that the appeal of anthropocentrism where we're at the center of everyt
 
 <span class="transcript-timestamp">00:33:05 - 00:33:42</span>
 
-Maybe it's that, but from your own example, people did accept that from modern astronomy. So in the 20th century, we discovered that even the galaxy is just one among many galaxies, and people were shocked. But they thinking people reacted by thinking, okay, well, I was wrong. Not only are we not the center of the solar system, but we're not the center of the universe. We're not the center of anything. And now they're shocked. As I had to plug my book, now they're shocked by saying, well, in a sense, we are the center of everything. So let's get into that.
+Maybe it's that, but from your own example, people did accept that from modern astronomy. So in the 20th century, we discovered that even the galaxy is just one among many galaxies, and people were shocked. But thinking people reacted by thinking, okay, well, I was wrong. Not only are we not the center of the solar system, but we're not the center of the universe. We're not the center of anything. And now they're shocked. As I had to plug my book, now they're shocked by saying, well, in a sense, we are the center of everything. So let's get into that.
 
 ### Naval Ravikant
 
@@ -261,7 +260,7 @@ For example, we don't understand consciousness, we don't understand creativity. 
 
 <span class="transcript-timestamp">00:34:14 - 00:34:29</span>
 
-Yes, yeah, exactly. So we don't understand those things, and they're not part of the four strands of Fabric of Reality, the book, I mean. They are part of reality. So your question was, was it connections between them? Yeah, connections between them.
+Yes, yeah, exactly. So we don't understand those things, and they're not part of the four strands of The Fabric of Reality, the book, I mean. They are part of reality. So your question was, was it connections between them? Yeah, connections between them.
 
 ### Naval Ravikant
 
@@ -297,7 +296,7 @@ Quantum computation.
 
 <span class="transcript-timestamp">00:34:56 - 00:35:49</span>
 
-Yeah. Yeah. So the fabric of reality is really a sort of, what do you call it, a riff on these things, on these ideas, which are true, but haven't been appreciated and whose connections haven't been appreciated. So with free will in the multiverse, I think what I said about that in fabric of reality is very inadequate and possibly misleading. I did not mean to say that the multiverse solves any problem of free will. I just kind of used the multiverse as an example to show that Newtonian mechanics doesn't violate free will either. Those are separate issues. And that you can make sense of counterfactuals, whether the world is deterministic or not. By the way, counterfactuals and constructor theory is yet another spin-off of these things. Let me step back.
+Yeah. Yeah. So The Fabric of Reality is really a sort of, what do you call it, a riff on these things, on these ideas, which are true, but haven't been appreciated and whose connections haven't been appreciated. So with free will in the multiverse, I think what I said about that in The Fabric of Reality is very inadequate and possibly misleading. I did not mean to say that the multiverse solves any problem of free will. I just kind of used the multiverse as an example to show that Newtonian mechanics doesn't violate free will either. Those are separate issues. And that you can make sense of counterfactuals, whether the world is deterministic or not. By the way, counterfactuals and constructor theory is yet another spin-off of these things. Let me step back.
 
 ### Naval Ravikant
 
@@ -375,13 +374,19 @@ Yes, it's the latter, it's the latter that I'm talking about. Because even if yo
 
 <span class="transcript-timestamp">00:41:51 - 00:41:52</span>
 
-But even if you could- There's no explanation.
+But even if you could-
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">00:41:51 - 00:41:52</span>
+
+There's no explanation.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:41:53 - 00:42:40</span>
 
-Yeah, you still lack the explanation. As I say in beginning of infinity with the domino theory, you could follow through every single domino striking every other domino, and work out that this one domino will never fall over, and then you will have predicted it, but you still won't understand anything about prime numbers. You won't know that it's due to prime numbers. There are arrangements of dominoes where nobody knows, nobody will know for the next 10,000 years why a particular domino stands up and not the others. And some cases, we will never know. Those cases all involve continually adding dominoes, but that doesn't change the fact that there is an explanation of things that these dominoes do that doesn't have to do with dominoes.
+Yeah, you still lack the explanation. As I say in The Beginning of Infinity with the domino theory, you could follow through every single domino striking every other domino, and work out that this one domino will never fall over, and then you will have predicted it, but you still won't understand anything about prime numbers. You won't know that it's due to prime numbers. There are arrangements of dominoes where nobody knows, nobody will know for the next 10,000 years why a particular domino stands up and not the others. And some cases, we will never know. Those cases all involve continually adding dominoes, but that doesn't change the fact that there is an explanation of things that these dominoes do that doesn't have to do with dominoes.
 
 ### Naval Ravikant
 
@@ -495,7 +500,7 @@ Or don't overlap, yeah.
 
 <span class="transcript-timestamp">00:52:03 - 00:52:34</span>
 
-You said there, and in fact, that's the third time, Einstein created general relativity out of nothing, Mozart created his work out of nothing, but I can hear the objections that, hold on, they didn't create it out of nothing. They were pre-existing knowledge there that they have used and mashed up together rather like ChatGPT. So general relativity was just Einstein riffing off geometry that was there, but hadn't been repurposed for physics. So how do you answer those opponents of this idea of creation?
+You said there, and in fact, that's the third time, Einstein created general relativity out of nothing, Mozart created his work out of nothing, but I can hear the objections that, hold on, they didn't create it out of nothing. There was pre-existing knowledge there that they have used and mashed up together rather like ChatGPT. So general relativity was just Einstein riffing off geometry that was there, but hadn't been repurposed for physics. So how do you answer those opponents of this idea of creation?
 
 ### David Deutsch
 

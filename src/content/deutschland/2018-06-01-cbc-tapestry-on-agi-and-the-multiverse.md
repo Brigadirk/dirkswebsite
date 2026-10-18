@@ -85,7 +85,7 @@ Yes. Evolution is a matter of knowledge creation. It has been since the beginnin
 
 <span class="transcript-timestamp">00:06:12 - 00:06:43</span>
 
-Someone I follow on Twitter posted this today. And I was just so delighted by the timing a couple of hours before interviewing you. This is from a poem that's displayed in her favourite coffee shop in Scotland. And one verse goes, give me a human body and a human mind, moral, fragile, fractured, but capable of lying on grass. How does that strike you as a hymn to the human being? Is it outdated? Is it romantic? Is it old school?
+Someone I follow on Twitter posted this today. And I was just so delighted by the timing a couple of hours before interviewing you. This is from a poem that's displayed in her favourite coffee shop in Scotland. And one verse goes, give me a human body and a human mind, mortal, fragile, fractured, but capable of lying on grass. How does that strike you as a hymn to the human being? Is it outdated? Is it romantic? Is it old school?
 
 ### David Deutsch
 
@@ -391,13 +391,13 @@ No, but I don't mean the papers you've written. I mean your worldview.
 
 <span class="transcript-timestamp">00:32:35 - 00:32:56</span>
 
-I think you mean something further than that. So my worldview is also affected by this. It's the way I understand the laws of physics and my own place within the laws of physics. However, I think what you're getting at, correct me if I'm wrong, is whether it affects my everyday decisions. Absolutely.
+I think you mean something further than that. So my worldview is also affected by this. It's the way I understand the laws of physics and my own place within the laws of physics. However, I think what you're getting at, correct me if I'm wrong, is whether it affects my everyday decisions.
 
 ### Mary Hynes
 
 <span class="transcript-timestamp">00:32:56 - 00:33:00</span>
 
-Thank you for clarifying. That's what I'm trying to ask you. So how do you answer that?
+Absolutely. Thank you for clarifying. That's what I'm trying to ask you. So how do you answer that?
 
 ### David Deutsch
 

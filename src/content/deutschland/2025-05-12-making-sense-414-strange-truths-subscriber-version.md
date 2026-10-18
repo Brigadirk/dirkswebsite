@@ -91,7 +91,19 @@ In the collapse interpretation, again, I just feel like we need to double click 
 
 <span class="transcript-timestamp">00:10:18 - 00:12:05</span>
 
-Right. Well, what's unacceptable to me and to Schrödinger was that this state, not that this state could exist of half alive and half dead or whatever superposition of alive and dead, but that when you open it, this resolves into one of those two. So what is it that resolves it? Well, being observed. Some people said it's being conscious of the another. Some people said it's when the outcome becomes known to the scientific community. And meanwhile, it gets peer reviewed. Yes, exactly. And originally, Niels Bohr, who kind of set off this silliness, said you're not allowed to ask. That quantum theory does not answer that question of what was happening in between when the state was prepared and when it's observed. You're not allowed to answer that. Physicists don't like that. So they produce these various interpretations that make even less sense than that. By the way, Niels Bohr also said that it's no good looking for a theory of what happens in between those two times. Quantum theory is a complete theory and therefore what it says can't be asked, really can't be asked. It's something one is not allowed to theorize about. So Einstein and some others couldn't accept that because they thought that physics in particular was about how the world actually is, not about what we are allowed to say or think. So I've forgotten what the question was there.
+Right. Well, what's unacceptable to me and to Schrödinger was that this state, not that this state could exist of half alive and half dead or whatever superposition of alive and dead, but that when you open it, this resolves into one of those two. So what is it that resolves it? Well, being observed. Some people said it's being conscious of the another. Some people said it's when the outcome becomes known to the scientific community.
+
+### Sam Harris
+
+<span class="transcript-timestamp">00:10:18 - 00:12:05</span>
+
+And meanwhile, it gets peer reviewed.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:10:18 - 00:12:05</span>
+
+Yes, exactly. And originally, Niels Bohr, who kind of set off this silliness, said you're not allowed to ask. That quantum theory does not answer that question of what was happening in between when the state was prepared and when it's observed. You're not allowed to answer that. Physicists don't like that. So they produce these various interpretations that make even less sense than that. By the way, Niels Bohr also said that it's no good looking for a theory of what happens in between those two times. Quantum theory is a complete theory and therefore what it says can't be asked, really can't be asked. It's something one is not allowed to theorize about. So Einstein and some others couldn't accept that because they thought that physics in particular was about how the world actually is, not about what we are allowed to say or think. So I've forgotten what the question was there.
 
 ### Sam Harris
 
@@ -103,13 +115,13 @@ So the question is, so if it's not consciousness that's collapsing the wave func
 
 <span class="transcript-timestamp">00:12:24 - 00:14:58</span>
 
-Yes. By the way, you have to say the consciousness of the cat does not affect it because in principle we could reconstruct the interference. So long as the wave function hasn't collapsed, you can restore the initial state and have the cat and the poison not be affected yet. So it has to be something that the experimenter does, somebody who is somehow connected with the laws of physics. Now what happens according to Everett's Everettian quantum theory is that when we do an experiment, countless numbers of us, or if you like a thick layer of us, a stratum in the multiverse with many identical copies, all of them setting up the experiment and starting the apparatus going, all of those remain identical to each other until they look at the cat. And at that moment, the interaction of the outside world with the cat and with the version of us makes us differentiate into two copies or actually millions of copies, but let's just say two copies. Where did these copies of us come from? They were already there in the modern interpretation of the, in the modern version of the theory. The way that Everett originally framed it or rather the way that DeWitt originally, Everett himself didn't have an opinion about this, but DeWitt called it splitting into two. But since then the consensus among Everettian physicists is that the multiple copies are always there. Some of them perform this experiment and from then on we can talk about them, what happens to them. And then that continuum of observers or of experimenters differentiates that they're no longer identical. The interaction with the cat makes them no longer identical, just as the cat itself is no longer identical across the swath of universes in which it exists. In half of them it is alive, in half of them is dead. When we interact with that, the same thing happens to us. We see alive and we see dead in different universes. So the copies that were already present before the experiment was ...
+Yes. By the way, you have to say the consciousness of the cat does not affect it because in principle we could reconstruct the interference. So long as the wave function hasn't collapsed, you can restore the initial state and have the cat and the poison not be affected yet. So it has to be something that the experimenter does, somebody who is somehow connected with the laws of physics. Now what happens according to Everett's Everettian quantum theory is that when we do an experiment, countless numbers of us, or if you like a thick layer of us, a stratum in the multiverse with many identical copies, all of them setting up the experiment and starting the apparatus going, all of those remain identical to each other until they look at the cat. And at that moment, the interaction of the outside world with the cat and with the version of us makes us differentiate into two copies or actually millions of copies, but let's just say two copies. Where did these copies of us come from? They were already there in the modern interpretation of the, in the modern version of the theory. The way that Everett originally framed it or rather the way that DeWitt originally, Everett himself didn't have an opinion about this, but DeWitt called it splitting into two. But since then the consensus among Everettian physicists is that the multiple copies are always there. Some of them perform this experiment and from then on we can talk about them, what happens to them. And then that continuum of observers or of experimenters differentiates that they're no longer identical. The interaction with the cat makes them no longer identical, just as the cat itself is no longer identical across the swath of universes in which it exists. In half of them it is alive, in half of them is dead. When we interact with that, the same thing happens to us. We see alive and we see dead in different universes. So the copies that were already present before the experiment was performed.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">00:14:58 - 00:15:05</span>
 
-Performed, these presumably were made in prior splittings based on prior quantum events, correct?
+These presumably were made in prior splittings based on prior quantum events, correct?
 
 ### David Deutsch
 
@@ -127,13 +139,13 @@ Okay, so now this, I must admit this at first glance and perhaps even at second 
 
 <span class="transcript-timestamp">00:15:45 - 00:15:53</span>
 
-Well, everything that can happen according to the laws of physics. Right. But like literally, so everything that's possible, ...
+Well, everything that can happen according to the laws of physics.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">00:15:54 - 00:15:58</span>
 
-Is it the same as saying that everything that's possible is in fact actual somewhere?
+Right. But like literally, so everything that's possible, is it the same as saying that everything that's possible is in fact actual somewhere?
 
 ### David Deutsch
 
@@ -271,31 +283,43 @@ Right. Because we have this alternate theory that God put the fake fossils in th
 
 <span class="transcript-timestamp">00:24:21 - 00:25:57</span>
 
-Yes. So somehow this got to be a compulsory membership card of the cool kids in fundamental physics. And a few resisted it, like Einstein. And then they started teaching it to their students. And that's when the disaster set in. Because this thing about you're not allowed to ask the question, or it's a bit of bad philosophy. But when it's applied to teaching students and telling them that they're not allowed to ask questions, then it's psychologically devastating. And that continues to this day, although the actual theories that were propagated at the time, as I said, they're not very popular nowadays. But the attitude that says it's okay to be a shut up and calculate person, that in physics, in fundamental physics, that that's okay, is a surviving effect of that initial sociological weirdness and I don't know what to call it. By the way, I don't think Bohr intended this. He had this kind of position among the physical community and he had these ideas. I don't know what he would have said if someone had told him that that idea is still going to be there in 50 years time. He might have said, that's very disappointing. Or I don't know what he would ...
+Yes. So somehow this got to be a compulsory membership card of the cool kids in fundamental physics. And a few resisted it, like Einstein. And then they started teaching it to their students. And that's when the disaster set in. Because this thing about you're not allowed to ask the question, or it's a bit of bad philosophy. But when it's applied to teaching students and telling them that they're not allowed to ask questions, then it's psychologically devastating. And that continues to this day, although the actual theories that were propagated at the time, as I said, they're not very popular nowadays. But the attitude that says it's okay to be a shut up and calculate person, that in physics, in fundamental physics, that that's okay, is a surviving effect of that initial sociological weirdness and I don't know what to call it. By the way, I don't think Bohr intended this. He had this kind of position among the physical community and he had these ideas. I don't know what he would have said if someone had told him that that idea is still going to be there in 50 years time. He might have said, that's very disappointing. Or I don't know what he would have said.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">00:25:57 - 00:27:32</span>
 
-Have said. Is there a piece of evolutionary logic that might come to the rescue of the people here who are arguing for a kind of pragmatism and instrumentalism and just willingness to suspend judgment and not grasp at some realistic picture of things? This could be a point we've made in other contexts in prior conversations, but from an evolutionary point of view, we being social primates who are leveraging our cerebral cortices in surprising ways and ways for which they could not have evolved, higher mathematics and fundamental physics being among those things, it would stand to reason that if we're discovering anything fundamental about the nature of the universe, space time, the tiniest constituents of matter, et cetera, time scales that are very vast or very small, that our intuitions which are born of picking up sticks and hitting our neighbors on the head with them and manipulating objects at that scale, our intuitions for what is real and for what is satisfying and what counts as an explanation are bound to be frustrated. To be reasoning like Bohr or any of his students and say, listen, this is never going to make sense. Your attempt to make sense of any of this is bound to be a dead end because we primates, we don't have the tools to form intuitions about any of this, but we know as a calculating device it works. So that's got to be good enough. Why doesn't that silence you on this particular ...
+Is there a piece of evolutionary logic that might come to the rescue of the people here who are arguing for a kind of pragmatism and instrumentalism and just willingness to suspend judgment and not grasp at some realistic picture of things? This could be a point we've made in other contexts in prior conversations, but from an evolutionary point of view, we being social primates who are leveraging our cerebral cortices in surprising ways and ways for which they could not have evolved, higher mathematics and fundamental physics being among those things, it would stand to reason that if we're discovering anything fundamental about the nature of the universe, space time, the tiniest constituents of matter, et cetera, time scales that are very vast or very small, that our intuitions which are born of picking up sticks and hitting our neighbors on the head with them and manipulating objects at that scale, our intuitions for what is real and for what is satisfying and what counts as an explanation are bound to be frustrated. To be reasoning like Bohr or any of his students and say, listen, this is never going to make sense. Your attempt to make sense of any of this is bound to be a dead end because we primates, we don't have the tools to form intuitions about any of this, but we know as a calculating device it works. So that's got to be good enough. Why doesn't that silence you on this particular point?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:27:32 - 00:30:22</span>
 
-Point? Well, for one thing, this has not happened in other branches of physics and it didn't happen for relativity either. And I happen to think that relativity is much more counterintuitive, general relativity is much more counterintuitive than quantum theory because although quantum theory has lots of weird counterintuitive features, the one that people get hung up on is this many universes feature. And in the 20th century, many conceptual shocks of that magnitude or greater were accepted by physicists very fast. Relativity, special relativity killed the idea of simultaneity, which is very, very difficult to remove from one's intuition. I don't think I can do it. I have to adopt a special hat to realize it. And then general relativity said that there was a beginning of the universe where the universe is, was infinitely dense. And before that there was nothing, not a vacuum, literally nothing. And that was, you know, at first many, many physicists didn't want to believe that. And Eddington did an experiment that verified the predictions and still some people didn't want to believe it and so on. And, but very quickly physicists got to believe it when, especially when they were using the machine, the machinery of relativity instrumentally, even though it's a non sequitur, you know, it might work instrumentally, but not be true. But nevertheless they did. And the same thing happened with statistical mechanics with Boltzmann. He was reviled by the major physicists of the time. He committed suicide. Some people say it was because of that, but they would say that wouldn't they? But anyway, he was reviled. And just a few years after that, he was not only vindicated, but all physicists in the world started using statistical mechanics the way he wanted it to be used. So Mach and other people who'd said that it was meaningless were just swept away. Only in quantum it swept away into the dustbin of history, you know, or rather their ideas were. I wasn't aware that Mach was on the wrong side of that debate. Oh yes. He almost dragged Einstein over to the, basically it was by consciously rejecting Mach's anti-realism that Einstein managed to form the physical intuitions that led him to ...
+Well, for one thing, this has not happened in other branches of physics and it didn't happen for relativity either. And I happen to think that relativity is much more counterintuitive, general relativity is much more counterintuitive than quantum theory because although quantum theory has lots of weird counterintuitive features, the one that people get hung up on is this many universes feature. And in the 20th century, many conceptual shocks of that magnitude or greater were accepted by physicists very fast. Relativity, special relativity killed the idea of simultaneity, which is very, very difficult to remove from one's intuition. I don't think I can do it. I have to adopt a special hat to realize it. And then general relativity said that there was a beginning of the universe where the universe is, was infinitely dense. And before that there was nothing, not a vacuum, literally nothing. And that was, you know, at first many, many physicists didn't want to believe that. And Eddington did an experiment that verified the predictions and still some people didn't want to believe it and so on. And, but very quickly physicists got to believe it when, especially when they were using the machine, the machinery of relativity instrumentally, even though it's a non sequitur, you know, it might work instrumentally, but not be true. But nevertheless they did. And the same thing happened with statistical mechanics with Boltzmann. He was reviled by the major physicists of the time. He committed suicide. Some people say it was because of that, but they would say that wouldn't they? But anyway, he was reviled. And just a few years after that, he was not only vindicated, but all physicists in the world started using statistical mechanics the way he wanted it to be used. So Mach and other people who'd said that it was meaningless were just swept away. Only in quantum it swept away into the dustbin of history, you know, or rather their ideas were.
+
+### Sam Harris
+
+<span class="transcript-timestamp">00:27:32 - 00:30:22</span>
+
+I wasn't aware that Mach was on the wrong side of that debate.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:27:32 - 00:30:22</span>
+
+Oh yes. He almost dragged Einstein over to the, basically it was by consciously rejecting Mach's anti-realism that Einstein managed to form the physical intuitions that led him to relativity.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">00:30:22 - 00:30:59</span>
 
-Relativity. Right. Right. So there are many tempting byways we might go down there because I share your sense that many of those conclusions are deeply counterintuitive. You know, simultaneity not being a thing is near the top of the list, but I'm going to resist. So bring me back to the moment where you understood many worlds to be the most plausible way of capturing the data. Obviously we're speaking to mostly to non-physicists. You're speaking to one non-physicist right here. How can you illuminate the steps intellectually here for a non-physicist?
+Right. Right. So there are many tempting byways we might go down there because I share your sense that many of those conclusions are deeply counterintuitive. You know, simultaneity not being a thing is near the top of the list, but I'm going to resist. So bring me back to the moment where you understood many worlds to be the most plausible way of capturing the data. Obviously we're speaking to mostly to non-physicists. You're speaking to one non-physicist right here. How can you illuminate the steps intellectually here for a non-physicist? Can you try your best?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:30:59 - 00:31:52</span>
 
-Can you try your best? It wasn't, it wasn't, first of all, it wasn't the most plausible. It was the only rational way of understanding quantum theory. But at that time I didn't much care about it because I was interested in other things. It was then when I went to Texas to work with John Wheeler and he was very into consciousness and consciousness collapsing the wave function, but he didn't like collapsing wave functions. So he wanted to build on Bohr's philosophical theory. And so I realized that this is contrary to Everett because Everett is strongly realistic. It believes in realism. So I made some arguments to Wheeler.
+It wasn't, it wasn't, first of all, it wasn't the most plausible. It was the only rational way of understanding quantum theory. But at that time I didn't much care about it because I was interested in other things. It was then when I went to Texas to work with John Wheeler and he was very into consciousness and consciousness collapsing the wave function, but he didn't like collapsing wave functions. So he wanted to build on Bohr's philosophical theory. And so I realized that this is contrary to Everett because Everett is strongly realistic. It believes in realism. So I made some arguments to Wheeler.
 
 ### Sam Harris
 
@@ -331,13 +355,13 @@ So things just happen. Things just happen whether we know about them or not. Cor
 
 <span class="transcript-timestamp">00:33:54 - 00:36:38</span>
 
-Yes, indeed. Popper quotes Churchill of all people who, if I can remember the quote, something like, lots of people are more learned than I am about science and so on, but I think the sun is hot, that the sun exists and that it is hot, and if they don't believe it, they should go there and see. Right. Yes, so what happened next with Wheeler is that he said, well, give me an alternative. He didn't try to browbeat me into his worldview any more than he had Everett, by the way. He was Everett's supervisor, PhD supervisor. So he said to me, probably what he said to Everett as well, I want to understand quantum theory and if you think you can do better than Bohr and me, then go ahead and do it. So then I started to seriously study the Everett version of quantum theory and as luck would have it, Bryce DeWitt was there just in the corridor around the corner. And so he told me about various problems with the theory and how he'd changed his mind since he'd written his famous papers about introducing Everettian theory. And the most important problem he said was that he thought that Everett hadn't dealt with probability properly. It's what we were talking about earlier. Right. And it's a very funny psychological thing that may interest you. I would go into his office, I would see him from time to time, like every few days, go into his office, tell him what I'd been thinking about, and he would give me wise advice. And then he would say, you should solve this problem about probability because it's annoying. And I would say, it doesn't seem problematic to me. And then he would write up on the blackboard. They had blackboards in those days. And when he'd finished, I would understand what the problem is. And then I would go home. By the time I got home, I couldn't any longer grok what the problem is. Right. And this happened, I don't know, three, four, five times. And finally, I still understood the problem when I got home. And then I spent a few weeks and produced the beginning of what became the decision theoretic approach to probability. So what is the, again, back to Wheeler or any other ...
+Yes, indeed. Popper quotes Churchill of all people who, if I can remember the quote, something like, lots of people are more learned than I am about science and so on, but I think the sun is hot, that the sun exists and that it is hot, and if they don't believe it, they should go there and see. Right. Yes, so what happened next with Wheeler is that he said, well, give me an alternative. He didn't try to browbeat me into his worldview any more than he had Everett, by the way. He was Everett's supervisor, PhD supervisor. So he said to me, probably what he said to Everett as well, I want to understand quantum theory and if you think you can do better than Bohr and me, then go ahead and do it. So then I started to seriously study the Everett version of quantum theory and as luck would have it, Bryce DeWitt was there just in the corridor around the corner. And so he told me about various problems with the theory and how he'd changed his mind since he'd written his famous papers about introducing Everettian theory. And the most important problem he said was that he thought that Everett hadn't dealt with probability properly. It's what we were talking about earlier. Right. And it's a very funny psychological thing that may interest you. I would go into his office, I would see him from time to time, like every few days, go into his office, tell him what I'd been thinking about, and he would give me wise advice. And then he would say, you should solve this problem about probability because it's annoying. And I would say, it doesn't seem problematic to me. And then he would write up on the blackboard. They had blackboards in those days. And when he'd finished, I would understand what the problem is. And then I would go home. By the time I got home, I couldn't any longer grok what the problem is. Right. And this happened, I don't know, three, four, five times. And finally, I still understood the problem when I got home. And then I spent a few weeks and produced the beginning of what became the decision theoretic approach to probability.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">00:36:38 - 00:37:08</span>
 
-Very smart, competent physicist who didn't accept this thesis, given your faith, really, in the power of rationality and explanation and how, ineluctably, people are led step by step into a conclusion, sometimes kicking and screaming, but nonetheless led all the way there because these each, the ratchet of reason turns in only one direction. What happened? Why wasn't Wheeler convinced? And how would you convince a physicist today?
+So what is the, again, back to Wheeler or any other very smart, competent physicist who didn't accept this thesis, given your faith, really, in the power of rationality and explanation and how, ineluctably, people are led step by step into a conclusion, sometimes kicking and screaming, but nonetheless led all the way there because these each, the ratchet of reason turns in only one direction. What happened? Why wasn't Wheeler convinced? And how would you convince a physicist today?
 
 ### David Deutsch
 
@@ -397,13 +421,13 @@ Yeah. Constructor theory is a new mode of explanation in fundamental physics tha
 
 <span class="transcript-timestamp">00:48:42 - 00:48:57</span>
 
-Just to be clear, is this an ontological proposal or is it a methodological proposal? I mean, are you talking about a new way of thinking about physics in terms of making claims about what is real rather than a ...
+Just to be clear, is this an ontological proposal or is it a methodological proposal? I mean, are you talking about a new way of thinking about physics in terms of making claims about what is real rather than a new way of just simply describing old physics?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:48:57 - 00:51:04</span>
 
-New way of just simply describing old physics? Yes, it's the former. You could call it a new ontology or a new mode of expressing ontology, which includes both actual, factual and counterfactual statements, and it treats them uniformly. We would like to know which of them are factual, but we can only ever find that out approximately. They are emergent properties. Which are the factual things that can only follow from this dichotomy between possible and impossible tasks? This sounds far-fetched at first, but note that we already have that theory about the final state of the universe. Just imagine for the moment that the universe is going to last only a finite time like people used to think, that there's a big bang and a big crunch. It's easier to think of that rather than the infinite future. But there's something very odd about the fact that the prevailing conception, the initial conditions plus laws of motion way of setting up theories in physics, it's a bit odd that that treats the initial conditions and the final conditions totally asymmetrically. Initial conditions are supposed to be subject to some kind of statement about what they are, and the final conditions are supposed to be completely unknowable because they depend on the future growth of knowledge, as I would say, among other things. But we don't care about the fact that we don't know the final conditions. Hawking and also Penrose both produced theories which treat the initial conditions and the final conditions uniformly. They are extremely counterintuitive theories and didn't really succeed.
+Yes, it's the former. You could call it a new ontology or a new mode of expressing ontology, which includes both actual, factual and counterfactual statements, and it treats them uniformly. We would like to know which of them are factual, but we can only ever find that out approximately. They are emergent properties. Which are the factual things that can only follow from this dichotomy between possible and impossible tasks? This sounds far-fetched at first, but note that we already have that theory about the final state of the universe. Just imagine for the moment that the universe is going to last only a finite time like people used to think, that there's a big bang and a big crunch. It's easier to think of that rather than the infinite future. But there's something very odd about the fact that the prevailing conception, the initial conditions plus laws of motion way of setting up theories in physics, it's a bit odd that that treats the initial conditions and the final conditions totally asymmetrically. Initial conditions are supposed to be subject to some kind of statement about what they are, and the final conditions are supposed to be completely unknowable because they depend on the future growth of knowledge, as I would say, among other things. But we don't care about the fact that we don't know the final conditions. Hawking and also Penrose both produced theories which treat the initial conditions and the final conditions uniformly. They are extremely counterintuitive theories and didn't really succeed.
 
 ### Sam Harris
 
@@ -415,25 +439,49 @@ Wouldn't they be uniform in the case of a big crunch? Wouldn't we just reach ano
 
 <span class="transcript-timestamp">00:51:10 - 00:51:21</span>
 
-No, because there's an infinite number of things that the big crunch could be like. Frank Tipler, for example, thought that the big crunch would be an infinite amount of knowledge
+No, because there's an infinite number of things that the big crunch could be like. Frank Tipler, for example, thought that the big crunch would be an infinite amount of knowledge creation.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">00:51:22 - 00:51:25</span>
 
-Creation. Yeah. And didn't that have some Christian overtones?
+Yeah. And didn't that have some Christian overtones?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:51:26 - 00:53:42</span>
 
-Later, he added Christian overtones. But that just goes to show how diverse it is. The big crunch is nothing like the big bang. The big bang is simple, and we can hope to understand it using simple laws like it's homogeneous in space. Turns out that that's not enough. We need more. But for the big crunch, we need a vast amount of information, much more than the universe can hold to specify what the big crunch even had. Even in its final moment? Yes, because you might think, well, the entropy is very large and it's very hot and so on. But just as there are many more ways of being wrong than right, so there are many more ways of being hot than cold. Basically, there are a few ways of being cold, but there are very many ways of being hot. So just saying the big crunch is going to be hot doesn't specify anywhere near enough about it. So none of that arises in constructor theory. Among other things, it's entirely local. Anything far away or in space or time is emergent. The law doesn't specify it. The law about possible and impossible determines it emergently. What is a constructor on this account? When I say we're making laws of the form that distinguishing between what can be caused to happen and what can't be caused to happen, this cause to happen is being done by something other than the thing we're talking about. So when I said we can't make a thing go faster than light, I'm saying there is no thing such that when you apply it to an object, it will make it go faster than light. So that's a statement about all the things in the universe. None of them are a constructor for making something going faster than light. Not only none of the ones that are now in the universe, but none of the ones that could be ...
+Later, he added Christian overtones. But that just goes to show how diverse it is. The big crunch is nothing like the big bang. The big bang is simple, and we can hope to understand it using simple laws like it's homogeneous in space. Turns out that that's not enough. We need more. But for the big crunch, we need a vast amount of information, much more than the universe can hold to specify what the big crunch even had.
+
+### Sam Harris
+
+<span class="transcript-timestamp">00:51:26 - 00:53:42</span>
+
+Even in its final moment?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:51:26 - 00:53:42</span>
+
+Yes, because you might think, well, the entropy is very large and it's very hot and so on. But just as there are many more ways of being wrong than right, so there are many more ways of being hot than cold. Basically, there are a few ways of being cold, but there are very many ways of being hot. So just saying the big crunch is going to be hot doesn't specify anywhere near enough about it. So none of that arises in constructor theory. Among other things, it's entirely local. Anything far away or in space or time is emergent. The law doesn't specify it. The law about possible and impossible determines it emergently.
+
+### Sam Harris
+
+<span class="transcript-timestamp">00:51:26 - 00:53:42</span>
+
+What is a constructor on this account?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:51:26 - 00:53:42</span>
+
+When I say we're making laws of the form that distinguishing between what can be caused to happen and what can't be caused to happen, this cause to happen is being done by something other than the thing we're talking about. So when I said we can't make a thing go faster than light, I'm saying there is no thing such that when you apply it to an object, it will make it go faster than light. So that's a statement about all the things in the universe. None of them are a constructor for making something going faster than light. Not only none of the ones that are now in the universe, but none of the ones that could be made.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">00:53:42 - 00:53:52</span>
 
-Made. Isn't that statement fungible with a statement from the old physics that would just say there is no law such that an object can be made to go faster than the speed of light?
+Isn't that statement fungible with a statement from the old physics that would just say there is no law such that an object can be made to go faster than the speed of light?
 
 ### David Deutsch
 
@@ -445,25 +493,25 @@ Yes, but that doesn't specify anything because when you're specifying things in 
 
 <span class="transcript-timestamp">00:54:45 - 00:54:50</span>
 
-Is that actually true from the point of view of QM? I thought quantum mechanics said that in some very small number of universes, the egg does reform. Yes, but there are ...
+Is that actually true from the point of view of QM? I thought quantum mechanics said that in some very small number of universes, the egg does reform.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:54:50 - 00:55:11</span>
 
-No universes in which it can be made to reform. So if it reforms in a small number of the universes in which you do a thing, that doesn't count as having caused it to happen. Having caused it to happen means that it will happen in arbitrarily large proportion of the worlds in which you do ...
+Yes, but there are no universes in which it can be made to reform. So if it reforms in a small number of the universes in which you do a thing, that doesn't count as having caused it to happen. Having caused it to happen means that it will happen in arbitrarily large proportion of the worlds in which you do the thing.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">00:55:11 - 00:55:17</span>
 
-The thing. Right. So what causes it to happen in the cases where it does happen in those ...
+Right. So what causes it to happen in the cases where it does happen in those vanishingly small number of universes?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:55:18 - 00:55:24</span>
 
-Vanishingly small number of universes? Those aren't universes. So this is a different issue.
+Those aren't universes. So this is a different issue.
 
 ### Sam Harris
 
@@ -499,55 +547,67 @@ Well, actually, can you put it in terms of, and this actually goes to another qu
 
 <span class="transcript-timestamp">00:59:47 - 01:00:06</span>
 
-So what accounts for that is presumably that the air molecules happen by chance to form themselves into such a configuration that they lift up the egg and reassemble it. So the question then would be, why did the air molecules do that? And the answer is because most air molecules in the ...
+So what accounts for that is presumably that the air molecules happen by chance to form themselves into such a configuration that they lift up the egg and reassemble it. So the question then would be, why did the air molecules do that? And the answer is because most air molecules in the multiverse did not do that.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">01:00:06 - 01:00:11</span>
 
-Multiverse did not do that. Right. This is a lottery. You won the lottery here of egg assembly...
+Right. This is a lottery. You won the lottery here of egg assembly air molecules.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:00:11 - 01:00:32</span>
 
-Air molecules. Whereas if we take the normal behavior of the egg, you don't need to invoke the other universes or the rest of the multiverse. There is an explanation that is almost entirely confined to a thing that is behaving almost classically. So again, this restores a ...
+Whereas if we take the normal behavior of the egg, you don't need to invoke the other universes or the rest of the multiverse. There is an explanation that is almost entirely confined to a thing that is behaving almost classically. So again, this restores a deterministic universe to us.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">01:00:32 - 01:00:49</span>
 
-Deterministic universe to us. So we're no longer dealing in probabilities, we're dealing in everything that can happen does happen somewhere in different amounts. And then, okay. So where does information come in here to the picture? How do you think about information in light of ...
+So we're no longer dealing in probabilities, we're dealing in everything that can happen does happen somewhere in different amounts. And then, okay. So where does information come in here to the picture? How do you think about information in light of constructor theory or many worlds?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:00:49 - 01:03:36</span>
 
-Constructor theory or many worlds? Well, to our surprise, to my surprise and to Chiara's surprise, we worked on this together, Chiara Marletto, Constructor Theory of Information was the first application of Constructor Theory that worked out and produced results. So we have a theory of information entirely in terms of possible and impossible tasks, which not only defines information as it has been defined in the work of Shannon and so on, but which has, which equally applies to quantum information. So it accounts for things like entanglement and channel capacity doubling and all those kinds of things, which until recently, and I think for most physicists even today, unfortunately, they think of quantum information theory as classical information theory plus a few weird effects that they can't explain, but they know what the equations say. So in the Constructor Theory of Information, which is very compatible with quantum theory, with Everettian quantum theory, although we don't need it for this particular application, these properties of quantum information are entirely uniform. You can write down definitions of information that apply to classical and quantum information at the same time. And interestingly, there are various things, unexpected things that came out of that. Like for example, quantum computation is, intuitively speaking, it's a way of processing information that has additional power compared with classical information. Constructor Theory of Information shows that this additional power is due to a class of possible computations on the variables that are forbidden by quantum theory. So by forbidding certain computations, it enables new types of computation to exist. And a simple way of seeing that is that quantum cryptography is, so classical cryptography is always crackable in principle. If you had a lot of ciphertext, you can do statistical tests on the results and eventually, if you had an unlimited amount of computer power, you can always crack any classical computational system. That's true. That's actually practically true. Or is there ...
+Well, to our surprise, to my surprise and to Chiara's surprise, we worked on this together, Chiara Marletto, Constructor Theory of Information was the first application of Constructor Theory that worked out and produced results. So we have a theory of information entirely in terms of possible and impossible tasks, which not only defines information as it has been defined in the work of Shannon and so on, but which has, which equally applies to quantum information. So it accounts for things like entanglement and channel capacity doubling and all those kinds of things, which until recently, and I think for most physicists even today, unfortunately, they think of quantum information theory as classical information theory plus a few weird effects that they can't explain, but they know what the equations say. So in the Constructor Theory of Information, which is very compatible with quantum theory, with Everettian quantum theory, although we don't need it for this particular application, these properties of quantum information are entirely uniform. You can write down definitions of information that apply to classical and quantum information at the same time. And interestingly, there are various things, unexpected things that came out of that. Like for example, quantum computation is, intuitively speaking, it's a way of processing information that has additional power compared with classical information. Constructor Theory of Information shows that this additional power is due to a class of possible computations on the variables that are forbidden by quantum theory. So by forbidding certain computations, it enables new types of computation to exist. And a simple way of seeing that is that quantum cryptography is, so classical cryptography is always crackable in principle. If you had a lot of ciphertext, you can do statistical tests on the results and eventually, if you had an unlimited amount of computer power, you can always crack any classical computational system.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">01:03:36 - 01:03:41</span>
 
-Enough time and compute in the universe to do that for any classical cryptography?
+That's true. That's actually practically true. Or is there enough time and compute in the universe to do that for any classical cryptography?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:03:42 - 01:05:37</span>
 
-Well, I'm not an expert on cryptography. But the trouble is, or one trouble is, that although there are definitely cryptographic protocols that would take the age of the universe to crack classically, we don't know which they are. All the trapdoor functions and the functions that are currently used to make codes that are uncrackable in practice, they haven't been proved to be uncrackable in practice. So somebody could win the Fields Medal by inventing a new method of factorizing large integers. And that could render obsolete some cryptographic systems. In quantum theory, with quantum cryptography, there is an absolute bar on cracking a quantum cryptographic system. So if you wanted to crack it, you would have to not just win the Fields Medal, you'd have to win the Nobel Prize because you'd have had to prove quantum theory false. And you're saying that constructor theory anticipates that? Well, it explains it. Yes, it explains it. Again, this was known. It's well known. It's one of the things that people like about quantum cryptography. But quantum cryptography, in the conventional way of looking at it, is a thing that's just tacked on. Oh, yes, quantum theory doesn't let you do that. Great. It allows you to detect an eavesdropper. Well, amazing. No classical cryptographic system allows you to detect an eavesdropper who doesn't perturb your system. So quantum cryptography does. So we all know that.
+Well, I'm not an expert on cryptography. But the trouble is, or one trouble is, that although there are definitely cryptographic protocols that would take the age of the universe to crack classically, we don't know which they are. All the trapdoor functions and the functions that are currently used to make codes that are uncrackable in practice, they haven't been proved to be uncrackable in practice. So somebody could win the Fields Medal by inventing a new method of factorizing large integers. And that could render obsolete some cryptographic systems. In quantum theory, with quantum cryptography, there is an absolute bar on cracking a quantum cryptographic system. So if you wanted to crack it, you would have to not just win the Fields Medal, you'd have to win the Nobel Prize because you'd have had to prove quantum theory false.
+
+### Sam Harris
+
+<span class="transcript-timestamp">01:03:42 - 01:05:37</span>
+
+And you're saying that constructor theory anticipates that?
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:03:42 - 01:05:37</span>
+
+Well, it explains it. Yes, it explains it. Again, this was known. It's well known. It's one of the things that people like about quantum cryptography. But quantum cryptography, in the conventional way of looking at it, is a thing that's just tacked on. Oh, yes, quantum theory doesn't let you do that. Great. It allows you to detect an eavesdropper. Well, amazing. No classical cryptographic system allows you to detect an eavesdropper who doesn't perturb your system. So quantum cryptography does. So we all know that. But why that happens?
 
 ### Sam Harris
 
 <span class="transcript-timestamp">01:05:37 - 01:05:47</span>
 
-But why that happens? Can you say more about that? Again, let me know if I'm pushing into a thicket of technicalities that would be uninterpretable to 99% of the audience. But ...
+Can you say more about that? Again, let me know if I'm pushing into a thicket of technicalities that would be uninterpretable to 99% of the audience. But how is it that we can detect an eavesdropper in quantum terms?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:05:47 - 01:06:54</span>
 
-How is it that we can detect an eavesdropper in quantum terms? So there's this in the constructor theory of information and also with hindsight in the quantum theory of information, there is quantum information which is inaccessible to locally, as we say, it's inaccessible for anyone doing an experiment on only that thing. There is information in the thing that can't be extracted. It can only be extracted if you have access to another thing, which in cryptography is the key, which the other end has. And an eavesdropper doesn't have it. What's more, if they just randomly look at the key, they spoil the quantum interference that's inside the object. And the amazing thing is that this quantum interference is inside objects like photons and so on, which don't interfere. They're decoherent. They can't be used for computations other than cryptography.
+So there's this in the constructor theory of information and also with hindsight in the quantum theory of information, there is quantum information which is inaccessible to locally, as we say, it's inaccessible for anyone doing an experiment on only that thing. There is information in the thing that can't be extracted. It can only be extracted if you have access to another thing, which in cryptography is the key, which the other end has. And an eavesdropper doesn't have it. What's more, if they just randomly look at the key, they spoil the quantum interference that's inside the object. And the amazing thing is that this quantum interference is inside objects like photons and so on, which don't interfere. They're decoherent. They can't be used for computations other than cryptography.
 
 ### Sam Harris
 
@@ -571,7 +631,7 @@ So perhaps we should back up for a second. Now I think we're talking about quant
 
 <span class="transcript-timestamp">01:07:36 - 01:11:11</span>
 
-So the very simplest quantum interference experiment is a two-slit experiment or something. You aim a single photon at a pair of slits and you have the photon be wide enough to cover the two slits. It goes through the two slits and at the other end it may arrive at some places and cannot arrive at other places. If you send in lots of them, you then build up a pattern. But the pattern is already there when you just send one of them because you can predict that it will not arrive at some places and it will arrive. It can arrive at other places. Now the amazing thing is that if you then open another slit, then you get a different pattern. I like doing this with holes rather than slits because you see that the pattern on the screen is totally different from the pattern of holes. So you open another slit or make another hole, open another hole, and there are places on the screen where having opened another hole, now the photon never lands. You've opened more paths for the photon to potentially go down and by opening the hole, it has prevented it from ever going to certain places. Now that's easy to explain if you've got lots of photons because it means that they interfere with each other. But if you only have one photon at a time going through, then what is preventing it from getting to that place on the screen just because you've opened another hole? It means that the photon can't just be going through one of the holes. It must be going through both of them or all three of them or all googol of them. So that is explained in the Everett interpretation, sorry, Everett in quantum mechanics. I mustn't say interpretation. In regard to computation, think of it this way. This is where I first thought of it actually. What would happen if you put in a little quantum gate in each of the holes? Then one of them flips it, turns it from zero to one, one half flips it, turns it at 90 degrees and so on. What happens at the other end? You can't do that in real life. It's too difficult to do with photons. But theoretically speaking, if you could do that with photons, the pattern that you would see at the other end would again depend in a very complicated way on both the holes and on what you put in the holes to do things to the photon on its way through. If those were computational elements, then the result would depend on all three of them. In other words, it would be a parallel computation with three, let's say, parallel computations going on at the same time, but performed by the same photon. So just one photon went through, it performed these different computations in different universes, then they came together and produced the same output, like whether the screen is dark or bright at that point, that depends on all three things. That's a parallel computation performed by a single photon.
+So the very simplest quantum interference experiment is a two-slit experiment or something. You aim a single photon at a pair of slits and you have the photon be wide enough to cover the two slits. It goes through the two slits and at the other end it may arrive at some places and cannot arrive at other places. If you send in lots of them, you then build up a pattern. But the pattern is already there when you just send one of them because you can predict that it will not arrive at some places and it will arrive. It can arrive at other places. Now the amazing thing is that if you then open another slit, then you get a different pattern. I like doing this with holes rather than slits because you see that the pattern on the screen is totally different from the pattern of holes. So you open another slit or make another hole, open another hole, and there are places on the screen where having opened another hole, now the photon never lands. You've opened more paths for the photon to potentially go down and by opening the hole, it has prevented it from ever going to certain places. Now that's easy to explain if you've got lots of photons because it means that they interfere with each other. But if you only have one photon at a time going through, then what is preventing it from getting to that place on the screen just because you've opened another hole? It means that the photon can't just be going through one of the holes. It must be going through both of them or all three of them or all googol of them. So that is explained in the Everett interpretation, sorry, Everettian quantum mechanics. I mustn't say interpretation. In regard to computation, think of it this way. This is where I first thought of it actually. What would happen if you put in a little quantum gate in each of the holes? Then one of them flips it, turns it from zero to one, one half flips it, turns it at 90 degrees and so on. What happens at the other end? You can't do that in real life. It's too difficult to do with photons. But theoretically speaking, if you could do that with photons, the pattern that you would see at the other end would again depend in a very complicated way on both the holes and on what you put in the holes to do things to the photon on its way through. If those were computational elements, then the result would depend on all three of them. In other words, it would be a parallel computation with three, let's say, parallel computations going on at the same time, but performed by the same photon. So just one photon went through, it performed these different computations in different universes, then they came together and produced the same output, like whether the screen is dark or bright at that point, that depends on all three things. That's a parallel computation performed by a single photon.
 
 ### David Deutsch
 
@@ -583,13 +643,13 @@ Now for that, you actually have to put the three different things in, which mean
 
 <span class="transcript-timestamp">01:12:35 - 01:12:41</span>
 
-So where are they? What has been built to your knowledge to date and what ...
+So where are they? What has been built to your knowledge to date and what principles of?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:12:41 - 01:12:49</span>
 
-Principles of? I don't know. I'm not an experimental physicist. And to me...
+I don't know. I'm not an experimental physicist. And to me...
 
 ### Sam Harris
 
@@ -601,7 +661,7 @@ But there are quantum computers of some size, right? And I mean, they're constra
 
 <span class="transcript-timestamp">01:12:56 - 01:13:58</span>
 
-But people argue about this. The question is how general are the programs that... Suppose you had a thing with 50 qubits. In principle, that can do two to the 50 computations, which is enormous. But the trouble is how well can you control this laser pulse or whatever you're causing them, however you're programming them? Can you really reach all the 50? So you have to prepare them with 50 different pulses or one pulse doing 50 different things. How well can you control that so that it can cause any quantum program? So I'm not competent to judge that. But another colleague of mine, Mario Villaris, has made a series of YouTube videos about quantum computation, which are excellent. So I recommend them to you and your audience.
+But people argue about this. The question is how general are the programs that... Suppose you had a thing with 50 qubits. In principle, that can do two to the 50 computations, which is enormous. But the trouble is how well can you control this laser pulse or whatever you're causing them, however you're programming them? Can you really reach all the 50? So you have to prepare them with 50 different pulses or one pulse doing 50 different things. How well can you control that so that it can cause any quantum program? So I'm not competent to judge that. But another colleague of mine, Maria Violaris, has made a series of YouTube videos about quantum computation, which are excellent. So I recommend them to you and your audience.
 
 ### Sam Harris
 
@@ -613,7 +673,13 @@ So is the jury still out on whether quantum computation is ever going to be prac
 
 <span class="transcript-timestamp">01:14:13 - 01:14:33</span>
 
-Yes. I think we can confidently say that unless there is a law of physics that we don't know about, it can be done. It can be done. Yes. But of course, we can't prove that there isn't a law of physics that we don't know about. Right. But we haven't yet done enough to answer that question in terms of the applied physics of it.
+Yes. I think we can confidently say that unless there is a law of physics that we don't know about, it can be done. It can be done. Yes. But of course, we can't prove that there isn't a law of physics that we don't know about.
+
+### Sam Harris
+
+<span class="transcript-timestamp">01:14:13 - 01:14:33</span>
+
+Right. But we haven't yet done enough to answer that question in terms of the applied physics of it.
 
 ### David Deutsch
 
@@ -679,25 +745,25 @@ Haven't we been, in so many words, discussing the abundant evidence that the hum
 
 <span class="transcript-timestamp">01:19:21 - 01:19:36</span>
 
-Well, you're making my point. So to be an AGI, among other things, an AGI must be capable of stubbornly sticking to bad theories. It must be capable of not doing so, but it must also be ...
+Well, you're making my point. So to be an AGI, among other things, an AGI must be capable of stubbornly sticking to bad theories. It must be capable of not doing so, but it must also be capable of doing so.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">01:19:36 - 01:20:53</span>
 
-Capable of doing so. But isn't that, I think this is what we're seeing to some degree in these LLMs, right? Clearly people are capable of flagrant irrationality and incoherence, i.e. what we're calling hallucinations on the part of LLMs. And they're capable of reconciling those when they're pointed out as LLMs are, or they're capable of denying the contradiction as not being real, even though it is real. I mean, they were capable of a multitude of errors as LLMs are. I mean, some of the ones, what's surprising about the hallucinations we see from LLMs is that if we anthropomorphize them, if we imagine having access to that amount of knowledge and having just said the thing that demonstrated the kind of near omniscience of certain facts, the kinds of errors they make, we feel, are not the kinds of errors that would be open to us at that point, right? Like if you know everything about U.S. presidents, it shouldn't be possible for you to say that George Washington wasn't a U.S. president or something like that, that obviously contradicts the totality of your knowledge. But there are surprising moments of ...
+But isn't that, I think this is what we're seeing to some degree in these LLMs, right? Clearly people are capable of flagrant irrationality and incoherence, i.e. what we're calling hallucinations on the part of LLMs. And they're capable of reconciling those when they're pointed out as LLMs are, or they're capable of denying the contradiction as not being real, even though it is real. I mean, they were capable of a multitude of errors as LLMs are. I mean, some of the ones, what's surprising about the hallucinations we see from LLMs is that if we anthropomorphize them, if we imagine having access to that amount of knowledge and having just said the thing that demonstrated the kind of near omniscience of certain facts, the kinds of errors they make, we feel, are not the kinds of errors that would be open to us at that point, right? Like if you know everything about U.S. presidents, it shouldn't be possible for you to say that George Washington wasn't a U.S. president or something like that, that obviously contradicts the totality of your knowledge. But there are surprising moments of incoherence like that.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:20:53 - 01:24:18</span>
 
-Incoherence like that. For example, if you knew everything that was known about physics in 1900, as for example, Michelson did, and one of the things you'd be most sure of is that there is such a thing as a force of gravity. You might not be absolutely sure that it's an inverse square law, but you would say it's bound to be very close to an inverse square law because it gives such fantastically accurate predictions. And a few years later, Einstein, who also knew a lot of physics, contradicted that and said that there is no force of gravity. Everything we thought we knew about the force of gravity is explained in some other way. And this new way is not in the existing body of knowledge. It doesn't come from either experiment or from existing knowledge. It comes from a problem. The problem was first, for special relativity, how do you reconcile the way that electromagnetic waves behave with Euclidean geometry? And the special relativity was the solution to that problem. They seemed to contradict each other. And with gravity, it was even worse because there it was, how do you reconcile the existence of gravity with special relativity? And the answer was general relativity. So in both those cases, not the whole of physics, but the whole of existing physics as applied to that question, namely, how does gravity behave or how does geometry behave? In order to solve that problem, you had to contradict everything that was known. LLMs can't do that. I have asked them. Not that that's a good test, but I've tried to train a ChatGPT to form new conjectures that don't just regurgitate existing theories. And I've told it to form a new conjecture about a thing, and nevermind how bad it is, just form one that's different from everything that's gone before. So it does that. I don't know whether it's really different, but then I say, now form a criticism of that, why it is wrong. So it does that. I can tell that it did that correctly. And I can say, now form a conjecture that hasn't been said before, which contradicts your improved version and so on. So I can't tell how well it's the more further down the line I go, the less it is possible to detect whether it's being original. But then this is the thing that persuaded me that they're not yet. I said, okay, now you see that we've gone through a certain cycle of conjecture and criticism under certain conditions that I laid down. I'm not going to ask you to do that again. I'm asking you to do that again 10 times and then just tell me the output of the last one. And what it did was, of course, I shouldn't have been so silly. It just gave me another one. And as if I had asked it to ask for one iteration. I can detail far more elementary errors produced by ...
+For example, if you knew everything that was known about physics in 1900, as for example, Michelson did, and one of the things you'd be most sure of is that there is such a thing as a force of gravity. You might not be absolutely sure that it's an inverse square law, but you would say it's bound to be very close to an inverse square law because it gives such fantastically accurate predictions. And a few years later, Einstein, who also knew a lot of physics, contradicted that and said that there is no force of gravity. Everything we thought we knew about the force of gravity is explained in some other way. And this new way is not in the existing body of knowledge. It doesn't come from either experiment or from existing knowledge. It comes from a problem. The problem was first, for special relativity, how do you reconcile the way that electromagnetic waves behave with Euclidean geometry? And the special relativity was the solution to that problem. They seemed to contradict each other. And with gravity, it was even worse because there it was, how do you reconcile the existence of gravity with special relativity? And the answer was general relativity. So in both those cases, not the whole of physics, but the whole of existing physics as applied to that question, namely, how does gravity behave or how does geometry behave? In order to solve that problem, you had to contradict everything that was known. LLMs can't do that. I have asked them. Not that that's a good test, but I've tried to train a ChatGPT to form new conjectures that don't just regurgitate existing theories. And I've told it to form a new conjecture about a thing, and nevermind how bad it is, just form one that's different from everything that's gone before. So it does that. I don't know whether it's really different, but then I say, now form a criticism of that, why it is wrong. So it does that. I can tell that it did that correctly. And I can say, now form a conjecture that hasn't been said before, which contradicts your improved version and so on. So I can't tell how well it's the more further down the line I go, the less it is possible to detect whether it's being original. But then this is the thing that persuaded me that they're not yet. I said, okay, now you see that we've gone through a certain cycle of conjecture and criticism under certain conditions that I laid down. I'm not going to ask you to do that again. I'm asking you to do that again 10 times and then just tell me the output of the last one. And what it did was, of course, I shouldn't have been so silly. It just gave me another one. And as if I had asked it to ask for one iteration.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">01:24:18 - 01:24:30</span>
 
-My interactions with LLMs than that. You're subjecting the LLM to some kind of Popperian torture that no human grad student could survive either, I would point out.
+I can detail far more elementary errors produced by my interactions with LLMs than that. You're subjecting the LLM to some kind of Popperian torture that no human grad student could survive either, I would point out.
 
 ### David Deutsch
 
@@ -763,7 +829,7 @@ But our access, aren't there a fair number of devils in the details of what acce
 
 <span class="transcript-timestamp">01:32:40 - 01:33:14</span>
 
-So to follow your analogy, if I want to play a game of chess against stockfish and have a chance of winning, what I'll do is use a copy of stockfish. So the thing that makes stockfish good at chess is a program and some hardware. And the program uses the hardware. It's not that the hardware itself can play chess. It's the program can make use of that hardware. So can a human, a human can make use of the same hardware.
+So to follow your analogy, if I want to play a game of chess against Stockfish and have a chance of winning, what I'll do is use a copy of Stockfish. So the thing that makes Stockfish good at chess is a program and some hardware. And the program uses the hardware. It's not that the hardware itself can play chess. It's the program can make use of that hardware. So can a human, a human can make use of the same hardware.
 
 ### Sam Harris
 
@@ -781,13 +847,13 @@ Yeah. Note that you're talking about AI. So AI is being developed in the wild in
 
 <span class="transcript-timestamp">01:34:56 - 01:35:25</span>
 
-But now you're just, okay, so leave aside the ethics of how we treat these machines once they're general, because I think consciousness is a separable component, perhaps, or at least it's not obvious that an AGI would be conscious. Maybe it's obvious to you, but I think we could argue about that, but we would need another hour. So let's leave aside the ethics of perpetrating a crime on our machines. Let's worry about whether we can survive our relationship with them once they become...
+But now you're just, okay, so leave aside the ethics of how we treat these machines once they're general, because I think consciousness is a separable component, perhaps, or at least it's not obvious that an AGI would be conscious. Maybe it's obvious to you, but I think we could argue about that, but we would need another hour. So let's leave aside the ethics of perpetrating a crime on our machines. Let's worry about whether we can survive our relationship with them once they become general.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:35:26 - 01:35:55</span>
 
-General. The same is true of, I'm sorry to keep coming back to this point, but the same is true of people. We are at present in deadly existential danger from people. We haven't solved that problem. We haven't come close to solving that problem. We've solved it better than any previous society. So let's pat ourselves on the back for that. But to say that we're not now in danger from humans.
+The same is true of, I'm sorry to keep coming back to this point, but the same is true of people. We are at present in deadly existential danger from people. We haven't solved that problem. We haven't come close to solving that problem. We've solved it better than any previous society. So let's pat ourselves on the back for that. But to say that we're not now in danger from humans.
 
 ### Sam Harris
 
@@ -889,13 +955,13 @@ Right. I think, I forget whose point this is. It might've been Vasily Grossman o
 
 <span class="transcript-timestamp">01:46:08 - 01:46:13</span>
 
-Exactly. Exactly. But, you know, I think the standard view of this is that there has been, ...
+Exactly. Exactly.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">01:46:14 - 01:49:36</span>
 
-And we can take the pre-Christian roots as being, I mean, so there's been the problem of religious sectarianism that reaches all the way back to the beginning of religion, presumably, and the uniquely insular quality of Judaism. The sort of the chosen people, shtick, and the fact that they're not, have never been disposed to be a missionary faith looking for converts, that has been a kind of algorithm, a kind of social algorithm that has proved, if nothing else, a very tempting target in a larger environment of rival, you know, competing religious dogmatisms and tribalisms. And it was explicitly enshrined in Christianity from, you know, at some point onward. I mean, it's obviously incoherent when you look at the details because Jesus was Jewish and the Virgin Mary was Jewish and all the apostles were Jewish. And so just how anti-Semitic can you be in the end. But as the history of Christianity proves, and as the history of, you know, its casuistry and hair splitting theology proves, you could justify a virulent form of anti-Semitism on theological grounds because the Jews in every present generation in maintaining their Jewishness are explicitly repudiating the central claim of Christianity, which is that Jesus was the Messiah and that he came back to save all of us from our sins and that you don't need this original covenant with God because, you know, you are now saved through faith in Jesus, et cetera, et cetera. And, you know, you Jews who don't accept that are, you know, the spawn of Satan, et cetera. So the theology was there. What the Nazis gave us was started to happen in the, you know, the late 19th century. And what the Nazis explicitly gave us was a racialized conception of the difference between Jews and everyone else. And I should say that Islam has its own theology wherein the Jews are anathema. And that, you know, goes back to the seventh century. And we have the example of how Muhammad treated incorrigible Jews who he came across. So all of that was just as, nearly as dangerous and invidious as what we had in Christianity for Jews for many, many centuries. But then, you know, post World War II or really, you know, during World War II, you have, you know, the Grand Mufti of Jerusalem, Al Husseini, explicitly becoming a Nazi and touring Auschwitz, I believe with Heydrich, you have this marriage of Nazi style racial anti-Semitism and Islamist theocratic anti-Semitism. And that gets exported back into the Muslim world. And so now you have in the Muslim world, you know, a rather avid readership for the protocols of the elders of Zion, you know, a Russian anti-Semitic forgery and Mein Kampf. And, you know, and you have people who will say that though they doubt the Holocaust occurred, they, you know, wish it had occurred and they'll bring it about out on their own terms. And that's, you know, what more or less every Jihadist aspires to. So you have this, a fairly explicit history of memes traveling and becoming enshrined in various ideologies. And that's the pattern I see.
+But, you know, I think the standard view of this is that there has been, and we can take the pre-Christian roots as being, I mean, so there's been the problem of religious sectarianism that reaches all the way back to the beginning of religion, presumably, and the uniquely insular quality of Judaism. The sort of the chosen people, shtick, and the fact that they're not, have never been disposed to be a missionary faith looking for converts, that has been a kind of algorithm, a kind of social algorithm that has proved, if nothing else, a very tempting target in a larger environment of rival, you know, competing religious dogmatisms and tribalisms. And it was explicitly enshrined in Christianity from, you know, at some point onward. I mean, it's obviously incoherent when you look at the details because Jesus was Jewish and the Virgin Mary was Jewish and all the apostles were Jewish. And so just how anti-Semitic can you be in the end. But as the history of Christianity proves, and as the history of, you know, its casuistry and hair splitting theology proves, you could justify a virulent form of anti-Semitism on theological grounds because the Jews in every present generation in maintaining their Jewishness are explicitly repudiating the central claim of Christianity, which is that Jesus was the Messiah and that he came back to save all of us from our sins and that you don't need this original covenant with God because, you know, you are now saved through faith in Jesus, et cetera, et cetera. And, you know, you Jews who don't accept that are, you know, the spawn of Satan, et cetera. So the theology was there. What the Nazis gave us was started to happen in the, you know, the late 19th century. And what the Nazis explicitly gave us was a racialized conception of the difference between Jews and everyone else. And I should say that Islam has its own theology wherein the Jews are anathema. And that, you know, goes back to the seventh century. And we have the example of how Muhammad treated incorrigible Jews who he came across. So all of that was just as, nearly as dangerous and invidious as what we had in Christianity for Jews for many, many centuries. But then, you know, post World War II or really, you know, during World War II, you have, you know, the Grand Mufti of Jerusalem, Al Husseini, explicitly becoming a Nazi and touring Auschwitz, I believe with Heydrich, you have this marriage of Nazi style racial anti-Semitism and Islamist theocratic anti-Semitism. And that gets exported back into the Muslim world. And so now you have in the Muslim world, you know, a rather avid readership for The Protocols of the Elders of Zion, you know, a Russian anti-Semitic forgery and Mein Kampf. And, you know, and you have people who will say that though they doubt the Holocaust occurred, they, you know, wish it had occurred and they'll bring it about out on their own terms. And that's, you know, what more or less every Jihadist aspires to. So you have this, a fairly explicit history of memes traveling and becoming enshrined in various ideologies. And that's the pattern I see.
 
 ### Sam Harris
 
@@ -919,13 +985,13 @@ Just to be clear, these are on my account terrible reasons, right? I'm just tryi
 
 <span class="transcript-timestamp">01:50:58 - 01:52:07</span>
 
-I think that they're not only terrible morally, they don't make sense logically. They're not the kind of reason you might have for hating someone. So, you said, just to take an example at random, that I just remember you said, people think that Jews are white and Palestinians are brown. In fact, I think statistically, the reverse is true. And the Palestinians oppress black people in their midst, and the Israelis don't. I think when you confront people with that, it will not change their opinion about that, their opinion that Israel is bad. And you might say, I was about to say that Israel is bad and the Palestinians are good. They don't believe the latter either. When there's Palestinian suffering that they can't blame Israel for, they still blame Israel for the suffering that they do blame Israel for, and they don't care about the other suffering. They never mention it. So the pattern must be at the bottom of that. But again, I think I posed this question to you already.
+I think that they're not only terrible morally, they don't make sense logically. They're not the kind of reason you might have for hating someone. So, you said, just to take an example at random, that I just remember you said, people think that Jews are white and Palestinians are brown. In fact, I think statistically, the reverse is true. And the Palestinians oppress black people in their midst, and the Israelis don't. I think when you confront people with that, it will not change their opinion about that, their opinion that Israel is bad. And you might say, I was about to say that Israel is bad and the Palestinians are good. They don't believe the latter either. When there's Palestinian suffering that they can't blame Israel for, they still blame Israel for the suffering that they do blame Israel for, and they don't care about the other suffering. They never mention it. So the pattern must be at the bottom of that.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">01:52:07 - 01:52:15</span>
 
-Why do people hate Jews then? What is at the bottom of this?
+But again, I think I posed this question to you already. Why do people hate Jews then? What is at the bottom of this?
 
 ### David Deutsch
 
@@ -997,7 +1063,7 @@ For example. Then you will use the Jews if possible and then you will invent the
 
 <span class="transcript-timestamp">02:00:06 - 02:00:25</span>
 
-What's the role of conspiracy thinking here? That does seem to be a generic structure to much anti-Semitism. There's a, and explicit in things like the protocols of the elders of Zion, but there's an appetite for conspiracy thinking and that often works to the disadvantage of the Jews.
+What's the role of conspiracy thinking here? That does seem to be a generic structure to much anti-Semitism. There's a, and explicit in things like The Protocols of the Elders of Zion, but there's an appetite for conspiracy thinking and that often works to the disadvantage of the Jews.
 
 ### David Deutsch
 
@@ -1027,31 +1093,31 @@ Why is that as a matter of empirical fact or logical fact always untrue?
 
 <span class="transcript-timestamp">02:02:52 - 02:03:59</span>
 
-Oh, because as something that might happen once, it is possible, but as something which is an explanation for something in society, it doesn't work. For example, such a group could never propagate itself to the next generation because I once had a long argument with somebody who believed in homeopathy along exactly these lines because I asked him the question and he held a conspiracy theory that the drug companies know that conventional drugs are ineffective, but they still market them in order to make money and so on. So I asked him when the top executives of the drug company, when they have a sick child, do they give the sick child the homeopathic medicine or the conventional medicine? And we went into, you can imagine, we went into a long argument where there were ad hoc, he was presenting ad hoc theories that seemed to try to make sense...
+Oh, because as something that might happen once, it is possible, but as something which is an explanation for something in society, it doesn't work. For example, such a group could never propagate itself to the next generation because I once had a long argument with somebody who believed in homeopathy along exactly these lines because I asked him the question and he held a conspiracy theory that the drug companies know that conventional drugs are ineffective, but they still market them in order to make money and so on. So I asked him when the top executives of the drug company, when they have a sick child, do they give the sick child the homeopathic medicine or the conventional medicine? And we went into, you can imagine, we went into a long argument where there were ad hoc, he was presenting ad hoc theories that seemed to try to make sense of this.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">02:03:59 - 02:04:01</span>
 
-Of this. Epicycles and epicycles.
+Epicycles and epicycles.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">02:04:02 - 02:04:47</span>
 
-Yes, yes. But you can see already, without me telling you, that they didn't make sense because you have a situation where the drug company executive is going to secretly bring the homeopathic medicine, having secretly bought it in a disguise, and he's going to tell the child that he's giving him a conventional medicine so the child doesn't blab at school and so on. You have to go into, as you say, more and more epicycles. So, qua explanation of the world, conspiracy theories, in the sense I've defined them, never make sense. They're never true. Right. Right. Yeah, that's certainly been my experience.
+Yes, yes. But you can see already, without me telling you, that they didn't make sense because you have a situation where the drug company executive is going to secretly bring the homeopathic medicine, having secretly bought it in a disguise, and he's going to tell the child that he's giving him a conventional medicine so the child doesn't blab at school and so on. You have to go into, as you say, more and more epicycles. So, qua explanation of the world, conspiracy theories, in the sense I've defined them, never make sense. They're never true.
 
 ### Sam Harris
 
 <span class="transcript-timestamp">02:04:48 - 02:06:05</span>
 
-One way of describing it is that you really do have a, in the general case, it attributes a kind of mastery and superhuman coordination among people who we know, in fact, are ruled by very different incentives and sometimes antithetical incentives. Yes. And yet, for the purpose of this odious thing that has been brought about in the world, they have conspired perfectly in ways that seem, in every other case, they never manage to do. My favorite example of this is that, to go back to Bill Clinton's time in the Oval Office, we're asked to believe that thousands upon thousands of people can conspire seamlessly in something like the World Trade Center destruction. None of them ever has a guilty conscience. No one blabs to their wife on their deathbed. Nobody is overheard talking about it, et cetera, et cetera. And yet, more or less contemporaneous with that, we had the president of the United States unable to keep a semen-stained dress off the evening news, despite his best efforts. So, there are obvious limits to people's ability to conspire when people have different ...
+Right. Right. Yeah, that's certainly been my experience. One way of describing it is that you really do have a, in the general case, it attributes a kind of mastery and superhuman coordination among people who we know, in fact, are ruled by very different incentives and sometimes antithetical incentives. Yes. And yet, for the purpose of this odious thing that has been brought about in the world, they have conspired perfectly in ways that seem, in every other case, they never manage to do. My favorite example of this is that, to go back to Bill Clinton's time in the Oval Office, we're asked to believe that thousands upon thousands of people can conspire seamlessly in something like the World Trade Center destruction. None of them ever has a guilty conscience. No one blabs to their wife on their deathbed. Nobody is overheard talking about it, et cetera, et cetera. And yet, more or less contemporaneous with that, we had the president of the United States unable to keep a semen-stained dress off the evening news, despite his best efforts. So, there are obvious limits to people's ability to conspire when people have different life projects and different incentives.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">02:06:06 - 02:06:54</span>
 
-Life projects and different incentives. And that is only talking about the difficulties the conspirators would have. But even worse is the dupes that carry out their commands without knowing what it's for. Because you could have a conspiracy, but to have a million people acting it out, knowing what it's for and not telling anybody is impossible. So, the dupes have to think that they are acting in pursuit of the things that the conspirators claim publicly they are doing. So, they're claiming publicly one thing, and they're ordering their lackeys to do a thing which secretly causes the opposite thing and so on. So, it's both the lackeys and the conspirators who are doing impossible things.
+And that is only talking about the difficulties the conspirators would have. But even worse is the dupes that carry out their commands without knowing what it's for. Because you could have a conspiracy, but to have a million people acting it out, knowing what it's for and not telling anybody is impossible. So, the dupes have to think that they are acting in pursuit of the things that the conspirators claim publicly they are doing. So, they're claiming publicly one thing, and they're ordering their lackeys to do a thing which secretly causes the opposite thing and so on. So, it's both the lackeys and the conspirators who are doing impossible things.
 
 ### Sam Harris
 
@@ -1069,13 +1135,13 @@ Well, as always, I can't prophesy. I think although the pattern is common in Isr
 
 <span class="transcript-timestamp">02:09:41 - 02:10:35</span>
 
-Do you worry that some of the responses to the recent eruptions of anti-Semitism on, let's say, college campuses are so heavy-handed that they, in the end, will simply magnify the reasons for the pattern? So, for instance, many people could read into, take the local case, the pressure that the Trump administration is applying to the Ivy League at the moment, ostensibly in response to the problem of anti-Semitism. I mean, one could argue that there's other things working in the background. But from the anti-Semites point of view, this is confirmation of the conspiracy theory that the Jews are pulling the strings of everything. And look, what happens to you when you conform to the pattern of anti-Semitism? The government of the United States, in this case, comes crashing down on you. And that just confirms the fact...
+Do you worry that some of the responses to the recent eruptions of anti-Semitism on, let's say, college campuses are so heavy-handed that they, in the end, will simply magnify the reasons for the pattern? So, for instance, many people could read into, take the local case, the pressure that the Trump administration is applying to the Ivy League at the moment, ostensibly in response to the problem of anti-Semitism. I mean, one could argue that there's other things working in the background. But from the anti-Semites point of view, this is confirmation of the conspiracy theory that the Jews are pulling the strings of everything. And look, what happens to you when you conform to the pattern of anti-Semitism? The government of the United States, in this case, comes crashing down on you. And that just confirms the fact that there's a cabal of evil Jews controlling things.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">02:10:35 - 02:10:58</span>
 
-That there's a cabal of evil Jews controlling things. I don't think, as I said, I don't think that that sort of thing is the reason why they legitimize hurting Jews. It was the other way around. They first wanted to, and then they have their reasons. And then, of course, they look around and they find other reasons. They were already going bad.
+I don't think, as I said, I don't think that that sort of thing is the reason why they legitimize hurting Jews. It was the other way around. They first wanted to, and then they have their reasons. And then, of course, they look around and they find other reasons. They were already going bad.
 
 ### Sam Harris
 
@@ -1087,7 +1153,19 @@ But what could possibly, truly the difference between believing that the Jews co
 
 <span class="transcript-timestamp">02:11:31 - 02:12:22</span>
 
-Well, because they're false, yes. But false and consequential. Don't you think they're consequentially false? There has been an attack on the Enlightenment, on Enlightenment values, ever since the Enlightenment began. There's been a war against the Enlightenment and it's taken many different forms. And this is just one of them. It's not the most violent. It's not the most dangerous. Though, as I can't prophesy, it may blow up at any moment. But I don't think the pattern is caused by the government cracking down on Harvard University, not even slightly. Nobody is persuaded to adopt the pattern by things like that, although they can be persuaded to act on it by things like that. But that's neither here nor there, because if that hadn't happened, something else would have.
+Well, because they're false, yes.
+
+### Sam Harris
+
+<span class="transcript-timestamp">02:11:31 - 02:12:22</span>
+
+But false and consequential. Don't you think they're consequentially false?
+
+### David Deutsch
+
+<span class="transcript-timestamp">02:11:31 - 02:12:22</span>
+
+There has been an attack on the Enlightenment, on Enlightenment values, ever since the Enlightenment began. There's been a war against the Enlightenment and it's taken many different forms. And this is just one of them. It's not the most violent. It's not the most dangerous. Though, as I can't prophesy, it may blow up at any moment. But I don't think the pattern is caused by the government cracking down on Harvard University, not even slightly. Nobody is persuaded to adopt the pattern by things like that, although they can be persuaded to act on it by things like that. But that's neither here nor there, because if that hadn't happened, something else would have.
 
 ### Sam Harris
 
@@ -1111,7 +1189,19 @@ Just to spell that out, it's happening in what sense? Just the conversations lik
 
 <span class="transcript-timestamp">02:17:01 - 02:18:00</span>
 
-Yeah. So there's both discourse and action. And both discourse and action are happening in an unprecedented way against the pogrom. Against the pogrom, what you had is the actions of the IDF. I mean, there's military action against Hamas. No, I take the pogrom to be worldwide. So it happened in American universities and British universities and among Muslims worldwide. And again, in World War II, there were millions of Muslims in the British army. Not one of them raped anybody. Well, at least didn't go around raping Jews. It just wasn't a thing that was part of the Islamic culture at the time. So especially not in the framework of an Anglosphere army.
+Yeah. So there's both discourse and action. And both discourse and action are happening in an unprecedented way against the pogrom.
+
+### Sam Harris
+
+<span class="transcript-timestamp">02:17:01 - 02:18:00</span>
+
+Against the pogrom, what you had is the actions of the IDF. I mean, there's military action against Hamas.
+
+### David Deutsch
+
+<span class="transcript-timestamp">02:17:01 - 02:18:00</span>
+
+No, I take the pogrom to be worldwide. So it happened in American universities and British universities and among Muslims worldwide. And again, in World War II, there were millions of Muslims in the British army. Not one of them raped anybody. Well, at least didn't go around raping Jews. It just wasn't a thing that was part of the Islamic culture at the time. So especially not in the framework of an Anglosphere army.
 
 ### Sam Harris
 

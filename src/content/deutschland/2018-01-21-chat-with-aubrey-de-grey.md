@@ -1,5 +1,5 @@
 ---
-title: '2018-01-21 - Chat with Aubrey de Grey'
+title: '2018-01-21 - Daniel Yarmoluk - Chat with Aubrey de Grey'
 description: 'An interview / discussion from 2018-01-21, featuring David Deutsch, Aubrey de Grey, titled "Chat with Aubrey de Grey".'
 pubDate: 2018-01-21
 ---
@@ -37,7 +37,19 @@ I'm not at all confident of that. In fact, I'm confident of the opposite. I'm co
 
 <span class="transcript-timestamp">00:03:24 - 00:04:26</span>
 
-Right, but in any case it's not a matter of one more hurdle, it's a matter of crossing the barrier that we know about and then turning around and doing it again, except with the new one. That's right. Right, yes. Now, you said the most challenging thing you said is basically curing this particular cause of cancer. So it seems to me then that curing diseases, that is the conventional aim of medical science, is going to be needed. And also every bit of progress in conventional science is going to contribute, is going to increase lifespan and therefore contribute towards your project. And therefore I can't quite see what is the tension, what is the conflict between your project and just the general project of medical science.
+Right, but in any case it's not a matter of one more hurdle, it's a matter of crossing the barrier that we know about and then turning around and doing it again, except with the new one.
+
+### Aubrey de Grey
+
+<span class="transcript-timestamp">00:03:24 - 00:04:26</span>
+
+That's right.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:03:24 - 00:04:26</span>
+
+Right, yes. Now, you said the most challenging thing you said is basically curing this particular cause of cancer. So it seems to me then that curing diseases, that is the conventional aim of medical science, is going to be needed. And also every bit of progress in conventional science is going to contribute, is going to increase lifespan and therefore contribute towards your project. And therefore I can't quite see what is the tension, what is the conflict between your project and just the general project of medical science.
 
 ### Aubrey de Grey
 

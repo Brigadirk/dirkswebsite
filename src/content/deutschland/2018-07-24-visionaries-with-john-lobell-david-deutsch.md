@@ -163,7 +163,43 @@ And so scientists today are trying to keep track of all these photons or electro
 
 <span class="transcript-timestamp">00:19:24 - 00:22:35</span>
 
-No, no, that wasn't it. OK, go ahead. It certainly I thought they were all true. The fact that they were related to each other came as something of a surprise. OK. And it was because of that surprise that I wanted to write the book. As for what happened afterwards, I perhaps not the right person to ask what impact it's had on people. But I am constantly being told by people that that book has done something to them. Oh, good. So, you know, for better or worse. I don't think it is because of me that some strands of it, namely, say, Popper's theory of knowledge and the Everett interpretation have become more respectable. I have to choose my words carefully here because I think what's happened is they've become more taken seriously. But I don't think a greater proportion of the professionals in physics or philosophy actually agree with these two theories. They just take them more seriously. So it's now more of a thing that you know, you can have a paper on Everett and quantum theory. And it won't be rejected as being philosophy, right, as it might well have been 20 years ago. But if you asked for a show of hands at a physics conference, then of who endorses the Everett interpretation and who endorses others, Everett interpretation gets 10 percent of the hands going up now. And it did 20 years ago as well. And I don't understand this phenomenon. You know, if one would think that if the argument in favor of it is good, then it should gradually go to 100 percent. And if the argument is bad, it should gradually go down to zero. Yeah. But that hasn't happened. And another strange thing is that the supporters, the endorsers of Everett tend to be the younger people in the audience. And so, you know, we were thinking originally, oh, the younger people, OK, the older people are going to die out. And but it doesn't happen that way. I don't know if it's that the younger people change their minds or that the ones who believe Everett leave the field or I don't know what it is. I only know of one person who I'm specifically aware of who endorsed Everett at one point and then changed his mind. In every other case, it's always been in one direction, and yet it stays at 10 percent.
+No, no, that wasn't it.
+
+### John Lobell
+
+<span class="transcript-timestamp">00:19:24 - 00:22:35</span>
+
+OK, go ahead.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:19:24 - 00:22:35</span>
+
+It certainly I thought they were all true. The fact that they were related to each other came as something of a surprise.
+
+### John Lobell
+
+<span class="transcript-timestamp">00:19:24 - 00:22:35</span>
+
+OK.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:19:24 - 00:22:35</span>
+
+And it was because of that surprise that I wanted to write the book. As for what happened afterwards, I perhaps not the right person to ask what impact it's had on people. But I am constantly being told by people that that book has done something to them.
+
+### John Lobell
+
+<span class="transcript-timestamp">00:19:24 - 00:22:35</span>
+
+Oh, good.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:19:24 - 00:22:35</span>
+
+So, you know, for better or worse. I don't think it is because of me that some strands of it, namely, say, Popper's theory of knowledge and the Everett interpretation have become more respectable. I have to choose my words carefully here because I think what's happened is they've become more taken seriously. But I don't think a greater proportion of the professionals in physics or philosophy actually agree with these two theories. They just take them more seriously. So it's now more of a thing that you know, you can have a paper on Everett and quantum theory. And it won't be rejected as being philosophy, right, as it might well have been 20 years ago. But if you asked for a show of hands at a physics conference, then of who endorses the Everett interpretation and who endorses others, Everett interpretation gets 10 percent of the hands going up now. And it did 20 years ago as well. And I don't understand this phenomenon. You know, if one would think that if the argument in favor of it is good, then it should gradually go to 100 percent. And if the argument is bad, it should gradually go down to zero. Yeah. But that hasn't happened. And another strange thing is that the supporters, the endorsers of Everett tend to be the younger people in the audience. And so, you know, we were thinking originally, oh, the younger people, OK, the older people are going to die out. And but it doesn't happen that way. I don't know if it's that the younger people change their minds or that the ones who believe Everett leave the field or I don't know what it is. I only know of one person who I'm specifically aware of who endorsed Everett at one point and then changed his mind. In every other case, it's always been in one direction, and yet it stays at 10 percent.
 
 ### John Lobell
 
@@ -223,7 +259,19 @@ Right down to Feynman diagrams.
 
 <span class="transcript-timestamp">00:28:24 - 00:30:52</span>
 
-Yes, yes, exactly. Now, it has been known for a century at least that there are some things that we know in physics that are either difficult or fundamentally impossible to even express in those terms. The most obvious one is the question, what are the initial conditions of the universe? You can't explain the initial conditions of the universe by saying, well, before there was this and then there were laws of motion and then we got the initial conditions. So, you know, the initial conditions can't be explained that way. Another thing that can't be explained is thermodynamics. In thermodynamics, you have irreversible processes like when you break an egg. You can't put the egg back together again by reversing what you did with it, particularly if you scramble it. Yeah. Well, even if you just break it and, you know, it comes out, then I mean, you might be able to reverse it by picking out individual atoms and moving them back to where they were. But that would not be the same process that you broke it by breaking. It is much easier breaking it and scrambling it, if you like, is much easier. And people have been trying for over a century to reconcile. And so what I've just described is a consequence of the second law of thermodynamics. And people have been trying to reconcile that with the fact that we know that the laws of motion are time reversible. So whatever is a permitted motion of eggs or anything else, the reverse is also permitted motion under the laws of motion. And yet, in practice, you just can't achieve that motion. So classical physics tries to explain this statistically. Yes, yes. Well, it tries to explain in many ways, none of which work. So statistically, the trouble with that is that it will only tell you what will probably happen and what will probably happen is not what actually happens. So if you it's never what actually happens, if you toss a coin a thousand times, you will never get exactly five hundred heads.
+Yes, yes, exactly. Now, it has been known for a century at least that there are some things that we know in physics that are either difficult or fundamentally impossible to even express in those terms. The most obvious one is the question, what are the initial conditions of the universe? You can't explain the initial conditions of the universe by saying, well, before there was this and then there were laws of motion and then we got the initial conditions. So, you know, the initial conditions can't be explained that way. Another thing that can't be explained is thermodynamics. In thermodynamics, you have irreversible processes like when you break an egg. You can't put the egg back together again by reversing what you did with it, particularly if you scramble it. Yeah. Well, even if you just break it and, you know, it comes out, then I mean, you might be able to reverse it by picking out individual atoms and moving them back to where they were. But that would not be the same process that you broke it by breaking. It is much easier breaking it and scrambling it, if you like, is much easier. And people have been trying for over a century to reconcile. And so what I've just described is a consequence of the second law of thermodynamics. And people have been trying to reconcile that with the fact that we know that the laws of motion are time reversible. So whatever is a permitted motion of eggs or anything else, the reverse is also permitted motion under the laws of motion. And yet, in practice, you just can't achieve that motion.
+
+### John Lobell
+
+<span class="transcript-timestamp">00:28:24 - 00:30:52</span>
+
+So classical physics tries to explain this statistically.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:28:24 - 00:30:52</span>
+
+Yes, yes. Well, it tries to explain in many ways, none of which work. So statistically, the trouble with that is that it will only tell you what will probably happen and what will probably happen is not what actually happens. So if you it's never what actually happens, if you toss a coin a thousand times, you will never get exactly five hundred heads.
 
 ### John Lobell
 
@@ -241,7 +289,7 @@ Yes, again, the very unlikely is the thing that the laws of physics know nothing
 
 <span class="transcript-timestamp">00:33:20 - 00:34:29</span>
 
-So I got some questions for you. But before I do that, excuse me, let's introduce our guest again. My name is John Lobell. You're listening to visionaries and our guest today is David Deutsch. And just a few places to go look. Obviously, you could start right now with Wikipedia, but I also recommend John Brockman's edge.org. There are a few great articles by Deutsch on there and then Deutsch's own website, Constructor Theory.org. So you can follow up on our guest. And let me now ask about this. I guess you're talking about a Turing machine can emulate any other universal computational process. Is a Turing machine limited by the fact that it's not a quantum computer and you would need a quantum Turing machine to really be able to emulate any other? Yes.
+So I got some questions for you. But before I do that, excuse me, let's introduce our guest again. My name is John Lobell. You're listening to Visionaries and our guest today is David Deutsch. And just a few places to go look. Obviously, you could start right now with Wikipedia, but I also recommend John Brockman's edge.org. There are a few great articles by Deutsch on there and then Deutsch's own website, constructortheory.org. So you can follow up on our guest. And let me now ask about this. I guess you're talking about a Turing machine can emulate any other universal computational process. Is a Turing machine limited by the fact that it's not a quantum computer and you would need a quantum Turing machine to really be able to emulate any other? Yes.
 
 ### David Deutsch
 
@@ -279,11 +327,17 @@ Yes, he thought they blended. And he was aware that this is a problem, that this
 
 Yes. And Darwin just neglected to read his paper. Right. Right.
 
+### John Lobell
+
+<span class="transcript-timestamp">00:38:11 - 00:38:35</span>
+
+Now, so can you describe now we know that evolution, which requires faithful copying from generation to generation, can only take place digitally. And in fact, DNA does digital computation and has built-in error correction.
+
 ### David Deutsch
 
 <span class="transcript-timestamp">00:38:11 - 00:38:35</span>
 
-Now, so can you describe now we know that evolution, which requires faithful copying from generation to generation, can only take place digitally. And in fact, DNA does digital computation and has built-in error correction. Yes, yes, very much so.
+Yes, yes, very much so.
 
 ### John Lobell
 
@@ -355,13 +409,13 @@ Yeah. So just in a few minutes remaining, what are some of the things your book,
 
 <span class="transcript-timestamp">00:50:00 - 00:52:10</span>
 
-Beyond? First of all, I think that infinity has a completely undeserved reputation for being mysterious and woo woo. Infinity was introduced in mathematics and in physics as a way of simplifying ideas. Like I said, rather than think of crossing the room as an infinite number of things and worrying about how that's possible, like Zeno did in antiquity. We realize that the laws are about feet and inches, not about points. And so we have only a finite number of feet and inches. So on the other hand, infinity is somewhat counterintuitive in that when you have an amount of something, no matter how large it is, it never gets any closer to infinity. So this applies in all sorts of ways. So in regard to progress, in regard to technological progress, that means that we're always at the beginning, no matter how well we do, no matter how much power we get in our fundamental understanding or in our technology. We are always at the beginning of what is possible. And as Karl Popper says, in regard to knowledge, although we may differ in various ways in the knowledge that we all have, we are all alike in our infinite ignorance. And I think that is a very important egalitarian implication of the theory of knowledge that because there's infinity ahead of us, we are all alike in our ignorance. We're also all alike in our fallibility. So no matter how much knowledge you have, you may be mistaken about any particular thing. Fantastic.
+Beyond? First of all, I think that infinity has a completely undeserved reputation for being mysterious and woo woo. Infinity was introduced in mathematics and in physics as a way of simplifying ideas. Like I said, rather than think of crossing the room as an infinite number of things and worrying about how that's possible, like Zeno did in antiquity. We realize that the laws are about feet and inches, not about points. And so we have only a finite number of feet and inches. So on the other hand, infinity is somewhat counterintuitive in that when you have an amount of something, no matter how large it is, it never gets any closer to infinity. So this applies in all sorts of ways. So in regard to progress, in regard to technological progress, that means that we're always at the beginning, no matter how well we do, no matter how much power we get in our fundamental understanding or in our technology. We are always at the beginning of what is possible. And as Karl Popper says, in regard to knowledge, although we may differ in various ways in the knowledge that we all have, we are all alike in our infinite ignorance. And I think that is a very important egalitarian implication of the theory of knowledge that because there's infinity ahead of us, we are all alike in our ignorance. We're also all alike in our fallibility. So no matter how much knowledge you have, you may be mistaken about any particular thing.
 
 ### John Lobell
 
 <span class="transcript-timestamp">00:52:10 - 00:52:31</span>
 
-You know, there's a critic of Ray Kurzweil's exponential curve. And he says, oh, we're just at the knee and we're about to go straight up. Someone had pointed out, depending on how you draw the curve, we're always at the knee. There's no such thing, you know, that there's no such thing as a special point.
+Fantastic. You know, there's a critic of Ray Kurzweil's exponential curve. And he says, oh, we're just at the knee and we're about to go straight up. Someone had pointed out, depending on how you draw the curve, we're always at the knee. There's no such thing, you know, that there's no such thing as a special point.
 
 ### David Deutsch
 

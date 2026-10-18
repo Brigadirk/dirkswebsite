@@ -13,7 +13,7 @@ pubDate: 2022-05-16
 
 <span class="transcript-timestamp">00:00:00 - 00:03:29</span>
 
-Great. We're recording now. Perfect. Hello everyone. Welcome to the Q&A session with Professor David Deutsch, hosted by the Oxford Quantum Information Society. We are a student group at Oxford organizing events about quantum information sciences and quantum computing. Actually the first such group founded a few years ago. Today we have like from society, Nisatu, Simone, Amin, Jan and Benji joining us. I think Maria is also here. She was the president two years ago or three years ago and one of the founders of the society. I'm Mert. I'm a physics DPhil student at Oxford and the president of the society. I must mention that this session is personally important for me. During my freshman year at Stanford, I was taking a philosophy of physics class and I was exposed to a quote by Professor Deutsch where quantum computers were given as an argument to the multiverse. I learned that factorizing large prime numbers efficiently could be done on quantum computers as shown by Peter Shor. And to quote Professor Deutsch, These large composite numbers. Yes. Yes. Thanks. So to quote Professor Deutsch from the fabric of reality. So if the visible universe were the extent of physical reality, physical reality would not even remotely contain the resources required to factorize such a large number. Who did factorize it then? How and where was the computation performed? After this non-intuitive and no description, I got extremely interested in quantum computing or at least that what seemed non-intuitive at the time. And now six years later, I'm doing a PhD on it. We are extremely lucky to have Professor Deutsch joining us today. It would not be an exaggeration to say that Professor Deutsch is one of the pioneers of quantum computing. He defined universal quantum computing and discovered the first formal algorithm that showed quantum computers can be more efficient than classical ones, demonstrating what we now refer to as quantum advantage. And Professor Deutsch is currently a visiting professor here at Oxford. Today we'll have the chance to ask him some questions. We prepared some questions, including the ones you sent us while signing up. You can in fact, you're encouraged to ask questions as we go along. Just use the hand raised feature on Zoom when you have something to ask. And if we don't see you for some reason, please feel free to shout out. We want this to be a free open-for-all discussion. Actually, we're aiming for this to be as interactive as possible. So it would be nice if you could turn on your cameras. FYI, the meeting is being recorded. So we might do some edits before publishing. If you have some problems, just email us, message us. And the questions we prepared mostly revolve around Professor Deutsch's book, The Fabric of Reality.
+Great. We're recording now. Perfect. Hello everyone. Welcome to the Q&A session with Professor David Deutsch, hosted by the Oxford Quantum Information Society. We are a student group at Oxford organizing events about quantum information sciences and quantum computing. Actually the first such group founded a few years ago. Today we have like from society, Nisatu, Simone, Amin, Jan and Benji joining us. I think Maria is also here. She was the president two years ago or three years ago and one of the founders of the society. I'm Mert. I'm a physics DPhil student at Oxford and the president of the society. I must mention that this session is personally important for me. During my freshman year at Stanford, I was taking a philosophy of physics class and I was exposed to a quote by Professor Deutsch where quantum computers were given as an argument to the multiverse. I learned that factorizing large prime numbers efficiently could be done on quantum computers as shown by Peter Shor. And to quote Professor Deutsch, These large composite numbers. Yes. Yes. Thanks. So to quote Professor Deutsch from The Fabric of Reality. So if the visible universe were the extent of physical reality, physical reality would not even remotely contain the resources required to factorize such a large number. Who did factorize it then? How and where was the computation performed? After this non-intuitive and no description, I got extremely interested in quantum computing or at least that what seemed non-intuitive at the time. And now six years later, I'm doing a PhD on it. We are extremely lucky to have Professor Deutsch joining us today. It would not be an exaggeration to say that Professor Deutsch is one of the pioneers of quantum computing. He defined universal quantum computing and discovered the first formal algorithm that showed quantum computers can be more efficient than classical ones, demonstrating what we now refer to as quantum advantage. And Professor Deutsch is currently a visiting professor here at Oxford. Today we'll have the chance to ask him some questions. We prepared some questions, including the ones you sent us while signing up. You can in fact, you're encouraged to ask questions as we go along. Just use the hand raised feature on Zoom when you have something to ask. And if we don't see you for some reason, please feel free to shout out. We want this to be a free open-for-all discussion. Actually, we're aiming for this to be as interactive as possible. So it would be nice if you could turn on your cameras. FYI, the meeting is being recorded. So we might do some edits before publishing. If you have some problems, just email us, message us. And the questions we prepared mostly revolve around Professor Deutsch's book, The Fabric of Reality.
 
 ### Mert
 
@@ -91,7 +91,13 @@ Yes.
 
 <span class="transcript-timestamp">00:12:41 - 00:13:03</span>
 
-I guess we moved into the realm. I might have a very naive follow up on that. So when you talk about the classical bits having some hidden quantum information, does that have anything to do with the famous hidden variables theory or no?
+I guess we moved into the realm.
+
+### Manj
+
+<span class="transcript-timestamp">00:12:41 - 00:13:03</span>
+
+I might have a very naive follow up on that. So when you talk about the classical bits having some hidden quantum information, does that have anything to do with the famous hidden variables theory or no?
 
 ### David Deutsch
 
@@ -157,13 +163,13 @@ No one knows yet, I think, certainly I don't. It's going to be an interesting fe
 
 <span class="transcript-timestamp">00:21:37 - 00:21:41</span>
 
-Thank you. You have a question from bob.
+Thank you. You have a question from Bob.
 
 ### Bob
 
 <span class="transcript-timestamp">00:21:43 - 00:21:57</span>
 
-Yes, thank you and hi David. I was wondering how you would explain the quantum Zeno effects or paradox, however, we want to call it within the everettian quantum theory which.
+Yes, thank you and hi David. I was wondering how you would explain the quantum Zeno effects or paradox, however, we want to call it within the Everettian quantum theory which.
 
 ### David Deutsch
 
@@ -205,7 +211,7 @@ Yeah well, so I think this conservation of knowledge and that kind of thing happ
 
 <span class="transcript-timestamp">00:26:44 - 00:27:29</span>
 
-And. As a question. hi. Recently in your conversation with Robin Hansen you said that the problem of why risks and frequencies can be approximated by probabilities is an unsolved problem. yeah. And I was just wondering why, how come the quantum theory. doesn't solve that problem or why is it not that probabilities are just frequencies in the multiverse.
+And. As a question. hi. Recently in your conversation with Robin Hanson you said that the problem of why risks and frequencies can be approximated by probabilities is an unsolved problem. yeah. And I was just wondering why, how come the quantum theory. doesn't solve that problem or why is it not that probabilities are just frequencies in the multiverse.
 
 ### David Deutsch
 
@@ -265,19 +271,13 @@ And no, they wouldn't at least we don't expect them to be added because those is
 
 <span class="transcript-timestamp">00:39:30 - 00:39:57</span>
 
-I guess yeah we will be talking about like creation of theories, so maybe we should ask you one one final question on quantum physics and, as I said before, they're all interlinked so we can come back to it, but. Maybe let's talk about time a bit in the fabric of reality, you state that the flow of time is not real it's an illusion, so why can't.
+I guess yeah we will be talking about like creation of theories, so maybe we should ask you one one final question on quantum physics and, as I said before, they're all interlinked so we can come back to it, but. Maybe let's talk about time a bit in The Fabric of Reality, you state that the flow of time is not real it's an illusion, so why can't.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:39:58 - 00:40:02</span>
 
 It's not an illusion it's not real and it's not an illusion it's a mistake.
-
-### Mert
-
-<span class="transcript-timestamp">00:40:02 - 00:40:04</span>
-
-It's a mistake okay.
 
 ### Mert
 
@@ -289,7 +289,7 @@ It's a mistake okay. But then, why can't we access past snapshots of the univers
 
 <span class="transcript-timestamp">00:40:24 - 00:41:55</span>
 
-Right. What we can access. Is a question of which physical processes are available under the laws of physics and which aren't. There are plenty of physical processes like. Obtaining a sample of the Center of the sun or seeing the Center of the sun or seeing a neutrino or whatever, which are the laws of physics happen to not provide the right kind of interactions for us to be able to harness those interactions to perceive those processes and the same is true of. Most of the past and the same is true of most of the future, though, interestingly, different subsets of the past and the future that we can know anything about and that I think that's a very. There's there are very powerful insights to be gained there, but so we shouldn't be surprised when there's something we don't know we shouldn't be surprised when there's something that the. laws of physics forbid us from. experiencing what we should be surprised if is if there's something that the laws of physics forbid us from understanding. I think that would be a very supernatural kind of world to live in and I don't think we live in it.
+Right. What we can access. Is a question of which physical processes are available under the laws of physics and which aren't. There are plenty of physical processes like. Obtaining a sample of the center of the sun or seeing the center of the sun or seeing a neutrino or whatever, which are the laws of physics happen to not provide the right kind of interactions for us to be able to harness those interactions to perceive those processes and the same is true of. Most of the past and the same is true of most of the future, though, interestingly, different subsets of the past and the future that we can know anything about and that I think that's a very. There's there are very powerful insights to be gained there, but so we shouldn't be surprised when there's something we don't know we shouldn't be surprised when there's something that the. laws of physics forbid us from. experiencing what we should be surprised if is if there's something that the laws of physics forbid us from understanding. I think that would be a very supernatural kind of world to live in and I don't think we live in it.
 
 ### Mert
 
@@ -465,7 +465,7 @@ And yeah my question is about the time and the multiverse I guess I'm going back
 
 <span class="transcript-timestamp">01:00:41 - 01:03:48</span>
 
-The open universe that is. Is not is not intended to be open in the sense that there's indeterminism in fact. indeterminism does not help in any way to make the universe open in the sense we want it to be open, in fact, if anything, it makes it worse that it makes. It makes. worse, we have to the problems, though, arise at a different level from the level of microscopic physics they arise at the level of understanding knowledge again when I say that. When I say that I have freely chosen to do something I mean that I have created in the process of deciding it and I don't mean simply a choice like. Whether I should have strawberry or butterscotch ice cream, where it doesn't really matter much to me I'm talking about decisions where I had to think about it and where I am a different person, as it were, after having thought of it in those cases. I have created something new I have brought something new into the world, namely the knowledge that I then use to guide my my choice. So. The universe can be open to that or not that's that's the sense in which Popper use the word open in the sense the open society and its enemies. No society is totally closed no society that we know of is totally open, but still there is a vast and important difference between societies that are basically open or which at least strive to be and societies which are basically closed or at least strive to be. And that's the sense in which it is important for a society to be open and I think exactly the same is true within one person. that's that's what we mean by being open to ideas or it's what we mean by having had a new idea. You know, I could say I had a new idea yesterday about so and so and somebody you know a rabid determinist would say no that was idea was already there at the big bang. But, in a sense, it was and, in a sense, it clearly wasn't. So we have to basically in order to think of openness, we have to. kind of put back in the drawer all the framework of. laws of motion initial state determinism otherwise it might be just meaningless and we're just going to loop around. Yes, because we shouldn't be surprised that the answer to the problem is at the same level as the problem.
+The open universe that is. Is not is not intended to be open in the sense that there's indeterminism in fact. indeterminism does not help in any way to make the universe open in the sense we want it to be open, in fact, if anything, it makes it worse that it makes. It makes. worse, we have to the problems, though, arise at a different level from the level of microscopic physics they arise at the level of understanding knowledge again when I say that. When I say that I have freely chosen to do something I mean that I have created in the process of deciding it and I don't mean simply a choice like. Whether I should have strawberry or butterscotch ice cream, where it doesn't really matter much to me I'm talking about decisions where I had to think about it and where I am a different person, as it were, after having thought of it in those cases. I have created something new I have brought something new into the world, namely the knowledge that I then use to guide my my choice. So. The universe can be open to that or not that's that's the sense in which Popper use the word open in the sense The Open Society and Its Enemies. No society is totally closed no society that we know of is totally open, but still there is a vast and important difference between societies that are basically open or which at least strive to be and societies which are basically closed or at least strive to be. And that's the sense in which it is important for a society to be open and I think exactly the same is true within one person. that's that's what we mean by being open to ideas or it's what we mean by having had a new idea. You know, I could say I had a new idea yesterday about so and so and somebody you know a rabid determinist would say no that was idea was already there at the big bang. But, in a sense, it was and, in a sense, it clearly wasn't. So we have to basically in order to think of openness, we have to. kind of put back in the drawer all the framework of. laws of motion initial state determinism otherwise it might be just meaningless and we're just going to loop around. Yes, because we shouldn't be surprised that the answer to the problem is at the same level as the problem.
 
 ### Charles
 
@@ -495,7 +495,7 @@ If you have a you know if you're worried about how your theory of knowledge is c
 
 <span class="transcript-timestamp">01:05:13 - 01:05:36</span>
 
-Thank you yeah I see. Thanks for the question Charles. We have two more questions, so I guess we move to the strand of epistemology now. But let's see where these questions come from toby. hi toby you have a.
+Thank you yeah I see. Thanks for the question Charles. We have two more questions, so I guess we move to the strand of epistemology now. But let's see where these questions come from Toby. hi Toby you have a.
 
 ### Toby
 
@@ -513,7 +513,7 @@ Yes.
 
 <span class="transcript-timestamp">01:05:42 - 01:06:31</span>
 
-Yes Hello there David and I have a question about decision theory and the arrow of time. And this could be a bad conjecture I want to know whether observation of time asymmetric increase of entropy could feasibly was be a result of agents maximizing their rational expectation values. In a time symmetric world, which the way you derive probabilistic born rule from non probabilistic many worlds so that agents such as ourselves are playing like a game as if. We can make sense of the world in terms of causation change and predicting the future, but where those things have no intrinsic or what why that time symmetry has no intrinsic existence of its own. So I was wondering if there's been any work in this area or so, however, it's a bad idea to think about.
+Yes Hello there David and I have a question about decision theory and the arrow of time. And this could be a bad conjecture I want to know whether observation of time asymmetric increase of entropy could feasibly was be a result of agents maximizing their rational expectation values. In a time symmetric world, which the way you derive probabilistic Born rule from non probabilistic many worlds so that agents such as ourselves are playing like a game as if. We can make sense of the world in terms of causation change and predicting the future, but where those things have no intrinsic or what why that time symmetry has no intrinsic existence of its own. So I was wondering if there's been any work in this area or so, however, it's a bad idea to think about.
 
 ### David Deutsch
 
@@ -663,7 +663,19 @@ So, what I was wondering was, was there maybe a technological development that y
 
 <span class="transcript-timestamp">01:22:50 - 01:27:37</span>
 
-Oh, well that's that's a much wider question. Do you mean in regard to quantum technology. Again, I'm afraid I don't know. Maybe generally actually maybe not even maybe not immediately related but related. I think there are so the big picture is that I think that progress in fundamental progress in physics has slowed down during the last few decades, and it has slowed down, not because we've reached all the low hanging fruit or for any reason like that it there's a sociological reason that that that has stultified the scientific world in regard to almost all fundamental issues. So, most things haven't made progress. There has been a lot of progress in cosmology, which again I don't know much about. But I think that the inflationary model seems like a fairy story to me. And if it turns out to be true, it will be amazing. And I mean when I said it turns out to be true I mean if the underlying mechanisms are found to have some basis in new theories of elementary particles and that kind of thing, then that will be amazing. If it turns out to be false and it's superseded that will also turn out to be amazing. So that's a nice state for a field of science to be in that whether it succeeds or fails in its current hopes. Either way, it will be amazing. Computer technology, aside from quantum is of course making huge progress and computer software in the sense of machine learning and AI is also making rapid progress. I probably forgotten the most. I'm not remembering the most important thing and somebody will come to me after and say hey you know you dissed our field, but I don't mean to diss any field, but you've been talking about virtual reality a lot as a theoretical construct to explain the fabric of reality in the book. Yeah, well that that technology is improving but it hasn't improved in any fundamental way for many years. The resolution has got better. You know the programming has got better. But there's nothing that would amaze anybody from the 1980s that say, they'd be amazed that the actual technology. And like, they'd say you know, shut up and let me try this out. Rather than answer your questions but there's nothing fundamentally new that they didn't think of. Whereas for example if you go a bit further back and look at what was considered to be the most amazing possible future in the 1960s, let's say with Star Trek. There are a lot of things from that that were actually achieved, and there are a lot of things from that, that were not achieved. And there are a lot of things that were achieved that were not thought of then, not even conceived of. And that kind of thing has slowed down. And I think it's because of irrelevant, I mean fundamentally irrelevant things like the social sociology of science and the structure of scientific careers, and the structure of universities, and the public conception of the educational system altogether, you know thinking of the educational system as a machine for passing on knowledge is not very compatible with an open society and open science is and should be the epitome of an open society. But it's, it's less so than it has been in the past.
+Oh, well that's that's a much wider question. Do you mean in regard to quantum technology. Again, I'm afraid I don't know. Maybe generally actually maybe not even maybe not immediately related but related. I think there are so the big picture is that I think that progress in fundamental progress in physics has slowed down during the last few decades, and it has slowed down, not because we've reached all the low hanging fruit or for any reason like that it there's a sociological reason that that that has stultified the scientific world in regard to almost all fundamental issues. So, most things haven't made progress. There has been a lot of progress in cosmology, which again I don't know much about. But I think that the inflationary model seems like a fairy story to me. And if it turns out to be true, it will be amazing. And I mean when I said it turns out to be true I mean if the underlying mechanisms are found to have some basis in new theories of elementary particles and that kind of thing, then that will be amazing. If it turns out to be false and it's superseded that will also turn out to be amazing. So that's a nice state for a field of science to be in that whether it succeeds or fails in its current hopes. Either way, it will be amazing. Computer technology, aside from quantum is of course making huge progress and computer software in the sense of machine learning and AI is also making rapid progress. I probably forgotten the most. I'm not remembering the most important thing and somebody will come to me after and say hey you know you dissed our field, but I don't mean to diss any field,
+
+### Mert
+
+<span class="transcript-timestamp">01:22:50 - 01:27:37</span>
+
+but you've been talking about virtual reality a lot as a theoretical construct to explain the fabric of reality in the book.
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:22:50 - 01:27:37</span>
+
+Yeah, well that that technology is improving but it hasn't improved in any fundamental way for many years. The resolution has got better. You know the programming has got better. But there's nothing that would amaze anybody from the 1980s that say, they'd be amazed that the actual technology. And like, they'd say you know, shut up and let me try this out. Rather than answer your questions but there's nothing fundamentally new that they didn't think of. Whereas for example if you go a bit further back and look at what was considered to be the most amazing possible future in the 1960s, let's say with Star Trek. There are a lot of things from that that were actually achieved, and there are a lot of things from that, that were not achieved. And there are a lot of things that were achieved that were not thought of then, not even conceived of. And that kind of thing has slowed down. And I think it's because of irrelevant, I mean fundamentally irrelevant things like the social sociology of science and the structure of scientific careers, and the structure of universities, and the public conception of the educational system altogether, you know thinking of the educational system as a machine for passing on knowledge is not very compatible with an open society and open science is and should be the epitome of an open society. But it's, it's less so than it has been in the past.
 
 ### Mert
 

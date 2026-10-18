@@ -1,6 +1,6 @@
 ---
 title: '2024-10-11 - Naval - The Deutsch Files IV'
-description: 'An interview / discussion from Naval, featuring David Deutsch, Naval Ravikant, titled "The Deutsch Files IV".'
+description: 'An interview / discussion from Naval, featuring David Deutsch, Naval Ravikant, Brett Hall, titled "The Deutsch Files IV".'
 pubDate: 2024-10-11
 ---
 
@@ -11,12 +11,11 @@ pubDate: 2024-10-11
 <span class="duration-label">Duration:</span> <span class="duration-time">01:25:06</span>
 
 ## Transcript
-
 ### Naval Ravikant
 
 <span class="transcript-timestamp">00:00:00 - 00:01:00</span>
 
-I can only start with what understanding I want. And I know I've asked you this before, but I want to be pedantically exhaustive about connecting the four theories of the fabric of reality. And the reason I bring that up is because I think most people still view what you've written as being four separate things. And it's hard enough to grasp these four separate things because they're actually fairly deep and wide-ranging theories. But I think in your mind, they connect together into one thing. Knowledge is a crystal. And nature has no boundaries, right? These are just phrases. But these things all connect together. So we've talked in the past, for example, how epistemology and evolution connect in that they're both forms of knowledge creation. We've talked about quantum physics and computation connect to create quantum computation. I just love to get as many examples, how does physics connect to evolution? How does evolution connect to computation, for example? Things that may be less obvious, where people might view things as different theories, but to you, they're fundamentally the same.
+I can only start with what understanding I want. And I know I've asked you this before, but I want to be pedantically exhaustive about connecting the four theories of The Fabric of Reality. And the reason I bring that up is because I think most people still view what you've written as being four separate things. And it's hard enough to grasp these four separate things because they're actually fairly deep and wide-ranging theories. But I think in your mind, they connect together into one thing. Knowledge is a crystal. And nature has no boundaries, right? These are just phrases. But these things all connect together. So we've talked in the past, for example, how epistemology and evolution connect in that they're both forms of knowledge creation. We've talked about quantum physics and computation connect to create quantum computation. I just love to get as many examples, how does physics connect to evolution? How does evolution connect to computation, for example? Things that may be less obvious, where people might view things as different theories, but to you, they're fundamentally the same.
 
 ### David Deutsch
 
@@ -40,7 +39,7 @@ Yes, exactly.
 
 <span class="transcript-timestamp">00:03:46 - 00:04:12</span>
 
-So I think that's very helpful. And in your thermodynamics example, if you're trying to figure out how a steam engine works, you're not going to do statistical mechanics and trace every collision. You're going to actually probably start at thermodynamics. And so that's a tie between, I guess, evolution in physics and epistemology in physics much more.
+So I think that's very helpful. And in your thermodynamics example, if you're trying to figure out how a steam engine works, you're not going to do statistical mechanics and trace every collision. You're going to actually probably start at thermodynamics. And so that's a tie between, I guess, evolution and physics and epistemology and physics much more.
 
 ### David Deutsch
 
@@ -88,7 +87,7 @@ Among other things.
 
 <span class="transcript-timestamp">00:05:40 - 00:06:24</span>
 
-we understand quasars and some atomic particles.
+We understand quasars and subatomic particles.
 
 ### David Deutsch
 
@@ -172,13 +171,13 @@ The existing thermodynamics, you have to impose that as an extra condition and c
 
 <span class="transcript-timestamp">00:17:19 - 00:17:24</span>
 
-But your view of the quantum multiverse is already deterministic. Yes. Yes.
+But your view of the quantum multiverse is already deterministic.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:17:24 - 00:17:49</span>
 
-So quantum multiverse obeys that rule. And I've also written that the prevailing concept of a stochastic theory just doesn't make sense. It's like saying that something's more probable is like saying it has more magic. Nothing follows from that statement. You need an extra theory to make sense of that statement. Yeah. And now I'm working on the universal constructor.
+Yes. Yes. So quantum multiverse obeys that rule. And I've also written that the prevailing concept of a stochastic theory just doesn't make sense. It's like saying that something's more probable is like saying it has more magic. Nothing follows from that statement. You need an extra theory to make sense of that statement. Yeah. And now I'm working on the universal constructor.
 
 ### Naval Ravikant
 
@@ -238,7 +237,19 @@ I first thought of the experiment to test Everett and then much later thought ab
 
 <span class="transcript-timestamp">00:26:48 - 00:27:22</span>
 
-Is this the same experiment that's mentioned in The Beginning of Infinity as going inside the mind of the AI? Yes. I see. So you came up with that first. So you had to create experiment to test many worlds and said, okay, is the observer making a difference? Let's get inside the observer. But if we get inside the observer, it's just a double slit experiment all over again, unless it's a different kind of computer than the classical computer, it's not going to be affected by the same interference effects that the double slit experiment is vulnerable to. So we need to create qubits or quantum computing or what?
+Is this the same experiment that's mentioned in The Beginning of Infinity as going inside the mind of the AI?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:26:48 - 00:27:22</span>
+
+Yes.
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">00:26:48 - 00:27:22</span>
+
+I see. So you came up with that first. So you had to create experiment to test many worlds and said, okay, is the observer making a difference? Let's get inside the observer. But if we get inside the observer, it's just a double slit experiment all over again, unless it's a different kind of computer than the classical computer, it's not going to be affected by the same interference effects that the double slit experiment is vulnerable to. So we need to create qubits or quantum computing or what?
 
 ### David Deutsch
 
@@ -490,7 +501,7 @@ As long as you don't change the system itself to stop error correction. There ar
 
 <span class="transcript-timestamp">00:51:02 - 00:51:25</span>
 
-So we have to use the secondary methods of error correction to stop them making systemic changes. The last few governments, both labor and conservative, have made changes to the British constitution, which I think are very perverse and going the wrong way. But also, there's also the fact that the real British constitution is in people's minds and the governments can't change those.
+So we have to use the secondary methods of error correction to stop them making systemic changes. The last few governments, both Labour and Conservative, have made changes to the British constitution, which I think are very perverse and going the wrong way. But also, there's also the fact that the real British constitution is in people's minds and the governments can't change those.
 
 ### Naval Ravikant
 
@@ -508,7 +519,19 @@ First of all, that superficial meaning of institution, universal schools and tha
 
 <span class="transcript-timestamp">00:54:54 - 00:55:13</span>
 
-Okay, so the conditions at the prison might have improved. Yeah, greatly. Okay, but as a parent, we're all terrified by the idea that our kids might grow up not speaking the language, not knowing the mathematics and just playing with spiders in the corner and be unfit for anything other than agricultural work.
+Okay, so the conditions at the prison might have improved.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:54:54 - 00:55:13</span>
+
+Yeah, greatly.
+
+### Naval Ravikant
+
+<span class="transcript-timestamp">00:54:54 - 00:55:13</span>
+
+Okay, but as a parent, we're all terrified by the idea that our kids might grow up not speaking the language, not knowing the mathematics and just playing with spiders in the corner and be unfit for anything other than agricultural work.
 
 ### David Deutsch
 
@@ -532,7 +555,13 @@ Creation, exactly.
 
 <span class="transcript-timestamp">00:58:19 - 00:59:07</span>
 
-And so what Popper writes about in how science and knowledge broadly is generated is what's going on in the mind of the learner. And it just seems to be a logical line to draw that if Popper begins with the project of science is you start with a problem, then obviously any mandated curriculum, even no matter how liberal you want your curriculum to be in choice, you're handing the student either problems or worse still the solutions to problems. And as you say, I don't know if you're quoting Popper when you say answers to questions not asked. That's like the purpose of it. Yeah, quoting Popper.
+And so what Popper writes about in how science and knowledge broadly is generated is what's going on in the mind of the learner. And it just seems to be a logical line to draw that if Popper begins with the project of science is you start with a problem, then obviously any mandated curriculum, even no matter how liberal you want your curriculum to be in choice, you're handing the student either problems or worse still the solutions to problems. And as you say, I don't know if you're quoting Popper when you say answers to questions not asked. That's like the purpose of it.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:58:19 - 00:59:07</span>
+
+Yeah, quoting Popper.
 
 ### Naval Ravikant
 

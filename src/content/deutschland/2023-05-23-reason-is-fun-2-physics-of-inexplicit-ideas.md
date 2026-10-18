@@ -21,7 +21,13 @@ Welcome to the Reason is Fun podcast. I'm your host, Lulie Tanett, and today I g
 
 <span class="transcript-timestamp">00:00:39 - 00:01:47</span>
 
-I don't think I coined it. If you look at the OED, it is there. I may have introduced it to this kind of discussion. But anyway, the reason is quite simply, the more normal word for this would be implicit. But the trouble is that implicit is more usually used for things which are not inexplicit. So if you say, for example, I'm in favour of everyone having the same income, then implicitly you are a communist, but not explicitly. So if somebody says that and you reply to them, well, I disagree with communism and so on. And that person says, I never said I was a communist. I'm not advocating communism. I just think everyone should have the same income. So then you would say, well, it's implicit in that theory that you have the same idea as communists. And so the ideas are the same. So in other words, implicit includes the idea that it's implied, whereas inexplicit doesn't have that. Yes, exactly. I should have said that.
+I don't think I coined it. If you look at the OED, it is there. I may have introduced it to this kind of discussion. But anyway, the reason is quite simply, the more normal word for this would be implicit. But the trouble is that implicit is more usually used for things which are not inexplicit. So if you say, for example, I'm in favour of everyone having the same income, then implicitly you are a communist, but not explicitly. So if somebody says that and you reply to them, well, I disagree with communism and so on. And that person says, I never said I was a communist. I'm not advocating communism. I just think everyone should have the same income. So then you would say, well, it's implicit in that theory that you have the same idea as communists. And so the ideas are the same. So in other words, implicit includes the idea that it's implied, whereas inexplicit doesn't have that.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:00:39 - 00:01:47</span>
+
+Yes, exactly. I should have said that.
 
 ### Lulie Tanett
 
@@ -33,25 +39,49 @@ How did the idea of inexplicit ideas come about?
 
 <span class="transcript-timestamp">00:01:54 - 00:02:28</span>
 
-Oh, I think it is kind of obvious if you insist on the usual things like physicalism and thinking everything, there's no one here but us people and that everything in your mind is represented by physical things in the brain and so on. Then you can see that it's obvious that the meanings of words, for example, can't be stored explicitly in the brain. I mean, how did it come about in ...
+Oh, I think it is kind of obvious if you insist on the usual things like physicalism and thinking everything, there's no one here but us people and that everything in your mind is represented by physical things in the brain and so on. Then you can see that it's obvious that the meanings of words, for example, can't be stored explicitly in the brain.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:02:28 - 00:02:34</span>
 
-Your thinking? Just like that. Or what problem was it solving?
+I mean, how did it come about in your thinking? Just like that. Or what problem was it solving?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:02:34 - 00:05:07</span>
 
-Well, I can't remember exactly when I started thinking about inexplicit knowledge, but I basically started thinking about epistemology in regard to physics and epistemology more broadly while thinking about quantum theory. So as you know, the foundations of quantum theory have got entirely clogged with bad epistemology. I initially wanted to just unpick that. Very initially, I just thought it may be little more than a matter of language. Like when Newton said that he induced his theories, he didn't really mean that. It's just that that was the language they used to describe epistemology in those days. So similarly, I thought that the bad epistemology at the root of quantum theory was just a manner of speaking and that the real error was an error of physics. So I kind of wanted to express everything in Popperian terms, which meant becoming more tuned to thinking about what the physical correlates of everything are, things like problems and ideas. And then as soon as you think about the mind as a computer and thinking as computation and so on, then we don't know how to make an AGI, but what would we need? Well, one thing that's missing in existing computer programs is meaning. So could you just have meaning be another program? Well, that leads to a circularity or an infinite regress. Namely? Well, the computer is not going to... When the computer sees a word, or when the AGI sees a word and it wants to know its meaning, it can't possibly look that up in a dictionary, because the dictionary will only consist of words itself. And so you'd need to look up the meanings of all those and so on ad infinitum. And it's obvious that therefore, that the meanings of words can't be encoded in words. How does inexplicit ideas solve this? Because wouldn't that just move the problem rather than actually solve it?
+Well, I can't remember exactly when I started thinking about inexplicit knowledge, but I basically started thinking about epistemology in regard to physics and epistemology more broadly while thinking about quantum theory. So as you know, the foundations of quantum theory have got entirely clogged with bad epistemology. I initially wanted to just unpick that. Very initially, I just thought it may be little more than a matter of language. Like when Newton said that he induced his theories, he didn't really mean that. It's just that that was the language they used to describe epistemology in those days. So similarly, I thought that the bad epistemology at the root of quantum theory was just a manner of speaking and that the real error was an error of physics. So I kind of wanted to express everything in Popperian terms, which meant becoming more tuned to thinking about what the physical correlates of everything are, things like problems and ideas. And then as soon as you think about the mind as a computer and thinking as computation and so on, then we don't know how to make an AGI, but what would we need? Well, one thing that's missing in existing computer programs is meaning. So could you just have meaning be another program? Well, that leads to a circularity or an infinite regress.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:02:34 - 00:05:07</span>
+
+Namely?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:02:34 - 00:05:07</span>
+
+Well, the computer is not going to... When the computer sees a word, or when the AGI sees a word and it wants to know its meaning, it can't possibly look that up in a dictionary, because the dictionary will only consist of words itself. And so you'd need to look up the meanings of all those and so on ad infinitum. And it's obvious that therefore, that the meanings of words can't be encoded in words.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:02:34 - 00:05:07</span>
+
+How does inexplicit ideas solve this? Because wouldn't that just move the problem rather than actually solve it?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:05:07 - 00:06:37</span>
+
+Inexplicit knowledge is not stored as words. It's not stored as assertions or statements. It is more like knowledge that is stored in the actual physical thing, the brain. Like a switch, a light switch on the wall, it doesn't... Well, modern light switches may have a microprocessor inside where they store lots of information, but an old-fashioned light switch that just switches on and off, its state of being on or off is not stored in a memory inside it. It's stored in the state of the actual switch. And that's... More generally, what a computer does when you feed a bit of information into it, that's stored in the physical constitution of the computer. I mean, there might be many levels of this with RAM and ROM and so on, but when you eventually get down to physics, it's not stored as instructions. It's stored as the physical properties of the medium that the computer is made of. And the instructions are at a higher level than that.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:05:07 - 00:06:37</span>
 
-Inexplicit knowledge is not stored as words. It's not stored as assertions or statements. It is more like knowledge that is stored in the actual physical thing, the brain. Like a switch, a light switch on the wall, it doesn't... Well, modern light switches may have a microprocessor inside where they store lots of information, but an old-fashioned light switch that just switches on and off, its state of being on or off is not stored in a memory inside it. It's stored in the state of the actual switch. And that's... More generally, what a computer does when you feed a bit of information into it, that's stored in the physical constitution of the computer. I mean, there might be many levels of this with RAM and ROM and so on, but when you eventually get down to physics, it's not stored as instructions. It's stored as the physical properties of the medium that the computer is made of. And the instructions are at a higher level than that. And what about for a person or a biological system?
+And what about for a person or a biological system?
 
 ### David Deutsch
 
@@ -69,43 +99,175 @@ When you say level above, do you mean emergent?
 
 <span class="transcript-timestamp">00:07:09 - 00:07:49</span>
 
-Yes. So are you saying that inexplicit knowledge in people is a physically instantiated... Like, I'm not sure what the analogy is exactly. Well, so all knowledge is physically instantiated. But it comes in layers. So knowledge like, lions are dangerous, is expressed in words. But the meaning of that sentence is stored or is also stored in the brain, but not in words. So what is it stored in?
+Yes.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:07:09 - 00:07:49</span>
+
+So are you saying that inexplicit knowledge in people is a physically instantiated... Like, I'm not sure what the analogy is exactly.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:07:09 - 00:07:49</span>
+
+Well, so all knowledge is physically instantiated. But it comes in layers. So knowledge like, lions are dangerous, is expressed in words. But the meaning of that sentence is stored or is also stored in the brain, but not in words.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:07:09 - 00:07:49</span>
+
+So what is it stored in?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:07:49 - 00:07:55</span>
+
+It's stored in configurations of neurons, which are changeable.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:07:49 - 00:07:55</span>
 
-It's stored in configurations of neurons, which are changeable. How is that different?
+How is that different?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:07:55 - 00:12:09</span>
 
-Well, the difference between on and off, like whether up means on or up means off, like, you know, up means on in America and in Britain, down means on. Now, the connection between... And so the on and off are the meanings, the meaning of the physical state of a light switch was installed in the light switch by the electrician who connected it up to the light bulb. And no amount of switching up and down, you know, input to this. You said that the electrician installed the meaning of the light switch, but wasn't the meaning... Like, what does even a meaning of a light switch mean? It means which of the physical angles of the light switch represents light on and which represents light off. So the meaning is the relationship of the state of the object to the reality that it refers to. Isn't the state of the object part of reality? Yes, they're all part of reality, as it is just an object. Yes, they're all part of reality, but they can refer to each other. And that reference is part of what we mean by meaning. For a light switch, it's very simple, and there's like only one or two levels between the state of the light switch and the actual light being on or off, the actual light coming out of the bulb or not coming out of the bulb. With the more complicated things like light switches that have microprocessors in them, or computers, or brains, the relationship between physical states of the information object and their meaning can be very complicated, and it typically comes in layers, layers of abstraction. So you were thinking about the structure of thought and the structure of information instantiated in physical systems and in minds, and so you came to the idea of inexplicit knowledge because you noticed that if you just have explicit knowledge, then that leads to an infinite regress. Yes. The definitions. By the way, that's not my idea. I'm sure that's in Popper, and I'm sure it's many people have noticed this. Yeah. I guess I'm curious how you in particular came to this idea because I think not many people do or not a lot of people or not everyone does. Well, so if you look at the... It came from quantum theory. So as you may know, or as you must know, the conventional interpretation of quantum theory has to do with... It asserts that mental states of humans and observers drastically affect physical processes in atoms and so on. Does it really? Because I thought that was just a misunderstanding or something that people say, but they don't know what they're talking about, but is that something seriously believed by most people? Well, I don't think there is such a thing as believing, but people who write to me, people who send me emails, either just members of the public who are curious or physicists who ask me questions about quantum theory, very often I would say typically express their question in terms of this conventional interpretation. So they're asking some variant of what counts as an observer, when does the wave function collapse, and who collapses it, and there used to...
+Well, the difference between on and off, like whether up means on or up means off, like, you know, up means on in America and in Britain, down means on. Now, the connection between... And so the on and off are the meanings, the meaning of the physical state of a light switch was installed in the light switch by the electrician who connected it up to the light bulb. And no amount of switching up and down, you know, input to this.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:07:55 - 00:12:09</span>
+
+You said that the electrician installed the meaning of the light switch, but wasn't the meaning... Like, what does even a meaning of a light switch mean?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:07:55 - 00:12:09</span>
+
+It means which of the physical angles of the light switch represents light on and which represents light off. So the meaning is the relationship of the state of the object to the reality that it refers to.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:07:55 - 00:12:09</span>
+
+Isn't the state of the object part of reality?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:07:55 - 00:12:09</span>
+
+Yes, they're all part of reality, as it is just an object. Yes, they're all part of reality, but they can refer to each other. And that reference is part of what we mean by meaning. For a light switch, it's very simple, and there's like only one or two levels between the state of the light switch and the actual light being on or off, the actual light coming out of the bulb or not coming out of the bulb. With the more complicated things like light switches that have microprocessors in them, or computers, or brains, the relationship between physical states of the information object and their meaning can be very complicated, and it typically comes in layers, layers of abstraction.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:07:55 - 00:12:09</span>
+
+So you were thinking about the structure of thought and the structure of information instantiated in physical systems and in minds, and so you came to the idea of inexplicit knowledge because you noticed that if you just have explicit knowledge, then that leads to an infinite regress.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:07:55 - 00:12:09</span>
+
+Yes. The definitions. By the way, that's not my idea. I'm sure that's in Popper, and I'm sure it's many people have noticed this.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:07:55 - 00:12:09</span>
+
+Yeah. I guess I'm curious how you in particular came to this idea because I think not many people do or not a lot of people or not everyone does.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:07:55 - 00:12:09</span>
+
+Well, so if you look at the... It came from quantum theory. So as you may know, or as you must know, the conventional interpretation of quantum theory has to do with... It asserts that mental states of humans and observers drastically affect physical processes in atoms and so on.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:07:55 - 00:12:09</span>
+
+Does it really? Because I thought that was just a misunderstanding or something that people say, but they don't know what they're talking about, but is that something seriously believed by most people?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:07:55 - 00:12:09</span>
+
+Well, I don't think there is such a thing as believing, but people who write to me, people who send me emails, either just members of the public who are curious or physicists who ask me questions about quantum theory, very often I would say typically express their question in terms of this conventional interpretation. So they're asking some variant of what counts as an observer, when does the wave function collapse, and who collapses it, and there used to...
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:12:09 - 00:12:13</span>
 
-There's less now, but there used to be questions of, ...
+There's less now, but there used to be questions of, you know, does a rabbit collapse the wave function when it looks at something?
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:12:13 - 00:12:20</span>
 
-You know, does a rabbit collapse the wave function when it looks at something? Does it?
+Does it?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:12:20 - 00:14:25</span>
 
-There is no wave function collapse. So what is the actual thing? The wave function, which is in any way, in any case a bad way of looking at quantum theory, but it's a mathematically valid way, never collapses. It has various branches which describe parallel universes. So why are people talking about observers? How did this come up? Because the prevailing conventional interpretation often misnamed the Copenhagen interpretation, which was actually something else. So the collapse interpretation says that when we observe a quantum system, which is described by a wave function, which is a sum of two terms, something happens and something else happens, then when we look at it, it changes to just one of those two, and that's called collapsing. And then what does this have to do with inexplicit knowledge? It has to do with knowledge, because if this were true, then there would have to be a physical theory with equations and so on, which describe this change from a superposition wave function to a non-superposition wave function, and the transition from one to the other would be caused by observation. And observation means the observer changing their physical state. I mean, it would have to mean that if it meant anything. So this theory would have to say, if it were written down in a proper physics way, would have to say that a certain change in the brain causes a change in the electron's wave function. So were you taking that theory seriously, and that's why you looked into inexplicit knowledge? Yes. Oh, interesting.
+There is no wave function collapse.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:12:20 - 00:14:25</span>
+
+So what is the actual thing?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:12:20 - 00:14:25</span>
+
+The wave function, which is in any way, in any case a bad way of looking at quantum theory, but it's a mathematically valid way, never collapses. It has various branches which describe parallel universes.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:12:20 - 00:14:25</span>
+
+So why are people talking about observers? How did this come up?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:12:20 - 00:14:25</span>
+
+Because the prevailing conventional interpretation often misnamed the Copenhagen interpretation, which was actually something else. So the collapse interpretation says that when we observe a quantum system, which is described by a wave function, which is a sum of two terms, something happens and something else happens, then when we look at it, it changes to just one of those two, and that's called collapsing.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:12:20 - 00:14:25</span>
+
+And then what does this have to do with inexplicit knowledge?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:12:20 - 00:14:25</span>
+
+It has to do with knowledge, because if this were true, then there would have to be a physical theory with equations and so on, which describe this change from a superposition wave function to a non-superposition wave function, and the transition from one to the other would be caused by observation. And observation means the observer changing their physical state. I mean, it would have to mean that if it meant anything. So this theory would have to say, if it were written down in a proper physics way, would have to say that a certain change in the brain causes a change in the electron's wave function.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:12:20 - 00:14:25</span>
+
+So were you taking that theory seriously, and that's why you looked into inexplicit knowledge?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:12:20 - 00:14:25</span>
+
+Yes.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:14:25 - 00:14:27</span>
 
-Wait, so you took it seriously initially?
+Oh, interesting. Wait, so you took it seriously initially?
 
 ### David Deutsch
 
@@ -123,25 +285,151 @@ It is wild to me that you can get to the concept of inexplicit ideas from quantu
 
 <span class="transcript-timestamp">00:16:31 - 00:20:08</span>
 
-Well, actually, it's not quite not even a thing, because once you take it all seriously, once I took it all seriously, I eventually got to the thought experiment to test Everett, which necessarily involves an AGI running on a quantum computer. So both the sort of connection between quantum theory and consciousness or whatever you call it, although it came out in a different way, but some remnants of that idea still remained. And also the idea of a quantum computer came out of it, even though I didn't call it a quantum computer then, because I wasn't thinking of computers. But the thing that I wrote a paper about, we would now call a quantum computer, the thing that I was then thinking of as consciousness, we now do not think of as consciousness. We think that thing is irrelevant. Which thing? The thing which would make the wave function collapse. The thing in the brain which would make the wave function... In the not Copenhagen interpretation. Yes. In the school physics interpretation. Yes. So was the thing that was purported to make the wave function collapse inexplicit knowledge? Or how did that... I still don't fully know how that fits into... It was consciousness, conscious awareness of the result of a measurement. So were you trying to understand what is consciousness because that was said to affect the physical properties of systems? Yes. What a weird idea by the way. It's wild to me that that is a thing that people are just like, oh I guess physics is like weird and wacky. Well I don't care how weird and wacky it is. Physics is trying to solve certain problems, and the theories are far beyond our experience and you've just got to take the theory seriously. That means... Take the view that if the theory is true it says some specific thing about reality. But what is the theory that consciousness affects physical systems? Because I don't know, I mean the image I have in my head is that there is some kind of mystical substance called consciousness that somehow emanates from our brains and then touches objects and then causes light to go in one direction instead of another. Yeah, I think that's roughly the mental image that people have when they are thinking of the conventional interpretation of quantum mechanics. Now in the Copenhagen interpretation they were a bit more sophisticated and therefore a bit more sneaky. They would say that this process that you just described of some mystical thing coming out of your brain and touching the object and so on, that doesn't exist because it's not described anywhere in quantum mechanics, in the equations of quantum mechanics. But when you ask well what does exist? You are told you can't ask that question. That's not a legitimate question. That's a classical way of looking at the world. And this thing that they called the classical way of looking at the world is what I call explanation. So the Copenhagen interpretation rejected explanation on principle.
+Well, actually, it's not quite not even a thing, because once you take it all seriously, once I took it all seriously, I eventually got to the thought experiment to test Everett, which necessarily involves an AGI running on a quantum computer. So both the sort of connection between quantum theory and consciousness or whatever you call it, although it came out in a different way, but some remnants of that idea still remained. And also the idea of a quantum computer came out of it, even though I didn't call it a quantum computer then, because I wasn't thinking of computers. But the thing that I wrote a paper about, we would now call a quantum computer, the thing that I was then thinking of as consciousness, we now do not think of as consciousness. We think that thing is irrelevant.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:16:31 - 00:20:08</span>
+
+Which thing?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:16:31 - 00:20:08</span>
+
+The thing which would make the wave function collapse. The thing in the brain which would make the wave function...
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:16:31 - 00:20:08</span>
+
+In the not Copenhagen interpretation.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:16:31 - 00:20:08</span>
+
+Yes.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:16:31 - 00:20:08</span>
+
+In the school physics interpretation.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:16:31 - 00:20:08</span>
+
+Yes.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:16:31 - 00:20:08</span>
+
+So was the thing that was purported to make the wave function collapse inexplicit knowledge? Or how did that... I still don't fully know how that fits into...
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:16:31 - 00:20:08</span>
+
+It was consciousness, conscious awareness of the result of a measurement.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:16:31 - 00:20:08</span>
+
+So were you trying to understand what is consciousness because that was said to affect the physical properties of systems?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:16:31 - 00:20:08</span>
+
+Yes.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:16:31 - 00:20:08</span>
+
+What a weird idea by the way. It's wild to me that that is a thing that people are just like, oh I guess physics is like weird and wacky.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:16:31 - 00:20:08</span>
+
+Well I don't care how weird and wacky it is. Physics is trying to solve certain problems, and the theories are far beyond our experience and you've just got to take the theory seriously. That means... Take the view that if the theory is true it says some specific thing about reality.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:16:31 - 00:20:08</span>
+
+But what is the theory that consciousness affects physical systems? Because I don't know, I mean the image I have in my head is that there is some kind of mystical substance called consciousness that somehow emanates from our brains and then touches objects and then causes light to go in one direction instead of another.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:16:31 - 00:20:08</span>
+
+Yeah, I think that's roughly the mental image that people have when they are thinking of the conventional interpretation of quantum mechanics. Now in the Copenhagen interpretation they were a bit more sophisticated and therefore a bit more sneaky. They would say that this process that you just described of some mystical thing coming out of your brain and touching the object and so on, that doesn't exist because it's not described anywhere in quantum mechanics, in the equations of quantum mechanics. But when you ask well what does exist? You are told you can't ask that question. That's not a legitimate question. That's a classical way of looking at the world. And this thing that they called the classical way of looking at the world is what I call explanation. So the Copenhagen interpretation rejected explanation on principle.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:20:11 - 00:21:51</span>
+
+Because they were instrumentalist?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:20:11 - 00:21:51</span>
 
-Because they were instrumentalist. Well they were instrumentalists or positivists because they wanted to reject explanation on principle. And why did they want to reject explanation on principle? Because the straightforward explanation with this stuff coming out of the brain and so on is obviously nonsense. I mean it's obviously not described by quantum theory so it can't be included in a theory of physics. And other versions either didn't account for the observations or they didn't make sense mathematically and so on. So to avoid all that you say the quantum world view is a radically new world. Not only is it a new theory of physics, it's a new role for epistemology in physics. And that was very much like positivism or instrumentalism. Though even then they didn't connect it. Like they didn't write a philosophy paper saying, I suppose people did later, but the founders of the Copenhagen interpretation didn't say well now we have to have a combined theory of physics and philosophy where knowledge plays a different role and explanation is ruled out and so on. Or explanation only exists at the classical level as they would say. I still don't get what is the standard school physics view of what the observer does or how. So if we think of the light, so it's okay, but when does it come up?
+Well they were instrumentalists or positivists because they wanted to reject explanation on principle. And why did they want to reject explanation on principle? Because the straightforward explanation with this stuff coming out of the brain and so on is obviously nonsense. I mean it's obviously not described by quantum theory so it can't be included in a theory of physics. And other versions either didn't account for the observations or they didn't make sense mathematically and so on. So to avoid all that you say the quantum world view is a radically new world. Not only is it a new theory of physics, it's a new role for epistemology in physics. And that was very much like positivism or instrumentalism. Though even then they didn't connect it. Like they didn't write a philosophy paper saying, I suppose people did later, but the founders of the Copenhagen interpretation didn't say well now we have to have a combined theory of physics and philosophy where knowledge plays a different role and explanation is ruled out and so on. Or explanation only exists at the classical level as they would say.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:21:52 - 00:22:43</span>
 
-When does the observer affect physical systems? So that's the question which is not allowed by the Copenhagen interpretation. Right, but I'm not asking the Copenhagen interpretation, I'm asking about the school physics normal. So in school physics the physical process would be analyzed in the form, suppose that the photon approaches a barrier in a certain state. You can describe it with a wave function or in several other ways. And then later the photon strikes a barrier at a certain place. Here are some equations that tell you how to work out the probability that it will reach a certain place on the barrier as a function of what its initial state was. And what does state mean?
+I still don't get what is the standard school physics view of what the observer does or how. So if we think of the light, so it's okay, but when does it come up? When does the observer affect physical systems?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:21:52 - 00:22:43</span>
+
+So that's the question which is not allowed by the Copenhagen interpretation.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:21:52 - 00:22:43</span>
+
+Right, but I'm not asking the Copenhagen interpretation, I'm asking about the school physics normal.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:21:52 - 00:22:43</span>
+
+So in school physics the physical process would be analyzed in the form, suppose that the photon approaches a barrier in a certain state. You can describe it with a wave function or in several other ways. And then later the photon strikes a barrier at a certain place. Here are some equations that tell you how to work out the probability that it will reach a certain place on the barrier as a function of what its initial state was.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:21:52 - 00:22:43</span>
+
+And what does state mean?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:22:43 - 00:24:15</span>
 
-A complete physical description of it. So like what angle it's tilted at and where it is and how fast it's moving and that sort of thing. Exactly. So then, so you have this formula and you can do an experiment and you can test it and you can see where it comes out on the screen and what the different probabilities are and like which place it comes out more brightly, less brightly. You can work all that out. Then the student may well ask or if too timid to ask may well think, Okay, but what brings about this thing? What is it that makes the photon change course and then go to some places and not to other, never to other places and so on. And if they can work up the courage to ask that question, then well as I said in the Copenhagen interpretation the answer will be that's a classical way of thinking. You must stop thinking that way. There is no such thing as what brings about the outcome. I think lecturers and teachers are too embarrassed to talk like that nowadays. So I think they would normally say, I mean I haven't been in a quantum mechanics classroom or lecture room for many years, but I think what they would say nowadays is that's a deep question that people wonder about and you don't need to know it for this course.
+A complete physical description of it.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:22:43 - 00:24:15</span>
+
+So like what angle it's tilted at and where it is and how fast it's moving and that sort of thing.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:22:43 - 00:24:15</span>
+
+Exactly. So then, so you have this formula and you can do an experiment and you can test it and you can see where it comes out on the screen and what the different probabilities are and like which place it comes out more brightly, less brightly. You can work all that out. Then the student may well ask or if too timid to ask may well think, Okay, but what brings about this thing? What is it that makes the photon change course and then go to some places and not to other, never to other places and so on. And if they can work up the courage to ask that question, then well as I said in the Copenhagen interpretation the answer will be that's a classical way of thinking. You must stop thinking that way. There is no such thing as what brings about the outcome. I think lecturers and teachers are too embarrassed to talk like that nowadays. So I think they would normally say, I mean I haven't been in a quantum mechanics classroom or lecture room for many years, but I think what they would say nowadays is that's a deep question that people wonder about and you don't need to know it for this course.
 
 ### Lulie Tanett
 
@@ -177,7 +465,19 @@ Something, consciousness something?
 
 <span class="transcript-timestamp">00:25:49 - 00:26:21</span>
 
-Well this, when an observer sees something, you, that's when you start asking questions about would a rabbit do it and so on. Would a rabbit do it? Well as I said, all the possible answers are ruled out either by logic or by physics or by experiment. So would a rabbit do it? Well a human wouldn't do either. The whole theory doesn't make sense.
+Well this, when an observer sees something, you, that's when you start asking questions about would a rabbit do it and so on.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:25:49 - 00:26:21</span>
+
+Would a rabbit do it?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:25:49 - 00:26:21</span>
+
+Well as I said, all the possible answers are ruled out either by logic or by physics or by experiment. So would a rabbit do it? Well a human wouldn't do either. The whole theory doesn't make sense.
 
 ### Lulie Tanett
 
@@ -207,15 +507,39 @@ Well as I always reply to that allegation, there are two different kinds of weir
 
 <span class="transcript-timestamp">00:29:54 - 00:31:32</span>
 
-I think I still don't fully understand how inexplicit knowledge came into this naive interpretation of quantum mechanics. So was it that explicit ideas do not affect the things that you're looking at? Or how did that even come about in your thinking? You asked just a while ago, where does this collapse happen? Or when does it happen? Does it happen when the electron is hit by a wave of something from the brain? Or does it happen halfway through? Or does it happen when you look at the outcome? Or does it happen when you think about the outcome? Or does it happen when you understand where the outcome came from? You know, there's a whole chain of measurements actually. There's a whole chain of measurements from the original measurement of the photon on the screen to thinking yes or no, that does obey the equation or that doesn't obey the equation. At some point there, the wave function would have to collapse and that includes the wave function of not just the photon but of the screen and of the space in between and of your brain and of the state of your brain which knows things. Typically people who have thought about this say that it happens at the moment when it enters consciousness because if it happens before it enters your consciousness then you can imagine thought experiments where you come to a contradiction.
+I think I still don't fully understand how inexplicit knowledge came into this naive interpretation of quantum mechanics. So was it that explicit ideas do not affect the things that you're looking at? Or how did that even come about in your thinking?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:29:54 - 00:31:32</span>
+
+You asked just a while ago, where does this collapse happen? Or when does it happen? Does it happen when the electron is hit by a wave of something from the brain? Or does it happen halfway through? Or does it happen when you look at the outcome? Or does it happen when you think about the outcome? Or does it happen when you understand where the outcome came from? You know, there's a whole chain of measurements actually. There's a whole chain of measurements from the original measurement of the photon on the screen to thinking yes or no, that does obey the equation or that doesn't obey the equation. At some point there, the wave function would have to collapse and that includes the wave function of not just the photon but of the screen and of the space in between and of your brain and of the state of your brain which knows things. Typically people who have thought about this say that it happens at the moment when it enters consciousness because if it happens before it enters your consciousness then you can imagine thought experiments where you come to a contradiction.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:31:32 - 00:32:41</span>
 
-The reason that the process has to stop at least by the time it enters consciousness is not very fundamental. It's simply that those thought experiments where you arrive at a contradiction would involve doing an experiment inside the brain which is why I came up with my thought experiment where you have an AGI that's in a quantum computer and it's very straightforward for it to do experiments on its own brain or on its own mind. And how does inexplicit ideas come into this? Because the explicit ideas come at some later time that that is the explicit idea of this confirms the theory or this refutes the theory comes after the moment when you're supposed to have collapsed the wave function. You are supposed to have collapsed the wave function when the meaning of the sensation is understood by your brain. And so you are thinking about what is thought when it is not explicit but when it is pre-explicit.
+The reason that the process has to stop at least by the time it enters consciousness is not very fundamental. It's simply that those thought experiments where you arrive at a contradiction would involve doing an experiment inside the brain which is why I came up with my thought experiment where you have an AGI that's in a quantum computer and it's very straightforward for it to do experiments on its own brain or on its own mind.
 
 ### Lulie Tanett
+
+<span class="transcript-timestamp">00:31:32 - 00:32:41</span>
+
+And how does inexplicit ideas come into this?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:31:32 - 00:32:41</span>
+
+Because the explicit ideas come at some later time that that is the explicit idea of this confirms the theory or this refutes the theory comes after the moment when you're supposed to have collapsed the wave function. You are supposed to have collapsed the wave function when the meaning of the sensation is understood by your brain.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:31:32 - 00:32:41</span>
+
+And so you are thinking about what is thought when it is not explicit but when it is pre-explicit.
+
+### David Deutsch
 
 <span class="transcript-timestamp">00:32:41 - 00:33:02</span>
 
@@ -247,9 +571,35 @@ My Alexander Technique teacher speculated that the brain basically is used for c
 
 ### David Deutsch
 
-<span class="transcript-timestamp">00:35:35 - 00:40:23</span>
+<span class="transcript-timestamp">00:35:35 - 00:39:50</span>
 
-What we evolved to do is a bit mysterious and the size of the brain pretty clearly doesn't have anything to do with it I think because well Neanderthals had bigger brains than homo sapiens. If you look at the size it so this linguist guy I think is called Daniel Everett so this guy Everett is a maverick linguist whose theory you know there's an interesting parallel. He has this maverick theory and a part of his argument is if you look at the range of brain sizes in humans and in pre-human things that used to be thought of as like ape men and so on the smallest brains of women today are smaller than the largest brains of homo erectus. I think it's homo erectus one of those very early like not just our immediate predecessors but up to two million years ago our ancestors and so he thinks that brain size evolved as a response to human level thinking not as the cause of it. So once you have human type thinking then you know it's good to have more memory it's good to have more ways of connecting ideas and so on but it's not essential you don't have to use your memory for that and language especially. Do people with bigger brains have more memory and brain power? I don't know perhaps not I have no idea I don't think that's known but certainly there is no correlation between brain size and computer power. Because people with bigger muscles can lift more things so can't people with bigger heads think more things? Yeah you'd think that might be so but it isn't and as I was saying but this Everett guy's theory he points out that his theory was that people had language up to two million years ago already it's just that they didn't have speech. Speech also according to him evolved in response to people having language so they could have language in the sense that they could make arbitrarily complicated sophisticated ideas like if someone came home after a hunting trip and something strange happened on the trip they could explain it to their fellow people without having words and grammar and language it's just that it was more difficult and so they would use sounds as well they would go and that kind of thing and the ones who could make more subtle sounds and could distinguish more subtle sounds could do that more conveniently and so they survived more that's why these adaptations in the throat like the hyoid bone and stuff why that evolved but there was no fundamental difference between them and us because the fundamental thing had already happened. ### Lulie Tanett
+What we evolved to do is a bit mysterious and the size of the brain pretty clearly doesn't have anything to do with it I think because well Neanderthals had bigger brains than Homo sapiens. If you look at the size it so this linguist guy I think is called Daniel Everett so this guy Everett is a maverick linguist whose theory you know there's an interesting parallel. He has this maverick theory and a part of his argument is if you look at the range of brain sizes in humans and in pre-human things that used to be thought of as like ape men and so on the smallest brains of women today are smaller than the largest brains of Homo erectus. I think it's Homo erectus one of those very early like not just our immediate predecessors but up to two million years ago our ancestors and so he thinks that brain size evolved as a response to human level thinking not as the cause of it. So once you have human type thinking then you know it's good to have more memory it's good to have more ways of connecting ideas and so on but it's not essential you don't have to use your memory for that and language especially.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:35:35 - 00:39:50</span>
+
+Do people with bigger brains have more memory and brain power?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:35:35 - 00:39:50</span>
+
+I don't know perhaps not I have no idea I don't think that's known but certainly there is no correlation between brain size and computer power.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:35:35 - 00:39:50</span>
+
+Because people with bigger muscles can lift more things so can't people with bigger heads think more things?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:35:35 - 00:39:50</span>
+
+Yeah you'd think that might be so but it isn't and as I was saying but this Everett guy's theory he points out that his theory was that people had language up to two million years ago already it's just that they didn't have speech. Speech also according to him evolved in response to people having language so they could have language in the sense that they could make arbitrarily complicated sophisticated ideas like if someone came home after a hunting trip and something strange happened on the trip they could explain it to their fellow people without having words and grammar and language it's just that it was more difficult and so they would use sounds as well they would go and that kind of thing and the ones who could make more subtle sounds and could distinguish more subtle sounds could do that more conveniently and so they survived more that's why these adaptations in the throat like the hyoid bone and stuff why that evolved but there was no fundamental difference between them and us because the fundamental thing had already happened.
+
+### Lulie Tanett
 
 <span class="transcript-timestamp">00:39:50 - 00:39:52</span>
 
@@ -271,13 +621,19 @@ Sounds like my kind of person.
 
 <span class="transcript-timestamp">00:40:12 - 00:40:23</span>
 
-Yeah yeah it seems and he went to the Brazilian jungle and investigated the language of the Piraha people not to be confused with Piranha people and he analyzed their language and found that it did not obey the Chomskian model, did not conform to the Chomskian model and these are fully fledged homo sapiens and they don't have the full range of language that we think is the human range they can learn it but their own language doesn't have the features of like Chomskian language.
+Yeah yeah it seems and he went to the Brazilian jungle and investigated the language of the Piraha people not to be confused with Piranha people and he analyzed their language and found that it did not obey the Chomskian model, did not conform to the Chomskian model and these are fully fledged Homo sapiens and they don't have the full range of language that we think is the human range they can learn it but their own language doesn't have the features of like Chomskian language.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:40:23 - 00:40:32</span>
+
+Wow.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:40:23 - 00:40:32</span>
 
-Wow. According to him I don't know I mean the other linguistic people think that he's misinterpreted his data and so on.
+According to him I don't know I mean the other linguistic people think that he's misinterpreted his data and so on.
 
 ### Lulie Tanett
 
@@ -365,7 +721,7 @@ I wonder if it is different in amoebas compared with animals compared with peopl
 
 ### David Deutsch
 
-<span class="transcript-timestamp">00:45:27 - 00:49:29</span>
+<span class="transcript-timestamp">00:45:27 - 00:48:40</span>
 
 I'm not sure whether you mean what I'm about to interpret you as meaning but I think that so as you said in our last conversation humans have inherited a lot of behaviors and ways of responding from our animal ancestors and it's in our DNA and we can decide to reject it and behave differently and all that stuff but also I think what happens a lot is that we interpret our own behavior so when we what's a very simple case when we touch something and it's hot we weren't expecting it and we quickly pull our finger away it may be that what has happened there is the same thing as what would happen if a monkey or a dog did the same thing maybe that the actual physical process was the same it wasn't using the human part of the brain at all but a human will interpret it will attach by observing what he himself is doing a human or she herself a human will attach a meaning to that saying it was unexpectedly hot and that caused pain and I didn't want the pain and so I withdrew my hand so that would be an interpretation which might be false it might be completely not what happened but that might well affect what happens the next time the person touches something hot or something cold or whatever it may be that this interpretation of a completely animal response becomes the true explanation of future events and there because it's then when it's the true explanation once it's become part of the person's explanatory framework the person can change it and can reinterpret and can decide you know when receiving the injection or something and then and the injection hurts you, you can know that you did have one interpretation of that but that now you're going to criticize that and call it something else and you're going to say I'm going to interpret that as an inconsequential sensation which I'm not going to react physically to or mentally you know humans are changeable by themselves they can reinterpret themselves they can reinterpret their own thoughts and their own behavior
 
@@ -379,13 +735,49 @@ an example that I had in mind is that most people when they are playing catch wi
 
 <span class="transcript-timestamp">00:49:30 - 00:51:01</span>
 
-Can do better than the explicit thinky part and also when you are doing this Alexander Technique way of catching a ball you are more open to other things happening so like another ball being thrown at you or someone saying something to you or other streams of information because instead of focusing and concentrating and getting tunnel vision on catching the ball you now have this open awareness thing where other sources of information can reach you and so I don't know yeah I'm not sure what my question is here but it seems like there is something around allowing inexplicit ideas to do their thing and maybe it's not even just the animal part maybe it is the animal part plus inexplicit human ideas or maybe it's one or the other or a mixture or maybe the inexplicit ideas come up in certain situations like when you're trying to learn how to do a particular type of throw that didn't actually exist in your monkey predecessors yeah I don't know what do you think of all of that? We're not born knowing how to catch balls I don't know if dogs are born knowing how to catch things so and if so you know do they need some practice before they can catch well how do you know that we're not born knowing how to catch balls?
+Can do better than the explicit thinky part and also when you are doing this Alexander Technique way of catching a ball you are more open to other things happening so like another ball being thrown at you or someone saying something to you or other streams of information because instead of focusing and concentrating and getting tunnel vision on catching the ball you now have this open awareness thing where other sources of information can reach you and so I don't know yeah I'm not sure what my question is here but it seems like there is something around allowing inexplicit ideas to do their thing and maybe it's not even just the animal part maybe it is the animal part plus inexplicit human ideas or maybe it's one or the other or a mixture or maybe the inexplicit ideas come up in certain situations like when you're trying to learn how to do a particular type of throw that didn't actually exist in your monkey predecessors yeah I don't know what do you think of all of that?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:49:30 - 00:51:01</span>
+
+We're not born knowing how to catch balls I don't know if dogs are born knowing how to catch things so and if so you know do they need some practice before they can catch
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:49:30 - 00:51:01</span>
+
+well how do you know that we're not born knowing how to catch balls?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:51:01 - 00:53:00</span>
 
-Well because you can throw a ball towards a baby and it won't catch it okay but humans unlike other animals develop a lot when they are outside it could still be that they have the genetic knowledge but they need to physically learn the coordination as in like they need to get stronger or they need to acquire balance and then certain things can kick in so it could be that they are in fact born with the propensity to or with the code to do that once they reach a certain physical state. That's possible so the ability to catch a ball if it's inborn it must be overlaid by some other things like you know you definitely have to learn not to suddenly catch a knife if you're putting a knife in the dishwasher and you drop it you have to learn not to suddenly grab the blade depends how skilled you are I suppose well it does however skilled you are there'll be cases which are at the limit of your skill when it could well be that so I think dogs can catch things inherently better than humans they can catch things unbelievably fast and accurately at least adult dogs I don't know how much they have to learn to be able to do this but they can certainly outperform humans at this but I think in a ball game people are doing a lot more than catching and there are cases where you know in tennis you have to make a split second decision in less time than your reaction time to decide whether to go for the ball or not because sometimes going for the ball means that it will be the other person's point and sometimes going for the ball means that it'll be your point and it depends on the rules of the game which can change and you have to adapt to the rules of the game changing and so on so even if it's true that there are built-in things or inexplicit things that we can cede control to and perform better the reason that there is an explicit level or I would say a conscious level because in the tennis case it's your conscious thinking that makes you decide whether to go for the ball or not your explicit there's no there's no time to form the words so when you make that decision you're making it according to the rules of tennis but they have been compiled into an inexplicit form but an inexplicit but conscious form
+Well because you can throw a ball towards a baby and it won't catch it
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:51:01 - 00:53:00</span>
+
+okay but humans unlike other animals develop a lot when they are outside it could still be that they have the genetic knowledge but they need to physically learn the coordination as in like they need to get stronger or they need to acquire balance and then certain things can kick in so it could be that they are in fact born with the propensity to or with the code to do that once they reach a certain physical state.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:51:01 - 00:53:00</span>
+
+That's possible so the ability to catch a ball if it's inborn it must be overlaid by some other things like you know you definitely have to learn not to suddenly catch a knife if you're putting a knife in the dishwasher and you drop it you have to learn not to suddenly grab the blade
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:51:01 - 00:53:00</span>
+
+depends how skilled you are I suppose
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:51:01 - 00:53:00</span>
+
+well it does however skilled you are there'll be cases which are at the limit of your skill when it could well be that so I think dogs can catch things inherently better than humans they can catch things unbelievably fast and accurately at least adult dogs I don't know how much they have to learn to be able to do this but they can certainly outperform humans at this but I think in a ball game people are doing a lot more than catching and there are cases where you know in tennis you have to make a split second decision in less time than your reaction time to decide whether to go for the ball or not because sometimes going for the ball means that it will be the other person's point and sometimes going for the ball means that it'll be your point and it depends on the rules of the game which can change and you have to adapt to the rules of the game changing and so on so even if it's true that there are built-in things or inexplicit things that we can cede control to and perform better the reason that there is an explicit level or I would say a conscious level because in the tennis case it's your conscious thinking that makes you decide whether to go for the ball or not your explicit there's no there's no time to form the words so when you make that decision you're making it according to the rules of tennis but they have been compiled into an inexplicit form but an inexplicit but conscious form
 
 ### Lulie Tanett
 
@@ -409,7 +801,31 @@ why would that need to be conscious instead of subconscious like I would have th
 
 <span class="transcript-timestamp">00:54:25 - 00:54:50</span>
 
-well that's when the explicit part would come up but I think the conscious part I think you don't need the conscious part you would because so you could have it however you could also be in one of those states where you are so in flow and you're just responding that you don't have that layer of conscious thought well we don't know what consciousness is we don't know what the difference between you know ultimately well we do know what conscious thought is which is namely some kind of self-awareness or awareness of what's happening or like one meta level up so when you move your limbs intentionally and moving them intentionally is different from moving them unintentionally
+well that's when the explicit part would come up but I think the conscious part
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:54:25 - 00:54:50</span>
+
+I think you don't need the conscious part you would because so you could have it however you could also be in one of those states where you are so in flow and you're just responding that you don't have that layer of conscious thought
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:54:25 - 00:54:50</span>
+
+well we don't know what consciousness is we don't know what the difference between you know ultimately
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:54:25 - 00:54:50</span>
+
+well we do know what conscious thought is which is namely some kind of self-awareness or awareness of what's happening or like one meta level up
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:54:25 - 00:54:50</span>
+
+so when you move your limbs intentionally and moving them intentionally is different from moving them unintentionally
 
 ### Lulie Tanett
 
@@ -577,7 +993,7 @@ what do you think are the most interesting questions about inexplicit ideas
 
 <span class="transcript-timestamp">01:05:20 - 01:06:40</span>
 
-I think the issue of qualia sort of touches all these things like consciousness and AGI and explicit and inexplicit and all that you spoke of really amazing things before one of the really amazing things is that it is definitely possible that you could have a box a metal box and inside that there was a thinking being and there could be inside that there could be a thinking being who is interacting with a virtual world and they might not even know that they are in a virtual world and it might be like the matrix and so on but the point is the amazing thing is in there. Now the box is finite it has a finite number of bits or a finite number of qubits let's say it has a trillion bits in it the amazing thing that I'm pointing to is that some of them. So then there are a trillion bits therefore if it's a classical computer let's say there are two to the power of a trillion possible states of that computer inside the box the amazing thing is that some of those states are immoral some of them are so immoral that they are worse than anything that's ever happened to humans ever
+I think the issue of qualia sort of touches all these things like consciousness and AGI and explicit and inexplicit and all that you spoke of really amazing things before one of the really amazing things is that it is definitely possible that you could have a box a metal box and inside that there was a thinking being and there could be inside that there could be a thinking being who is interacting with a virtual world and they might not even know that they are in a virtual world and it might be like The Matrix and so on but the point is the amazing thing is in there. Now the box is finite it has a finite number of bits or a finite number of qubits let's say it has a trillion bits in it the amazing thing that I'm pointing to is that some of them. So then there are a trillion bits therefore if it's a classical computer let's say there are two to the power of a trillion possible states of that computer inside the box the amazing thing is that some of those states are immoral some of them are so immoral that they are worse than anything that's ever happened to humans ever
 
 ### Lulie Tanett
 

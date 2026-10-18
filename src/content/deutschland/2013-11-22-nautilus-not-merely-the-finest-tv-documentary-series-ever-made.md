@@ -1,19 +1,24 @@
 ---
 title: '2013-11-22 - Nautilus - Not Merely the Finest TV Documentary Series Ever Made'
-description: "David Deutsch revisits Jacob Bronowski's The Ascent of Man and its account of people as makers of knowledge."
+description: 'David Deutsch revisits Jacob Bronowski''s The Ascent of Man and its account of people as makers of knowledge.'
 pubDate: 2013-11-22
 ---
 
 [Read the article at Nautilus](https://nautil.us/not-merely-the-finest-tv-documentary-series-ever-made-234658/)
 [Source collection](https://deranfangderunendlichkeit.de/mehr)
 
-## Not Merely the Finest TV Documentary Series Ever Made
-
 *By David Deutsch · 22 November 2013*
 
-> A reflection on Jacob Bronowski’s “The Ascent of Man.”
+*A reflection on Jacob Bronowski’s “The Ascent of Man.”*
 
 *Editorial note: Nautilus’s current page retains three footnote markers but no longer provides the corresponding notes. The orphaned markers have been omitted here.*
+
+*David Deutsch has done seminal work on quantum computation and is a member of the Centre for Quantum Computation at the Clarendon Laboratory, Oxford University.*
+
+*This article originally appeared in the Winter 2014 Nautilus Quarterly.*
+
+## Transcript
+### David Deutsch
 
 A range of dark hilltops appears against a dawn sky. On a ridge in the far distance we can discern a human silhouette. It is someone telling us about the uniqueness of Man. “Man …” says the tiny figure in the landscape, “is not a figure in the landscape …”
 
@@ -60,9 +65,3 @@ Filming the last remnants of an ancient horse-based culture in Afghanistan, Bron
 Continued ascent will depend on adopting Bronowski’s unified understanding that human values are not arbitrary nor science merely utilitarian: that there is a truth of the matter in cultures just as in scientific theories. That these truths are not obvious nor mechanically obtainable in either case, but can be approached only through institutions of relentless error-correction including those of science and of an open society. Bronowski spoke of peaks, but there have been many troughs too. Today, civilization still has enemies. There are still those who devote their creativity to the archaic objective of resisting new ideas. More dangerously, in my view, the many-stranded civilization of reason and science that has so powerfully promoted ascent in recent centuries still sits on the unstable fence between its aspirations for progress and the specious comfort of stasis. Two hundred years after the Luddites, it is still not sure whether labor-saving devices cause wealth or poverty. Two hundred years since Malthus, it has still not realized that the recipe for doom is not “too many people,” but too few ideas. After 300 unprecedented years of sustained progress, it is still tempted to revert to its predecessors’ educational priorities, namely to produce “higher standards” (i.e. more standardized children). And after 50 years of conservationism, it is no longer sure whether it is better to kill a herd of elephants or a child. Most dangerous of all, it is no longer even sure whether its own spread—to other cultures, or to other planets and star systems—would be a good thing.
 
 Go forth, therefore, and watch *The Ascent of Man*. If you have already done so, watch it again.
-
-## About David Deutsch
-
-David Deutsch has done seminal work on quantum computation and is a member of the Centre for Quantum Computation at the Clarendon Laboratory, Oxford University.
-
-*This article originally appeared in the Winter 2014 Nautilus Quarterly.*

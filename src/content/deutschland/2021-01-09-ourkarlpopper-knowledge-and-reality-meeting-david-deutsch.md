@@ -193,7 +193,7 @@ So much for my theory right
 
 <span class="transcript-timestamp">00:08:15 - 00:08:23</span>
 
-Yeah and Sonia you're the only one who can do it so you're gonna have to probably mute people as they come in all right so ...
+Yeah and Sadia you're the only one who can do it so you're gonna have to probably mute people as they come in all right so ...
 
 ### Carlos de la Guardia
 
@@ -223,13 +223,13 @@ Control that open up the participants and like stretch it out so you can kind of
 
 <span class="transcript-timestamp">00:09:22 - 00:10:20</span>
 
-Yeah well um uh one thing I thought at the time uh I with beginning of infinity I ended up finishing it under a deadline and it wasn't as polished as I was hoping it would be and I had to leave out an entire chapter that I had planned uh in order you know it took it took uh almost 10 years to write as did fabric of reality but with the fabric of reality I finished it in my own time and beginning of infinity it was it was uh a bit rushed and so I was thinking that it wasn't as good and um uh although many people criticize it in many ways um few people said it wasn't as good so you know go figure
+Yeah well um uh one thing I thought at the time uh I with The Beginning of Infinity I ended up finishing it under a deadline and it wasn't as polished as I was hoping it would be and I had to leave out an entire chapter that I had planned uh in order you know it took it took uh almost 10 years to write as did The Fabric of Reality but with The Fabric of Reality I finished it in my own time and The Beginning of Infinity it was it was uh a bit rushed and so I was thinking that it wasn't as good and um uh although many people criticize it in many ways um few people said it wasn't as good so you know go figure
 
 ### Bruce Nielson
 
 <span class="transcript-timestamp">00:10:20 - 00:10:39</span>
 
-It actually seems to beginning infinity seems to be the more popular of the two books from what I've from what I've seen yes personally I'm a fabric of reality fan I actually I read fabric reality two years before beginning infinity came out so I was anxious uh when it came out I'm curious what was the chapter that you didn't get to do uh
+It actually seems to The Beginning of Infinity seems to be the more popular of the two books from what I've from what I've seen yes personally I'm a Fabric of Reality fan I actually I read The Fabric of Reality two years before The Beginning of Infinity came out so I was anxious uh when it came out I'm curious what was the chapter that you didn't get to do uh
 
 ### David Deutsch
 
@@ -259,7 +259,7 @@ I'm gonna say um David it's been fun meeting some new people um I'm currently vi
 
 <span class="transcript-timestamp">00:15:29 - 00:16:43</span>
 
-Maybe you're describing the transition to optimism um if you think about what's going wrong in terms of a lack of knowledge then in a certain although you still don't know what that knowledge is in a certain sense you know that that what's standing between you and uh the good outcome is a lack of knowledge and you want you need to create knowledge and that that puts a that already puts an optimistic spin on things even before you solve anything whereas if you think of things in terms of people then everything becomes who whom you know famous thing that lenin is supposed to have said just a very accurate description of a whole class of world views who whom and you've got to get rid of who whom um if you get rid of it in politics that's that's like getting rid of who should rule and so on and presumably what from what you've just said in relationship things uh you get away from who whom and you turn towards what actually is the problem.
+Maybe you're describing the transition to optimism um if you think about what's going wrong in terms of a lack of knowledge then in a certain although you still don't know what that knowledge is in a certain sense you know that that what's standing between you and uh the good outcome is a lack of knowledge and you want you need to create knowledge and that that puts a that already puts an optimistic spin on things even before you solve anything whereas if you think of things in terms of people then everything becomes who whom you know famous thing that Lenin is supposed to have said just a very accurate description of a whole class of world views who whom and you've got to get rid of who whom um if you get rid of it in politics that's that's like getting rid of who should rule and so on and presumably what from what you've just said in relationship things uh you get away from who whom and you turn towards what actually is the problem.
 
 ### Bruce Nielson
 
@@ -271,25 +271,25 @@ All right it is it is time so Sadia why don't we go ahead and start the official
 
 <span class="transcript-timestamp">00:16:56 - 00:19:32</span>
 
-All right first of all I want to welcome everybody um it's kind of nice to see uh I think this has been our uh largest session kind of wanted to start by introducing I think most of us probably know uh david uh but I wanted to just give a little bit of an intro um uh to david um by pointing out uh that first of all the age of enlightenment uh saw the rise of what some of us recognize as Popperian tradition while Popper's work may not be that well known the tradition he presented or talked about has been with us uh for a few centuries now I think that David Deutsch has done a wonderful job at bringing Popper's work to people through his books and he's also encouraged a culture of sharing uh and criticism of ideas and most of all by making himself accessible uh to social media I think he's pretty accessible as some of us know uh through Twitter which uh is not such a common thing among people who are specialists in certain fields his work optimism and interactions have inspired a culture whereby people have come together to take Popper's ideas to a new level this has led to groups such as the Four Strands um which bruce and others uh contribute this is a thing of where I have to be the moderator I mean I have to unmute everybody too but um but this has led to groups such as Four Strands run by um Bruce Nielson and others individuals have been inspired to create podcasts YouTube videos and websites to encourage an open-ended growth of knowledge david's book opened me up to the ideas that impacted my life in more ways than I can mention in a few words my primary interest is in foundations of physics and I'm also an educator I find myself starting my physics class every year now for the last couple of years uh with the discussion um with the david's ted talk on good explanations and it's interesting how that leads to all sorts of interesting discussions throughout the school year as we look into physics and just overall the connection of physics and reality you know we talk about reality we even talk about multiverse sometimes and it really gets kids into it so um so I really want to thank uh david for making himself available um and um thanks a lot david for coming today and I'm going to hand it over to bruce now um and let him help introduce
+All right first of all I want to welcome everybody um it's kind of nice to see uh I think this has been our uh largest session kind of wanted to start by introducing I think most of us probably know uh David uh but I wanted to just give a little bit of an intro um uh to David um by pointing out uh that first of all the age of enlightenment uh saw the rise of what some of us recognize as Popperian tradition while Popper's work may not be that well known the tradition he presented or talked about has been with us uh for a few centuries now I think that David Deutsch has done a wonderful job at bringing Popper's work to people through his books and he's also encouraged a culture of sharing uh and criticism of ideas and most of all by making himself accessible uh to social media I think he's pretty accessible as some of us know uh through Twitter which uh is not such a common thing among people who are specialists in certain fields his work optimism and interactions have inspired a culture whereby people have come together to take Popper's ideas to a new level this has led to groups such as the Four Strands um which Bruce and others uh contribute this is a thing of where I have to be the moderator I mean I have to unmute everybody too but um but this has led to groups such as Four Strands run by um Bruce Nielson and others individuals have been inspired to create podcasts YouTube videos and websites to encourage an open-ended growth of knowledge David's book opened me up to the ideas that impacted my life in more ways than I can mention in a few words my primary interest is in foundations of physics and I'm also an educator I find myself starting my physics class every year now for the last couple of years uh with the discussion um with the David's TED talk on good explanations and it's interesting how that leads to all sorts of interesting discussions throughout the school year as we look into physics and just overall the connection of physics and reality you know we talk about reality we even talk about multiverse sometimes and it really gets kids into it so um so I really want to thank uh David for making himself available um and um thanks a lot David for coming today and I'm going to hand it over to Bruce now um and let him help introduce
 
 ### Bruce Nielson
 
 <span class="transcript-timestamp">00:19:32 - 00:21:10</span>
 
-All right thank you Sadia I'm Bruce Nielson and I think I was asked to help host this session because my experience is fairly typical of probably a lot of yours so uh back in 2009 uh we know that I was a religious blogger and I had a fellow religious blogger suggest to me to read david's book um fabric of reality and I was enthralled with it so I started actually blogging about it and things like that and um it I spent years actually trying to refute what was in his book and ended up reading a whole lot of different books that were related subjects and uh eventually became very convinced of all four of the strands he mentions in um uh fabric reality because of my inability to refute them and ability to find good criticism of them that he hadn't already responded to and uh so eventually this even led to me going back to school I wanted to study this more deeply I wanted to go back to school and get a master's degree in computer science study computational theory and related subjects and so this is something that really has ended up impacting my life quite a bit just in a lot of ways starting off as a hobby and then eventually now maybe even eventually turning into a career change so um I'm also the I started a podcast the theory of anything podcast which is loosely based on David Deutsch's four strands and um Sadia mentioned the four strands blog four strands dot org um I am the one kind of behind that that runs that and hosts that and uh my co-host cameo is also here cammy do you want to do a quick introduction
+All right thank you Sadia I'm Bruce Nielson and I think I was asked to help host this session because my experience is fairly typical of probably a lot of yours so uh back in 2009 uh we know that I was a religious blogger and I had a fellow religious blogger suggest to me to read David's book um The Fabric of Reality and I was enthralled with it so I started actually blogging about it and things like that and um it I spent years actually trying to refute what was in his book and ended up reading a whole lot of different books that were related subjects and uh eventually became very convinced of all four of the strands he mentions in um uh The Fabric of Reality because of my inability to refute them and ability to find good criticism of them that he hadn't already responded to and uh so eventually this even led to me going back to school I wanted to study this more deeply I wanted to go back to school and get a master's degree in computer science study computational theory and related subjects and so this is something that really has ended up impacting my life quite a bit just in a lot of ways starting off as a hobby and then eventually now maybe even eventually turning into a career change so um I'm also the I started a podcast the Theory of Anything podcast which is loosely based on David Deutsch's Four Strands and um Sadia mentioned the Four Strands blog Four Strands dot org um I am the one kind of behind that that runs that and hosts that and uh my co-host Cameo is also here Cameo do you want to do a quick introduction
 
 ### Cameo Duran
 
 <span class="transcript-timestamp">00:21:18 - 00:21:53</span>
 
-Yes I do hi I'm cammy o'duran and I'm bruce's co-host on the theory of anything podcast and everything I know about David Deutsch came from my um involvement with bruce I think one of the first times bruce and I had a conversation it really quickly veered into the Popper land and his passion around the four strands um and was the primary reason we started the podcast together just because we really enjoyed discussing knowledge and that's that's why I'm here hi
+Yes I do hi I'm Cameo Duran and I'm Bruce's co-host on the Theory of Anything podcast and everything I know about David Deutsch came from my um involvement with Bruce I think one of the first times Bruce and I had a conversation it really quickly veered into the Popper land and his passion around the Four Strands um and was the primary reason we started the podcast together just because we really enjoyed discussing knowledge and that's that's why I'm here hi
 
 ### Bruce Nielson
 
 <span class="transcript-timestamp">00:21:54 - 00:22:26</span>
 
-Thank you so um what we're going to do for this session I do have some questions if people run out of questions but I want to give people a chance to actually just talk to david and to ask him questions and to pick his brain and things like that so the way to do that so that we don't get things out of control uh maybe put a question in the chat and Sadia will um you know unmute you and we will just let people have a chance to kind of talk with david and have fireside chat here so ...
+Thank you so um what we're going to do for this session I do have some questions if people run out of questions but I want to give people a chance to actually just talk to David and to ask him questions and to pick his brain and things like that so the way to do that so that we don't get things out of control uh maybe put a question in the chat and Sadia will um you know unmute you and we will just let people have a chance to kind of talk with David and have fireside chat here so ...
 
 ### Sadia Naeem
 
@@ -307,13 +307,13 @@ Raise your hand that's a good idea
 
 <span class="transcript-timestamp">00:22:38 - 00:22:44</span>
 
-Yeah it seems like we have one there uh please go ahead urns is it please I'm sorry if I'm mispronouncing
+Yeah it seems like we have one there uh please go ahead Ernst is it please I'm sorry if I'm mispronouncing
 
 ### Bruce Nielson
 
 <span class="transcript-timestamp">00:22:44 - 00:22:58</span>
 
-And I should tell everybody this is being recorded and um I know for sure that we're going to be releasing this on the theory of anything podcast probably will get replaced at least other places too so just be aware of that as you speak up here
+And I should tell everybody this is being recorded and um I know for sure that we're going to be releasing this on the Theory of Anything podcast probably will get replaced at least other places too so just be aware of that as you speak up here
 
 ### Ernst
 
@@ -343,7 +343,7 @@ Yeah first of all before I uh tell the person who's next in line are there any c
 
 <span class="transcript-timestamp">00:27:47 - 00:31:16</span>
 
-Uh hi hi david everyone uh my my name is uh Pavan and um uh thank you so much for coming uh I think the reason I was being recommended to your book is is that uh I was asking a person on how to do research and then he recommended this book to me and uh from his understanding the most important take from this book is um maybe just for me but uh it's about self-error correction um and um I don't know if you have so the first question is do you have any advice to how this kind of self-error correction can can take place is there uh a set of questions that a person can can question themselves uh in his everyday life uh for example or in his own research um the so this is my first question uh my my second question is uh um I think uh in the end uh we as human uh in all sciences we what we we're trying to really understand is about causality um but uh the problem uh to me is that um I'm not a theoretical physicist and I um and I get a sense that um my understanding of causality can be very naive and um far from what actually is being considered as causality in physics like the space time causality for example in physics um so I uh but I think at times I can see why uh things are not causal um and are merely correlations but I kind of find it really hard to give a give a definition of what is causality and um and in this scenario how can I as a researcher trying to probe into this uh these causal relations um this is my second question uh my third question and this is the last question uh so I um right now I am a grad student uh working in statistics uh and uh it I think uh fundamentally it's a it's a problem of induction and uh that we're trying to um combat every you know everyday life um so um my question to you is what do you think is the most important thing uh to do uh for statisticians or a statistics researcher to help in the process of scientific discovery um and this kind of uh what would you think would be the most important thing to do in uh for a statistician in the next uh 50 years or 30 to 50 ...
+Uh hi hi David everyone uh my my name is uh Pavan and um uh thank you so much for coming uh I think the reason I was being recommended to your book is is that uh I was asking a person on how to do research and then he recommended this book to me and uh from his understanding the most important take from this book is um maybe just for me but uh it's about self-error correction um and um I don't know if you have so the first question is do you have any advice to how this kind of self-error correction can can take place is there uh a set of questions that a person can can question themselves uh in his everyday life uh for example or in his own research um the so this is my first question uh my my second question is uh um I think uh in the end uh we as human uh in all sciences we what we we're trying to really understand is about causality um but uh the problem uh to me is that um I'm not a theoretical physicist and I um and I get a sense that um my understanding of causality can be very naive and um far from what actually is being considered as causality in physics like the space time causality for example in physics um so I uh but I think at times I can see why uh things are not causal um and are merely correlations but I kind of find it really hard to give a give a definition of what is causality and um and in this scenario how can I as a researcher trying to probe into this uh these causal relations um this is my second question uh my third question and this is the last question uh so I um right now I am a grad student uh working in statistics uh and uh it I think uh fundamentally it's a it's a problem of induction and uh that we're trying to um combat every you know everyday life um so um my question to you is what do you think is the most important thing uh to do uh for statisticians or a statistics researcher to help in the process of scientific discovery um and this kind of uh what would you think would be the most important thing to do in uh for a statistician in the next uh 50 years or 30 to 50 ...
 
 ### David Deutsch
 
@@ -385,7 +385,7 @@ Raise your hand again if you've got a second coming
 
 <span class="transcript-timestamp">00:38:37 - 00:38:46</span>
 
-Back to you as long as it seems like now we have actually a list of people um so ella could I please let me go over to you next
+Back to you as long as it seems like now we have actually a list of people um so Ella could I please let me go over to you next
 
 ### Ella
 
@@ -409,7 +409,7 @@ You're for some reason we can't hear you even though you're not muted
 
 <span class="transcript-timestamp">00:39:05 - 00:40:09</span>
 
-Next person and get me afterwards I can we can hear you now you're back now okay hopefully this will work okay so david I'm very interested in um artificial general intelligence um in which is to say I'm interested in trying to understand the mind and the way that the mind creates knowledge at a little at a level of detail that is sufficient that we can implement it on a computer and so my question is about the logic of how the how minds manage to create knowledge and um and the extent to which it's similar or different to biological evolution and the way that knowledge is created there so my question is do you think that um replicators are involved in the way that the mind that minds manage to create knowledge I think in biological evolution we know from you know Darwin and Dawkins theory that the replicators are sort of the key explanation for why biological evolution manages to create knowledge and so I'm interested in whether you think that there's something similar going on in the human mind some sort of pool of competing replicators or do you think that there's some other process that's responsible for creating knowledge in human minds
+Next person and get me afterwards I can we can hear you now you're back now okay hopefully this will work okay so David I'm very interested in um artificial general intelligence um in which is to say I'm interested in trying to understand the mind and the way that the mind creates knowledge at a little at a level of detail that is sufficient that we can implement it on a computer and so my question is about the logic of how the how minds manage to create knowledge and um and the extent to which it's similar or different to biological evolution and the way that knowledge is created there so my question is do you think that um replicators are involved in the way that the mind that minds manage to create knowledge I think in biological evolution we know from you know Darwin and Dawkins theory that the replicators are sort of the key explanation for why biological evolution manages to create knowledge and so I'm interested in whether you think that there's something similar going on in the human mind some sort of pool of competing replicators or do you think that there's some other process that's responsible for creating knowledge in human minds
 
 ### David Deutsch
 
@@ -433,7 +433,7 @@ All right any comments on that uh all right okay uh Vaden could you can please g
 
 <span class="transcript-timestamp">00:42:33 - 00:43:14</span>
 
-Hi I'm a phd student at UBC and machine learning um and I keep trying to get people to think about knowledge in my community and they keep confusing it with information um and I have a very difficult time uh explaining to them that I'm trying to refer to something else without just pointing them to your books and Popper's books and so I guess I'm curious to know uh how you think about the difference between knowledge and information and then also if you have any communication strategies um that you could offer in terms of how to uh get people to realize that I'm trying to talk about something that's not information when I say the word knowledge thanks
+Hi I'm a PhD student at UBC and machine learning um and I keep trying to get people to think about knowledge in my community and they keep confusing it with information um and I have a very difficult time uh explaining to them that I'm trying to refer to something else without just pointing them to your books and Popper's books and so I guess I'm curious to know uh how you think about the difference between knowledge and information and then also if you have any communication strategies um that you could offer in terms of how to uh get people to realize that I'm trying to talk about something that's not information when I say the word knowledge thanks
 
 ### David Deutsch
 
@@ -499,7 +499,7 @@ Thank you um I wanted to give Dwarkesh a chance to ask a question he wasn't able
 
 <span class="transcript-timestamp">00:59:36 - 01:00:15</span>
 
-Yeah I'm here thanks uh hey david I'm a big fan I just wanted to ask you um this is in my view but I just want to play devil's advocate here and I because I don't have a good rebuttal to this argument which is uh there's a Bayesian critique of uh Popper which is that verification and disconfirmation both reveal information about a theory and that um while Popper can deal with disconfirmation there's no way to integrate uh evidence that verifies a theory and that's like Bayes is backwards compatible with Popper uh in that it can integrate verifying and disconfirming evidence it just weighs disconfirming evidence higher and updates heavier based on that so how would you deal with that criticism um
+Yeah I'm here thanks uh hey David I'm a big fan I just wanted to ask you um this isn't my view but I just want to play devil's advocate here and I because I don't have a good rebuttal to this argument which is uh there's a Bayesian critique of uh Popper which is that verification and disconfirmation both reveal information about a theory and that um while Popper can deal with disconfirmation there's no way to integrate uh evidence that verifies a theory and that's like Bayes is backwards compatible with Popper uh in that it can integrate verifying and disconfirming evidence it just weighs disconfirming evidence higher and updates heavier based on that so how would you deal with that criticism um
 
 ### David Deutsch
 
@@ -511,31 +511,49 @@ There there I think the um the context in which that criticism arises I think co
 
 <span class="transcript-timestamp">01:02:50 - 01:02:52</span>
 
-All right thank you um mike
+All right thank you um Mike
 
 ### Mike
 
 <span class="transcript-timestamp">01:02:54 - 01:03:39</span>
 
-Yes hi everyone uh hi david um so I was wanting to ask you about modes of explanation and knowing how important they are to um kind of structuring some of your um some of your work and bruce just brought up constructor theory which I think you might describe as its own mode of explanation and um I was trying to particularly link it to computation so um I have your shorthand if you can't program it you haven't understood it um I was wondering if you follow that um is inventing a new mode of explanation is that synonymous with um inventing like a new type of algorithm is the is the link to computation and explanation can it be kind of forged in that way or but um but not yet don't you don't have to speak specifically just to that so ...
+Yes hi everyone uh hi David um so I was wanting to ask you about modes of explanation and knowing how important they are to um kind of structuring some of your um some of your work and Bruce just brought up constructor theory which I think you might describe as its own mode of explanation and um I was trying to particularly link it to computation so um I have your shorthand if you can't program it you haven't understood it um I was wondering if you follow that um is inventing a new mode of explanation is that synonymous with um inventing like a new type of algorithm is the is the link to computation and explanation can it be kind of forged in that way or but um but not yet don't you don't have to speak specifically just to that so ...
 
 ### Sadia Naeem
 
 <span class="transcript-timestamp">01:03:44 - 01:03:57</span>
 
-I'm sorry david I think you're muted I think you're muted uh sometimes the space bar works and sometimes it doesn't work um okay I'm pressing it down quite hard
+I'm sorry David I think you're muted I think you're muted uh
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:03:44 - 01:03:57</span>
+
+Sometimes the space bar works and sometimes it doesn't work um okay I'm pressing it down quite hard
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:03:57 - 01:06:11</span>
 
-Can you hear me we can hear you now right um uh yeah yeah so uh I'm reluctant to reduce things to algorithms uh I think that usually sucks the creativity out of the picture and uh makes it wrong uh so um uh the I'm trying to think whether this maxim if you can't program it you haven't understood it which uh is really a bit of a paraphrase of Feynman uh whether this applies to everything or just theories about how information works in the world and in particular AGI and so on so if you can't program an algorithm you haven't understood it if you can't program any kind of information process then you haven't understood it um if you if you can't say say you have a process of um how stars work a theory about how stars work then it's also true I'm thinking out loud here then it's also true that if you can't program that you haven't understood it but that doesn't mean programming every the motion of every molecule in the star it means programming the things that the features of the theory of your explanatory theory that your theory says uh explain the star so it's those that you have to be able to program but finding out what those are is not a matter of programming anything it's a matter of creativity and problem solving so uh my tentative answer is that that that maxim doesn't apply to everything it doesn't apply to um to creating the knowledge to do that ...
+Can you hear me
+
+### Sadia Naeem
+
+<span class="transcript-timestamp">01:03:57 - 01:06:11</span>
+
+We can hear you now
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:03:57 - 01:06:11</span>
+
+Right um uh yeah yeah so uh I'm reluctant to reduce things to algorithms uh I think that usually sucks the creativity out of the picture and uh makes it wrong uh so um uh the I'm trying to think whether this maxim if you can't program it you haven't understood it which uh is really a bit of a paraphrase of Feynman uh whether this applies to everything or just theories about how information works in the world and in particular AGI and so on so if you can't program an algorithm you haven't understood it if you can't program any kind of information process then you haven't understood it um if you if you can't say say you have a process of um how stars work a theory about how stars work then it's also true I'm thinking out loud here then it's also true that if you can't program that you haven't understood it but that doesn't mean programming every the motion of every molecule in the star it means programming the things that the features of the theory of your explanatory theory that your theory says uh explain the star so it's those that you have to be able to program but finding out what those are is not a matter of programming anything it's a matter of creativity and problem solving so uh my tentative answer is that that that maxim doesn't apply to everything it doesn't apply to um to creating the knowledge to do that ...
 
 ### Sadia Naeem
 
 <span class="transcript-timestamp">01:06:15 - 01:06:18</span>
 
-And uh mark would you like to go next
+And uh Mark would you like to go next
 
 ### Mark
 
@@ -577,13 +595,13 @@ Yeah I guess that that answers a little bit of it and then it's just like uh bei
 
 <span class="transcript-timestamp">01:15:13 - 01:15:19</span>
 
-Yeah well different people find answers in different ways and they have extremely different problem situations and I
+Yeah well different people find answers in different ways and they have extremely different problem situations and
 
 ### Jesse
 
 <span class="transcript-timestamp">01:15:19 - 01:15:42</span>
 
-Guess it from the context of The Beginning of Infinity of uh like what was actually useful it was useful to make more people and to do that people create uh had families to do that kind of divide and conquer kind of sense whether they knew it or not right people kind of when they team up they can uh do they're more than the sum of their parts
+I guess it from the context of The Beginning of Infinity of uh like what was actually useful it was useful to make more people and to do that people create uh had families to do that kind of divide and conquer kind of sense whether they knew it or not right people kind of when they team up they can uh do they're more than the sum of their parts
 
 ### David Deutsch
 
@@ -595,19 +613,19 @@ Yes although there are many ways of teaming up and each of them has better and w
 
 <span class="transcript-timestamp">01:16:20 - 01:16:38</span>
 
-I guess that I was just going to say we were coming up on the hour and I wanted to be cognizant of david's time um we still have looks like quite a few questions but how much how much time do you feel you've got left here david we'll we'll kind of roll with that ...
+I guess that I was just going to say we were coming up on the hour and I wanted to be cognizant of David's time um we still have looks like quite a few questions but how much how much time do you feel you've got left here David we'll we'll kind of roll with that ...
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:16:40 - 01:16:53</span>
 
-I'm willing to go on for a while but I need to have another cup of tea make it so if I could make myself a cup of tea come back then I would I would uh be willing to answer a few more
+I'm willing to go on for a while but I need to have another cup of tea make it so if I could make myself a cup of tea come back then I would I would uh be willing to answer a few more questions
 
 ### Bruce Nielson
 
 <span class="transcript-timestamp">01:16:53 - 01:17:01</span>
 
-Questions let's do that I think that's a great idea okay tea break as it were break yes
+Let's do that I think that's a great idea okay tea break as it were break yes
 
 ### Unidentified participant
 
@@ -619,49 +637,55 @@ I'm gonna go get tea as well I just had my tea so maybe I'll have another one ..
 
 <span class="transcript-timestamp">01:17:13 - 01:17:27</span>
 
-All right well in the meantime for all the non-tea drinkers uh I guess we could just kind of shoot the shit yeah absolutely so um we're trying to go in order of raised hands here by the way
+All right well in the meantime for all the non-tea drinkers uh I guess we could just kind of shoot the shit
+
+### Bruce Nielson
+
+<span class="transcript-timestamp">01:17:13 - 01:17:27</span>
+
+Yeah absolutely so um we're trying to go in order of raised hands here by the way
 
 ### Bruce Nielson
 
 <span class="transcript-timestamp">01:17:27 - 01:17:35</span>
 
-As we um so sadia is the one who's the official moderator and he's got controls so uh we're trying
+As we um so Sadia is the one who's the official moderator and he's got controls so uh we're trying to
 
 ### Sadia Naeem
 
 <span class="transcript-timestamp">01:17:35 - 01:17:40</span>
 
-To I'm getting tired by the way you're welcome to take over I would rather just chill and relax and ...
+I'm getting tired by the way you're welcome to take over I would rather just chill and relax and listen
 
 ### Bruce Nielson
 
 <span class="transcript-timestamp">01:17:40 - 01:17:47</span>
 
-Listen sorry the problem is is that you're the only one who can do it so uh yeah well can you ...
+Sorry the problem is is that you're the only one who can do it so uh yeah well can you not see the hand raises
 
 ### Sadia Naeem
 
 <span class="transcript-timestamp">01:17:47 - 01:17:52</span>
 
-Not see the hand raises I guess I can't see the hand raises I can call on people you'll have to ...
+I guess I can't see the hand raises I can call on people you'll have to control
 
 ### Bruce Nielson
 
 <span class="transcript-timestamp">01:17:52 - 01:17:58</span>
 
-Control um maybe they can unmute themselves yeah I could do that I could take care of unmuting if ...
+Um maybe they can unmute themselves yeah I could do that I could take care of unmuting if somebody forgets
 
 ### Sadia Naeem
 
 <span class="transcript-timestamp">01:17:58 - 01:18:08</span>
 
-Somebody forgets okay I'll do that I will call on people for some reason it's uh I've always found that tiring like yeah okay all right I'll start calling on people if you'll take care of the ...
+Okay I'll do that I will call on people for some reason it's uh I've always found that tiring like yeah okay all right I'll start calling on people if you'll take care of the muting
 
 ### Bruce Nielson
 
 <span class="transcript-timestamp">01:18:08 - 01:18:13</span>
 
-Muting they can probably unmute themselves but if they don't then you're gonna have to step in because I can't do it all right
+They can probably unmute themselves but if they don't then you're gonna have to step in because I can't do it all right
 
 ### Unidentified participant
 
@@ -673,19 +697,25 @@ Holy hell there's a lot of people in this room
 
 <span class="transcript-timestamp">01:18:26 - 01:18:59</span>
 
-Yeah there is we've got we've got 50 I think we were at 59 at the top wow can everyone unmute themselves if they want to um we would prefer that people don't um several people had background sound and we're just trying to do things easy to um but you know at this point um while he's gone for a second if anybody wants to shoot the breeze that's fine just if you could just unmute yourself and remute yourself after you ask a question that you are still a christian who doesn't swear I could tell
+Yeah there is we've got we've got 50 I think we were at 59 at the top wow can everyone unmute themselves if they want to um we would prefer that people don't um several people had background sound and we're just trying to do things easy to um but you know at this point um while he's gone for a second if anybody wants to shoot the breeze that's fine just if you could just unmute yourself and remute yourself after you ask a question
 
 ### Jesse
 
+<span class="transcript-timestamp">01:18:26 - 01:18:59</span>
+
+That you are still a Christian who doesn't swear I could tell
+
+### Bruce Nielson
+
 <span class="transcript-timestamp">01:18:59 - 01:19:05</span>
 
-I could tell some some lessons get burned in really deep
+Some some lessons get burned in really deep
 
 ### Sadia Naeem
 
 <span class="transcript-timestamp">01:19:07 - 01:20:06</span>
 
-Actually I was just wondering uh clovis I know you gave a comment on that question about morality um there's I guess in a sense I sometimes find that I'm satisfied in physics we always in a way we do talk about metaphysics right and when it comes to ethics we're talking about meta ethics uh kind of like when we're thinking okay is it instrumentalism versus maybe you know some form of realism uh because the questions that pop up are very much dependent on our metaphysics and that's why I was kind of wondering um you know that even with morality we may not address the question that what is what is the background uh meta ethical you know some sort of meta ethics that's going on at the back of our mind um we could always just keep asking questions but I think at some point there is some value in addressing that oh any ideas any thoughts on that ...
+Actually I was just wondering uh Clovis I know you gave a comment on that question about morality um there's I guess in a sense I sometimes find that I'm satisfied in physics we always in a way we do talk about metaphysics right and when it comes to ethics we're talking about meta ethics uh kind of like when we're thinking okay is it instrumentalism versus maybe you know some form of realism uh because the questions that pop up are very much dependent on our metaphysics and that's why I was kind of wondering um you know that even with morality we may not address the question that what is what is the background uh meta ethical you know some sort of meta ethics that's going on at the back of our mind um we could always just keep asking questions but I think at some point there is some value in addressing that oh any ideas any thoughts on that ...
 
 ### Audience questioner
 
@@ -697,13 +727,13 @@ I think one point to bring up is the concept of truth makers so traditionally if
 
 <span class="transcript-timestamp">01:20:36 - 01:21:12</span>
 
-And I recently came across something interesting that Popper had said uh that values actually uh according to him the values uh originate with uh life just like with problems as the problems arise and he said that when he said life he said that he means even before consciousness existed uh you know so all problems originated with life I think he said and then values originated with problems which I thought was interesting um yeah and also the question is not just about whether
+And I recently came across something interesting that Popper had said uh that values actually uh according to him the values uh originate with uh life just like with problems as the problems arise and he said that when he said life he said that he means even before consciousness existed uh you know so all problems originated with life I think he said and then values originated with problems which I thought was interesting um yeah
 
 ### Audience questioner
 
 <span class="transcript-timestamp">01:21:12 - 01:21:25</span>
 
-Values exist but whether they can be objective or not so someone can have a value but you can say that's just your opinion that's just subjective no and that is of my interest otherwise yeah I mean
+And also the question is not just about whether values exist but whether they can be objective or not so someone can have a value but you can say that's just your opinion that's just subjective no and that is of my interest otherwise yeah I mean
 
 ### Sadia Naeem
 
@@ -715,37 +745,49 @@ We can come up with whatever you know so I forgot about it as well and um I'm tr
 
 <span class="transcript-timestamp">01:21:32 - 01:21:52</span>
 
-Express myself in English and understand always I'm sorry this is tough but uh right now I am at war with fans of Sam Harris on this topic because it's really something that that I think divides uh david david is back I'm gonna give it back to him all right tracy you want to go next
+Express myself in English and understand always I'm sorry this is tough but uh right now I am at war with fans of Sam Harris on this topic because it's really something that that I think divides uh
+
+### Sadia Naeem
+
+<span class="transcript-timestamp">01:21:32 - 01:21:52</span>
+
+David David is back I'm gonna give it back to him all right Tracy you want to go next
 
 ### Sadia Naeem
 
 <span class="transcript-timestamp">01:21:56 - 01:21:57</span>
 
-Uh tracy
+Uh Tracy
 
 ### Tracy
 
 <span class="transcript-timestamp">01:21:57 - 01:22:38</span>
 
-Sure hi oh hi so I'm hoping this is just more of a fun white hearted question maybe but um on thursday I woke up uh I had a dream that I had gotten the opportunity to meet you david um in the very next day I find out that suddenly there's this opportunity to meet you at the zoom meeting uh exciting for me um kind of strange so maybe the fun part could you maybe speak to the human brain regarding its potential for quantum prediction maybe or just the idea of quantum prediction in general
+Sure hi oh hi so I'm hoping this is just more of a fun light-hearted question maybe but um on Thursday I woke up uh I had a dream that I had gotten the opportunity to meet you David um in the very next day I find out that suddenly there's this opportunity to meet you at the Zoom meeting uh exciting for me um kind of strange so maybe the fun part could you maybe speak to the human brain regarding its potential for quantum prediction maybe or just the idea of quantum prediction in general
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:22:41 - 01:23:48</span>
 
-So I'm not entirely sure what you mean by quantum prediction but predicting the growth of knowledge is inherently impossible and um there's no reason to think that quantum effects might be implicated in the human brain and the idea that quantum theory has kind of mystical that it justifies various um traditional mystical ideas always comes from mistakes about quantum theory it doesn't come the real world real world doesn't implement those so um I think there wasn't a connection in that you know I would I would guess that there wasn't a connection in that respect um maybe that's um maybe that's a boring reply but I my guess is that's the truth of it it's very fine thank you ...
+So I'm not entirely sure what you mean by quantum prediction but predicting the growth of knowledge is inherently impossible and um there's no reason to think that quantum effects might be implicated in the human brain and the idea that quantum theory has kind of mystical that it justifies various um traditional mystical ideas always comes from mistakes about quantum theory it doesn't come the real world real world doesn't implement those so um I think there wasn't a connection in that you know I would I would guess that there wasn't a connection in that respect um maybe that's um maybe that's a boring reply but I my guess is that's the truth of it
+
+### Tracy
+
+<span class="transcript-timestamp">01:22:41 - 01:23:48</span>
+
+It's very fine thank you ...
 
 ### Bruce Nielson
 
 <span class="transcript-timestamp">01:23:48 - 01:23:53</span>
 
-All right miss rob I don't know if I pronounced that right
+All right Mizrob I don't know if I pronounced that right
 
 ### Mizrob
 
 <span class="transcript-timestamp">01:23:55 - 01:25:21</span>
 
-You can hear me yes hi hi everyone and nice to meet you david so I just wanted to ask about replication crisis especially in psychology and in general too like in like in life sciences so around 2010 like people started to realize that there are a lot of studies that can't be replicated and so people started to implement many standards of like data sharing and open code code and stuff like that and there was also emphasis on importance of replication studies like studies that repeat the experiment as closely as possible to the original study so there is a sense that if a study is replicated then it must be true and less emphasis on mechanism like by mechanism I mean explanatory theory they establish a link and by experiment then afterwards give an explanation how this process might happen in the mind and but uh prioritizing replication seems to miss the point that we can replicate say newtonian laws infinite many times but they are not actual explanation of the how the world works around us I just wanted to know how you see this how what you can say about methodology of like psychological studies
+You can hear me yes hi hi everyone and nice to meet you David so I just wanted to ask about replication crisis especially in psychology and in general too like in like in life sciences so around 2010 like people started to realize that there are a lot of studies that can't be replicated and so people started to implement many standards of like data sharing and open code code and stuff like that and there was also emphasis on importance of replication studies like studies that repeat the experiment as closely as possible to the original study so there is a sense that if a study is replicated then it must be true and less emphasis on mechanism like by mechanism I mean explanatory theory they establish a link and by experiment then afterwards give an explanation how this process might happen in the mind and but uh prioritizing replication seems to miss the point that we can replicate say Newtonian laws infinite many times but they are not actual explanation of the how the world works around us I just wanted to know how you see this how what you can say about methodology of like psychological studies
 
 ### David Deutsch
 
@@ -757,37 +799,37 @@ Yeah I entirely agree and I think the replication crisis in psychology and relat
 
 <span class="transcript-timestamp">01:29:21 - 01:29:29</span>
 
-Right thank you dennis uh hold on I'm sorry bruce uh well actually there was somebody else ahead who ...
+Right thank you Dennis uh
 
 ### Sadia Naeem
+
+<span class="transcript-timestamp">01:29:21 - 01:29:29</span>
+
+Hold on I'm sorry Bruce uh well actually there was somebody else ahead who dropped out could I just call him in again he sent me a message
+
+### Bruce Nielson
 
 <span class="transcript-timestamp">01:29:29 - 01:29:35</span>
 
-Dropped out could I just call him in again he sent me a message oh yes uh
-
-### John
-
-<span class="transcript-timestamp">01:29:35 - 01:29:36</span>
-
-Go ahead john sorry
+Oh yes uh
 
 ### Sadia Naeem
 
-<span class="transcript-timestamp">01:29:36 - 01:29:37</span>
+<span class="transcript-timestamp">01:29:35 - 01:29:37</span>
 
-About that ...
+Go ahead John sorry about that ...
 
 ### John
 
 <span class="transcript-timestamp">01:29:37 - 01:31:02</span>
 
-All right david uh thanks for doing this you had mentioned earlier I'm speaking from jerusalem israel you had mentioned earlier uh the Popper lecture and later paper on the nonexistence of uh scientific method so I just thought you might get a kick out of this volume that I found literally lying next to a dumpster from 1958 which would is apparently the first Popper piece of writing that was translated into uh hebrew I know you're from Haifa so I thought you might get a kick out of that anyway my question uh is um in your in your first chapter in your book in your theory on explanation um I've always wondered I always got the feeling as you step through the phases uh leading up to uh um the breakthrough method that we that we have today which is of course one step in the long chain I've always wondered how you see the relationship between that theory and Popper's theory I would normally uh bring this up but I know this is a Popper-oriented group so I was just wondering if you saw that theory as a corrective as completely 100 compatible with and just another way of looking at it or how do you see it relating to uh Popper's theories and the theory of explanation thanks
+All right David uh thanks for doing this you had mentioned earlier I'm speaking from Jerusalem Israel you had mentioned earlier uh the Popper lecture and later paper on the nonexistence of uh scientific method so I just thought you might get a kick out of this volume that I found literally lying next to a dumpster from 1958 which would is apparently the first Popper piece of writing that was translated into uh Hebrew I know you're from Haifa so I thought you might get a kick out of that anyway my question uh is um in your in your first chapter in your book in your theory on explanation um I've always wondered I always got the feeling as you step through the phases uh leading up to uh um the breakthrough method that we that we have today which is of course one step in the long chain I've always wondered how you see the relationship between that theory and Popper's theory I would normally uh bring this up but I know this is a Popper-oriented group so I was just wondering if you saw that theory as a corrective as completely 100 compatible with and just another way of looking at it or how do you see it relating to uh Popper's theories and the theory of explanation thanks
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:31:03 - 01:32:48</span>
 
-So I privately and personally think that it is Popper's theory I'm not a historian of science and I'm not really interested in who had what idea but I see for example the first chapter of the beginning of infinity uh is just a small explanatory footnote to Popper's epistemology um and if somebody comes along and says um no it's not you know Popper thought something completely different I don't care I'm only interested in what the truth is and on the other hand at the other extreme if someone comes along and says that's exactly what Popper said and even your footnote is in a footnote of Popper on page 483 well again I don't care. I'm trying to understand the world and I'm interested in what's true and that's attributing it to Popper is merely a matter of kind of academic courtesy um so uh I think that Popper had an entirely explanatory conception of science um I can't prove that from his writings and I know that for example David Miller thinks that that's not entirely true um again I'm sorry if it sounds dismissive to keep saying I don't care but that I wish it's not what I'm interested in thanks
+So I privately and personally think that it is Popper's theory I'm not a historian of science and I'm not really interested in who had what idea but I see for example the first chapter of The Beginning of Infinity uh is just a small explanatory footnote to Popper's epistemology um and if somebody comes along and says um no it's not you know Popper thought something completely different I don't care I'm only interested in what the truth is and on the other hand at the other extreme if someone comes along and says that's exactly what Popper said and even your footnote is in a footnote of Popper on page 483 well again I don't care. I'm trying to understand the world and I'm interested in what's true and that's attributing it to Popper is merely a matter of kind of academic courtesy um so uh I think that Popper had an entirely explanatory conception of science um I can't prove that from his writings and I know that for example David Miller thinks that that's not entirely true um again I'm sorry if it sounds dismissive to keep saying I don't care but that I wish it's not what I'm interested in thanks
 
 ### Bruce Nielson
 
@@ -799,7 +841,7 @@ Thank you Dennis
 
 <span class="transcript-timestamp">01:32:50 - 01:36:16</span>
 
-Hey guys can you hear me yes great hey david it's denis I have you earlier you mentioned um in response to ella ella was asking about self-replicating ideas in the mind and um your response was that it wouldn't be really if I understood you correctly it wouldn't really be efficient in terms of memory because instead one could have a quantity field of sorts on ideas that would encode how many instances of an idea and exist and then that way one could save a lot of memory and but I want to take a moment to defend the theory if I may as it happens ella has thought of the same thing when we when we first started discussing this theory now I suppose the quantity field would be denotational equivalent to having replicators on the surface but the structure of the implementation would be wholly different and I think one would lose a lot of explanatory power by removing replicators because one would need to come up with separate explanations for everything that the replicator based explanation currently explained for example memories how people evolve with some ideas survive in the mind not others and so I'm not sure just because a programmer would prefer to use quantities instead of replicators that that means that biological evolution would have chosen I say chosen and scare quotes to do so as well um most of the criticism of this neo darwinian theory the mind if you want to call it that but I've heard so far is along those lines that we don't need replicators and that we could replace them with something else and if I understood you correctly your criticism is along the same lines but the epistemological problem that I see with that is we could say that for any theory right I mean even hard to vary ones we could think of ways to replace key components of them even if usually that means that they become easier to vary as a result and I think that's what happens when we drop replicators the problem reminds me a little bit of the fossil thing which I believe you've brought up before in defense of the multiverse so like people might claim that we don't need dinosaur we don't need to claim that dinosaurs really existed to explain fossils even though that is already a hard to vary explanation we could simply come up with other ways fossils may have come about that don't involve the existence of dinosaurs and then denotationally I suppose those theories are the same or at least similar because the output of the theories the dinosaur fossils are the same or going a bit off the rails like we could we could claim that many instead of claiming that many dinosaurs existed we could claim that there was a single dinosaur that had a quantity value that determined how many fossils left behind or something like that right so I guess the problem is that this won't convince the advocates of the past existence of dinosaurs rightly I think because they would want to know why dinosaurs couldn't have existed not why they need not have existed so in a way I agree that dinosaurs need not have existed for the same reason that no theory need necessarily be true and so that applies to self-replicating ideas of the mind as well but what I'd really be interested in is a refutation like what an argument right why replicators can't play a role and how the mind works can you think of such an argument
+Hey guys can you hear me yes great hey David it's Dennis I have you earlier you mentioned um in response to Ella Ella was asking about self-replicating ideas in the mind and um your response was that it wouldn't be really if I understood you correctly it wouldn't really be efficient in terms of memory because instead one could have a quantity field of sorts on ideas that would encode how many instances of an idea and exist and then that way one could save a lot of memory and but I want to take a moment to defend the theory if I may as it happens Ella has thought of the same thing when we when we first started discussing this theory now I suppose the quantity field would be denotational equivalent to having replicators on the surface but the structure of the implementation would be wholly different and I think one would lose a lot of explanatory power by removing replicators because one would need to come up with separate explanations for everything that the replicator based explanation currently explained for example memories how people evolve with some ideas survive in the mind not others and so I'm not sure just because a programmer would prefer to use quantities instead of replicators that that means that biological evolution would have chosen I say chosen and scare quotes to do so as well um most of the criticism of this neo-Darwinian theory of the mind if you want to call it that but I've heard so far is along those lines that we don't need replicators and that we could replace them with something else and if I understood you correctly your criticism is along the same lines but the epistemological problem that I see with that is we could say that for any theory right I mean even hard to vary ones we could think of ways to replace key components of them even if usually that means that they become easier to vary as a result and I think that's what happens when we drop replicators the problem reminds me a little bit of the fossil thing which I believe you've brought up before in defense of the multiverse so like people might claim that we don't need dinosaur we don't need to claim that dinosaurs really existed to explain fossils even though that is already a hard to vary explanation we could simply come up with other ways fossils may have come about that don't involve the existence of dinosaurs and then denotationally I suppose those theories are the same or at least similar because the output of the theories the dinosaur fossils are the same or going a bit off the rails like we could we could claim that many instead of claiming that many dinosaurs existed we could claim that there was a single dinosaur that had a quantity value that determined how many fossils left behind or something like that right so I guess the problem is that this won't convince the advocates of the past existence of dinosaurs rightly I think because they would want to know why dinosaurs couldn't have existed not why they need not have existed so in a way I agree that dinosaurs need not have existed for the same reason that no theory need necessarily be true and so that applies to self-replicating ideas of the mind as well but what I'd really be interested in is a refutation like what an argument right why replicators can't play a role and how the mind works can you think of such an argument
 
 ### David Deutsch
 
@@ -823,7 +865,7 @@ Thank you Podge Gleeson
 
 <span class="transcript-timestamp">01:38:13 - 01:40:15</span>
 
-Hi guys how's it going um thanks to uh sadia and bruce for putting this event on and for david for answering questions um so my question was about well you know the explanation of how creativity works or just what creativity is and just critical rationalism in general seems to contradict certain commonly held assumptions which are effectively just statements that people are mechanical and um you know for example operant conditioning which is that uh learning and just alterations to human thought or the thought of people more generally and their behavior is best achieved using like a framework of uh rewards and punishments uh so that uh when dealing with problems in psychology like maybe addiction um and other you know it seems to get a lot of uses within psychology and then in behavioral economics as well in the form of incentives and disincentives to do certain things um I think the original question actually I had about specifically about addiction and making choices was sort of answered already when you were speaking about you know just uh creating the best moral theories and so on but I was maybe uh wondering if you could say something about incentives and disincentives and how valuable the work done on in behavioral economics is and whether it's just fundamentally based on uh faulty assumptions and there is not much use to it or it's just maybe contingently useful based on uh the cultural ideas at a given time or uh something like that uh yeah
+Hi guys how's it going um thanks to uh Sadia and Bruce for putting this event on and for David for answering questions um so my question was about well you know the explanation of how creativity works or just what creativity is and just critical rationalism in general seems to contradict certain commonly held assumptions which are effectively just statements that people are mechanical and um you know for example operant conditioning which is that uh learning and just alterations to human thought or the thought of people more generally and their behavior is best achieved using like a framework of uh rewards and punishments uh so that uh when dealing with problems in psychology like maybe addiction um and other you know it seems to get a lot of uses within psychology and then in behavioral economics as well in the form of incentives and disincentives to do certain things um I think the original question actually I had about specifically about addiction and making choices was sort of answered already when you were speaking about you know just uh creating the best moral theories and so on but I was maybe uh wondering if you could say something about incentives and disincentives and how valuable the work done on in behavioral economics is and whether it's just fundamentally based on uh faulty assumptions and there is not much use to it or it's just maybe contingently useful based on uh the cultural ideas at a given time or uh something like that uh yeah
 
 ### David Deutsch
 
@@ -853,19 +895,19 @@ Thank you. Karl.
 
 <span class="transcript-timestamp">01:43:57 - 01:44:29</span>
 
-Yeah hey david thanks for doing this it's been really fun so I remember you saying in an interview that whether animals suffer or not is a philosophical question rather than a scientific one and I definitely agree so I'm just curious to hear if you found any convincing arguments for either side of that issue and if you haven't how do you think we morally should treat the issue of like whether animals suffer or not um
+Yeah hey David thanks for doing this it's been really fun so I remember you saying in an interview that whether animals suffer or not is a philosophical question rather than a scientific one and I definitely agree so I'm just curious to hear if you found any convincing arguments for either side of that issue and if you haven't how do you think we morally should treat the issue of like whether animals suffer or not um
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:44:29 - 01:46:27</span>
 
-Yes I think not much is known about this uh I think there are some tiny clues in various places um uh um and I think that maybe the main thing is I think there is since we know so little about this I think there is room for a range of um views that that can all be considered reasonable depending on where one is coming from um the one can rule out I think uh the extremes like like um thinking that on the one hand thinking that um that we should respect the wishes of trees um is is very close to being uh being untenable philosophically because of what we know factually and at the other extreme I think that it is is um wrong to adopt a position of um principled callousness and trying to abolish for example all laws about animal cruelty and whatever on the grounds that there's no evidence that anyone is suffering when there's animal cruelty there is no evidence but I think that is different from saying that there is a uh a good reason for adopting that view uh but in between those extremes there's a huge range of positions that that I think are reasonable but would you ...
+Yes I think not much is known about this uh I think there are some tiny clues in various places um uh um and I think that maybe the main thing is I think there is since we know so little about this I think there is room for a range of um views that that can all be considered reasonable depending on where one is coming from um the one can rule out I think uh the extremes like like um thinking that on the one hand thinking that um that we should respect the wishes of trees um is is very close to being uh being untenable philosophically because of what we know factually and at the other extreme I think that it is is um wrong to adopt a position of um principled callousness and trying to abolish for example all laws about animal cruelty and whatever on the grounds that there's no evidence that anyone is suffering when there's animal cruelty there is no evidence but I think that is different from saying that there is a uh a good reason for adopting that view uh but in between those extremes there's a huge range of positions that that I think are reasonable
 
 ### Karl
 
 <span class="transcript-timestamp">01:46:27 - 01:46:39</span>
 
-Say that this is a mild form of the precautionary principle that in the absence of knowledge we should like no
+But would you say that this is a mild form of the precautionary principle that in the absence of knowledge we should like no
 
 ### David Deutsch
 
@@ -883,19 +925,19 @@ But you tentatively reject the notion of uh like philosophical zombie dogs then 
 
 <span class="transcript-timestamp">01:48:56 - 01:49:22</span>
 
-Yes that that I would uh yes because that that's um that's one of these all-purpose explanations that could be used about anything uh I can imagine a theory with a physical zombie jupiter where jupiter doesn't exist but I mean it looks as though it does so that's a whole class of explanations that have to be rejected
+Yes that that I would uh yes because that that's um that's one of these all-purpose explanations that could be used about anything uh I can imagine a theory with a physical zombie Jupiter where Jupiter doesn't exist but I mean it looks as though it does so that's a whole class of explanations that have to be rejected on principle
 
 ### Bruce Nielson
 
 <span class="transcript-timestamp">01:49:22 - 01:49:26</span>
 
-On principle all right thank you carl cameron
+All right thank you Karl Cameron
 
 ### Cameron
 
 <span class="transcript-timestamp">01:49:30 - 01:51:54</span>
 
-Uh hi david can you hear me yes thanks uh my question concerned is sort of around my trouble reconciling sort of Popperianism, Deutschianism with um behavioral genetics and namely that it seems to conflict with universal computation um so I think you've noted that your position is that the mind is not a blank slate you know so we have inborn genetic knowledge and but importantly that can be overwritten um examples such as fasting, celibacy and skydiving and suicide um but so and my understanding of the behavioral genetics literature is that um genes seem to predict many behaviors I think a lot of people in that field might say explain which I think you have issue with but um and over the last 50 years the main evidence of that is around identical twins versus fraternal twins identical twins being more similar uh siblings being more similar than adopted siblings and adopted children being similar to their biological parents and not similar to their adopted parents I think Robert Plomin describes um uh genes influencing behavior as it describes uh what is rather than what can be which I think aligns with one of your comments around the amount of the amount that genes influence our behavior is itself a product or function of culture um uh but I think you've also noted that I think your position is that uh genetic knowledge or genetic influences uh is probably easy to be overwritten and probably happens early on um so I have trouble reconciling that with I suppose the fact of the adopted children being sort of systematically similar to their biological parents their particular biological parents and it seems to me that genetic influences do have a very um large influence over what currently is so yeah if you just want to react to that ...
+Uh hi David can you hear me yes thanks uh my question concerned is sort of around my trouble reconciling sort of Popperianism, Deutschianism with um behavioral genetics and namely that it seems to conflict with universal computation um so I think you've noted that your position is that the mind is not a blank slate you know so we have inborn genetic knowledge and but importantly that can be overwritten um examples such as fasting, celibacy and skydiving and suicide um but so and my understanding of the behavioral genetics literature is that um genes seem to predict many behaviors I think a lot of people in that field might say explain which I think you have issue with but um and over the last 50 years the main evidence of that is around identical twins versus fraternal twins identical twins being more similar uh siblings being more similar than adopted siblings and adopted children being similar to their biological parents and not similar to their adopted parents I think Robert Plomin describes um uh genes influencing behavior as it describes uh what is rather than what can be which I think aligns with one of your comments around the amount of the amount that genes influence our behavior is itself a product or function of culture um uh but I think you've also noted that I think your position is that uh genetic knowledge or genetic influences uh is probably easy to be overwritten and probably happens early on um so I have trouble reconciling that with I suppose the fact of the adopted children being sort of systematically similar to their biological parents their particular biological parents and it seems to me that genetic influences do have a very um large influence over what currently is so yeah if you just want to react to that ...
 
 ### David Deutsch
 
@@ -907,7 +949,7 @@ Uh yes I think that the um uh experiments on twin studies and sibling studies an
 
 <span class="transcript-timestamp">01:56:21 - 01:56:37</span>
 
-Yes thank you um david we're past um got another 40 minutes since the last time you took a tea break how are we doing on how are you doing and oops we maybe
+Yes thank you um David we're past um got another 40 minutes since the last time you took a tea break how are we doing on how are you doing and oops we maybe
 
 ### David Deutsch
 
@@ -925,7 +967,7 @@ Okay how about we do um two more questions. Is that okay? Okay, yes. All right, 
 
 <span class="transcript-timestamp">01:56:52 - 01:57:26</span>
 
-Hi uh thank you david thank you uh bruce and Sadia actually tomorrow is my birthday so I guess this must be one of the most original birthday presents uh to get to ask you a question um my question is the following um is our society open enough for us to at one point refute justificationism in favor of critical rationalism collectively enough and what do we have to imagine as kind of acceleration effects on the growth of knowledge when that happens
+Hi uh thank you David thank you uh Bruce and Sadia actually tomorrow is my birthday so I guess this must be one of the most original birthday presents uh to get to ask you a question um my question is the following um is our society open enough for us to at one point refute justificationism in favor of critical rationalism collectively enough and what do we have to imagine as kind of acceleration effects on the growth of knowledge when that happens
 
 ### David Deutsch
 
@@ -937,7 +979,7 @@ Well uh happy birthday and uh I think uh you know if we're if we're to be um rig
 
 <span class="transcript-timestamp">01:59:35 - 01:59:40</span>
 
-All right thank you and then final question erin
+All right thank you and then final question Aaron
 
 ### Aaron
 
@@ -949,19 +991,19 @@ Oh wow um thanks so much you I've read an interview where you described being me
 
 <span class="transcript-timestamp">02:00:08 - 02:02:02</span>
 
-I think I was going through a phase of experimenting with the macOS and noticing how what um how prescient and sophisticated the model was because it is nothing compared with today's and also it's not just the mac that nowadays it has those things I think there isn't I think there isn't and I think nowadays I'm pretty sloppy in my management of my computer as well so I'm sloppy in all ways and what's more I think uh if I can make a personal self-criticism I think I'm too sloppy in most ways um there's some kind of irrationality there but being very sloppy compared with the norm uh on a computer or in one's mind or in one's home or in one's office and all those things is useful for most people most of the time um uh for the reasons that I said in that interview long ago um uh the um the reason is that they that um imposing a structure is a theory and uh one and it includes inexplicit theories and if one takes a view on that that's too rigid then one is uh putting a strain on uh the possible new ways of thinking about that that one can explore
+I think I was going through a phase of experimenting with the macOS and noticing how what um how prescient and sophisticated the model was because it is nothing compared with today's and also it's not just the Mac that nowadays it has those things I think there isn't I think there isn't and I think nowadays I'm pretty sloppy in my management of my computer as well so I'm sloppy in all ways and what's more I think uh if I can make a personal self-criticism I think I'm too sloppy in most ways um there's some kind of irrationality there but being very sloppy compared with the norm uh on a computer or in one's mind or in one's home or in one's office and all those things is useful for most people most of the time um uh for the reasons that I said in that interview long ago um uh the um the reason is that they that um imposing a structure is a theory and uh one and it includes inexplicit theories and if one takes a view on that that's too rigid then one is uh putting a strain on uh the possible new ways of thinking about that that one can explore
 
 ### Bruce Nielson
 
 <span class="transcript-timestamp">02:02:04 - 02:02:22</span>
 
-All right thank you uh David Deutsch thank you very much for joining us I know I really enjoyed this I can tell this has just been a fun chat for most of us so thank you for showing up for um the Karl Popper meet and greet thank you very much uh thank you david
+All right thank you uh David Deutsch thank you very much for joining us I know I really enjoyed this I can tell this has just been a fun chat for most of us so thank you for showing up for um the Karl Popper meet and greet thank you very much uh thank you David
 
 ### Sadia Naeem
 
 <span class="transcript-timestamp">02:02:22 - 02:02:31</span>
 
-Uh just wondering by the way did you had anything to do with writing the script for uh pickle rick for rick and morty by nature
+Uh just wondering by the way did you had anything to do with writing the script for uh Pickle Rick for Rick and Morty by nature
 
 ### David Deutsch
 
@@ -973,7 +1015,7 @@ No I wish I had ...
 
 <span class="transcript-timestamp">02:02:33 - 02:02:47</span>
 
-Someday not today but someday I wouldn't mind asking you that what if pickle rick found himself on earth which suddenly transformed into a planet made of cheese you think you'd be able to survive
+Someday not today but someday I wouldn't mind asking you that what if Pickle Rick found himself on earth which suddenly transformed into a planet made of cheese you think you'd be able to survive
 
 ### Bruce Nielson
 

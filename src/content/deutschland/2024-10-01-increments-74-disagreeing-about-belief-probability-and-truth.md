@@ -116,7 +116,7 @@ No, I think something you may you may say that something similar to that is vali
 
 <span class="transcript-timestamp">00:26:37 - 00:27:31</span>
 
-But that's all baked into the idea of using probability in the first place, right? So nothing about looking at previous data and saying, Okay, I think the probability is X, and therefore we're going to staff this amount of doctors and nurses. And I know that this is infallible. And I know that this is imperfect. And I know that as soon as I get more information, I need to change what I'm going to do. But one has to do something. And I don't see the probability calculus as doing away with theories and explanations. That's all baked in. It's just baked into the kinds of assumptions you're willing to put into the system. And also baked in where you're going to be looking for information about when your assumptions are wrong in order to change, change what you're going to do. And so I guess my question is something like, if you don't think we should be looking at previous data, in conjunction with our theories and our explanations, then what would you tell a hospital to do?
+But that's all baked into the idea of using probability in the first place, right? So nothing about looking at previous data and saying, Okay, I think the probability is X, and therefore we're going to staff this amount of doctors and nurses. And I know that this is fallible. And I know that this is imperfect. And I know that as soon as I get more information, I need to change what I'm going to do. But one has to do something. And I don't see the probability calculus as doing away with theories and explanations. That's all baked in. It's just baked into the kinds of assumptions you're willing to put into the system. And also baked in where you're going to be looking for information about when your assumptions are wrong in order to change, change what you're going to do. And so I guess my question is something like, if you don't think we should be looking at previous data, in conjunction with our theories and our explanations, then what would you tell a hospital to do?
 
 ### David Deutsch
 
@@ -158,7 +158,7 @@ But I would just want to add that the explanation would then perhaps suggest tha
 
 <span class="transcript-timestamp">00:31:35 - 00:34:12</span>
 
-Well, yeah, but it's, I told you, you'd say the difference is only very small. But the thing is, the difference in methodology is quite big. And when people are saying they are using when people say they're using statistics gathered from past instances or whatever, they aren't, at least, if they're if they're behaving reasonably, they aren't what they're using is their explanation of those past numbers. And, you know, I can invent lots and lots of ways in which your thing could be wrong. For example, you know, if you go back 30 years, it may be that 15 years ago, the hospital was rebuilt with twice the number of beds. And that would make your long term statistics unusable or usable with any different, different assumptions. But, you know, if something goes wrong, let's say, let's say there's a pandemic, and the supermarkets run out of stuff. And somebody says, to the boss of supermarket, you have caused this disaster of your shelves running dry. And the number of extra deliveries you would have had to have is only about the same as you have every year at Christmas. And he might say in his defense, Yes, but that's a Christmas. This was in the spring. And we look back, and there's never been a rush on shelves in the spring. So we were right. And he was wrong, because the accusation is that he didn't use a good explanation. And his defense is that he did use the right statistics, the right source of data. And he is wrong. He's being accused of not thinking carefully about the reasons for the numbers. And once the once it was known that there was a pandemic on the cards, you know, in January 2020, or whatever, then what is reasonable to assume about demand for toilet paper in the spring changes drastically?
+Well, yeah, but it's, I told you, you'd say the difference is only very small. But the thing is, the difference in methodology is quite big. And when people are saying they are using when people say they're using statistics gathered from past instances or whatever, they aren't, at least, if they're if they're behaving reasonably, they aren't what they're using is their explanation of those past numbers. And, you know, I can invent lots and lots of ways in which your thing could be wrong. For example, you know, if you go back 30 years, it may be that 15 years ago, the hospital was rebuilt with twice the number of beds. And that would make your long term statistics unusable or usable with any different, different assumptions. But, you know, if something goes wrong, let's say, let's say there's a pandemic, and the supermarkets run out of stuff. And somebody says, to the boss of supermarket, you have caused this disaster of your shelves running dry. And the number of extra deliveries you would have had to have is only about the same as you have every year at Christmas. And he might say in his defense, Yes, but that's at Christmas. This was in the spring. And we look back, and there's never been a rush on shelves in the spring. So we were right. And he was wrong, because the accusation is that he didn't use a good explanation. And his defense is that he did use the right statistics, the right source of data. And he is wrong. He's being accused of not thinking carefully about the reasons for the numbers. And once the once it was known that there was a pandemic on the cards, you know, in January 2020, or whatever, then what is reasonable to assume about demand for toilet paper in the spring changes drastically?
 
 ### Ben Chugg
 
@@ -206,7 +206,7 @@ Okay, so maybe this brings us closer to another area of possible disagreement, w
 
 <span class="transcript-timestamp">00:45:01 - 00:46:56</span>
 
-No, well, the phrase in some sense is doing a very large amount of work in what you just said. Okay. When we when we take out an insurance policy, the there are actuaries in the in the insurance company that are using the theory of probability and based on past statistics, to work out what premiums to charge in such a way that the insurance company will make a profit. And if they get that wrong, or if they get it wrong several years in a row, then the company will go bust. And if they get it right, then they will they will be better. Their shareholders will be pleased with them. Right. Now, what are they doing? They're assuming that humans are alike in certain ways. And under certain circumstances, under Yes, which they don't know exactly. And that that's why they are not always right. I'm Lloyds of London went bust couple of decades ago. I remember it as it can't be that long ago. They were and they had a rule that their backers had to have unlimited liability. So a number of rich people became poor through having invested their savings in Lloyds and it had been very profitable before. And no doubt they looked at past years and they you know, they saw their you know, 50% return and 30% return and 35% return and they thought, yeah, statistically speaking, this is a good bet. Right. And how wrong they were.
+No, well, the phrase in some sense is doing a very large amount of work in what you just said. Okay. When we when we take out an insurance policy, the there are actuaries in the in the insurance company that are using the theory of probability and based on past statistics, to work out what premiums to charge in such a way that the insurance company will make a profit. And if they get that wrong, or if they get it wrong several years in a row, then the company will go bust. And if they get it right, then they will they will be better. Their shareholders will be pleased with them. Right. Now, what are they doing? They're assuming that humans are alike in certain ways. And under certain circumstances, under Yes, which they don't know exactly. And that that's why they are not always right. I'm Lloyd's of London went bust couple of decades ago. I remember it as it can't be that long ago. They were and they had a rule that their backers had to have unlimited liability. So a number of rich people became poor through having invested their savings in Lloyd's and it had been very profitable before. And no doubt they looked at past years and they you know, they saw their you know, 50% return and 30% return and 35% return and they thought, yeah, statistically speaking, this is a good bet. Right. And how wrong they were.
 
 ### Ben Chugg
 
@@ -224,13 +224,13 @@ No one no one ever says predictions are going to be perfect. So everyone concede
 
 <span class="transcript-timestamp">00:48:19 - 00:48:28</span>
 
-But now we're virtually on the territory of like terminology, right? Because it doesn't really matter how they talk about it as long as we know that the actual methodology that ...
+But now we're virtually on the territory of like terminology, right? Because it doesn't really matter how they talk about it as long as we know that the actual methodology that they're conforming to is ...
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:48:28 - 00:50:03</span>
 
-They're conforming to is suspect that they were not that they were misled into making a bad decision by a theory that looking at the statistics will tell you what will probably happen. I suspect that most people who invest in Lloyd's of London or in the stock market or in anything, do not use explanatory theories. And they lose money to people who do. Hmm. So when you when you if you're a successful speculator on the stock market, it's because you know something that most of the other investors do not know. And that's because you have either you've done more research or you have a better understanding of the subject matter of the market. There's a subject matter in every market, you know, that in Lloyd's of London, there were hurricanes and buildings, and ships and so on. And people who didn't know about hurricanes and buildings and ships gave them money on the basis of a false theory of belief and probability. You know, you shouldn't you shouldn't invest in a company that you don't know something about the subject matter.
+I suspect that they were not that they were misled into making a bad decision by a theory that looking at the statistics will tell you what will probably happen. I suspect that most people who invest in Lloyd's of London or in the stock market or in anything, do not use explanatory theories. And they lose money to people who do. Hmm. So when you when you if you're a successful speculator on the stock market, it's because you know something that most of the other investors do not know. And that's because you have either you've done more research or you have a better understanding of the subject matter of the market. There's a subject matter in every market, you know, that in Lloyd's of London, there were hurricanes and buildings, and ships and so on. And people who didn't know about hurricanes and buildings and ships gave them money on the basis of a false theory of belief and probability. You know, you shouldn't you shouldn't invest in a company that you don't know something about the subject matter.
 
 ### Ben Chugg
 
@@ -248,7 +248,7 @@ More that I think that the model of prices, these two graphs and where they supp
 
 <span class="transcript-timestamp">00:52:23 - 00:52:42</span>
 
-Sure. Yeah. Nice. Okay, so I am wary of time and potentially your voice. And I know Vaden has some comments on truth and particular Popper's take on truth and how it possibly diverges from yours. So Vaden, I'm wondering if we want to do that now.
+Sure. Yeah. Nice. Okay, so I am wary of time and potentially your voice. And I know Vaden has some comments on truth and in particular Popper's take on truth and how it possibly diverges from yours. So Vaden, I'm wondering if we want to do that now.
 
 ### David Deutsch
 
@@ -290,13 +290,13 @@ May I ask a question?
 
 <span class="transcript-timestamp">00:59:51 - 00:59:52</span>
 
-Yes, please. Please continue.
+Yes, please.
 
 ### Vaden Masrani
 
 <span class="transcript-timestamp">00:59:52 - 01:00:10</span>
 
-I'll ask my question at the end. Sorry. Okay. Actually, I'll ask one clarifying question about that. Just the law of the excluded middle. What do you do with examples like, you know, the color of Hamlet's socks was red. People often use this as an example of something that might like a statement that might disobey.
+Please continue. I'll ask my question at the end. Sorry. Okay. Actually, I'll ask one clarifying question about that. Just the law of the excluded middle. What do you do with examples like, you know, the color of Hamlet's socks was red. People often use this as an example of something that might like a statement that might disobey.
 
 ### David Deutsch
 
@@ -500,7 +500,7 @@ Oh, interesting. Nice. Well, yeah, I don't think this exhausted the list of thin
 
 <span class="transcript-timestamp">01:30:21 - 01:31:25</span>
 
-There's a very hard question to answer because finishing any kind of not just books, but papers, any kind of output that I produce, they suffer from the maxim that they're 99% finished all the time. And as Artur Ekert told me once, I think he was quoting Michelangelo. Apparently Michelangelo said, the work of art is never finished. It's only ever abandoned. You have to learn how to stop at 99%. Yeah, yeah. And actually that helped me to finish my first book. He said that to me when I was complaining about not being able to finish it. He told me that and I did. But I think I've backslid since then.
+That's a very hard question to answer because finishing any kind of not just books, but papers, any kind of output that I produce, they suffer from the maxim that they're 99% finished all the time. And as Artur Ekert told me once, I think he was quoting Michelangelo. Apparently Michelangelo said, the work of art is never finished. It's only ever abandoned. You have to learn how to stop at 99%. Yeah, yeah. And actually that helped me to finish my first book. He said that to me when I was complaining about not being able to finish it. He told me that and I did. But I think I've backslid since then.
 
 ### Vaden Masrani
 

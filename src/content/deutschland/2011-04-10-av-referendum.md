@@ -1,5 +1,5 @@
 ---
-title: '2011-04-10 - AV Referendum'
+title: '2011-04-10 - David Deutsch - AV Referendum'
 description: 'A solo talk / lecture / reading from 2011-04-10, featuring David Deutsch, titled "AV Referendum".'
 pubDate: 2011-04-10
 ---

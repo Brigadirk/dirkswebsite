@@ -19,7 +19,7 @@ Great. Great. Fantastic. All right.
 
 <span class="transcript-timestamp">00:00:04 - 00:00:28</span>
 
-So I don't know what Lully has told you so far, but so I am, my name is Visa. I am from Singapore and my friends have been trying to get me to read your book for like a year now. And I finally, I got a copy in the mail like three days ago and I read it all at once a couple of days ago. I loved it.
+So I don't know what Lulie has told you so far, but so I am, my name is Visa. I am from Singapore and my friends have been trying to get me to read your book for like a year now. And I finally, I got a copy in the mail like three days ago and I read it all at once a couple of days ago. I loved it.
 
 ### David Deutsch
 
@@ -159,13 +159,13 @@ Correct. Yeah. Yeah. And it's again, I run into a similar problem again, where i
 
 Maybe I generally speaking, I don't want to like, I don't want to influence people. I don't want to save the world or save people. I just have some ideas, some guesses about how the world works, how thinking works, how physics works and so on. And in some cases, I've thought about it a lot. And I think that some existing ideas about this are wrong. And so I'm like, but that's wrong because so and so. But then the object of a conversation, I think, is not primarily to persuade people. It's to exchange ideas. Yes. And not even necessarily. I mean, so persuading people is nice. Learning things from other people is nice. Yes. That does not exhaust the possibilities. That's not even the main purpose to me of a conversation. The main purpose is just the fun of exchanging ideas.
 
-### Visa
+### David Deutsch
 
 <span class="transcript-timestamp">00:09:53 - 00:09:59</span>
 
 And yeah, you could call that learning something, but it's not it's not necessarily, you know, what did you learn from this conversation?
 
-### David Deutsch
+### Visa
 
 <span class="transcript-timestamp">00:09:59 - 00:10:06</span>
 
@@ -187,13 +187,13 @@ I think it's not very common. And I think the reason is like like all or nearly 
 
 <span class="transcript-timestamp">00:13:44 - 00:15:04</span>
 
-Yeah, that's a it's a and it's a very zero-sum kind of yes mindset. And yes, when I was when I was reading your book, I was struck by how, you know, at one point you even just casually mentioned like something as simple as a nuclear fusion reactor that our current knowledge doesn't allow us to do. And that was just kind of a throwaway point. And reading that, I found myself thinking, yes, like, that like, why do I not go about my day thinking nuclear fusion reactors are possible. It's just it doesn't even occur to me to think that. And, you know, it's, it's such a it's such a it's a trip to realize that I have already been kind of inhabiting these like limited spaces in my in my mind about what is possible and what is not. So it's an imagination deficit in a way. Right. Like, and so yes, I sense that. So again, it's like what we just described, which is most people kind of not being very creative in their conversations or thinking or not being very imaginative. That's kind of it's a it's something to be a little bit sad about maybe or something to be just kind of slightly disappointed by.
+Yeah, that's a it's a and it's a very zero-sum kind of yes mindset. And yes, when I was when I was reading your book, I was struck by how, you know, at one point you even just casually mentioned like something as simple as a nuclear fusion reactor that our current knowledge doesn't allow us to do. And that was just kind of a throwaway point. And reading that, I found myself thinking, yes, like, that like, why do I not go about my day thinking nuclear fusion reactors are possible. It's just it doesn't even occur to me to think that. And, you know, it's, it's such a it's such a it's a trip to realize that I have already been kind of inhabiting these like limited spaces in my in my mind about what is possible and what is not. So it's an imagination deficit in a way. Right. Like, and so yes, I sense that. So again, it's like what we just described, which is most people kind of not being very creative in their conversations or thinking or not being very imaginative. That's kind of it's a it's something to be a little bit sad about maybe or something to be just kind of slightly disappointed by. I'm slightly disappointed by but at the same time, what you pointed out is that for the vast majority of human history, it seems like most people were not capable of that probably or their creativity was funneled.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:15:04 - 00:16:42</span>
 
-I'm slightly disappointed by but at the same time, what you pointed out is that for the vast majority of human history, it seems like most people were not capable of that probably or their creativity was funneled. They were severely disabled in that respect. I mean, never completely. Humans always have been creative and able to improve. But, you know, when you've when you've got the weight of a static society, right, bearing down on you. And when you do think of something you think you're the only person in the world ever to think that and therefore you must be wrong, you know, whatever. Yeah, then it's no wonder that that very little progress was made, but still even in such societies. Right. In the past, where they had, you know, inconceivably little infrastructure. I mean, cultural infrastructure to rest on. People still did make progress. Right. You know, somebody invented fire wasn't even a human. It was it was a previous species. Right. Some previous species. I don't know what species. And right. Somebody invented fire, which takes takes a hell of a lot of doing. Yeah. You have to be able to think very abstractly. Right. There's this terrible joke that goes something like the person who invented fire was probably burnt at the stake for it.
+They were severely disabled in that respect. I mean, never completely. Humans always have been creative and able to improve. But, you know, when you've when you've got the weight of a static society, right, bearing down on you. And when you do think of something you think you're the only person in the world ever to think that and therefore you must be wrong, you know, whatever. Yeah, then it's no wonder that that very little progress was made, but still even in such societies. Right. In the past, where they had, you know, inconceivably little infrastructure. I mean, cultural infrastructure to rest on. People still did make progress. Right. You know, somebody invented fire wasn't even a human. It was it was a previous species. Right. Some previous species. I don't know what species. And right. Somebody invented fire, which takes takes a hell of a lot of doing. Yeah. You have to be able to think very abstractly. Right. There's this terrible joke that goes something like the person who invented fire was probably burnt at the stake for it.
 
 ### Visa
 
@@ -205,7 +205,19 @@ Which is kind of a, you know, it's I think that is like so well, that's a joke. 
 
 <span class="transcript-timestamp">00:17:25 - 00:19:29</span>
 
-Yes, I think it's not at all unlikely that the person who invented fire regretted it. They were either, you know, I don't they probably wouldn't have invented burning at the stake by then, but they might have been killed for it. Right. And there would have been a non-trivial argument for because that person would have had to violate some tradition to do this. Yes. Yes. And the violating tradition would have been dangerous. Right. So it's like, you know, one person decides to mess around with it's thought that they first fire was made by varying a spear hardening technique. Where you rub the tip of the spear, you know, and somebody else might have might have decided to tame the local saber tooth tiger. Right. And that would have been a bad idea, as we now know. But they so all and fire is also dangerous. It's not obvious that the first two or three or 10 uses of fire didn't do harm. Right. They might have. Yeah. And so it's true of all knowledge. All creativity is dangerous. Yes. All knowledge is dangerous. Yes. And I mean, it seems trite to say it, but Right. It's worse than dangerous. It's suicidal. That's the only thing we could do that is guaranteed to kill. Okay. Right. Yeah. Because like the Easter Island problem, right? Like where. Yes. Yes. Without the culture of learning and solving new problems, eventually it's inevitable that some problem will be insoluble and crush you. Yes. Yes.
+Yes, I think it's not at all unlikely that the person who invented fire regretted it. They were either, you know, I don't they probably wouldn't have invented burning at the stake by then, but they might have been killed for it. Right. And there would have been a non-trivial argument for because that person would have had to violate some tradition to do this. Yes. Yes. And the violating tradition would have been dangerous. Right. So it's like, you know, one person decides to mess around with it's thought that they first fire was made by varying a spear hardening technique. Where you rub the tip of the spear, you know, and somebody else might have might have decided to tame the local saber tooth tiger. Right. And that would have been a bad idea, as we now know. But they so all and fire is also dangerous. It's not obvious that the first two or three or 10 uses of fire didn't do harm. Right. They might have. Yeah. And so it's true of all knowledge. All creativity is dangerous. Yes. All knowledge is dangerous. Yes. And I mean, it seems trite to say it, but Right. It's worse than dangerous. It's suicidal. That's the only thing we could do that is guaranteed to kill.
+
+### Visa
+
+<span class="transcript-timestamp">00:17:25 - 00:19:29</span>
+
+Okay. Right. Yeah. Because like the Easter Island problem, right? Like where.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:17:25 - 00:19:29</span>
+
+Yes. Yes. Without the culture of learning and solving new problems, eventually it's inevitable that some problem will be insoluble and crush you. Yes. Yes.
 
 ### Visa
 
@@ -529,19 +541,31 @@ Yeah. Well, I don't think you can you can be infinitely skilled at. I mean, ther
 
 <span class="transcript-timestamp">00:51:19 - 00:52:10</span>
 
-Right. What I find myself thinking is what you're describing. So if we if we remove the universal aspect of the constructor, like, you know, the present day status quo, like to someone from 20,000 years ago, like our current circumstances would seem like a very grand constructor made up of organizations and people and, you know, supply chains and, you know, you put in an order. And then once once we had emails, for example, like so before emails and after emails, like the human scale constructor suddenly had like a big leap forward, like suddenly you can put in orders quicker. And yeah, so this sounds like basically singularity stuff, right? Like it gets to the point where. Yeah, I don't actually believe in the singularity, but it doesn't matter.
+Right. What I find myself thinking is what you're describing. So if we if we remove the universal aspect of the constructor, like, you know, the present day status quo, like to someone from 20,000 years ago, like our current circumstances would seem like a very grand constructor made up of organizations and people and, you know, supply chains and, you know, you put in an order. And then once once we had emails, for example, like so before emails and after emails, like the human scale constructor suddenly had like a big leap forward, like suddenly you can put in orders quicker. And yeah, so this sounds like basically singularity stuff, right? Like it gets to the point where.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:52:11 - 00:52:14</span>
 
-Exponential growth is mind boggling enough.
+Yeah, I don't actually believe in the singularity, but it doesn't matter. Exponential growth is mind boggling enough.
 
 ### Visa
 
 <span class="transcript-timestamp">00:52:15 - 00:52:54</span>
 
-Right. Yeah. Functionally. Yeah. Yeah. Even I think there's a quote that said something like, was it from you? I think I was just reading your book. So as probably you said that people, yeah, it was you. People who can't imagine what they would do if more than two times their income. Like, you kind of know what you would do if you had a salary. That's a quote from David Friedman, actually. Right. And then if you had 10 times your income, you would have to fundamentally reimagine what you would do. It's not just like, yeah. So if I double my income, I would renovate my kitchen. I would, you know, I have stuff in my mind. But if I had like 10, like a hundred times more, I have to, oh my God, like, why am I going to have to re-conceptualize everything?
+Right. Yeah. Functionally. Yeah. Yeah. Even I think there's a quote that said something like, was it from you? I think I was just reading your book. So as probably you said that people, yeah, it was you. People who can't imagine what they would do if more than two times their income. Like, you kind of know what you would do if you had a salary.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:52:15 - 00:52:54</span>
+
+That's a quote from David Friedman, actually.
+
+### Visa
+
+<span class="transcript-timestamp">00:52:15 - 00:52:54</span>
+
+Right. And then if you had 10 times your income, you would have to fundamentally reimagine what you would do. It's not just like, yeah. So if I double my income, I would renovate my kitchen. I would, you know, I have stuff in my mind. But if I had like 10, like a hundred times more, I have to, oh my God, like, why am I going to have to re-conceptualize everything?
 
 ### David Deutsch
 
@@ -577,13 +601,13 @@ I think that's a terrible idea. One of the great difficulties of being rich and 
 
 <span class="transcript-timestamp">00:55:02 - 00:55:08</span>
 
-That's true. And the absolute opposite of giving them help is keeping them away
+That's true.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:55:08 - 00:56:16</span>
 
-From it, keeping them away from the money, the technology, and so on. And you know, I think in the past. When there have been very rich people and sometimes there have been dynasties of rich people like the Rothschilds or Royal families. At other times. Yeah. Well, no, that's different because they were solving a different kind of problem. But if we just talk about people in. Wealthy, industrialized. In the economy. Right. Self-made billionaires or whatever. OK. Sometimes the dynasty thing worked, but more often the offspring of the very rich person didn't know what to do. They couldn't continue the rich person's work, nor could they do something new. Right. And so this is the stereotype of them like wasting their money.
+And the absolute opposite of giving them help is keeping them away from it, keeping them away from the money, the technology, and so on. And you know, I think in the past. When there have been very rich people and sometimes there have been dynasties of rich people like the Rothschilds or Royal families. At other times. Yeah. Well, no, that's different because they were solving a different kind of problem. But if we just talk about people in. Wealthy, industrialized. In the economy. Right. Self-made billionaires or whatever. OK. Sometimes the dynasty thing worked, but more often the offspring of the very rich person didn't know what to do. They couldn't continue the rich person's work, nor could they do something new. Right. And so this is the stereotype of them like wasting their money.
 
 ### Visa
 
@@ -607,13 +631,13 @@ Right. Right. That is an interesting way of framing it. I like. Yeah, that's int
 
 <span class="transcript-timestamp">00:57:53 - 00:58:00</span>
 
-Yeah. Well, yes. But the trouble is they have conventional educational theory. Ah, theory of the mind.
+Yeah. Well, yes. But the trouble is they have conventional educational theory. Ah, theory of the mind. Oh, dear. And so they will think of the problem in completely the wrong terms.
 
 ### Visa
 
 <span class="transcript-timestamp">00:58:00 - 00:58:31</span>
 
-Oh, dear. And so they will think of the problem in completely the wrong terms. Mm hmm. That's true. Wow. I like how quickly you that that was obvious to you. That's true. Yeah, that makes sense. That is unfortunate because, like you said way earlier on, you know, if we had creative, wealthy people, then they would be well positioned to accelerate us towards. Yes. Right. That is it. That is interesting.
+Mm hmm. That's true. Wow. I like how quickly you that that was obvious to you. That's true. Yeah, that makes sense. That is unfortunate because, like you said way earlier on, you know, if we had creative, wealthy people, then they would be well positioned to accelerate us towards. Yes. Right. That is it. That is interesting.
 
 ### David Deutsch
 

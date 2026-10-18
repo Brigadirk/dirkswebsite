@@ -19,7 +19,7 @@ People say that sort of thing about themselves, especially successful people. Th
 
 <span class="transcript-timestamp">00:00:32 - 00:00:35</span>
 
-Yeah, I was about to ask also, is that objective beauty and smell?
+Yeah, I was about to ask also, is that objective beauty in smell?
 
 ### David Deutsch
 
@@ -73,7 +73,7 @@ Very nice. So I wanted to ask you the question this way. Like what question exac
 
 <span class="transcript-timestamp">00:08:49 - 00:11:57</span>
 
-Yes, yes, that's a much better way of putting it. The problem situation to which this theory of fun is a proposed solution, or at least it addresses it, is that people have false ideas about both the nature of ideas and the nature and relationship between these different kinds of ideas. So some people like Mr. Spock in the original Star Trek series, they call it logic, but in my terminology, it's explicit ideas, that explicit thinking and reasoning. First of all, that they are sufficient. And secondly, where they conflict with some other ideas, the other ideas must be regarded as worthless, from the point of view of what to do or what to think or how to solve the problem and so on. Then there is also the opposite of that. There are people who think that explicit ideas are the work of the devil, that really trust your gut and young children know everything already and they are just misled by education. And so there shouldn't be education. And that was roughly speaking, again, I'm translating it into my terminology, but that was roughly speaking Rousseau's idea. Rousseau was a great educational theorist, in some sense, the first one in the modern sense, not counting Locke. And he said many, many extremely insightful things about the way in which humans think and about the way that children come to think things. But he also said some extremely bad things that have had terrible consequences over the centuries. And this idea that civilization, which is closely connected with the idea of explicit ideas, that civilization is a burden and is actually responsible, not just responsible for harm, but is responsible for all harm in the world. That is the worst than nonsense. It's just the opposite of the truth. But well, I say the opposite, I mean, it's not true that inexplicit ideas are responsible for everything bad. It's just the truth is, in my view, that we can't distinguish between ideas according to their source. And we have lots of sources of ideas and none of them are reliable, but criticism and conjecture can eliminate some errors.
+Yes, yes, that's a much better way of putting it. The problem situation to which this theory of fun is a proposed solution, or at least it addresses it, is that people have false ideas about both the nature of ideas and the nature and relationship between these different kinds of ideas. So some people like Mr. Spock in the original Star Trek series, they call it logic, but in my terminology, it's explicit ideas, that explicit thinking and reasoning. First of all, that they are sufficient. And secondly, where they conflict with some other ideas, the other ideas must be regarded as worthless, from the point of view of what to do or what to think or how to solve the problem and so on. Then there is also the opposite of that. There are people who think that explicit ideas are the work of the devil, that really trust your gut and young children know everything already and they are just misled by education. And so there shouldn't be education. And that was roughly speaking, again, I'm translating it into my terminology, but that was roughly speaking Rousseau's idea. Rousseau was a great educational theorist, in some sense, the first one in the modern sense, not counting Locke. And he said many, many extremely insightful things about the way in which humans think and about the way that children come to think things. But he also said some extremely bad things that have had terrible consequences over the centuries. And this idea that civilization, which is closely connected with the idea of explicit ideas, that civilization is a burden and is actually responsible, not just responsible for harm, but is responsible for all harm in the world. That is worse than nonsense. It's just the opposite of the truth. But well, I say the opposite, I mean, it's not true that inexplicit ideas are responsible for everything bad. It's just the truth is, in my view, that we can't distinguish between ideas according to their source. And we have lots of sources of ideas and none of them are reliable, but criticism and conjecture can eliminate some errors.
 
 ### Jaber
 
@@ -265,7 +265,19 @@ So I was wondering what would falsify the explanation you just laid out with flo
 
 <span class="transcript-timestamp">00:41:09 - 00:41:39</span>
 
-Yes, yes. That would, I hesitate to say something's falsified if I don't have a rival theory, a rival explanation. But yeah, that would make the theory very problematic. If it found out that the spiny anteaters, no, actually that's a bad example because you could imagine that they would have a reason for appreciating. But some animal that doesn't have such a reason. Like bats. Yeah, yeah, yeah, maybe bats, but they don't see very well.
+Yes, yes. That would, I hesitate to say something's falsified if I don't have a rival theory, a rival explanation. But yeah, that would make the theory very problematic. If it found out that the spiny anteaters, no, actually that's a bad example because you could imagine that they would have a reason for appreciating. But some animal that doesn't have such a reason.
+
+### Jaber
+
+<span class="transcript-timestamp">00:41:09 - 00:41:39</span>
+
+Like bats.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:41:09 - 00:41:39</span>
+
+Yeah, yeah, yeah, maybe bats, but they don't see very well.
 
 ### Jaber
 
@@ -379,13 +391,13 @@ Yes, yes.
 
 <span class="transcript-timestamp">00:44:43 - 00:45:03</span>
 
-Now I wanna end this section with a very beautiful quote from the interview with Nature magazine. You say, only humans can improve on beauty. When nature achieves beauty, it is an accidental byproduct of something else. Nature can only get so beautiful, but humans can paint something that is more beautiful than any scene. Ah, God, I said that.
+Now I wanna end this section with a very beautiful quote from the interview with Nature magazine. You say, only humans can improve on beauty. When nature achieves beauty, it is an accidental byproduct of something else. Nature can only get so beautiful, but humans can paint something that is more beautiful than any scene.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:45:03 - 00:45:08</span>
 
-I just said that just now, yes, quite right. It's so beautiful. That's so. No, thank you.
+Ah, God, I said that. I just said that just now, yes, quite right. It's so beautiful. That's so. No, thank you.
 
 ### Jaber
 
@@ -427,7 +439,19 @@ Thank you.
 
 <span class="transcript-timestamp">00:47:32 - 00:49:02</span>
 
-So I have a few questions here. I'm also just seeing, not to falsify the theory also, but to see if there are other aspects that could either support it or not. Is it possible that creativity was used to attract mates, but in very limited ways, like say dancing or singing, helping them propagate their proto-creativity gene, but still there was enough antirational memes that didn't allow them to use that creativity elsewhere. So they were allowed maybe to dance creatively and sing creatively to attract each other, but they couldn't like, oh, you wanna make a new tool? No, this could hurt, harm others, whatever, so don't touch the tools. Maybe they followed something like, what's the principle of Rees that you disagree with in the book? Like don't create new technology because it could harm us all. A precautionary principle. Exactly, yeah. Maybe they were following an antirational meme like that. And so they had creativity, it was passing like that, but not through things we can detect now because it wasn't tool. Honestly, what made me think of that is, so old Arabic poets, like 1,700 years ago or something, they were very proud of how well they could memorize like poetry. And there was shame around anything about like writing or something, no, the pride was in memorizing. I forgot which philosopher, ancient philosopher, who was against books, no, it should be all in the mind. Was it Socrates or who was it?
+So I have a few questions here. I'm also just seeing, not to falsify the theory also, but to see if there are other aspects that could either support it or not. Is it possible that creativity was used to attract mates, but in very limited ways, like say dancing or singing, helping them propagate their proto-creativity gene, but still there was enough antirational memes that didn't allow them to use that creativity elsewhere. So they were allowed maybe to dance creatively and sing creatively to attract each other, but they couldn't like, oh, you wanna make a new tool? No, this could hurt, harm others, whatever, so don't touch the tools. Maybe they followed something like, what's the principle of Rees that you disagree with in the book? Like don't create new technology because it could harm us all.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:47:32 - 00:49:02</span>
+
+A precautionary principle.
+
+### Jaber
+
+<span class="transcript-timestamp">00:47:32 - 00:49:02</span>
+
+Exactly, yeah. Maybe they were following an antirational meme like that. And so they had creativity, it was passing like that, but not through things we can detect now because it wasn't tool. Honestly, what made me think of that is, so old Arabic poets, like 1,700 years ago or something, they were very proud of how well they could memorize like poetry. And there was shame around anything about like writing or something, no, the pride was in memorizing. I forgot which philosopher, ancient philosopher, who was against books, no, it should be all in the mind. Was it Socrates or who was it?
 
 ### David Deutsch
 
@@ -451,7 +475,7 @@ Yes, so some phenomena like you describe here may well have happened. And I thin
 
 <span class="transcript-timestamp">00:51:10 - 00:52:17</span>
 
-Actually your explanation resonated with me personally because I remember as a kid, I was I think exactly that sort of creative conformist. Like I remember I always sort of understood quickly like in school or what would make me like the good boy and right away would fulfill it perfectly to take the perfect 10 or in any context, not just like within school. And then yeah, there was a time in my life later where I realized like, yeah, this is not fulfilling me. Like why am I just doing that? Another thing from my childhood I remember, I did parrot like as a child, I parroted some jokes because I simply didn't understand them. I just repeated the words to other people and they laughed. And sometimes from their laughter, I understood the joke better. So it seems like there is also some hardware that's not completely ready maybe like within childhood that keeps growing. And then at a certain age, this creativity or the hardware part of the creativity needs to grow enough on the hardware level and then the mimetic level should basically be interacting with it so we become actually creative.
+Actually your explanation resonated with me personally because I remember as a kid, I was I think exactly that sort of creative conformist. Like I remember I always sort of understood quickly like in school or what would make me like the good boy and right away would fulfill it perfectly to take the perfect 10 or in any context, not just like within school. And then yeah, there was a time in my life later where I realized like, yeah, this is not fulfilling me. Like why am I just doing that? Another thing from my childhood I remember, I did parrot like as a child, I parroted some jokes because I simply didn't understand them. I just repeated the words to other people and they laughed. And sometimes from their laughter, I understood the joke better. So it seems like there is also some hardware that's not completely ready maybe like within childhood that keeps growing. And then at a certain age, this creativity or the hardware part of the creativity needs to grow enough on the hardware level and then the memetic level should basically be interacting with it so we become actually creative.
 
 ### David Deutsch
 
@@ -577,7 +601,19 @@ So it's a study in cognitive psychology. It has shown that human children, unlik
 
 <span class="transcript-timestamp">01:00:25 - 01:02:16</span>
 
-I think it's obvious and natural that this is a side effect of copying memes creatively instead of copying them by behavior parsing. Overcopying is simply one kind of error. So the important thing is that children, humans, are guessing what the purpose, first of all, they're guessing what the overall purpose of the activity is, in your case, taking the turtle out of the jar or something. And then they're guessing also the purpose of the individual component actions. And if the purpose, if the action that you observed involves, for example, tapping the lid, well, you've got this boundless ability to conjecture. Obviously you're gonna conjecture that that's part of what's needed to remove the lid. I remember as a young child, I copied the behavior of blowing on the soup before you eat it. Even when it's not hot? I didn't know what it was for. I think it always was hot, but I didn't know that it was meant to cool the soup. And so I did it. And then much later, as far as I remember, years later, I realized, and then for the first time I thought, hang on, how is that gonna cool the soup? Yeah. There's already air here if I blow on it. And then even later I realized there's a possible rationale for why that would cool the soup. So yeah, that's error and criticism and more error and more criticism. That's how we learn.
+I think it's obvious and natural that this is a side effect of copying memes creatively instead of copying them by behavior parsing. Overcopying is simply one kind of error. So the important thing is that children, humans, are guessing what the purpose, first of all, they're guessing what the overall purpose of the activity is, in your case, taking the turtle out of the jar or something. And then they're guessing also the purpose of the individual component actions. And if the purpose, if the action that you observed involves, for example, tapping the lid, well, you've got this boundless ability to conjecture. Obviously you're gonna conjecture that that's part of what's needed to remove the lid. I remember as a young child, I copied the behavior of blowing on the soup before you eat it.
+
+### Jaber
+
+<span class="transcript-timestamp">01:00:25 - 01:02:16</span>
+
+Even when it's not hot?
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:25 - 01:02:16</span>
+
+I didn't know what it was for. I think it always was hot, but I didn't know that it was meant to cool the soup. And so I did it. And then much later, as far as I remember, years later, I realized, and then for the first time I thought, hang on, how is that gonna cool the soup? Yeah. There's already air here if I blow on it. And then even later I realized there's a possible rationale for why that would cool the soup. So yeah, that's error and criticism and more error and more criticism. That's how we learn.
 
 ### Jaber
 
@@ -703,7 +739,7 @@ Because of the principle of parsimony or something, I'm inclined to think that t
 
 <span class="transcript-timestamp">01:09:43 - 01:10:23</span>
 
-Okay, since you mentioned that example, I was hesitant to ask you this question. I'll finish with this question. So ethics aside for a second, or maybe not, maybe they're in the middle of the heart of this question. If blind evolution did it, can we also do something similar to it while we just throw deep mind or something like it? In so many different environments and for it to keep copying itself and making some type of a mutation, billions of times in so many different simulated environments, hoping for at one point for it to achieve universality, just what happened, like say with the beauty of flowers or with, is that ethical? Is that even possible? Is that even an explanation?
+Okay, since you mentioned that example, I was hesitant to ask you this question. I'll finish with this question. So ethics aside for a second, or maybe not, maybe they're in the middle of the heart of this question. If blind evolution did it, can we also do something similar to it while we just throw DeepMind or something like it? In so many different environments and for it to keep copying itself and making some type of a mutation, billions of times in so many different simulated environments, hoping for at one point for it to achieve universality, just what happened, like say with the beauty of flowers or with, is that ethical? Is that even possible? Is that even an explanation?
 
 ### David Deutsch
 

@@ -51,7 +51,19 @@ That reminds me of another incident with my former supervisor Dennis Sciama. By 
 
 <span class="transcript-timestamp">00:09:13 - 00:11:16</span>
 
-It's because they've been up all night. Right. There's a story about Schwinger, who was told, can you lecture at 10 a.m.? And then he paused and thought, I don't know if I could stay up that late. That is the way.
+It's because they've been up all night.
+
+### Curt Jaimungal
+
+<span class="transcript-timestamp">00:09:13 - 00:11:16</span>
+
+Right. There's a story about Schwinger, who was told, can you lecture at 10 a.m.? And then he paused and thought, I don't know if I could stay up that late.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:09:13 - 00:11:16</span>
+
+That is the way.
 
 When physics was a small enterprise, and there weren't that many physicists in the world, they were all rather eccentric and they were all supported by various other means other than a system. They all had their quirks, and the thing, whatever it was, that sustained them approved of those quirks. So like in the Institute for Advanced Study as well, the first thing someone was told when they were given their ten-year or 15-year grant, or whatever, is: do whatever you like. That's what the grant holder should be told, and that's what the grant holder, in my opinion, should tell the postdocs and the graduate students and whoever else is working with him.
 
@@ -61,7 +73,19 @@ You might think, well, if they're told that, why shouldn't they just spend all t
 
 <span class="transcript-timestamp">00:11:17 - 00:11:35</span>
 
-Peter Higgs said, I believe this was a decade ago now, that he wouldn't be able to get an academic job in today's environment. I think he said it's "as simple as that," that he wouldn't be productive, or something akin to that. Yes, nor would I. Could quantum computing get invented today?
+Peter Higgs said, I believe this was a decade ago now, that he wouldn't be able to get an academic job in today's environment. I think he said it's "as simple as that," that he wouldn't be productive, or something akin to that.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:11:17 - 00:11:35</span>
+
+Yes, nor would I.
+
+### Curt Jaimungal
+
+<span class="transcript-timestamp">00:11:17 - 00:11:35</span>
+
+Could quantum computing get invented today?
 
 ### David Deutsch
 
@@ -87,7 +111,17 @@ What I want to say is that the research landscape taken as a whole is heavily bi
 
 By the way, you mentioned what do I mean by grants. Somebody pays for research which is blue-sky research. It used to be that aristocrats did it; they funded their own research. So that's one way to go. But in regard to who funds it, the main thing that is wrong with the existing setup is that there are too few sources of funding. Because the government has entered the field, not only have they sort of crowded out other means of funding and also prevented it in various ways, but say the private charity, for example, who funds research, they're going to use the same criteria. What they do is they have a committee whom they assign the task of sifting through all the applications and picking the best ones, and they don't know how to do that either. They can't possibly know, and they're forbidden from using one of the few ways that they could, namely to ask their colleagues: do you know someone who is worthy of this grant? They're not allowed to ask that.
 
-So in other words, broadly speaking, the government has now contributed, it sounds like a positive, to physics, to fundamental research. They've given plenty of money. However, with that money comes some poor practices. These poor practices are then adopted by the individuals who previously used to donate without these poor practices. Yes, and the result is not stagnation. I mean, there is a kind of stagnation, but that's a different story. It's that there is, or rather indirectly it is, de-emphasis of the fundamental in favor of the incremental, not that there's anything bad about incremental research, as I said.
+### Curt Jaimungal
+
+<span class="transcript-timestamp">00:13:20 - 00:16:45</span>
+
+So in other words, broadly speaking, the government has now contributed, it sounds like a positive, to physics, to fundamental research. They've given plenty of money. However, with that money comes some poor practices. These poor practices are then adopted by the individuals who previously used to donate without these poor practices.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:13:20 - 00:16:45</span>
+
+Yes, and the result is not stagnation. I mean, there is a kind of stagnation, but that's a different story. It's that there is, or rather indirectly it is, de-emphasis of the fundamental in favor of the incremental, not that there's anything bad about incremental research, as I said.
 
 ### Curt Jaimungal
 
@@ -155,11 +189,11 @@ Right. Okay for the creation of these new checkboxes. Are you saying that they w
 
 Yes, fund people. That's how it should be. That's how it should be in incremental research as well. The whole of scientific research should be like that. I thought you were about to say you'd be allowed to make a new box and say what should be in it and all the sub-boxes. I wouldn't have known what the sub-boxes are. They too were only invented later, and not by me.
 
-So the communities that I also traffic in, other than physics, are philosophy and math, and the grant situation there doesn't seem to be as dire. There are no expectations of grants as a prerequisite for tenure, for instance; just the hope and the promoting of people who have strong publications.
-
 ### Curt Jaimungal
 
-<span class="transcript-timestamp">00:24:07 - 00:24:33</span>
+<span class="transcript-timestamp">00:23:24 - 00:24:33</span>
+
+So the communities that I also traffic in, other than physics, are philosophy and math, and the grant situation there doesn't seem to be as dire. There are no expectations of grants as a prerequisite for tenure, for instance; just the hope and the promoting of people who have strong publications.
 
 So a math department meeting may say something like, congratulations on your Annals paper. But I imagine that a physics department meeting would include, like: your grant expires next year, what's your renewal plan? So what's the difference here between physics and math? And I'm speaking about fundamental physics, because you can always say, well, if it's experimental physics, it's quite clear you do need plenty of money to fund your machines and your computers and your servers and your students and so on. But fundamental physics?
 
@@ -169,7 +203,19 @@ So a math department meeting may say something like, congratulations on your Ann
 
 Yes. So for the structure that I advocated earlier, the research group leader should indeed be judged not on his past papers, not always, but on his previous success in advancing the subject. It should be a well-known figure in the field who has a track record of making progress, and now he wants to make progress in a way that can engage several other people. Maybe, if he's an experimentalist, he wants to build this with a machine, or if he's a theoretician, then the field has broadened enough for him to see that there is potential there that he doesn't yet know what it is. But he knows who he wants. That's the thing. Ten years earlier he knew what he wanted to do. Now he knows what kind of person he wants to work with, and he knows that he wants to hire five of them or ten of them, but not five hundred of them.
 
-So he is funded not because he can say what his next paper is going to be about. He's funded because he says he's very interested in stuff and he's going to do research on it, and somebody who funds him will be saying, I think that this guy is good. Or gal. Yeah, well, I don't want to use gender-neutral language because I think it's silly. Obviously when I say he, I mean he or she, and if I said mister or Mrs., I might also mean His Majesty or Master so-and-so.
+So he is funded not because he can say what his next paper is going to be about. He's funded because he says he's very interested in stuff and he's going to do research on it, and somebody who funds him will be saying, I think that this guy is good.
+
+### Curt Jaimungal
+
+<span class="transcript-timestamp">00:24:34 - 00:27:27</span>
+
+Or gal.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:24:34 - 00:27:27</span>
+
+Yeah, well, I don't want to use gender-neutral language because I think it's silly. Obviously when I say he, I mean he or she, and if I said mister or Mrs., I might also mean His Majesty or Master so-and-so.
 
 It's completely natural in this whole scheme of things that I'm advocating that everything is tuned to doing the research, creating the new knowledge. Everything is subordinate to that. If somebody is going to care whether the graduate student is male or female, then they're not the funder that I want. They need to be obsessed with the thing itself, and so should be the people they hire.
 
@@ -355,13 +401,13 @@ Well, again, I can't psychologize. Sorry, I'm being...
 
 <span class="transcript-timestamp">00:45:01 - 00:45:13</span>
 
-That's fine. Then you can feel free to disagree with the premise. You can also say, Curt, no, no, I think that's false; I can list 20 people. I think it's true that few people want to criticize it, especially in public.
+That's fine. Then you can feel free to disagree with the premise. You can also say, Curt, no, no, I think that's false; I can list 20 people.
 
 ### David Deutsch
 
-<span class="transcript-timestamp">00:45:13 - 00:46:15</span>
+<span class="transcript-timestamp">00:45:01 - 00:46:15</span>
 
-But I can't speculate on why. Is it because of their career, like you said? Is it because they consider their position precarious? A whole load of other considerations come in once you have tenure, because you're not a free agent when you have tenure. It's supposed to free you from peer pressure, or whatever you call it, or public pressure, but in practice that doesn't really happen. Very many people who get permanent jobs just slot into the system, and I don't know why. Some sociological reason, perhaps. Again, you're making me speculate about things I don't know about, so I'm extremely vexed with you.
+I think it's true that few people want to criticize it, especially in public. But I can't speculate on why. Is it because of their career, like you said? Is it because they consider their position precarious? A whole load of other considerations come in once you have tenure, because you're not a free agent when you have tenure. It's supposed to free you from peer pressure, or whatever you call it, or public pressure, but in practice that doesn't really happen. Very many people who get permanent jobs just slot into the system, and I don't know why. Some sociological reason, perhaps. Again, you're making me speculate about things I don't know about, so I'm extremely vexed with you.
 
 ### Curt Jaimungal
 
@@ -371,21 +417,9 @@ Good. Yes, that's worth being. It's rare that there's a physicist who's made sig
 
 ### David Deutsch
 
-<span class="transcript-timestamp">00:46:46 - 00:47:19</span>
+<span class="transcript-timestamp">00:46:46 - 00:49:02</span>
 
-I've been very lucky. As I said earlier, when I was a graduate student and postdoc, I was very lucky to have supervisors who did exactly what I advocate. They said, when I came in on day one, or rather even in my interview before I was even accepted, they said...
-
-### Curt Jaimungal
-
-<span class="transcript-timestamp">00:47:19 - 00:47:21</span>
-
-What is it you want to work on?
-
-### David Deutsch
-
-<span class="transcript-timestamp">00:47:21 - 00:49:02</span>
-
-And I didn't say anything specific, because I didn't know anything specific at the time. So I just described what kind of thing I wanted to work on. I remember saying, for example, to Dennis Sciama in my first interview that it seems to me that the most urgent problem in physics is quantum gravity. So I'd like to work on that. I know a bit of quantum field theory, but I don't know enough relativity yet.
+I've been very lucky. As I said earlier, when I was a graduate student and postdoc, I was very lucky to have supervisors who did exactly what I advocate. They said, when I came in on day one, or rather even in my interview before I was even accepted, they said, what is it you want to work on? And I didn't say anything specific, because I didn't know anything specific at the time. So I just described what kind of thing I wanted to work on. I remember saying, for example, to Dennis Sciama in my first interview that it seems to me that the most urgent problem in physics is quantum gravity. So I'd like to work on that. I know a bit of quantum field theory, but I don't know enough relativity yet.
 
 Now it turned out that that was a bad idea, and I decided to turn from quantum gravity, which I thought was too difficult to work on at my stage yet. I was getting interested in other things, which eventually led to physics of information and to quantum computation and so on. Dennis somehow saw that I had the thing he wants in his students, and so he hired me. When I wanted to change and to study something completely different, not only did he not object in any way, he was interested. He was interested in what I wanted to do and why and so on, but he never tried to direct my research because he assumed that I wanted what he wanted.
 
@@ -447,7 +481,7 @@ Is it a non-local quantum field theory?
 
 <span class="transcript-timestamp">00:58:50 - 00:59:26</span>
 
-No, no, it's perfectly local. That is the right question, because normally when things don't commute there'll be problems with causality. But in qubit field theory, there are no problems with causality. It all works: no infinities, no non-localities. There is no Schrodinger picture for that theory. There's only a Heisenberg picture. That seems to be an important thing, but I haven't put my finger on exactly how.
+No, no, it's perfectly local. That is the right question, because normally when things don't commute there'll be problems with causality. But in qubit field theory, there are no problems with causality. It all works: no infinities, no non-localities. There is no Schrödinger picture for that theory. There's only a Heisenberg picture. That seems to be an important thing, but I haven't put my finger on exactly how.
 
 ### Curt Jaimungal
 
@@ -481,7 +515,13 @@ Yes. Well, string theory itself then just becomes trying to find some equations 
 
 <span class="transcript-timestamp">01:02:24 - 01:02:58</span>
 
-Why should the approach matter? So let's just analogize this to scaling a mountain. You think you should be hiking to find the mountain with your flashlight, and they think, no, you should be using a, you can tell I'm not a mountain climber, but what are those picks that they use? I did speak to Alex Honnold, who's a rock climber, and I've already forgotten. Pitons, I believe their names are. But regardless, okay, sure, there are two approaches and you find something on the mountain. To me, it doesn't matter how you got to what you found. You found it. So you just evaluate this. It's not how you got there. It's what the problem was.
+Why should the approach matter? So let's just analogize this to scaling a mountain. You think you should be hiking to find the mountain with your flashlight, and they think, no, you should be using a, you can tell I'm not a mountain climber, but what are those picks that they use? I did speak to Alex Honnold, who's a rock climber, and I've already forgotten. Pitons, I believe their names are. But regardless, okay, sure, there are two approaches and you find something on the mountain. To me, it doesn't matter how you got to what you found. You found it. So you just evaluate this.
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:02:24 - 01:02:58</span>
+
+It's not how you got there. It's what the problem was.
 
 ### Curt Jaimungal
 
@@ -955,21 +995,9 @@ Okay, now before my last question of what advice do you have for people who are 
 
 ### David Deutsch
 
-<span class="transcript-timestamp">01:59:30 - 02:00:40</span>
+<span class="transcript-timestamp">01:59:30 - 02:05:15</span>
 
-Rather like with belief, I certainly don't want to be certain of anything. On introspection, I think if I was presented with a good argument on either of those points, I would be open to it. But in both cases, I think the idea that free will doesn't exist, or that free will requires quantum theory, are both in the status that there is no such position. You can say maybe it has something to do with quantum theory, but there is no actual theory, or even in principle, apart from Penrose's, which I think is wrong for other reasons. There is no actual theory of how quantum theory could produce free will, or philosophical theory about how free will could not exist. And I think that the philosophical...
-
-### Curt Jaimungal
-
-<span class="transcript-timestamp">02:00:41 - 02:00:43</span>
-
-Problem.
-
-### David Deutsch
-
-<span class="transcript-timestamp">02:00:44 - 02:05:15</span>
-
-Problem that people have with free will is that they have a conception of free will which, by definition, violates the laws of physics. Although they don't often say it like this, it's basically: free will is the human capacity to override the laws of physics. I don't think anything overrides the laws of physics. We might be wrong about what the laws of physics are, again, like Penrose thinks, but I don't see in that case a proposal for different laws that would help with the problem of free will.
+Rather like with belief, I certainly don't want to be certain of anything. On introspection, I think if I was presented with a good argument on either of those points, I would be open to it. But in both cases, I think the idea that free will doesn't exist, or that free will requires quantum theory, are both in the status that there is no such position. You can say maybe it has something to do with quantum theory, but there is no actual theory, or even in principle, apart from Penrose's, which I think is wrong for other reasons. There is no actual theory of how quantum theory could produce free will, or philosophical theory about how free will could not exist. And I think that the philosophical problem that people have with free will is that they have a conception of free will which, by definition, violates the laws of physics. Although they don't often say it like this, it's basically: free will is the human capacity to override the laws of physics. I don't think anything overrides the laws of physics. We might be wrong about what the laws of physics are, again, like Penrose thinks, but I don't see in that case a proposal for different laws that would help with the problem of free will.
 
 Now I think that free will has to do with knowledge. The problem that does make sense about free will is that we have an intuition, and it's in all our explanations of human behavior and so on, that when we make a choice, not a random choice, but a choice that we have thought about, we have brought something new into the world.
 
@@ -1015,7 +1043,19 @@ I see. So in the case of someone predicting about AGI, thinking it's an importan
 
 <span class="transcript-timestamp">02:07:31 - 02:07:58</span>
 
-Exactly. I imagine you would say, yeah, that's your curiosity. That's the fun you refer to. Go after that. Don't try to leapfrog ahead one decade, let alone two decades, and then think backward from there, because you could be incorrect, most likely. If you have an idea for AGI, you can work on it today. You can drop what you're doing and work on that instead. That's the sort of thing you should be doing.
+Exactly.
+
+### Curt Jaimungal
+
+<span class="transcript-timestamp">02:07:31 - 02:07:58</span>
+
+I imagine you would say, yeah, that's your curiosity. That's the fun you refer to. Go after that. Don't try to leapfrog ahead one decade, let alone two decades, and then think backward from there, because you could be incorrect, most likely.
+
+### David Deutsch
+
+<span class="transcript-timestamp">02:07:31 - 02:07:58</span>
+
+If you have an idea for AGI, you can work on it today. You can drop what you're doing and work on that instead. That's the sort of thing you should be doing.
 
 ### Curt Jaimungal
 

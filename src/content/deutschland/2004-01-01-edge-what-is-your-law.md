@@ -7,18 +7,15 @@ pubDate: 2004-01-01
 [Read the response at Edge](https://www.edge.org/response-detail/10949)
 [Source collection](https://deranfangderunendlichkeit.de/mehr)
 
-## Deutsch's Law
+*Deutsch's Law*
+
+## Transcript
+### David Deutsch
 
 Every problem that is interesting is also soluble.
 
-### Corollary #1
+Corollary #1: Inherently insoluble problems are inherently boring.
 
-Inherently insoluble problems are inherently boring.
+Corollary #2: In the long run, the distinction between what is interesting and what is boring is not a matter of subjective taste but an objective fact.
 
-### Corollary #2
-
-In the long run, the distinction between what is interesting and what is boring is not a matter of subjective taste but an objective fact.
-
-### Corollary #3
-
-The problem of why every problem that is interesting is also soluble, is soluble.
+Corollary #3: The problem of why every problem that is interesting is also soluble, is soluble.

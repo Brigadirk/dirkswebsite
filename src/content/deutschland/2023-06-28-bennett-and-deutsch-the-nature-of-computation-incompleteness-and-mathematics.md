@@ -1,6 +1,6 @@
 ---
 title: '2023-06-28 - Bennett and Deutsch - The Nature of Computation, Incompleteness and Mathematics'
-description: 'A panel / discussion from Bennett and Deutsch, featuring David Deutsch, Charles Bennett, Charles Bédard, Vincent, Adita, Sam, Sophie, audience questioner, titled "The Nature of Computation, Incompleteness and Mathematics".'
+description: 'A panel / discussion from Bennett and Deutsch, featuring David Deutsch, Charles Bennett, Charles Bédard, Andreas Albrecht, Vincent, Adita, Sam, Sophie, audience questioner, titled "The Nature of Computation, Incompleteness and Mathematics".'
 pubDate: 2023-06-28
 ---
 
@@ -25,7 +25,7 @@ Yeah, I'll keep myself unmuted.
 
 <span class="transcript-timestamp">00:00:42 - 00:01:15</span>
 
-I'll be animating the conversation for around one hour, and then I'll open it up for the audience to ask questions and jump in. Well, let me introduce our guests to continue. We have Charles Bennett. He's an IBM fellow at the IBM research and a fellow of the American Physical Society. He has been awarded the 2023 breakthrough prize in fundamental physics for his pioneer work on quantum information. Throughout his career.
+I'll be animating the conversation for around one hour, and then I'll open it up for the audience to ask questions and jump in. Well, let me introduce our guests to continue. We have Charles Bennett. He's an IBM fellow at the IBM research and a fellow of the American Physical Society. He has been awarded the 2023 Breakthrough Prize in Fundamental Physics for his pioneer work on quantum information. Throughout his career.
 
 ### Charles Bennett
 
@@ -37,7 +37,7 @@ Not just me, what about David Deutsch? Yeah, yeah, yeah.
 
 <span class="transcript-timestamp">00:01:19 - 00:02:02</span>
 
-Good thing because he's with us. I'll have to. I'll come up with him at some point. So the breakthrough prize was in fact shared between Charlie, David Deutsch, so two of our speakers today, and Gilles Brassard and Peter Shor. So we have two of them with us today. And so throughout his career Charlie played an essential role in investigating and clarifying the roles between the links between information and physics. Among other things he co invented quantum cryptography. He set the basis for quantum information theory, he resolved the Maxwell's demon paradox, and he developed the logically reversible computation. Charlie welcome and thanks for being here. All right, good.
+Good thing because he's with us. I'll have to. I'll come up with him at some point. So the Breakthrough Prize was in fact shared between Charlie, David Deutsch, so two of our speakers today, and Gilles Brassard and Peter Shor. So we have two of them with us today. And so throughout his career Charlie played an essential role in investigating and clarifying the roles between the links between information and physics. Among other things he co invented quantum cryptography. He set the basis for quantum information theory, he resolved the Maxwell's demon paradox, and he developed the logically reversible computation. Charlie welcome and thanks for being here. All right, good.
 
 ### Charles Bennett
 
@@ -61,7 +61,7 @@ I think actually as Szilard solved Maxwell's demon problem and then people sort 
 
 <span class="transcript-timestamp">00:02:17 - 00:02:54</span>
 
-Okay, good. Yeah. Thanks for the note. David Deutsch is visiting professor of physics at Oxford University, fellow of the Royal Society and the Institute of Physics. He has also been awarded the breakthrough prize and fundamental physics for his pioneer work on quantum computation. David is mostly known for his discovery of the universal quantum computer and the first quantum algorithm. Yet he's also a pioneer of constructor theory, and he's made significant contributions to the philosophy of science. David, thank you and welcome for being here. Welcome, and thank you for being here.
+Okay, good. Yeah. Thanks for the note. David Deutsch is visiting professor of physics at Oxford University, fellow of the Royal Society and the Institute of Physics. He has also been awarded the Breakthrough Prize in Fundamental Physics for his pioneer work on quantum computation. David is mostly known for his discovery of the universal quantum computer and the first quantum algorithm. Yet he's also a pioneer of constructor theory, and he's made significant contributions to the philosophy of science. David, thank you and welcome for being here. Welcome, and thank you for being here.
 
 ### David Deutsch
 
@@ -103,7 +103,13 @@ Well, I think, no, I think infinity is a mathematical notion. But I think that y
 
 <span class="transcript-timestamp">00:09:47 - 00:11:03</span>
 
-You may need it, but you may have another way of doing it. So in other words, I would say that instead of asking questions like, what is it, sort of the Copernican principle? Is it unusual that I'm alive at this moment, or that my observer moments are typical? I would just say the entirety of terrestrial civilization, or the terrestrial, even larger than human civilization. The complexity of the terrestrial world is something that we can look at a little bit more objectively than speaking of consciousness. And so we can say, well, maybe whales are conscious in a different way. And that's not quite a scientific question. But I think we need to look for a mathematical model within which, and I think it has to be infinite, but maybe I'm wrong, what we see is typical under as weakly anthropic a selection as possible.
+You may need it, but you may have another way of doing it.
+
+### Charles Bennett
+
+<span class="transcript-timestamp">00:09:47 - 00:11:03</span>
+
+So in other words, I would say that instead of asking questions like, what is it, sort of the Copernican principle? Is it unusual that I'm alive at this moment, or that my observer moments are typical? I would just say the entirety of terrestrial civilization, or the terrestrial, even larger than human civilization. The complexity of the terrestrial world is something that we can look at a little bit more objectively than speaking of consciousness. And so we can say, well, maybe whales are conscious in a different way. And that's not quite a scientific question. But I think we need to look for a mathematical model within which, and I think it has to be infinite, but maybe I'm wrong, what we see is typical under as weakly anthropic a selection as possible.
 
 ### Charles Bennett
 
@@ -141,7 +147,7 @@ Almost not even this is before general relativity and infinite
 
 Then you get the Boltzmann brain problem you get the fact that you can't believe anything that you see Because everything happens somewhere.
 
-### David Deutsch
+### Charles Bennett
 
 <span class="transcript-timestamp">00:11:39 - 00:12:13</span>
 
@@ -157,7 +163,7 @@ And therefore it can never equilibrate and get boring. I think I got a picture o
 
 <span class="transcript-timestamp">00:12:27 - 00:13:55</span>
 
-Okay, so this is a reversible cellular automaton. And that time goes horizontally. Like that. There's three domains here. It's one dimensional automaton. So this time history of it and these differ just by the reversal of black and white. So there's domain boundaries that collide here producing this complicated thing that just goes on forever. Getting more and more complicated. This business up here is an artifact because I was doing it with periodic boundary conditions and this was the wraparound. It was beginning to affect it. But if you do it on an infinite model lattice, it gets ... So this is the sort of thing where you can't get this in a finite model. If you do it in a finite system with local models, it's going to be a very complex model. Here I'll just do it at the beginning. Yeah, same model. Yeah, so it gets interesting. And then if you run long enough, it just gets boring. Okay, now stop the screen share. So that's why I think it's interesting. And then if you run long enough, it just gets boring. But I think the cosmologies. I think let's see what Andy says, but I think that the cosmologies tend to be infinite now also. Yeah, screen sharing stopped there. Yes, good. Okay.
+Okay, so this is a reversible cellular automaton. And that time goes horizontally. Like that. There's three domains here. It's one dimensional automaton. So this time history of it and these differ just by the reversal of black and white. So there's domain boundaries that collide here producing this complicated thing that just goes on forever. Getting more and more complicated. This business up here is an artifact because I was doing it with periodic boundary conditions and this was the wraparound. It was beginning to affect it. But if you do it on an infinite model lattice, it gets ... So this is the sort of thing where you can't get this in a finite model. If you do it in a finite system with local models, it's going to be a very complex model. Here I'll just do it at the beginning. Yeah, same model. Yeah, so it gets interesting. And then if you run long enough, it just gets boring. Okay, now stop the screen share. So that's why I think it's interesting. But I think the cosmologies. I think let's see what Andy says, but I think that the cosmologies tend to be infinite now also.
 
 ### Charles Bédard
 
@@ -181,19 +187,31 @@ I was expecting Charlie to throw us into cosmology, but to be honest, I didn't e
 
 <span class="transcript-timestamp">00:14:35 - 00:14:42</span>
 
-Yes, we actually yeah. Perhaps you have a you can backtrack the question and retake the theory of computation.
+Yes, we actually yeah.
 
-### Charles Bennett
+### Charles Bédard
+
+<span class="transcript-timestamp">00:14:35 - 00:14:42</span>
+
+Perhaps you have a you can backtrack the question and retake the theory of computation.
+
+### David Deutsch
 
 <span class="transcript-timestamp">00:14:42 - 00:14:49</span>
 
-Well, I think that I can react and respond to your question at the same time. Because I think the ...
+Well, I think that I can react and respond to your question at the same time. Because I think the where I disagree with Charlie would be right at the beginning sort of foundationally.
+
+### Charles Bennett
+
+<span class="transcript-timestamp">00:14:51 - 00:15:05</span>
+
+Remember, you should say the three Rs react respond and refute. Simultaneously to save time.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:14:51 - 00:15:05</span>
 
-Where I disagree with Charlie would be right at the beginning sort of foundation Lee. Remember, you should say the three Rs react respond and refute. Simultaneously to save time. Yes.
+Yes.
 
 ### Charles Bédard
 
@@ -205,13 +223,25 @@ So I'm if you ask, what is computation? What is computation in the universe? Wel
 
 <span class="transcript-timestamp">00:15:21 - 00:19:05</span>
 
-If I was answering that question, I would have to have universal and universality right in the first sentence somewhere, because I think that's what it's all about. Computation is physical, you know, I'm sure we can all agree on that. But I think there is still a hint of the mathematician's misconception in Charlie's conception of Computation, computers, physics. So I would say that the computation exists, universality exists in a particular property of the physical universe. Namely that the physical universe can accommodate machines, which are universal in the sense that they can be programmed to mimic any other machine. If they run long enough and have enough memory, and for them to have to run long enough and have enough memory, they have to be maintained. They have to have additional memory added. And so there has to be implicitly there is a background of knowledge creation. If there is to be a sufficiently powerful computer like Turing machine or something, then in the background, there has to be knowledge creation. Just like I think I first read this in Charlie's thing, like what would happen if you found a fountain pen on the moon, then it would it would tell you a massive amount. It would tell you that it had been settled by people from the 19th century. Yes, yes, most likely. And it's very, very unlikely that it formed spontaneously. And so the most likely explanation for it would be that there had been a civilization you could you could infer a lot about the civilization by as you say, it's a 19th century type civilization and you can analyze the ink and therefore see what kind of squids they had there. And so on. So this is the most likely explanation for it. What illustrates what you didn't mention is that there's an intimate connection between simple emergent properties and simple microscopic quantities. In fact, there are laws about emergent properties. And the laws about evolution and knowledge and so on are among the ones we would use to analyze the origin of this fountain pen. So we would gain a lot of knowledge about microscopic information from some macroscopic information and macroscopic laws. Now, So I haven't mentioned mathematics. No, and the reason I haven't mentioned mathematics, even though I totally agree that there's a mathematical world that's sort of super infinitely large and that that world contains all possible functions and all possible laws and all possible mathematical objects. The vast majority of which we cannot even describe. The ones we can describe are basically the ones that are computable by these machines, which are universal within our universe.
+If I was answering that question, I would have to have universal and universality right in the first sentence somewhere, because I think that's what it's all about. Computation is physical, you know, I'm sure we can all agree on that. But I think there is still a hint of the mathematician's misconception in Charlie's conception of Computation, computers, physics. So I would say that the computation exists, universality exists in a particular property of the physical universe. Namely that the physical universe can accommodate machines, which are universal in the sense that they can be programmed to mimic any other machine. If they run long enough and have enough memory, and for them to have to run long enough and have enough memory, they have to be maintained. They have to have additional memory added. And so there has to be implicitly there is a background of knowledge creation. If there is to be a sufficiently powerful computer like Turing machine or something, then in the background, there has to be knowledge creation. Just like I think I first read this in Charlie's thing, like what would happen if you found a fountain pen on the moon, then it would it would tell you a massive amount.
+
+### Charles Bennett
+
+<span class="transcript-timestamp">00:15:21 - 00:19:05</span>
+
+It would tell you that it had been settled by people from the 19th century.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:15:21 - 00:19:05</span>
+
+Yes, yes, most likely. And it's very, very unlikely that it formed spontaneously. And so the most likely explanation for it would be that there had been a civilization you could you could infer a lot about the civilization by as you say, it's a 19th century type civilization and you can analyze the ink and therefore see what kind of squids they had there. And so on. So this is the most likely explanation for it. What illustrates what you didn't mention is that there's an intimate connection between simple emergent properties and simple microscopic quantities. In fact, there are laws about emergent properties. And the laws about evolution and knowledge and so on are among the ones we would use to analyze the origin of this fountain pen. So we would gain a lot of knowledge about microscopic information from some macroscopic information and macroscopic laws. Now, So I haven't mentioned mathematics. No, and the reason I haven't mentioned mathematics, even though I totally agree that there's a mathematical world that's sort of super infinitely large and that that world contains all possible functions and all possible laws and all possible mathematical objects. The vast majority of which we cannot even describe. The ones we can describe are basically the ones that are computable by these machines, which are universal within our universe.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:19:05 - 00:22:30</span>
 
-The ones we can describe are basically the ones that are computable by these machines, which are universal within our universe. So it's no good trying to explain that via what you are likely to see because what is typical, what is probable and so on, are all determined by the laws of physics. There is no mathematical notion of probability that applies to physics unless we have a law of physics saying so. And in some cases we do and in some cases we don't. And even when we do so, and where we do have a probabilistic theory of something, the anthropic principle alone doesn't contain any information about what the laws of physics are. This is an argument that I got from Dennis Sciama a long time ago, in his reaction to Brandon Carter's famous paper about the anthropic principle. The thing is, if you think of this as how do we fix what the dimensionless constants are? Or, you know, just the laws themselves. You could think of the laws themselves as being enumerated like in Solomonoff induction. You know, so we have all possible laws and so on. And you ask, given what we see, what is the most likely? That is all inapplicable to fundamental physics. Because, at least not via the anthropic principle, if you think of the set of all universes consistent with something like the fountain pen on the moon, or consistent with what we see, or whatever you want to say, consistent with the existence of computers, almost all of them are very near the boundary of that set. They are almost all near the boundary because the larger the dimension of the set, the more of it is contained near its boundary. So if the only reason why we're here is that we're anthropically selected, then it's overwhelmingly likely that we're going to die in the next nanosecond or picosecond, I suppose it depends where the chaos, how fast the chaos is going to come in on us. And since we haven't, that theory is hereby refuted. So, that's not the way to get the answer. I think the way to get an answer is not to try to derive microscopic properties that will then give you the desired emergent properties. It is to think of emergent laws, which, among other things, will give you microscopic laws as well as microscopic initial conditions like the ones that produced that fountain pen. You see, Charlie, your example has lived with me for decades, and this has changed me deeply.
+So it's no good trying to explain that via what you are likely to see because what is typical, what is probable and so on, are all determined by the laws of physics. There is no mathematical notion of probability that applies to physics unless we have a law of physics saying so. And in some cases we do and in some cases we don't. And even when we do so, and where we do have a probabilistic theory of something, the anthropic principle alone doesn't contain any information about what the laws of physics are. This is an argument that I got from Dennis Sciama a long time ago, in his reaction to Brandon Carter's famous paper about the anthropic principle. The thing is, if you think of this as how do we fix what the dimensionless constants are? Or, you know, just the laws themselves. You could think of the laws themselves as being enumerated like in Solomonoff induction. You know, so we have all possible laws and so on. And you ask, given what we see, what is the most likely? That is all inapplicable to fundamental physics. Because, at least not via the anthropic principle, if you think of the set of all universes consistent with something like the fountain pen on the moon, or consistent with what we see, or whatever you want to say, consistent with the existence of computers, almost all of them are very near the boundary of that set. They are almost all near the boundary because the larger the dimension of the set, the more of it is contained near its boundary. So if the only reason why we're here is that we're anthropically selected, then it's overwhelmingly likely that we're going to die in the next nanosecond or picosecond, I suppose it depends where the chaos, how fast the chaos is going to come in on us. And since we haven't, that theory is hereby refuted. So, that's not the way to get the answer. I think the way to get an answer is not to try to derive microscopic properties that will then give you the desired emergent properties. It is to think of emergent laws, which, among other things, will give you microscopic laws as well as microscopic initial conditions like the ones that produced that fountain pen. You see, Charlie, your example has lived with me for decades, and this has changed me deeply.
 
 ### Charles Bennett
 
@@ -247,7 +277,7 @@ Okay, would you like maybe to expand a bit more because you've contributed quite
 
 <span class="transcript-timestamp">00:23:25 - 00:26:39</span>
 
-Okay, well I, this is controversial and I don't think I did. I think it was Turing. So, the way the story is usually told is that Turing, Gödel, Church, and Post all kind of came up with the same idea at the same time, all prove the same theorems basically although they had different points of view and they didn't. They didn't. None of them copied from each other they just sort of then, although some of them knew about each other but they kind of converged on a conception. But I think Turing's conception was different. The other three. All had the mathematicians misconception. They all thought that they were doing a piece of mathematics, or as Roger Penrose would say metamathematics, theory of proofs, but at Turing. The way he solved Hilbert's decision problem was to think of a physical model of proof, physical model and then argue, implicitly or explicitly, that again is controversial, that the argument is decisive. That is, he thought he was proving, and he almost did prove that no physical object can. So, sorry, no physical object can escape being part of the Turing universal Turing machines repertoire. And the universal Turing machine is an idealized physical machine, it's really got nothing to do with mathematics. And its relationship with the physical relationship with the rest of the universe is is what he elucidated. And then he said that that solves the decision problem, because we must regard the decision problem itself as a question about the physical world, including And so that's why he used language like functions that would naturally be regarded as computable naturally to I always took that to mean straightforwardly, computable in nature. And they said that to mathematicians they howled in rage and said that I'd misunderstood it. Well, if I misunderstood it that misunderstanding turns out to be the truth. And Turing's writings look exactly like that truth. So, I think he knew. He just wasn't used to talking about physics. He was a mathematician, but I think he did not have the mathematician's misconception. We're all brought up to have it. We have to free ourselves.
+Okay, well I, this is controversial and I don't think I did. I think it was Turing. So, the way the story is usually told is that Turing, Gödel, Church, and Post all kind of came up with the same idea at the same time, all prove the same theorems basically although they had different points of view and they didn't. They didn't. None of them copied from each other they just sort of then, although some of them knew about each other but they kind of converged on a conception. But I think Turing's conception was different. The other three. All had the mathematicians misconception. They all thought that they were doing a piece of mathematics, or as Roger Penrose would say metamathematics, theory of proofs, but at Turing. The way he solved Hilbert's decision problem was to think of a physical model of proof, physical model and then argue, implicitly or explicitly, that again is controversial, that the argument is decisive. That is, he thought he was proving, and he almost did prove that no physical object can. So, sorry, no physical object can escape being part of the Turing universal Turing machines repertoire. And the universal Turing machine is an idealized physical machine, it's really got nothing to do with mathematics. And its relationship with the physical relationship with the rest of the universe is is what he elucidated. And then he said that that solves the decision problem, because we must regard the decision problem itself as a question about the physical world, including And so that's why he used language like functions that would naturally be regarded as computable naturally to I always took that to mean straightforwardly, computable in nature. And I said that to mathematicians they howled in rage and said that I'd misunderstood it. Well, if I misunderstood it that misunderstanding turns out to be the truth. And Turing's writings look exactly like that truth. So, I think he knew. He just wasn't used to talking about physics. He was a mathematician, but I think he did not have the mathematician's misconception. We're all brought up to have it. We have to free ourselves.
 
 ### Charles Bédard
 
@@ -295,25 +325,31 @@ Maybe I'm giving a try and then tell me but it's because we typically do proofs 
 
 <span class="transcript-timestamp">00:32:07 - 00:32:19</span>
 
-Yes. I think that's basically what I said I mean I'm not really used to speaking in mathematical language.
+Yes. I think that's basically what I said I mean I'm not really used to speaking in mathematical language. So, I speak with him terms of laws of physics.
 
 ### Charles Bédard
 
 <span class="transcript-timestamp">00:32:19 - 00:32:36</span>
 
-So, I speak with him terms of laws of physics. Yeah, yeah, okay now I was trying to map this, just the statement proof theory is a branch. Yeah, so I think, yeah, probably Turing never said this but I'm sure if he was here now he would agree that ...
+Yeah, yeah, okay now I was trying to map this, just the statement proof theory is a branch.
 
 ### David Deutsch
 
+<span class="transcript-timestamp">00:32:19 - 00:32:36</span>
+
+Yeah, so I think, yeah, probably Turing never said this but I'm sure if he was here now he would agree that proof theory is a branch of physics.
+
+### Charles Bédard
+
 <span class="transcript-timestamp">00:32:36 - 00:32:45</span>
 
-Proof theory is a branch of physics. Yeah. Okay. I have.
+Yeah. Okay.
 
 ### Charles Bennett
 
 <span class="transcript-timestamp">00:32:45 - 00:36:37</span>
 
-I find myself agreeing with almost everything you said until you started talking about the mathematician's misconception, which I don't think Turing would have agreed with you about, and which I think is actually a dysphemism. It's an idea that you don't like. I haven't shown that there's anything false about it. In fact, I think Turing thought more about physics than his contemporaries. But I think he felt that the discovery of universality meant that the physics that we have here could be simulated by a computer. And that the physics that might exist in a very different world. Perhaps one with a different number of dimensions or one that doesn't even have a notion of locality, would also be simulated by a Turing machine. In other words, I believe he was very aware of physics, but he didn't think that different parts of the multiverse, think of string theory and the vast number of different supposed things that can come out of string theory, of which we might be one. That they would have a different mathematics. I think he believed in the universality of mathematics, and its ability to simulate physics. So that's where I think that you're even calling it a misconception is a misconception of what Turing thought, and also a dysphemism rather than any kind of refutation. However, almost everything you said at the beginning I agreed with. I take for granted that universality of computation, the unsolvable problem which is the same thing, is the heart of what the notion of computation is, and that the other thing is that I also didn't even say because I believe it so strongly is that this, this mathematics, this universal mathematics of computation is capable of simulating physics not only the physics that we have here. But if you talk to Andreas, if he's still around here there he is, yes in many models of cosmology now imagine that there are inaccessible parts of the universe which are no less real than ours except that we'll never hear about them, in which the laws of physics such as the number of spatial dimensions and the number of temporal dimensions if you want, and are extremely different. And in almost all of them, universal computers don't exist. They exist physically but they don't exist. There's nobody there to complain about it, or to celebrate it. Oh, but they're there. They're like the desert areas of the universe. But all of that could be simulated by mathematics, so I don't think there's a, I don't think there is a mathematician's misconception. There is just the idea which has been around since Galileo, that whatever physics is, is discoverable by experiment and modeled by mathematics.
+I have. I find myself agreeing with almost everything you said until you started talking about the mathematician's misconception, which I don't think Turing would have agreed with you about, and which I think is actually a dysphemism. It's an idea that you don't like. You haven't shown that there's anything false about it. In fact, I think Turing thought more about physics than his contemporaries. But I think he felt that the discovery of universality meant that the physics that we have here could be simulated by a computer. And that the physics that might exist in a very different world. Perhaps one with a different number of dimensions or one that doesn't even have a notion of locality, would also be simulated by a Turing machine. In other words, I believe he was very aware of physics, but he didn't think that different parts of the multiverse, think of string theory and the vast number of different supposed things that can come out of string theory, of which we might be one. That they would have a different mathematics. I think he believed in the universality of mathematics, and its ability to simulate physics. So that's where I think that you're even calling it a misconception is a misconception of what Turing thought, and also a dysphemism rather than any kind of refutation. However, almost everything you said at the beginning I agreed with. I take for granted that universality of computation, the unsolvable problem which is the same thing, is the heart of what the notion of computation is, and that the other thing is that I also didn't even say because I believe it so strongly is that this, this mathematics, this universal mathematics of computation is capable of simulating physics not only the physics that we have here. But if you talk to Andreas, if he's still around here there he is, yes in many models of cosmology now imagine that there are inaccessible parts of the universe which are no less real than ours except that we'll never hear about them, in which the laws of physics such as the number of spatial dimensions and the number of temporal dimensions if you want, and are extremely different. And in almost all of them, universal computers don't exist. They exist physically but they don't exist. There's nobody there to complain about it, or to celebrate it. Oh, but they're there. They're like the desert areas of the universe. But all of that could be simulated by mathematics, so I don't think there's a, I don't think there is a mathematician's misconception. There is just the idea which has been around since Galileo, that whatever physics is, is discoverable by experiment and modeled by mathematics.
 
 ### David Deutsch
 
@@ -357,7 +393,7 @@ Them fighting words you know. Okay, okay.
 
 Well, if you have an idea how to how to, if you have a tentative answer David go for it but I also thought about it. I know.
 
-### David Deutsch
+### Charles Bédard
 
 <span class="transcript-timestamp">00:41:17 - 00:41:37</span>
 
@@ -369,7 +405,7 @@ Yeah, okay. I think that your case I remember that piece, Charlie you wrote in w
 
 I think so, because if you're saying, if there's, if you, if you bound these quantifiers you can make them go away and if a bound exists, it could be that there's a proposition that decides the twin prime conjecture by proving a stronger conjecture that is just of the same form as halting problem. Yeah. And if you have three or four quantifiers it could same thing, I believe the same thing could happen I didn't think.
 
-### David Deutsch
+### Charles Bédard
 
 <span class="transcript-timestamp">00:42:04 - 00:42:19</span>
 
@@ -499,7 +535,19 @@ So I was thinking of the mathematical pi.
 
 <span class="transcript-timestamp">00:57:25 - 00:59:20</span>
 
-Well, so there are two different things one might mean by the mathematical pi. Physics allows us a certain window onto the class of abstractions, a tiny window we can see some of them. We can form theories about some of them, we can learn about some of them and they include Euclidean geometry with its pi. And the pi cannot be changed by anyone, like not even God, not even if we look out of a different window. But if we did have a different window, thanks to having different laws of physics, or if the laws of physics were not what we think they are, but are a bit different from what we think they are, as happened with Euclidean geometry and general relativity, then we won't find pi out there in the stuff we can look at. We can still describe it. We can describe pi and we can describe the universe as it actually is which doesn't have pi, and there will be other ones which we can't describe. We can't describe them, but they may have people in them which can describe them. And then there'll be infinitely more where there aren't people who can describe anything. And yeah, we should be careful not to conclude that therefore we don't exist, because that is like the anthropic principle misconception. Just because of misconceptions, I would say the misapplication of the anthropic principle. These places exist but there's nobody there to complain about it. No, but you want to use it to deduce something about the world we do see. And I don't think the anthropic principle is powerful enough to do that, because it will only... The most it can do is ...
+Well, so there are two different things one might mean by the mathematical pi. Physics allows us a certain window onto the class of abstractions, a tiny window we can see some of them. We can form theories about some of them, we can learn about some of them and they include Euclidean geometry with its pi. And the pi cannot be changed by anyone, like not even God, not even if we look out of a different window. But if we did have a different window, thanks to having different laws of physics, or if the laws of physics were not what we think they are, but are a bit different from what we think they are, as happened with Euclidean geometry and general relativity, then we won't find pi out there in the stuff we can look at. We can still describe it. We can describe pi and we can describe the universe as it actually is which doesn't have pi, and there will be other ones which we can't describe. We can't describe them, but they may have people in them which can describe them. And then there'll be infinitely more where there aren't people who can describe anything. And yeah, we should be careful not to conclude that therefore we don't exist, because that is like the anthropic principle misconception. Just because of misconceptions, I would say the misapplication of the anthropic principle.
+
+### Charles Bennett
+
+<span class="transcript-timestamp">00:57:25 - 00:59:20</span>
+
+These places exist but there's nobody there to complain about it.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:57:25 - 00:59:20</span>
+
+No, but you want to use it to deduce something about the world we do see. And I don't think the anthropic principle is powerful enough to do that, because it will only... The most it can do is ...
 
 ### Charles Bennett
 
@@ -535,13 +583,13 @@ You like bit from it rather than. Yeah, yeah, yeah, absolutely.
 
 <span class="transcript-timestamp">01:08:07 - 01:08:15</span>
 
-Yes, so this is very much Landauer's, you probably sympathize with what he said about this.
+Yes, so this is very much Landauer's, you probably sympathize with what he said about this. Information is physical.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:08:15 - 01:09:06</span>
 
-Information is physical. Oh yeah well of course I thought we all did. I thought that's that's his great contribution to Wheeler's. See, we'll put it the other way he says physics is informational. Yeah, well that's a misconception. That, that obviously can't be right. The, you know, that that's it's the same same thing as expecting us to be in a simulation and the aliens, simulating us on a giant computer. And for some reason people think that that computer has got to be a Turing machine. That's simply a non sequitur it's just a parochial forcing of a human concept onto imaginary superhuman aliens.
+Oh yeah well of course I thought we all did. I thought that's that's his great contribution to Wheeler's. See, we'll put it the other way he says physics is informational. Yeah, well that's a misconception. That, that obviously can't be right. The, you know, that that's it's the same same thing as expecting us to be in a simulation and the aliens, simulating us on a giant computer. And for some reason people think that that computer has got to be a Turing machine. That's simply a non sequitur it's just a parochial forcing of a human concept onto imaginary superhuman aliens.
 
 ### Charles Bennett
 
@@ -555,11 +603,17 @@ You mean you think it might be a machine at the higher level of the higher hiera
 
 Yes, although call it calling it higher level. That's from our Kleene hierarchy. Yeah, yeah, which is again, expressed from our point of view, it could just have different fundamental states and different fundamental operations. So one of its fundamental operations might be to solve the halting problem. And it could do it very slowly like you were envisaging, but instantly, so you could ask it questions about Turing machines, and it could answer all such questions instantly. On the other hand, adding two and two would have it scratching its head for a million years. Probably like Borges, right. I haven't read actually. I don't know about that, about a guy who remembers everything and is paralyzed by that and about.
 
+### David Deutsch
+
+<span class="transcript-timestamp">01:10:22 - 01:11:42</span>
+
+Well, you know you, you can't deny that in the set of all mathematical objects, such things exist, and therefore it is logically possible that physics conforms to that object rather than the objects we think it conforms to.
+
 ### Charles Bennett
 
 <span class="transcript-timestamp">01:10:22 - 01:11:42</span>
 
-Well, you know you, you can't deny that in the set of all mathematical objects, such things exist, and therefore it is logically possible that physics conforms to that object rather than the objects we think it conforms to. Okay, I admit that I think I'm going to just disagree with you in a way that we can't prove very easily because Turing is dead. That he would have sympathized more with my view that that all the different parts of physics, including the parts of the universe, we can't get to because they're beyond the Hubble distance would be simulable by a Turing machine and wouldn't involve these higher level things but you may seriously physicists like remember, Hartle, Geroch and Hartle wrote a paper about what would an uncomputable number look like if it was a physical constant. And I think that's certainly a legitimate question and you're saying that those things that that one aspect of the mathematician's misconception is that it is that that they assume that such things don't exist.
+Okay, I admit that I think I'm going to just disagree with you in a way that we can't prove very easily because Turing is dead. That he would have sympathized more with my view that that all the different parts of physics, including the parts of the universe, we can't get to because they're beyond the Hubble distance would be simulable by a Turing machine and wouldn't involve these higher level things but you may seriously physicists like remember, Hartle, Geroch and Hartle wrote a paper about what would an uncomputable number look like if it was a physical constant. And I think that's certainly a legitimate question and you're saying that those things that that one aspect of the mathematician's misconception is that it is that that they assume that such things don't exist.
 
 ### David Deutsch
 
@@ -585,11 +639,17 @@ Yeah, well that's what string theory gives us as far as I understand, Andreas, t
 
 I would say the development of theoretical physics keeps pulling us in that direction. And it's hard to truncate. I don't know if it's, you know, right, but the flavor of theoretical physics. Yeah. Even uncomputable things could be there.
 
-### Charles Bennett
+### Andreas Albrecht
 
 <span class="transcript-timestamp">01:12:39 - 01:15:36</span>
 
-I don't think that way so I don't know how to how to answer that but I these, these. I mean I think one of the fascinating things about cosmology is that physicists pride ourselves in this culture of, we only talk about real stuff we can touch and measure. But cosmology really, really disrupts that it's really hard to write down theories with the laws we have with the tools we have that allow us to limit ourselves that way. And I, I'm actually really intrigued by David's angle which seems to be to take that as a judgment of our ideas about physical laws. I understand that which I find fascinating. I've I come at, I've come at a lot of these ideas from the point of view that physics, physics has nothing to do with infinity, because you only ever collect finite data, and the only stuff you have to work with is finite in terms of having finite data and so on. And I'm hearing. I'm very directly from David and I think implicitly, or maybe directly to from Charlie anyway I'm hearing in both your comments that the problem of the arrow of time or the problem of Boltzmann brains or however you want to put it is looming enough to transcend the forcing us away from that position that that position making us love infinity. Yeah, and I, I'm, I just, I will say that whatever. Wherever I am in my prejudices and all that with that. I think that that problem looms so mightily that that I that I have to respect, even though you're, you're doing stuff I that I find uncomfortable. That problem looms so mightily that it. I'm. I respect. It's very radical to me it's very radical what you're trying to do but something has to give Oscar Wilde said, we're all in the gutter but some of us are looking at the stars. Well, some of us are looking at infinity, because it solves problems here and now. But it seems to me like a cheat. That's, I think that's, so I think you're also giving up. So, and I think you're explicitly saying that you're giving up on the standard ways we think about doing physics, and whether it's embracing some beautiful better thing or giving up is a little hard for me to tell. We've embraced the continuum for centuries.
+I don't think that way so I don't know how to how to answer that but I these, these. I mean I think one of the fascinating things about cosmology is that physicists pride ourselves in this culture of, we only talk about real stuff we can touch and measure. But cosmology really, really disrupts that it's really hard to write down theories with the laws we have with the tools we have that allow us to limit ourselves that way. And I, I'm actually really intrigued by David's angle which seems to be to take that as a judgment of our ideas about physical laws. I understand that which I find fascinating. I've I come at, I've come at a lot of these ideas from the point of view that physics, physics has nothing to do with infinity, because you only ever collect finite data, and the only stuff you have to work with is finite in terms of having finite data and so on. And I'm hearing. I'm very directly from David and I think implicitly, or maybe directly to from Charlie anyway I'm hearing in both your comments that the problem of the arrow of time or the problem of Boltzmann brains or however you want to put it is looming enough to transcend the forcing us away from that position that that position making us love infinity. Yeah, and I, I'm, I just, I will say that whatever. Wherever I am in my prejudices and all that with that. I think that that problem looms so mightily that that I that I have to respect, even though you're, you're doing stuff I that I find uncomfortable. That problem looms so mightily that it. I'm. I respect. It's very radical to me it's very radical what you're trying to do but something has to give Oscar Wilde said, we're all in the gutter but some of us are looking at the stars. Well, some of us are looking at infinity, because it solves problems here and now. But it seems to me like a cheat. That's, I think that's, so I think you're also giving up. So, and I think you're explicitly saying that you're giving up on the standard ways we think about doing physics, and whether it's embracing some beautiful better thing or giving up is a little hard for me to tell.
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:12:39 - 01:15:36</span>
+
+We've embraced the continuum for centuries.
 
 ### Charles Bédard
 
@@ -597,11 +657,17 @@ I don't think that way so I don't know how to how to answer that but I these, th
 
 Yeah, just a derivative that we do in class and derivative. Yes, but it doesn't.
 
-### Charles Bennett
+### Andreas Albrecht
 
 <span class="transcript-timestamp">01:15:41 - 01:16:07</span>
 
-Okay, but that's only to make our life easier and if it were discrete instead it wouldn't change, it wouldn't be a radical thing to put it on a lattice. We're not here to make our lives easier, we're here to understand the world, and that's why these continuums and derivatives and all that infinite stuff was invented, was conjectured.
+Okay, but that's only to make our life easier and if it were discrete instead it wouldn't change, it wouldn't be a radical thing to put it on a lattice.
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:15:41 - 01:16:07</span>
+
+We're not here to make our lives easier, we're here to understand the world, and that's why these continuums and derivatives and all that infinite stuff was invented, was conjectured.
 
 ### David Deutsch
 
@@ -609,7 +675,7 @@ Okay, but that's only to make our life easier and if it were discrete instead it
 
 And it might be false, but it might not be where you shouldn't have prejudices about these things. But our, our.
 
-### Charles Bennett
+### Andreas Albrecht
 
 <span class="transcript-timestamp">01:16:17 - 01:16:53</span>
 
@@ -639,11 +705,17 @@ Thank you. Cool. Thanks. David, would you like to react.
 
 I could do this better but I, the connection is that if you have to look at the contrapositive. If there is a limitation. Such as Hilbert imagined. If you can write out an algorithm that will be a criterion of truth. Then, mathematics has stopped at that point. And the same would be true of physics. If there was a knowable law of physics that predicted everything, then that would be the end of physics. And if there were such a thing as life in a universe which I think there couldn't be but if there were, then it would really mean that the design of the most complicated creature that could exist which would be finitely complicated would exist baked into the, to the laws of physics at the Big Bang. So, you know, the universe would not have any of the kinds of openness, explain the complexity and all the high level structure. If it were not, if there were infallible truths available. The other way around, unless there were fallibility.
 
+### Charles Bédard
+
+<span class="transcript-timestamp">01:19:18 - 01:20:14</span>
+
+So, Charlie.
+
 ### Charles Bennett
 
 <span class="transcript-timestamp">01:19:18 - 01:20:14</span>
 
-So, Charlie. Yeah. Yeah, I think that's right. It's because incompleteness is the flip side of universality. If you had, if you're restricted to the laws of nature to something in which you couldn't produce a universal computer. Of course, it would be limited by how long it could run before, but basically something that was behaving like a Turing machine until some part broke. You could get something as complicated as a bacterium.
+Yeah. Yeah, I think that's right. It's because incompleteness is the flip side of universality. If you had, if you're restricted to the laws of nature to something in which you couldn't produce a universal computer. Of course, it would be limited by how long it could run before, but basically something that was behaving like a Turing machine until some part broke. You could get something as complicated as a bacterium.
 
 ### Charles Bédard
 
@@ -661,7 +733,13 @@ So, hello, thank you so much for the great discussion. Maybe I have a question a
 
 <span class="transcript-timestamp">01:21:34 - 01:26:04</span>
 
-I think well, the human brain might be simple looked at the right way. I think simple doesn't necessarily mean easy to find. I think there is a very strong reason to believe that the explanatory universality property of the human brain, which at present only humans have must be encoded in a very short amount of DNA. In a very short amount, like we are, people have different numbers for this but you know we seem to be 95% or 99% of our DNA is the same as chimpanzees. And of the rest, a lot is junk DNA, and of the rest, a lot is differences between us and chimpanzees that aren't connected with these deep epistemological things. So, maybe it's only a few K of code in DNA terms that encodes the AGI-ness or the GI-ness of the brain. But that doesn't mean it's easy to find. I would guess that it is a short program. I mean, you know, a few K of program is actually long if you want to write it, but it's relatively short compared with the kinds of things that happen in biology. And I think it'll be very hard to find. And probably, well, I would expect us to find it only once we have understood a philosophical theory of what the function is, what the creativity, consciousness, qualia, and so on, what those things are in some precise terms. Precise but high level, I would expect. And then we can probably quite easily write a program that has that property. Then we'll be in various kinds of trouble, but not any of the kinds of trouble that people are thinking about now. I worry that people who know more about it are scared about it, but people are so good at being cruel to each other with their intelligence that I doubt that the machines that do much worse. And I take this Schopenhauer's principle, which is what they should call the anthropic principle pretty seriously. And it may be that we're not likely to last more than a few or decades before we, I don't think this human civilization will make itself extinct but will set us back, you know, in the next few centuries or millennia. And we just hope for the best, but so that's why I don't worry about it so much. But maybe I should. You know, it's also, if you're, if you want to be universal, not in the sense of computational universality but in the, in the sense of the Universal Declaration of Human Rights. What's, where do we get off thinking that we're with that we have better rights than these machines they might, they might actually do a better job, or they might be our, our, our successors, not in the sense of the ones that conquered us and enslaved us. But in the, in the way that provided a shortcut to what may be what to the, to the bad instincts, or let's say the maladaptive instincts that humans have, and that that it might take a bit of very unpleasant natural selection to get rid of.
+I think well, the human brain might be simple looked at the right way. I think simple doesn't necessarily mean easy to find. I think there is a very strong reason to believe that the explanatory universality property of the human brain, which at present only humans have must be encoded in a very short amount of DNA. In a very short amount, like we are, people have different numbers for this but you know we seem to be 95% or 99% of our DNA is the same as chimpanzees. And of the rest, a lot is junk DNA, and of the rest, a lot is differences between us and chimpanzees that aren't connected with these deep epistemological things. So, maybe it's only a few K of code in DNA terms that encodes the AGI-ness or the GI-ness of the brain. But that doesn't mean it's easy to find. I would guess that it is a short program. I mean, you know, a few K of program is actually long if you want to write it, but it's relatively short compared with the kinds of things that happen in biology. And I think it'll be very hard to find. And probably, well, I would expect us to find it only once we have understood a philosophical theory of what the function is, what the creativity, consciousness, qualia, and so on, what those things are in some precise terms. Precise but high level, I would expect. And then we can probably quite easily write a program that has that property. Then we'll be in various kinds of trouble, but not any of the kinds of trouble that people are thinking about now.
+
+### Charles Bennett
+
+<span class="transcript-timestamp">01:21:34 - 01:26:04</span>
+
+I worry that people who know more about it are scared about it, but people are so good at being cruel to each other with their intelligence that I doubt that the machines that do much worse. And I take this Schopenhauer's principle, which is what they should call the anthropic principle pretty seriously. And it may be that we're not likely to last more than a few or decades before we, I don't think this human civilization will make itself extinct but will set us back, you know, in the next few centuries or millennia. And we just hope for the best, but so that's why I don't worry about it so much. But maybe I should. You know, it's also, if you're, if you want to be universal, not in the sense of computational universality but in the, in the sense of the Universal Declaration of Human Rights. What's, where do we get off thinking that we're with that we have better rights than these machines they might, they might actually do a better job, or they might be our, our, our successors, not in the sense of the ones that conquered us and enslaved us. But in the, in the way that provided a shortcut to what may be what to the, to the bad instincts, or let's say the maladaptive instincts that humans have, and that that it might take a bit of very unpleasant natural selection to get rid of.
 
 ### Charles Bédard
 
@@ -669,7 +747,7 @@ I think well, the human brain might be simple looked at the right way. I think s
 
 So you're saying, might be better people.
 
-### David Deutsch
+### Charles Bennett
 
 <span class="transcript-timestamp">01:26:14 - 01:26:48</span>
 
@@ -697,13 +775,13 @@ I thought you'd like that point about the finite bound.
 
 <span class="transcript-timestamp">01:28:33 - 01:28:39</span>
 
-Yeah. Are there any other questions from the audience?
+Yeah.
 
 ### Charles Bédard
 
 <span class="transcript-timestamp">01:28:41 - 01:28:49</span>
 
-Adita? I'm changing chairs depending on which side people come.
+Are there any other questions from the audience? Adita? I'm changing chairs depending on which side people come.
 
 ### Adita
 
@@ -793,7 +871,7 @@ And you don't think we're also on the edges?
 
 <span class="transcript-timestamp">01:36:47 - 01:37:56</span>
 
-Dennis Sciama, when he told us about this objection, he said that what we should really look for anthropically is for, is a case, not a case where a slight change in fundamental law would have meant that we're not here, but where we are located at the center of the region, let's say, define structure constant, rather than saying, if it was 1% different, we wouldn't be here. Look at the region where we would be here and try to find out whether we're near the center. If we're near the center, that is a real anthropic problem. If you tell this to religious people, they're going to say it's God and it's very hard to argue them out of it. But I don't think we will be in the center.
+Dennis Sciama, when he told us about this objection, he said that what we should really look for anthropically is for, is a case, not a case where a slight change in fundamental law would have meant that we're not here, but where we are located at the center of the region, let's say, the fine structure constant, rather than saying, if it was 1% different, we wouldn't be here. Look at the region where we would be here and try to find out whether we're near the center. If we're near the center, that is a real anthropic problem. If you tell this to religious people, they're going to say it's God and it's very hard to argue them out of it. But I don't think we will be in the center.
 
 ### Charles Bennett
 
@@ -823,13 +901,13 @@ Yeah. Thank you.
 
 <span class="transcript-timestamp">01:38:32 - 01:38:35</span>
 
-Are there other questions? We're not at the middle
+Are there other questions?
 
 ### Audience questioner
 
 <span class="transcript-timestamp">01:38:35 - 01:38:39</span>
 
-And we're not at the edge. Exactly how far from the edge are we?
+We're not at the middle and we're not at the edge. Exactly how far from the edge are we?
 
 ### David Deutsch
 
@@ -847,7 +925,19 @@ David, I'm just curious. This is a small question, but I'm just curious. So your
 
 <span class="transcript-timestamp">01:39:10 - 01:39:25</span>
 
-I hope not. Or do you see a difference? Yeah, yeah. It's almost the opposite. It's to do with our fallibility, which is to do with our capacity for infinite growth.
+I hope not.
+
+### Charles Bennett
+
+<span class="transcript-timestamp">01:39:10 - 01:39:25</span>
+
+Or do you see a difference?
+
+### David Deutsch
+
+<span class="transcript-timestamp">01:39:10 - 01:39:25</span>
+
+Yeah, yeah. It's almost the opposite. It's to do with our fallibility, which is to do with our capacity for infinite growth.
 
 ### Charles Bennett
 
@@ -883,7 +973,19 @@ Yeah, you're saying, unlike other predictions, it's not falsifiable. Because if 
 
 <span class="transcript-timestamp">01:40:49 - 01:41:04</span>
 
-Any more questions? I will have another question maybe for Charles. I wonder what's your view of probabilities? My view of probability? Yep.
+Any more questions? I will have another question maybe for Charles. I wonder what's your view of probabilities?
+
+### Charles Bennett
+
+<span class="transcript-timestamp">01:40:49 - 01:41:04</span>
+
+My view of probability?
+
+### Charles Bédard
+
+<span class="transcript-timestamp">01:40:49 - 01:41:04</span>
+
+Yep.
 
 ### Charles Bennett
 
@@ -949,7 +1051,7 @@ Unanswerable is too ambiguous a word. I mean, it's undeniable that this is the e
 
 <span class="transcript-timestamp">01:46:55 - 01:49:08</span>
 
-So David has amidst his other euphemisms and disphemisms brought in what is I regard the most widespread obfuscatory euphemism, God. That is people use it to mean their own idea of God. Which they're going to try to get you to like and believe in, but they haven't actually said what it is yet. So I'm going to use that also, but in a physicist's way. So if you imagine a conversation with God and first of all, you say, what time is it? And God says, well, you would say it's about here. It's about 1037 Eastern daylight time. But for me, it's all times, I'm eternal. And then you'll say, well, you're supposed to be omniscient. Will it rain a year from now? And God says, well, that's like yes and no. And you'll say, well, will it rain for me from now? Well, I say, it's like saying what I see is something that looks like your hand. And you're sitting here and you're saying, which of my fingers is the correct extension of my wrist? They all are. When it gets to be next year, you'll either be on one where it's raining, which is the one that has my wedding ring, or you'll be one of the other ones where it isn't raining. And I can see all of them, and for you now, they're all equally real. And then next year, you will have a kind of a truncated perspective in which you think one of them is real and the others aren't, but they all still are.
+So David has amidst his other euphemisms and dysphemisms brought in what is I regard the most widespread obfuscatory euphemism, God. That is people use it to mean their own idea of God. Which they're going to try to get you to like and believe in, but they haven't actually said what it is yet. So I'm going to use that also, but in a physicist's way. So if you imagine a conversation with God and first of all, you say, what time is it? And God says, well, you would say it's about here. It's about 10:37 Eastern daylight time. But for me, it's all times, I'm eternal. And then you'll say, well, you're supposed to be omniscient. Will it rain a year from now? And God says, well, that's like yes and no. And you'll say, well, will it rain for me from now? Well, I say, it's like saying what I see is something that looks like your hand. And you're sitting here and you're saying, which of my fingers is the correct extension of my wrist? They all are. When it gets to be next year, you'll either be on one where it's raining, which is the one that has my wedding ring, or you'll be one of the other ones where it isn't raining. And I can see all of them, and for you now, they're all equally real. And then next year, you will have a kind of a truncated perspective in which you think one of them is real and the others aren't, but they all still are.
 
 ### David Deutsch
 
@@ -967,7 +1069,7 @@ This is like this, what Galileo said. He says, I don't know if he actually said 
 
 <span class="transcript-timestamp">01:49:41 - 01:49:43</span>
 
-Everett said that to do it, yes.
+Everett said that to DeWitt, yes.
 
 ### Charles Bédard
 
@@ -1033,7 +1135,13 @@ So it preserves its consistency in spite of its striking apparent inconsistency.
 
 <span class="transcript-timestamp">01:50:42 - 01:51:06</span>
 
-Are there other questions? Hey, do you hear me? Yeah. So would you say, will any of you say that in that sense, in the sense we just discussed now, the Born Rule will be a statement about consciousness of what do you experience? Or do you think it's beyond, like consciousness will be beyond the scope of the statement?
+Are there other questions?
+
+### Audience questioner
+
+<span class="transcript-timestamp">01:50:42 - 01:51:06</span>
+
+Hey, do you hear me? Yeah. So would you say, will any of you say that in that sense, in the sense we just discussed now, the Born Rule will be a statement about consciousness of what do you experience? Or do you think it's beyond, like consciousness will be beyond the scope of the statement?
 
 ### David Deutsch
 
@@ -1041,7 +1149,7 @@ Are there other questions? Hey, do you hear me? Yeah. So would you say, will any
 
 It has nothing to do with it. It's, I mean, obviously if consciousness is to be described as a physical process, which it must be, then it presumably obeys quantum theory and so on. But it has nothing to do with these issues of measurement, probability, and anything like that. It's just a physical thing. There's no more reason to assume it has a special place in physics than it would be to assume that squirrels have a special place in physics. Obviously they're described by physics, but they don't have any relevance to fundamental discussions of physics.
 
-### Charles Bédard
+### Audience questioner
 
 <span class="transcript-timestamp">01:51:54 - 01:52:23</span>
 
@@ -1053,11 +1161,17 @@ Well, I asked before, because the idea was like, I mean, the point that defined 
 
 The same question can be asked about a seed of a plant that grows into two trees, the left one and the right one. And you ask the seed, are you gonna be the left one or the right one or twins? Are you gonna be Joe or Fred? You ask the fertilized egg. And it says to you, well, in a sense, I'm gonna be both of them. In a sense, I'm only gonna be one of them. That is to say, I will not experience being both of them. But the experience of being each of them will both happen.
 
+### Audience questioner
+
+<span class="transcript-timestamp">01:53:02 - 01:53:39</span>
+
+Okay, I see, I understand. That's a good way of putting it, yeah.
+
 ### Charles Bédard
 
 <span class="transcript-timestamp">01:53:02 - 01:53:39</span>
 
-Okay, I see, I understand. That's a good way of putting it, yeah. Well, David and Charlie have been tremendously generous over their time. It doesn't seem like there's other questions. If somebody has a burning desire and has been repressing his question, this is the last call. It also applies for the audience. Great, so thank you so much, David and Charlie. That was a lot of fun to discuss with you. And it was very, very fascinating in many regards.
+Well, David and Charlie have been tremendously generous over their time. It doesn't seem like there's other questions. If somebody has a burning desire and has been repressing his question, this is the last call. It also applies for the audience. Great, so thank you so much, David and Charlie. That was a lot of fun to discuss with you. And it was very, very fascinating in many regards.
 
 ### Charles Bennett
 

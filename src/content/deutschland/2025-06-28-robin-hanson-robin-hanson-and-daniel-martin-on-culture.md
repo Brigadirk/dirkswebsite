@@ -79,7 +79,13 @@ Of course, of course. It's just an example of a consequence. It's not all conseq
 
 <span class="transcript-timestamp">00:11:17 - 00:12:35</span>
 
-In Britain, it used to be just a few decades ago that if you had an upper class accent, you had an advantage in life and people would try to copy you where they wouldn't try to copy someone with a lower class accent. And this has pretty much changed by now. They're still like, I don't think the meme war between that and its opposite has reached a conclusion yet. But certainly, you know, with prime ministers, if someone came from Eton, nowadays, they, someone was educated in Eton. Nowadays, that's a disadvantage, whereas only 20, 30 years ago, it was actually an advantage. Right. So that's a status marker of accent. And there's been a change over time in the status that certain kinds of accents have. And that just shows that, but in a particular society, say, at a particular time when, say, 50 years ago, Eton accents were highly respected, then that individuals in that society had an incentive to acquire the respected accent. And if they said, the hell with society, I like my accent, they would suffer even if.
+In Britain, it used to be just a few decades ago that if you had an upper class accent, you had an advantage in life and people would try to copy you where they wouldn't try to copy someone with a lower class accent. And this has pretty much changed by now. They're still like, I don't think the meme war between that and its opposite has reached a conclusion yet. But certainly, you know, with prime ministers, if someone came from Eton, nowadays, they, someone was educated in Eton. Nowadays, that's a disadvantage, whereas only 20, 30 years ago, it was actually an advantage.
+
+### Robin Hanson
+
+<span class="transcript-timestamp">00:11:17 - 00:12:35</span>
+
+Right. So that's a status marker of accent. And there's been a change over time in the status that certain kinds of accents have. And that just shows that, but in a particular society, say, at a particular time when, say, 50 years ago, Eton accents were highly respected, then that individuals in that society had an incentive to acquire the respected accent. And if they said, the hell with society, I like my accent, they would suffer even if.
 
 ### Robin Hanson
 
@@ -135,17 +141,11 @@ Right. Okay, so I'm with you so far.
 
 Okay, so if we can talk about this. So just like with again with species, if you're willing to accept the analog of species, again, large integrated environments habitats like the ocean have a small number of large species. And then they're going to have rapid evolution within the species that is a larger species has more places for innovations to spark more places from the spread. If you have many small species, then they will have slower innovation within each species because they're more limited in terms of the number of places innovations can start and spread to. So that says not only is the evolution of species something that matters, it apparently matters even more than the evolution within species because otherwise, you know, rivers, rainforests, coral reefs, those sorts of very fragmented environments are actually today more often places where the species we have today came from in terms of their origins. So that says it's actually pretty important to have this evolution of species and analogously, you might think it's important to have evolution of cultures. So one example is corporate cultures. Corporations have cultures inside and then different corporations have different cultures. And by analogy, we have the issue of a large corporation can have more innovation within the corporation because there's more different places for innovations to start and spread to the rest of the corporation. But corporations often have shared culture features across the whole corporation that are hard to vary within the company, like, you know, what standards they have for who should be promoted or, you know, what looks like a good worker. And so some industries have a few big firms and other industries have many small firms and we can ask which industries are more innovative. And it looks like the fragmented industries are actually more innovative than the few big firms, which also suggests analogously that for corporate cultures, innovation of the cultures matters at least as much as the innovation within a corporate culture. And so that's more about culture.
 
-### David Deutsch
-
-<span class="transcript-timestamp">00:18:41 - 00:19:14</span>
-
-It seems like civilization is more analogous to the company cultures to me than it does to genes because you have minds involved. So the business, right. The market sets the constraints of what businesses can exist, although they're not when you create knowledge that also sets some unknowable constraints. But it's built by minds as well. And so any one problem they can think they're way out of because they're not a blind watchmaker like an evolution. So why is our ship like we need to change some parameters or we're going to hit an iceberg rather than we need to set up our ability to make new knowledge to get over these problems.
-
 ### Daniel Martin
 
-<span class="transcript-timestamp">00:19:14 - 00:19:16</span>
+<span class="transcript-timestamp">00:18:41 - 00:19:16</span>
 
-What do you say?
+It seems like civilization is more analogous to the company cultures to me than it does to genes because you have minds involved. So the business, right. The market sets the constraints of what businesses can exist, although they're not when you create knowledge that also sets some unknowable constraints. But it's built by minds as well. And so any one problem they can think they're way out of because they're not a blind watchmaker like an evolution. So why is our ship like we need to change some parameters or we're going to hit an iceberg rather than we need to set up our ability to make new knowledge to get over these problems. What do you say?
 
 ### Robin Hanson
 
@@ -181,13 +181,13 @@ So I don't think that's the biggest difference, although I don't know whether th
 
 <span class="transcript-timestamp">00:23:43 - 00:23:54</span>
 
-It's true. I accept those and I don't that much care which is the most important difference. I will not make the claims about that. I'm just I'm happy to accept those are true facts about culture and they are different from DNA evolution.
+It's true. I accept those and I don't that much care which is the most important difference. I will not make the claims about that. I'm just I'm happy to accept those are true facts about culture and they are different from DNA evolution. And so we, we agree roughly on these features that are different about cultural evolution.
 
 ### Daniel Martin
 
 <span class="transcript-timestamp">00:23:54 - 00:24:05</span>
 
-And so we, we agree roughly on these features that are different about cultural evolution. Why do you say enacted David, when you like vote up or down on some internet site, you're causing it to be more visible.
+Why do you say enacted David, when you like vote up or down on some internet site, you're causing it to be more visible.
 
 ### David Deutsch
 
@@ -409,7 +409,19 @@ Should they be living the life just for themselves for their own purpose, David?
 
 <span class="transcript-timestamp">00:38:57 - 00:39:42</span>
 
-Well, words of wisdom, if they're not coercive words of wisdom, presumably can't do any harm. But I think to predict to predict that somebody will suffer the consequences in 20 years time of choosing video games rather than quantum physics requires a prophecy that I don't think is possible. The quantum physics itself was a thing that had no job prospects when let's say quantum computers were first invented and now has massive job prospects. Winston Churchill played with his toys and that was instrumental for him. Yeah, that's a good example. Yeah.
+Well, words of wisdom, if they're not coercive words of wisdom, presumably can't do any harm. But I think to predict to predict that somebody will suffer the consequences in 20 years time of choosing video games rather than quantum physics requires a prophecy that I don't think is possible. The quantum physics itself was a thing that had no job prospects when let's say quantum computers were first invented and now has massive job prospects.
+
+### Daniel Martin
+
+<span class="transcript-timestamp">00:38:57 - 00:39:42</span>
+
+Winston Churchill played with his toys and that was instrumental for him.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:38:57 - 00:39:42</span>
+
+Yeah, that's a good example. Yeah.
 
 ### Robin Hanson
 
@@ -433,7 +445,7 @@ Of course, but the analog with species is species aren't autonomous I mean speci
 
 <span class="transcript-timestamp">00:41:48 - 00:42:04</span>
 
-So as species can have a feature like being doomed to resource depletion and you can have ideas, starting in one individual that may that can spread throughout the culture within one generation.
+So a species can have a feature like being doomed to resource depletion and you can have ideas, starting in one individual that may that can spread throughout the culture within one generation.
 
 ### Robin Hanson
 
@@ -463,7 +475,7 @@ So the axes aren't clear to me.
 
 <span class="transcript-timestamp">00:43:49 - 00:44:16</span>
 
-So the axes are just these different features of, you know, how much weight do you put on education, how much attention should parents play to kids, these sorts of features of cultures that have costs for individual variation within them, that is, or even like, how much we disapprove of sexism or how much we approve of patriotism or disapprove of war or democracy.
+So the axes are just these different features of, you know, how much weight do you put on education, how much attention should parents pay to kids, these sorts of features of cultures that have costs for individual variation within them, that is, or even like, how much we disapprove of sexism or how much we approve of patriotism or disapprove of war or democracy.
 
 ### Daniel Martin
 
@@ -541,7 +553,13 @@ What would happen is that they shrank and the survivors were the most committed 
 
 <span class="transcript-timestamp">00:51:44 - 00:52:05</span>
 
-Yeah, yeah, that's what I call a fad. So in your model, Robin, you're admitting that the degree to which entire cultures are good units of selection can vary a bit. So that can vary. Axes can be added and removed to the graph. And then sometimes the evolution can be dominated by axes that you hadn't predicted in the past. You're happy to accept all that?
+Yeah, yeah, that's what I call a fad.
+
+### Daniel Martin
+
+<span class="transcript-timestamp">00:51:44 - 00:52:05</span>
+
+So in your model, Robin, you're admitting that the degree to which entire cultures are good units of selection can vary a bit. So that can vary. Axes can be added and removed to the graph. And then sometimes the evolution can be dominated by axes that you hadn't predicted in the past. You're happy to accept all that?
 
 ### Robin Hanson
 
@@ -565,13 +583,13 @@ Okay, but then that cultural element of the culture is maladaptive. Right. If th
 
 <span class="transcript-timestamp">00:53:11 - 00:53:23</span>
 
-I think even if David maybe doesn't agree with the whole framing, maybe he'll just agree with your solutions. So, okay. Okay. So, yes. The key point here is to say, in the last few centuries variety is way, way down.
+I think even if David maybe doesn't agree with the whole framing, maybe he'll just agree with your solutions.
 
 ### Robin Hanson
 
-<span class="transcript-timestamp">00:53:24 - 00:54:21</span>
+<span class="transcript-timestamp">00:53:11 - 00:54:21</span>
 
-Okay, selection pressures are way, way down. The rate of change at which we're trying to track is way up the economy is doubling every 20 years or less. And the rate at which these things vary has gone up because we've come to celebrate cultural activism, people trying to cause cultural change. So now all four of these parameters are in a bad regime, arguably, and therefore this cloud is no longer tracking the adaptive region. And therefore plausibly drifting into maladaptation. And so that would be the argument to expect cultures to be becoming maladaptive, including low fertility as say the best sign. But it would just be the symptom of a deeper cause that this process of adaptation is broken and we're no longer tracking the adaptive region. So that's the hypothesis of a problem based on these parameters. And I agree that's not an absolute, you know, settles the issue sort of thing. It's a plausibility argument only.
+So, okay. Okay. So, yes. The key point here is to say, in the last few centuries variety is way, way down. Okay, selection pressures are way, way down. The rate of change at which we're trying to track is way up the economy is doubling every 20 years or less. And the rate at which these things vary has gone up because we've come to celebrate cultural activism, people trying to cause cultural change. So now all four of these parameters are in a bad regime, arguably, and therefore this cloud is no longer tracking the adaptive region. And therefore plausibly drifting into maladaptation. And so that would be the argument to expect cultures to be becoming maladaptive, including low fertility as say the best sign. But it would just be the symptom of a deeper cause that this process of adaptation is broken and we're no longer tracking the adaptive region. So that's the hypothesis of a problem based on these parameters. And I agree that's not an absolute, you know, settles the issue sort of thing. It's a plausibility argument only.
 
 ### David Deutsch
 
@@ -979,7 +997,7 @@ It's not just like, I think, take Harry Potter. So Harry Potter was created by o
 
 <span class="transcript-timestamp">01:18:46 - 01:18:58</span>
 
-So you want to promote both the individual and the cafe writing that book, but then all the other people who grow, who build on it and share it, that's also part of the process. Without that, it also doesn't happen.
+So you want to promote both the individual in the cafe writing that book, but then all the other people who grow, who build on it and share it, that's also part of the process. Without that, it also doesn't happen.
 
 ### David Deutsch
 
@@ -997,13 +1015,13 @@ So right. Cultures change both through cultural activism and through other proce
 
 <span class="transcript-timestamp">01:19:23 - 01:19:35</span>
 
-Right. You know, people tend to want to credit the activists perhaps more than they deserve because. But still there is a force of cultural activism. It does have influence. It may be overrated, but it's real.
+Right. You know, people tend to want to credit the activists perhaps more than they deserve because.
 
 ### Robin Hanson
 
-<span class="transcript-timestamp">01:19:35 - 01:19:46</span>
+<span class="transcript-timestamp">01:19:23 - 01:19:46</span>
 
-And we're happy to take any influence here. So if you can write, if anybody who's listening to this can write a novel that helps deal with this problem that people just want to read because it's fun, that would be great. We very much approve.
+But still there is a force of cultural activism. It does have influence. It may be overrated, but it's real. And we're happy to take any influence here. So if you can write, if anybody who's listening to this can write a novel that helps deal with this problem that people just want to read because it's fun, that would be great. We very much approve.
 
 ### David Deutsch
 

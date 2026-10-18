@@ -163,7 +163,7 @@ Do you think it's these mechanisms of error correction that explain the relative
 
 <span class="transcript-timestamp">00:14:36 - 00:16:18</span>
 
-Well it's certainly true that Britain is famous for political stability over decades and centuries and if you don't think it's due to that, I think if you don't think it's due to the political culture of Britain, you have a hard time explaining this blatant difference between Britain and the rest of Europe and also other countries. Now I think it is not an accident that say in the 20th century which was the high tide of both totalitarianism, that is fascism and nazism and communism and also nationalism and where this sort of engulfed Europe and even in the places where it didn't get into power, it affected the political system and influenced everything and yet in Britain it never even got close to power and this was the same over a longer time scale as well. Political philosophers in Europe simply held it as uncontroversial that the British political system was very stable and that this was something they wanted to emulate. The only explanation that makes sense to me is exactly what you said, that the institutions that correct errors and therefore build consent before grievances rise to the level of people wanting to use violence, thereby create stability and its stability despite rapid change. That's the difficult thing. You can have stability for decades and sometimes even centuries if you keep things the same but stability under rapid change is very difficult to achieve and it requires these institutions of criticism.
+Well it's certainly true that Britain is famous for political stability over decades and centuries and if you don't think it's due to that, I think if you don't think it's due to the political culture of Britain, you have a hard time explaining this blatant difference between Britain and the rest of Europe and also other countries. Now I think it is not an accident that say in the 20th century which was the high tide of both totalitarianism, that is fascism and Nazism and communism and also nationalism and where this sort of engulfed Europe and even in the places where it didn't get into power, it affected the political system and influenced everything and yet in Britain it never even got close to power and this was the same over a longer time scale as well. Political philosophers in Europe simply held it as uncontroversial that the British political system was very stable and that this was something they wanted to emulate. The only explanation that makes sense to me is exactly what you said, that the institutions that correct errors and therefore build consent before grievances rise to the level of people wanting to use violence, thereby create stability and it's stability despite rapid change. That's the difficult thing. You can have stability for decades and sometimes even centuries if you keep things the same but stability under rapid change is very difficult to achieve and it requires these institutions of criticism.
 
 ### Joe Boswell
 
@@ -241,13 +241,13 @@ Yes I couldn't agree more there's a very nice quote by Popper at some point wher
 
 <span class="transcript-timestamp">00:22:18 - 00:22:55</span>
 
-Okay well so um in this spirit of Popperian criticism conjectures and refutations um I feel I should put to you some of the best kind of remain arguments if I can I put out a call on my facebook page a few days ago to just kind of ask people what in their minds is the most important reason to stay in the EU and the first and foremost was the prevention of war I mean isn't it the case that economic integration has fostered this unprecedented period of peace and stability in Europe and as important as error correction might be isn't the prevention of war more important than that ...
+Okay well so um in this spirit of Popperian criticism conjectures and refutations um I feel I should put to you some of the best kind of remain arguments if I can I put out a call on my Facebook page a few days ago to just kind of ask people what in their minds is the most important reason to stay in the EU and the first and foremost was the prevention of war I mean isn't it the case that economic integration has fostered this unprecedented period of peace and stability in Europe and as important as error correction might be isn't the prevention of war more important than that ...
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:22:55 - 00:23:28</span>
 
-I think it isn't factually true that it is the EU or the common market as it was that has prevented war there was a theory even before world war one that the economics of different countries were becoming so integrated that the war would be impossible and it simply wasn't true when political forces made countries aggressive they naturally thought that that was more important than their economic well-being I mean if you're going to have a war you know that it's not going to promote economic well-being at least in the short run
+I think it isn't factually true that it is the EU or the common market as it was that has prevented war there was a theory even before World War One that the economics of different countries were becoming so integrated that the war would be impossible and it simply wasn't true when political forces made countries aggressive they naturally thought that that was more important than their economic well-being I mean if you're going to have a war you know that it's not going to promote economic well-being at least in the short run
 
 ### Joe Boswell
 
@@ -265,7 +265,7 @@ Yes if you put it like that it's obviously absurd it's obviously absurd I mean
 
 <span class="transcript-timestamp">00:23:40 - 00:23:58</span>
 
-Germany was in a position of sort of humiliation after world war one and had felt belittled by the rest of the European powers that's what made Nazism attractive no and if they'd been engaged in a kind of positive fruitful trading relationship with that so emotional impetus for fascism so ...
+Germany was in a position of sort of humiliation after World War One and had felt belittled by the rest of the European powers that's what made Nazism attractive no and if they'd been engaged in a kind of positive fruitful trading relationship with that so emotional impetus for fascism so ...
 
 ### David Deutsch
 
@@ -301,7 +301,7 @@ I think that objection or that argument for remain mixes two very different thin
 
 <span class="transcript-timestamp">00:28:46 - 00:29:28</span>
 
-Oh well this point is going to sound absurd as soon as I sort of say it out loud but I think a lot of people at the back of their minds do think aren't there advantages to top-down control I mean an argument that's often made to me and came up on my Facebook thread is that I don't really trust British democracy to deliver the right result it delivered thatcherism and I hate thatcherism you know I have friends who used to work in the post office and know which EU regulation it was that prevented them having to do unlimited overtime and they see that the EU was a sort of beneficent provider of rights that British democracy wouldn't provide of its own accord I mean what would you say to someone like that ...
+Oh well this point is going to sound absurd as soon as I sort of say it out loud but I think a lot of people at the back of their minds do think aren't there advantages to top-down control I mean an argument that's often made to me and came up on my Facebook thread is that I don't really trust British democracy to deliver the right result it delivered Thatcherism and I hate Thatcherism you know I have friends who used to work in the post office and know which EU regulation it was that prevented them having to do unlimited overtime and they see that the EU was a sort of beneficent provider of rights that British democracy wouldn't provide of its own accord I mean what would you say to someone like that ...
 
 ### David Deutsch
 
@@ -337,13 +337,13 @@ There is a general answer to that question which is also why it is more importan
 
 <span class="transcript-timestamp">00:36:25 - 00:37:08</span>
 
-One last remain argument I'd like to put to you which I think is kind of the most profound argument and the one that speaks to people most deeply is the argument about racism I know I tried to kind of be rational when I was listening to the to the referendum debates and to be honest I found myself more stupid by the end of it than at the beginning I learned almost nothing from watching weeks of question time episodes but what really swung it for me was the day that breaking point Nigel Farage poster came out and Jo Cox was shot and I just thought there's absolutely no way I'm voting with those guys you know I and I think that feeling is pretty ubiquitous in this country and how do you speak to that instinct
+One last remain argument I'd like to put to you which I think is kind of the most profound argument and the one that speaks to people most deeply is the argument about racism I know I tried to kind of be rational when I was listening to the to the referendum debates and to be honest I found myself more stupid by the end of it than at the beginning I learned almost nothing from watching weeks of Question Time episodes but what really swung it for me was the day that Breaking Point Nigel Farage poster came out and Jo Cox was shot and I just thought there's absolutely no way I'm voting with those guys you know I and I think that feeling is pretty ubiquitous in this country and how do you speak to that instinct
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:37:08 - 00:37:20</span>
 
-Well interestingly the vote leave campaign thought that that poster and the UKIP side of the leave argument cost them votes and almost cost them the referendum that is their opinion
+Well interestingly the Vote Leave campaign thought that that poster and the UKIP side of the leave argument cost them votes and almost cost them the referendum that is their opinion
 
 ### Joe Boswell
 
@@ -355,7 +355,7 @@ I didn't know that ...
 
 <span class="transcript-timestamp">00:37:22 - 00:38:58</span>
 
-I don't think anyone hates UKIP more than vote leave does they thought that this tendency almost cost them the referendum because of the fact that tiny numbers of people are actually fanatically racist fanatically racist yes a larger number of people are inclined to be persuadable by arguments with a tinge of racism because perfectly legitimate considerations sometimes overlap with arguments that have a tinge of racism and they find themselves allies with people whom they might not agree with but those groups together do not amount to anything like a majority thank goodness and thank goodness and therefore no matter how much you fire up those people to vote for you you're not going to win the referendum quite aside from the fact that many of the major players in vote leave are like me constitutionally and emotionally in favor of more immigration so I mean I myself can't get my head around the idea that I shouldn't be in favor of leave because it's racist because that that's kind of the opposite way to the way it looks to me yeah yeah the argument should not be about who is in favor you know if it turns out Mr Putin is in favor of one or the other or Mr Trump is in favor of one or the other that doesn't alter who is right no it's an ad hominem thing and one should not make that a consideration
+I don't think anyone hates UKIP more than Vote Leave does they thought that this tendency almost cost them the referendum because of the fact that tiny numbers of people are actually fanatically racist fanatically racist yes a larger number of people are inclined to be persuadable by arguments with a tinge of racism because perfectly legitimate considerations sometimes overlap with arguments that have a tinge of racism and they find themselves allies with people whom they might not agree with but those groups together do not amount to anything like a majority thank goodness and thank goodness and therefore no matter how much you fire up those people to vote for you you're not going to win the referendum quite aside from the fact that many of the major players in Vote Leave are like me constitutionally and emotionally in favor of more immigration so I mean I myself can't get my head around the idea that I shouldn't be in favor of leave because it's racist because that that's kind of the opposite way to the way it looks to me yeah yeah the argument should not be about who is in favor you know if it turns out Mr Putin is in favor of one or the other or Mr Trump is in favor of one or the other that doesn't alter who is right no it's an ad hominem thing and one should not make that a consideration
 
 ### Joe Boswell
 
@@ -397,4 +397,4 @@ And I think that is precisely true as well as rather painfully sentimental yeah 
 
 <span class="transcript-timestamp">00:42:11 - 00:42:25</span>
 
-Thank you for watching if you enjoyed this video and you'd like to see more content at the intersection of science philosophy and politics then please consider donating to my patreon or my paypal account you'll find the links in the description
+Thank you for watching if you enjoyed this video and you'd like to see more content at the intersection of science philosophy and politics then please consider donating to my Patreon or my PayPal account you'll find the links in the description

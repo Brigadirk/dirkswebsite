@@ -9,10 +9,9 @@ pubDate: 2021-09-20
 
 <span class="duration-label">Duration:</span> <span class="duration-time">00:35:44</span>
 
-The German original is the recording above. Jannik Wiese created the English transcript and Dennis Hackethal edited it. Parentheses contain their clarifications; brackets preserve German terms from the interview.
+*The German original is the recording above. Jannik Wiese created the English transcript and Dennis Hackethal edited it. Parentheses contain their clarifications; brackets preserve German terms from the interview.*
 
-## English translation
-
+## Transcript
 ### Dennis Hackethal
 
 Welcome to our listeners and viewers. Several years ago I read a fascinating book and as soon as I finished reading, I knew it was my new favourite. I’m talking about ‘The Beginning of Infinity’ by British physicist David Deutsch. It is now available in German for the first time, titled ‘Der Anfang der Unendlichkeit: Erklärungen, die die Welt verwandeln’ (the original title is ‘The Beginning of Infinity: Explanations that Transform the World’).

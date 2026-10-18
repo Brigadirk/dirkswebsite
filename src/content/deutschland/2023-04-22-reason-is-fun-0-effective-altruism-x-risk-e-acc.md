@@ -15,7 +15,7 @@ pubDate: 2023-04-22
 
 <span class="transcript-timestamp">00:00:00 - 00:00:43</span>
 
-Welcome to the Reason is Fun podcast. I'm your host, Lulie Tanett, and today I'm speaking with David Deutsch about effective altruism, X-risk, and effective accelerationism or EAC. And I've called this episode zero because it's a little bit rough and I have something special planned for episode one. And with that, let's get into it. I am curious about what your views on effective altruism are. I have some criticisms of it, epistemological criticisms, you might say.
+Welcome to the Reason is Fun podcast. I'm your host, Lulie Tanett, and today I'm speaking with David Deutsch about effective altruism, X-risk, and effective accelerationism or e/acc. And I've called this episode zero because it's a little bit rough and I have something special planned for episode one. And with that, let's get into it. I am curious about what your views on effective altruism are. I have some criticisms of it, epistemological criticisms, you might say.
 
 ### David Deutsch
 
@@ -111,73 +111,121 @@ If you deliberately keep stuff in the back of your mind as, oh, this could possi
 
 <span class="transcript-timestamp">00:07:46 - 00:10:14</span>
 
-I don't know. It might be. I mean, if I go to a case that I know better, namely my own quantum computers. When I wrote my first paper, which contained a description of what we now call a universal quantum computer, I had no idea I was inventing a universal quantum computer. I thought I was dealing with what I thought was an unrelated problem, namely how to counteract the prevailing idea that the many universes interpretation of quantum theory is untestable. And I was sure that it was testable. But the existing prevailing view of quantum theory, namely wave function collapse and that sort of thing, made the issue of testability very obscure. It was all framed in terms of the observer, which was a mystical concept. And is it still a mystical concept? Well, fortunately it's no longer a concept in physics. It's not a mystical concept. Everyone talks about the observer all the time. Yeah. Well, you can say, you know, what does the sun what does the sun look like to an observer on the North Pole sort of thing that there it's not it's there. It's a harmless concept. But in quantum mechanics, in quantum theory, in fundamental quantum theory, it's just not there anymore. At least not if you adopt the Everett interpretation. If you adopt the other interpretations. Well, then it's still there and it's still as bad as before, except now one doesn't have the excuse that nothing is known about what is different about an observer from anything else in the Everett interpretation or in Everettian quantum theory, as we should now call it. Observers and giraffes and electrons are all treated uniformly by the same theory. And you never have to use a different theory if you identify something as a giraffe or as an observer. So it's the same theory all the way through. So when people make breakthroughs intentionally instead of accidentally or by working on something else, is that or how random is that?
+I don't know. It might be. I mean, if I go to a case that I know better, namely my own quantum computers. When I wrote my first paper, which contained a description of what we now call a universal quantum computer, I had no idea I was inventing a universal quantum computer. I thought I was dealing with what I thought was an unrelated problem, namely how to counteract the prevailing idea that the many universes interpretation of quantum theory is untestable. And I was sure that it was testable. But the existing prevailing view of quantum theory, namely wave function collapse and that sort of thing, made the issue of testability very obscure. It was all framed in terms of the observer, which was a mystical concept.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:07:46 - 00:10:14</span>
+
+And is it still a mystical concept?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:07:46 - 00:10:14</span>
+
+Well, fortunately it's no longer a concept in physics.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:07:46 - 00:10:14</span>
+
+It's not a mystical concept. Everyone talks about the observer all the time.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:07:46 - 00:10:14</span>
+
+Yeah. Well, you can say, you know, what does the sun what does the sun look like to an observer on the North Pole sort of thing that there it's not it's there. It's a harmless concept. But in quantum mechanics, in quantum theory, in fundamental quantum theory, it's just not there anymore. At least not if you adopt the Everett interpretation. If you adopt the other interpretations. Well, then it's still there and it's still as bad as before, except now one doesn't have the excuse that nothing is known about what is different about an observer from anything else in the Everett interpretation or in Everettian quantum theory, as we should now call it. Observers and giraffes and electrons are all treated uniformly by the same theory. And you never have to use a different theory if you identify something as a giraffe or as an observer. So it's the same theory all the way through.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:10:14 - 00:10:19</span>
 
-Is it just completely random or are there things that you can do to make that more likely to happen?
+So when people make breakthroughs intentionally instead of accidentally or by working on something else, is that or how random is that? Is it just completely random or are there things that you can do to make that more likely to happen?
 
 ### David Deutsch
 
-<span class="transcript-timestamp">00:10:22 - 00:10:27</span>
+<span class="transcript-timestamp">00:10:22 - 00:10:41</span>
 
-I don't know. This is really a question about psychology, because it's saying like, what would ...
-
-### Lulie Tanett
-
-<span class="transcript-timestamp">00:10:27 - 00:10:28</span>
-
-You do instead?
-
-### David Deutsch
-
-<span class="transcript-timestamp">00:10:28 - 00:10:41</span>
-
-Well, instead you would work on what's interesting. And but if you're interested in how to feed the world rather than in you could be interested in ...
+I don't know. This is really a question about psychology, because it's saying like, what would you do instead? Well, instead you would work on what's interesting. And but if you're interested in how to feed the world rather than in you could be interested in how to feed the world, you could be interested in plants and how to help them grow. And that second thing may be more likely to give you the answer to the first thing, even if it's not in your mind. If in your mind you want to feed the world, you may be biasing yourself towards the prevailing view of what kind of thing is needed to feed the world, namely larger grain ships or something.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:10:41 - 00:11:33</span>
 
-How to feed the world, you could be interested in plants and how to help them grow. And that second thing may be more likely to give you the answer to the first thing, even if it's not in your mind. If in your mind you want to feed the world, you may be biasing yourself towards the prevailing view of what kind of thing is needed to feed the world, namely larger grain ships or something. You don't have to be biased in that way. You could be a Silicon Valley type entrepreneur who's like, OK, I'm going to figure out how to feed the world and I'm going to look at all of the underutilized like, oh, maybe we can survive on plankton or whatever it is.
+You don't have to be biased in that way. You could be a Silicon Valley type entrepreneur who's like, OK, I'm going to figure out how to feed the world and I'm going to look at all of the underutilized like, oh, maybe we can survive on plankton or whatever it is.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:11:34 - 00:11:42</span>
 
-Well, you see that that's an example of a theory that's in the prevailing consensus, you know, the plankton and the... I just made that up. I didn't even know that was a thing.
+Well, you see that that's an example of a theory that's in the prevailing consensus, you know, the plankton and the...
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:11:43 - 00:11:44</span>
 
-Is that a thing?
+I just made that up. I didn't even know that was a thing. Is that a thing?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:11:44 - 00:14:18</span>
 
-Yeah, I think that's a thing. And generally making use of food in the ocean and ocean farming and the thing is, when I say biased, that's maybe can be interpreted as a pejorative term. I didn't mean it as pejorative. I mean, we always start from existing knowledge, our own existing knowledge and then existing knowledge that we find in the world by looking at what other people have done. And it's impossible not to begin with existing knowledge. You can't begin by looking at all possible theories, because that is simply too large a set to fit into a brain. But then what makes the difference between working on something directly versus working on other stuff that then happens to have the breakthrough as a result? Well, one thing is that if you use the criterion of what is the most fun, then what you're interested in solving is intimately related to what you find fun. And also, as Peter Medawar said, science is the art of the soluble. So your growing theories about what might be soluble also play a role in what you find fun. So, for example, when you're playing tennis, basically what you want to do is win the point, but winning the point might be several hits away from in a long rally and so on. So at any moment, you've got to decide whether to attempt a winner now or attempt a shot which gets you closer to being able to do a winner later, or just to play a winning shot that isn't a winner, but which nevertheless wins the point, or to play a shot which makes your opponent make mistakes about what you are trying to do so that even if you lose that point, you'll win the next one. So for the non tennis people in the audience, i.e. me, what's the difference between a winner and something that isn't a winner but wins a point? So a winner is what they call in their terminology, a shot that is unreturnable, because, for example, it's going too fast or it's too near the edge or that kind of thing.
+Yeah, I think that's a thing. And generally making use of food in the ocean and ocean farming and the thing is, when I say biased, that's maybe can be interpreted as a pejorative term. I didn't mean it as pejorative. I mean, we always start from existing knowledge, our own existing knowledge and then existing knowledge that we find in the world by looking at what other people have done. And it's impossible not to begin with existing knowledge. You can't begin by looking at all possible theories, because that is simply too large a set to fit into a brain. But then what makes the difference between working on something directly versus working on other stuff that then happens to have the breakthrough as a result? Well, one thing is that if you use the criterion of what is the most fun, then what you're interested in solving is intimately related to what you find fun. And also, as Peter Medawar said, science is the art of the soluble. So your growing theories about what might be soluble also play a role in what you find fun. So, for example, when you're playing tennis, basically what you want to do is win the point, but winning the point might be several hits away from in a long rally and so on. So at any moment, you've got to decide whether to attempt a winner now or attempt a shot which gets you closer to being able to do a winner later, or just to play a winning shot that isn't a winner, but which nevertheless wins the point, or to play a shot which makes your opponent make mistakes about what you are trying to do so that even if you lose that point, you'll win the next one.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:11:44 - 00:14:18</span>
+
+So for the non tennis people in the audience, i.e. me, what's the difference between a winner and something that isn't a winner but wins a point?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:11:44 - 00:14:18</span>
+
+So a winner is what they call in their terminology, a shot that is unreturnable, because, for example, it's going too fast or it's too near the edge or that kind of thing. The trouble with winners is that they are also more risky than normal shots. So in trying to put it too fast or too near the edge, you may go out and thus lose the point.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:14:18 - 00:14:51</span>
 
-The trouble with winners is that they are also more risky than normal shots. So in trying to put it too fast or too near the edge, you may go out and thus lose the point. So you could make a more normal shot that is more returnable and still they fail to return it? Or they return it in such a way as to make the next shot easier to hit for you and so on. As I said, there's also the psychological side and so now I've forgotten what this is the answer to.
+So you could make a more normal shot that is more returnable and still they fail to return it?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:14:18 - 00:14:51</span>
+
+Or they return it in such a way as to make the next shot easier to hit for you and so on. As I said, there's also the psychological side and so now I've forgotten what this is the answer to.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:14:52 - 00:16:13</span>
 
-Oh yes, Peter Medawar, science is the art of the soluble. So what you judge to be soluble by way of a sub problem affects what you find fun, because you'll only find the idea of hitting a winner. How should I best hit a winner? You only find that fun if you think that you could hit a winner, that it will be, it won't be too hard and too risky to attempt that. So instead you try a lesser shot. Well, if you're trying to feed the world and that is your overriding consideration, and if that is different from the thing you were doing that you think is the most fun, the most soluble, the most interesting sub problem, then if you force yourself to try to answer this overriding problem, you'll be depriving yourself of one of the main driving forces of creativity, which is being interested in it, being fun. But you're interested in the overarching thing. Well, there are different ways of being interested. You may find the problem fascinating or you may find the fact that people are starving unpleasant.
+Oh yes, Peter Medawar, science is the art of the soluble. So what you judge to be soluble by way of a sub problem affects what you find fun, because you'll only find the idea of hitting a winner. How should I best hit a winner? You only find that fun if you think that you could hit a winner, that it will be, it won't be too hard and too risky to attempt that. So instead you try a lesser shot. Well, if you're trying to feed the world and that is your overriding consideration, and if that is different from the thing you were doing that you think is the most fun, the most soluble, the most interesting sub problem, then if you force yourself to try to answer this overriding problem, you'll be depriving yourself of one of the main driving forces of creativity, which is being interested in it, being fun.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:14:52 - 00:16:13</span>
+
+But you're interested in the overarching thing.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:14:52 - 00:16:13</span>
+
+Well, there are different ways of being interested. You may find the problem fascinating or you may find the fact that people are starving unpleasant.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:16:14 - 00:16:37</span>
 
-It's about being interested in the result versus the actual problems. It's sort of like destination versus journey. Yes, yes. So it's how you choose your sub problems. Do you choose them according to fun, solubility, that kind of thing, or do you choose them entirely according to how you think they will fit into the final answer?
+It's about being interested in the result versus the actual problems. It's sort of like destination versus journey.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:16:14 - 00:16:37</span>
+
+Yes, yes. So it's how you choose your sub problems. Do you choose them according to fun, solubility, that kind of thing, or do you choose them entirely according to how you think they will fit into the final answer?
 
 ### David Deutsch
 
@@ -189,19 +237,73 @@ Another thing that often happens is that people are interested in some final ans
 
 <span class="transcript-timestamp">00:16:50 - 00:18:01</span>
 
-Because they are actually working on specific problems, even if they've got this sort of lofty goal. Yes. Hmm. From the idea that all evils are due to lack of knowledge, it immediately, I think, leads you in a different direction from effective altruism, namely trying to rank the problems and trying to rank the proposed solutions, which is knowledge always begins with existing knowledge. So the thing you would naturally do if you had a knowledge-based view of human problems is you would look at existing problems and see which of them are interesting and fun, and once you have found one that is, try to modify some theory which is participating in the problem. So for example, you think that people dying of malaria is a problem, and it certainly is, and so what knowledge exists?
+Because they are actually working on specific problems, even if they've got this sort of lofty goal.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:16:50 - 00:18:01</span>
+
+Yes. Hmm. From the idea that all evils are due to lack of knowledge, it immediately, I think, leads you in a different direction from effective altruism, namely trying to rank the problems and trying to rank the proposed solutions, which is knowledge always begins with existing knowledge. So the thing you would naturally do if you had a knowledge-based view of human problems is you would look at existing problems and see which of them are interesting and fun, and once you have found one that is, try to modify some theory which is participating in the problem. So for example, you think that people dying of malaria is a problem, and it certainly is, and so what knowledge exists?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:18:01 - 00:21:30</span>
 
-Now if knowledge of how effective, say, mosquito nets are is lacking, and that if you decide that the people who are at risk of malaria don't understand the benefits of mosquito nets, then you would think of ways of telling them this. Isn't that what they do? Well, I think that what they do is they try to provide them with mosquito nets, as opposed to telling them that they have a misconception about the effectiveness of mosquito nets. Right, but they're also poor, so maybe they could just do with the mosquito nets. Well, if they're poor, they think that their main problem is lack of money, and you think it's lack of mosquito nets, and again, I don't think that the path to, you see, giving them the mosquito nets anyway when what they want is the money violates the canons of rationality. It's not allowing their conception of what is wrong to inform what you do in order to try and solve their problem. So the kind of thing that happens is that you give them mosquito nets, and they sell them to the local warlord to use as camouflage netting or whatever. If they don't see the problem the way you see it, they're not going to see the solution. They probably won't see the solution that you think you have as a solution. So presumably one of you is right, or maybe one of you is right, or one of you is more right than the other one. One of you is wrong, that's for sure. At least one of you is wrong. Yes. So you might have already thought of the reasons that they have for that theory. They think it's worthwhile because they don't realize that illness is actually more costly than health, and you've also thought about what they might do given their current knowledge and their incentives like selling things to warlords. You can account for that, and then with your knowledge, then you can do the right thing instead of doing the thing that is, I don't know, the most consensus-based. Yes, so I guess this is the justification that EA advocates would have, but the thing about that story, notice that the thing about that story is it doesn't include any creativity in the minds of the victims. I mean the beneficiaries. If your story, your justificatory story for what you're doing by way of altruism doesn't include the confrontation between the people, the theories of the people you're trying to help and your theories, then even if you're right, I object to that whole thing in principle because it's not treating people as people. But in Will MacAskill's first book, Doing Good Better, the intro chapter is about how there were people who were doing charities and they created this thing that you had to push this, ...
+Now if knowledge of how effective, say, mosquito nets are is lacking, and that if you decide that the people who are at risk of malaria don't understand the benefits of mosquito nets, then you would think of ways of telling them this.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:18:01 - 00:21:30</span>
+
+Isn't that what they do?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:18:01 - 00:21:30</span>
+
+Well, I think that what they do is they try to provide them with mosquito nets, as opposed to telling them that they have a misconception about the effectiveness of mosquito nets.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:18:01 - 00:21:30</span>
+
+Right, but they're also poor, so maybe they could just do with the mosquito nets.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:18:01 - 00:21:30</span>
+
+Well, if they're poor, they think that their main problem is lack of money, and you think it's lack of mosquito nets, and again, I don't think that the path to, you see, giving them the mosquito nets anyway when what they want is the money violates the canons of rationality. It's not allowing their conception of what is wrong to inform what you do in order to try and solve their problem. So the kind of thing that happens is that you give them mosquito nets, and they sell them to the local warlord to use as camouflage netting or whatever. If they don't see the problem the way you see it, they're not going to see the solution. They probably won't see the solution that you think you have as a solution.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:18:01 - 00:21:30</span>
+
+So presumably one of you is right, or maybe one of you is right, or one of you is more right than the other one.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:18:01 - 00:21:30</span>
+
+One of you is wrong, that's for sure. At least one of you is wrong.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:18:01 - 00:21:30</span>
+
+Yes. So you might have already thought of the reasons that they have for that theory. They think it's worthwhile because they don't realize that illness is actually more costly than health, and you've also thought about what they might do given their current knowledge and their incentives like selling things to warlords. You can account for that, and then with your knowledge, then you can do the right thing instead of doing the thing that is, I don't know, the most consensus-based.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:18:01 - 00:21:30</span>
+
+Yes, so I guess this is the justification that EA advocates would have, but the thing about that story, notice that the thing about that story is it doesn't include any creativity in the minds of the victims. I mean the beneficiaries. If your story, your justificatory story for what you're doing by way of altruism doesn't include the confrontation between the people, the theories of the people you're trying to help and your theories, then even if you're right, I object to that whole thing in principle because it's not treating people as people.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:21:30 - 00:21:55</span>
 
-What do you call it, merry-go-round. Oh yeah, and generate electricity. Yeah, and those people were not properly accounting for what that was actually like, and so basically either people weren't using it or they were doing it in a kind of very work-like way. So already in EA 101, it accounts for that. It's saying like, okay, how about we actually look? Is this in fact effective?
+But in Will MacAskill's first book, Doing Good Better, the intro chapter is about how there were people who were doing charities and they created this thing that you had to push this, what do you call it, merry-go-round. Oh yeah, and generate electricity. Yeah, and those people were not properly accounting for what that was actually like, and so basically either people weren't using it or they were doing it in a kind of very work-like way. So already in EA 101, it accounts for that. It's saying like, okay, how about we actually look? Is this in fact effective?
 
 ### David Deutsch
 
@@ -213,7 +315,13 @@ Yes. So it does accord with my prejudices in these matters that existing chariti
 
 <span class="transcript-timestamp">00:24:30 - 00:25:21</span>
 
-What about the idea of giving away as much of your money as possible so that you can do the most good in the world? That has to me, I mean I think sometimes that can be the right thing to do, but in general that smacks to me of underestimating one's own creativity on principle. That is, on principle one is saying the things that I find interesting and would find it fun to do with my life. The mere fact that I'm doing something with my life rather than with someone else's life is a taint.
+What about the idea of giving away as much of your money as possible so that you can do the most good in the world?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:24:30 - 00:25:21</span>
+
+That has to me, I mean I think sometimes that can be the right thing to do, but in general that smacks to me of underestimating one's own creativity on principle. That is, on principle one is saying the things that I find interesting and would find it fun to do with my life. The mere fact that I'm doing something with my life rather than with someone else's life is a taint.
 
 ### David Deutsch
 
@@ -231,7 +339,19 @@ If you're just a single person and you know that you can get by just fine with h
 
 <span class="transcript-timestamp">00:26:18 - 00:27:56</span>
 
-Yes, well again you can't prophesy the path of your own life. So if you say invest your money, you are already allowing it to be used for purposes that other people think are best because you haven't got an immediate use for it and you are giving it to them on condition that later you will get it back with interest. That's a bit more future-proof. I think it's more general because the market has got millions of possible applications of your money. And if you... So supposing an unexpected thing comes up like you become... you get some terrible disease and you require 24-hour nursing care for the rest of your life which is going to be decades, then you will rely on either the state or charity and so in that case your so-called altruism is simply equivalent to throwing away your wealth. But meanwhile you've helped other people. Well we've... It's not throwing away. We have discussed that in the first half of this question. In both cases the issue is how do we deal with problems that we don't yet know or problems that are known to other people or...
+Yes, well again you can't prophesy the path of your own life. So if you say invest your money, you are already allowing it to be used for purposes that other people think are best because you haven't got an immediate use for it and you are giving it to them on condition that later you will get it back with interest. That's a bit more future-proof. I think it's more general because the market has got millions of possible applications of your money. And if you... So supposing an unexpected thing comes up like you become... you get some terrible disease and you require 24-hour nursing care for the rest of your life which is going to be decades, then you will rely on either the state or charity and so in that case your so-called altruism is simply equivalent to throwing away your wealth.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:26:18 - 00:27:56</span>
+
+But meanwhile you've helped other people.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:26:18 - 00:27:56</span>
+
+Well we've... It's not throwing away. We have discussed that in the first half of this question. In both cases the issue is how do we deal with problems that we don't yet know or problems that are known to other people or...
 
 ### Lulie Tanett
 
@@ -243,43 +363,103 @@ Well why can't you just invest in problems that you've looked into, like cause a
 
 <span class="transcript-timestamp">00:28:02 - 00:28:25</span>
 
-Well because the ones that you haven't looked into may be the ones that are a drain on society eventually which includes being a drain on other people. Yeah but you don't have to be perfect. You can just look at what you know something about and be like okay I'm going to tithe and donate my money to this particular cause, like knowing that it will help this particular thing.
+Well because the ones that you haven't looked into may be the ones that are a drain on society eventually which includes being a drain on other people.
 
 ### Lulie Tanett
 
+<span class="transcript-timestamp">00:28:02 - 00:28:25</span>
+
+Yeah but you don't have to be perfect. You can just look at what you know something about and be like okay I'm going to tithe and donate my money to this particular cause, like knowing that it will help this particular thing.
+
+### David Deutsch
+
 <span class="transcript-timestamp">00:28:26 - 00:28:36</span>
 
-Tithing is a mechanical operation. That is, what percentage are you going to tithe? 10%?
+Tithing is a mechanical operation. That is, what percentage are you going to tithe? 10%? Well why 10%?
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:28:36 - 00:28:42</span>
+
+Because that's traditional.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:28:36 - 00:28:42</span>
 
-Well why 10%? Because that's traditional. Why? What tradition? Well it's the tradition of my religion.
+Why? What tradition?
 
 ### Lulie Tanett
+
+<span class="transcript-timestamp">00:28:36 - 00:28:42</span>
+
+Well it's the tradition of my religion.
+
+### David Deutsch
 
 <span class="transcript-timestamp">00:28:43 - 00:28:45</span>
 
 When was your religion founded?
 
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:28:45 - 00:28:51</span>
+
+Oh 950 years ago.
+
 ### David Deutsch
 
 <span class="transcript-timestamp">00:28:45 - 00:28:51</span>
 
-Oh 950 years ago. What on earth did those people know about what ...
+What on earth did those people know about what proportion of your income is optimal to give to other people? They were living in a different time with different problems. They didn't have state aid. They... On the other hand they didn't have diseases that could be cured by hospitals.
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:28:51 - 00:30:13</span>
 
-Proportion of your income is optimal to give to other people? They were living in a different time with different problems. They didn't have state aid. They... On the other hand they didn't have diseases that could be cured by hospitals. But again you don't need to be perfect. You can just pick anything that kind of works for your lifestyle that you know will help. And money helps people right? Like giving your money to some kind of problem. So here in Oxford there are posters up at bus stops and various other places saying do not give money to beggars. So at least they think that giving money, a random person giving money to this class of person, beggars, does not help the beggar. It actually makes the beggar's lot worse because they think the beggar is only going to buy drugs or this is going to fund a criminal gang or... And so on. Can you not with a bit of research figure out whether it's like the beggar case or like the helpful case? If Oxford City Council can't do that research, I'm not sure I can. They have far more resources to do it with. Sorry why can't they do that research?
+But again you don't need to be perfect. You can just pick anything that kind of works for your lifestyle that you know will help. And money helps people right? Like giving your money to some kind of problem.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:28:51 - 00:30:13</span>
+
+So here in Oxford there are posters up at bus stops and various other places saying do not give money to beggars. So at least they think that giving money, a random person giving money to this class of person, beggars, does not help the beggar. It actually makes the beggar's lot worse because they think the beggar is only going to buy drugs or this is going to fund a criminal gang or... And so on.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:28:51 - 00:30:13</span>
+
+Can you not with a bit of research figure out whether it's like the beggar case or like the helpful case?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:28:51 - 00:30:13</span>
+
+If Oxford City Council can't do that research, I'm not sure I can. They have far more resources to do it with.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:28:51 - 00:30:13</span>
+
+Sorry why can't they do that research?
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:30:13 - 00:34:09</span>
 
-Well presumably they have done it before they put the poster up. And so you wouldn't... And so they have discovered that giving money to beggars isn't good for some reason. And... But therefore it's not true that giving money to people in general solves their problems. Yeah but I'm saying well don't give money to people in general but like as a default it is usually helpful except in these special circumstances. Unfortunately, I think it is true in general that if you are giving money blindly to other people then it would usually do good except in special circumstances like where they are already a criminal or a beggar or are in a country with warlords and that sort of thing. The trouble is that's not the situation that one is facing when one is deciding whether to tithe one's income. The situation that one is trying to remedy is precisely a situation where problem solving has already gone wrong for some reason. Like the very existence of the criminal gang or the drug addiction or the drug addiction subculture or the warlord. Those are all things where the problem solving mechanism that we in the civilised world or in the privileged parts of the civilised world take for granted have gone wrong. And I think in those specific cases, pouring money into it will typically make it worse. I'm not sure by... I'm not at all sure by the way that the Oxford City Council are right about this but I'm just saying that the fact that they've come to this conclusion is evidence that it's at least evidence that this is complex and requires knowledge and that the whole problem is creating that knowledge not distributing your money. Distributing your money may come at the end of your decision as to how to improve knowledge. I don't even think that... never mind beggars, if we go outside into the street now and stop the first person we see and give them a hundred pounds that that is likely to help with their problem. I mean if they don't have a problem I guess you know if they don't have a you know if they don't have a money related problem then I guess it will help. But that's precisely the situation where you don't want to give people money. So if they are suffering, they might be suffering because their spouse has left them or because their child has died or because they are an illegal immigrant and the police are about to eject them from the country. You know people have all sorts of problems and in many cases money wouldn't help and in many cases money will make matters worse and if you just compare that with using your money to facilitate something which you find absorbing and fun and fruitful then you're in the best position to judge that and I think then spending money on that is the best thing you can do. It might be that that succeeds beyond your wildest dreams and you become Bill Gates and then you have a very severe problem that you don't have enough fun-generating problems of your own. That is you already have enough money to pursue all those to your heart's content and you still have a lot of money left over.
+Well presumably they have done it before they put the poster up. And so you wouldn't... And so they have discovered that giving money to beggars isn't good for some reason. And... But therefore it's not true that giving money to people in general solves their problems.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:30:13 - 00:34:09</span>
+
+Yeah but I'm saying well don't give money to people in general but like as a default it is usually helpful except in these special circumstances.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:30:13 - 00:34:09</span>
+
+Unfortunately, I think it is true in general that if you are giving money blindly to other people then it would usually do good except in special circumstances like where they are already a criminal or a beggar or are in a country with warlords and that sort of thing. The trouble is that's not the situation that one is facing when one is deciding whether to tithe one's income. The situation that one is trying to remedy is precisely a situation where problem solving has already gone wrong for some reason. Like the very existence of the criminal gang or the drug addiction or the drug addiction subculture or the warlord. Those are all things where the problem solving mechanism that we in the civilised world or in the privileged parts of the civilised world take for granted have gone wrong. And I think in those specific cases, pouring money into it will typically make it worse. I'm not sure by... I'm not at all sure by the way that the Oxford City Council are right about this but I'm just saying that the fact that they've come to this conclusion is evidence that it's at least evidence that this is complex and requires knowledge and that the whole problem is creating that knowledge not distributing your money. Distributing your money may come at the end of your decision as to how to improve knowledge. I don't even think that... never mind beggars, if we go outside into the street now and stop the first person we see and give them a hundred pounds that that is likely to help with their problem. I mean if they don't have a problem I guess you know if they don't have a you know if they don't have a money related problem then I guess it will help. But that's precisely the situation where you don't want to give people money. So if they are suffering, they might be suffering because their spouse has left them or because their child has died or because they are an illegal immigrant and the police are about to eject them from the country. You know people have all sorts of problems and in many cases money wouldn't help and in many cases money will make matters worse and if you just compare that with using your money to facilitate something which you find absorbing and fun and fruitful then you're in the best position to judge that and I think then spending money on that is the best thing you can do. It might be that that succeeds beyond your wildest dreams and you become Bill Gates and then you have a very severe problem that you don't have enough fun-generating problems of your own. That is you already have enough money to pursue all those to your heart's content and you still have a lot of money left over.
 
 ### Lulie Tanett
 
@@ -291,7 +471,13 @@ That changes the problem.
 
 <span class="transcript-timestamp">00:34:22 - 00:35:30</span>
 
-Then it's a good idea to give some of your money away. I don't think tithing is the thing. Your religion's founder can't possibly know if you're Bill Gates that you should give away 10% or 90% or 99% or whatever. That's a matter of your problem situation and once you realize that that is your problem you know how to create that knowledge you've then got to actually create it. It's not trivial. There's no expert you can ask such as EA. What should I how much of my money should I give away and to what? Another thing that EA is interested in is existential risk. So there are all sorts of possible risks that would not just damage some parts of society but would wipe out human existence like bio, AI, destroying everything, nuclear, you know a ton of stuff.
+Then it's a good idea to give some of your money away. I don't think tithing is the thing. Your religion's founder can't possibly know if you're Bill Gates that you should give away 10% or 90% or 99% or whatever. That's a matter of your problem situation and once you realize that that is your problem you know how to create that knowledge you've then got to actually create it. It's not trivial. There's no expert you can ask such as EA. What should I how much of my money should I give away and to what?
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:34:22 - 00:35:30</span>
+
+Another thing that EA is interested in is existential risk. So there are all sorts of possible risks that would not just damage some parts of society but would wipe out human existence like bio, AI, destroying everything, nuclear, you know a ton of stuff.
 
 ### Lulie Tanett
 
@@ -303,7 +489,25 @@ What do you think of X-risk and I guess my question is something like should we 
 
 <span class="transcript-timestamp">00:35:50 - 00:37:14</span>
 
-Yes so one of the errors that thinking in terms of game theory basically leads you into is underrating risks that are not existential risks because if you take literally I mean I think no one does take it literally but their ideology says that they ought to take literally that the destruction of the human race the human species is infinitely bad and therefore even a 10% probability that this will happen has a disutility of 10% of infinity which is still infinity. The disutility of it even if it has one in a thousand probability is one thousandth of infinity which is still infinity therefore existential risks trump all finite risks. I think people like Eliezer Yudkowsky take it seriously. It might also be just the thing he finds most fun in which case fine. That's actually another thing I wanted to mention about the previous topic which was that so one of effective altruism's things is that you should find causes that are underserved where there's low hanging fruit.
+Yes so one of the errors that thinking in terms of game theory basically leads you into is underrating risks that are not existential risks because if you take literally I mean I think no one does take it literally but their ideology says that they ought to take literally that the destruction of the human race the human species is infinitely bad and therefore even a 10% probability that this will happen has a disutility of 10% of infinity which is still infinity. The disutility of it even if it has one in a thousand probability is one thousandth of infinity which is still infinity therefore existential risks trump all finite risks.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:35:50 - 00:37:14</span>
+
+I think people like Eliezer Yudkowsky take it seriously.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:35:50 - 00:37:14</span>
+
+It might also be just the thing he finds most fun in which case fine.
+
+### Lulie Tanett
+
+<span class="transcript-timestamp">00:35:50 - 00:37:14</span>
+
+That's actually another thing I wanted to mention about the previous topic which was that so one of effective altruism's things is that you should find causes that are underserved where there's low hanging fruit.
 
 ### Lulie Tanett
 
@@ -327,7 +531,7 @@ couldn't you have a good explanation about why a particular disaster is on the h
 
 <span class="transcript-timestamp">00:37:36 - 01:00:43</span>
 
-the only way you can have very predictive good explanations which are very predictive is when they do not involve when the process in question doesn't depend on creativity or on which you have a good explanation that it won't depend on creativity I mean you know you can never rule out that the asteroid is actually inhabited by aliens who will divert it without us doing anything could happen but we have good explanations for why that won't be so that doesn't mean that they are perfectly reliable but that's what we have to go on our best explanation but things like things that are called existential risks by people who want to divert more creativity into combating them are not like that they are not things where the risk is the last line of a proof from our physical theories it's the last line of an argument that makes certain assumptions about humans or, in the case of AGI, about people, the AGIs being people but there even then it's humans and people that one is making arguments about and such arguments aren't very reliable even if one uses the true epistemology there is no way of getting past the fact that we can't predict future knowledge but if you use the wrong epistemology you will reliably err on the side of pessimism and as I explained in the beginning of infinity prophecies of the growth of knowledge in effect the prophecies about unknown future knowledge are inherently biased towards bad outcomes because the good outcomes will typically or overwhelmingly be caused by the solution of what problem one is imagining so this is the classic thing that was wrong with Malthus's prediction that there would be mass starvation or else draconian intervention in people's lives because the growth of population would happen that he predicted correctly and that food production wouldn't keep up with it which he failed to predict correctly and the reason that was that he was mistaken about the first thing sorry he was mistaken about the second thing but not about the first is not an accident in order to predict that the population would go up he would have to predict that he would only have to predict that people's ideas about marrying having sex having children would not change much over a time scale of decades whereas to predict the other thing he would have to predict that knowledge of agriculture irrigation selective breeding and that kind of thing would not go up either and he probably hadn't even heard of the sciences which would eventually produce those things let alone have a theory about how they were going to go in the next few decades nobody could have and exactly the same mistake has been made by resource pessimists ever since again and again the same mistake so Paul Ehrlich whom I heard lecturing when I was a school student we went to see his lecture and he said that none of us had any future the world was going to be starving within billions would be starving in 15 20 years and he was making the same mistake as Malthus he explicitly was extrapolating things like what knowledge of how to make crops better existed at the time of his prophecy into the future whereas in fact people were working on this Borlaug was working on that very thing and they should have brought him in as a lecturer instead of Paul Ehrlich except maybe he was too busy doing his thing that but by the way that's also true that the people who are most creative in a field are inhibited from doing what is necessary to evangelize the what they see as the important things in that field so there's a bias again towards people who don't understand it who don't understand that field I think the world needs to learn the lesson about unknown knowledge that when you are making the assumption that unknown knowledge will lack a certain thing or will have a certain thing you are purporting to do what is impossible you are in fact creating an imaginary story that has a bias towards pessimism and you are systematically depriving young people of what they need to solve those problems
+the only way you can have very predictive good explanations which are very predictive is when they do not involve when the process in question doesn't depend on creativity or on which you have a good explanation that it won't depend on creativity I mean you know you can never rule out that the asteroid is actually inhabited by aliens who will divert it without us doing anything could happen but we have good explanations for why that won't be so that doesn't mean that they are perfectly reliable but that's what we have to go on our best explanation but things like things that are called existential risks by people who want to divert more creativity into combating them are not like that they are not things where the risk is the last line of a proof from our physical theories it's the last line of an argument that makes certain assumptions about humans or, in the case of AGI, about people, the AGIs being people but there even then it's humans and people that one is making arguments about and such arguments aren't very reliable even if one uses the true epistemology there is no way of getting past the fact that we can't predict future knowledge but if you use the wrong epistemology you will reliably err on the side of pessimism and as I explained in The Beginning of Infinity prophecies of the growth of knowledge in effect the prophecies about unknown future knowledge are inherently biased towards bad outcomes because the good outcomes will typically or overwhelmingly be caused by the solution of what problem one is imagining so this is the classic thing that was wrong with Malthus's prediction that there would be mass starvation or else draconian intervention in people's lives because the growth of population would happen that he predicted correctly and that food production wouldn't keep up with it which he failed to predict correctly and the reason that was that he was mistaken about the first thing sorry he was mistaken about the second thing but not about the first is not an accident in order to predict that the population would go up he would have to predict that he would only have to predict that people's ideas about marrying having sex having children would not change much over a time scale of decades whereas to predict the other thing he would have to predict that knowledge of agriculture irrigation selective breeding and that kind of thing would not go up either and he probably hadn't even heard of the sciences which would eventually produce those things let alone have a theory about how they were going to go in the next few decades nobody could have and exactly the same mistake has been made by resource pessimists ever since again and again the same mistake so Paul Ehrlich whom I heard lecturing when I was a school student we went to see his lecture and he said that none of us had any future the world was going to be starving within billions would be starving in 15 20 years and he was making the same mistake as Malthus he explicitly was extrapolating things like what knowledge of how to make crops better existed at the time of his prophecy into the future whereas in fact people were working on this Borlaug was working on that very thing and they should have brought him in as a lecturer instead of Paul Ehrlich except maybe he was too busy doing his thing that but by the way that's also true that the people who are most creative in a field are inhibited from doing what is necessary to evangelize the what they see as the important things in that field so there's a bias again towards people who don't understand it who don't understand that field I think the world needs to learn the lesson about unknown knowledge that when you are making the assumption that unknown knowledge will lack a certain thing or will have a certain thing you are purporting to do what is impossible you are in fact creating an imaginary story that has a bias towards pessimism and you are systematically depriving young people of what they need to solve those problems
 
 ### Lulie Tanett
 
@@ -339,7 +543,7 @@ so given we might be destroyed by existential risk what can we do like is there 
 
 <span class="transcript-timestamp">00:37:36 - 01:00:43</span>
 
-yes the most general thing we can do is to value creativity and the growth of knowledge in general provided it's directed towards what people think are interesting problems or what is fun and so on that has the best chance of coping with problems that we don't know about yet by the way that's another problem with the whole concept of existential risk which is that I think that if the human race is going to be wiped out by an existential risk I would guess that it's one we don't know about and ea type decision making is only diverting us from that because the way that that is going to be discovered is by people who are working on something else so that's one thing another thing that is worth pointing out in this regard is that all problems are parochial it's only solutions that are universal and general so when you're thinking about how to prevent people dying of malaria for example or prevent people from starving for example you really need to address problems that are unique to malaria or unique to starvation or agriculture and so on and the solutions will typically come from those problems even though not necessarily the ones that you think are going to be the solution the ones that you think are going to be the solution may well not be but your interest will take you in the direction of the soluble
+yes the most general thing we can do is to value creativity and the growth of knowledge in general provided it's directed towards what people think are interesting problems or what is fun and so on that has the best chance of coping with problems that we don't know about yet by the way that's another problem with the whole concept of existential risk which is that I think that if the human race is going to be wiped out by an existential risk I would guess that it's one we don't know about and EA-type decision making is only diverting us from that because the way that that is going to be discovered is by people who are working on something else so that's one thing another thing that is worth pointing out in this regard is that all problems are parochial it's only solutions that are universal and general so when you're thinking about how to prevent people dying of malaria for example or prevent people from starving for example you really need to address problems that are unique to malaria or unique to starvation or agriculture and so on and the solutions will typically come from those problems even though not necessarily the ones that you think are going to be the solution the ones that you think are going to be the solution may well not be but your interest will take you in the direction of the soluble
 
 ### Lulie Tanett
 
@@ -363,7 +567,7 @@ this feels really abstract to me so what is what is the basic thing that you can
 
 <span class="transcript-timestamp">00:37:36 - 01:00:43</span>
 
-it's slightly hard to answer that question because to give an example I'd have to give an example of an existential risk so suppose that from god's perspective the human race is going to die next year of a super volcano erupting in yellowstone national park and it will destroy the united states and produce a cloud that will destroy agriculture for enough years for everyone to starve and the remaining people will be killing each other and so on and in the end there won't be any humans left so I just invented that it's one of an infinity of things I could invent and I'm a bit sorry to have invented that because maybe some people in the audience will now go off and worry about that but my point is that if that's going to kill us no matter what we do then we shouldn't be thinking about what to do if it's going to kill us but only if we don't discover the answer then the best way of discovering the answer to that problem is to solve other problems so for example it might be that and again this is I'm just making this up so I'm not saying that this scenario is plausible but it might be that the main reason that people that the population of north america will be killed by the super volcano is that they don't escape in time so if we find a way of them escaping in time that might be that might it might happen by it might be done by people who don't even know there is a super volcano underneath them
+it's slightly hard to answer that question because to give an example I'd have to give an example of an existential risk so suppose that from God's perspective the human race is going to die next year of a super volcano erupting in Yellowstone National Park and it will destroy the United States and produce a cloud that will destroy agriculture for enough years for everyone to starve and the remaining people will be killing each other and so on and in the end there won't be any humans left so I just invented that it's one of an infinity of things I could invent and I'm a bit sorry to have invented that because maybe some people in the audience will now go off and worry about that but my point is that if that's going to kill us no matter what we do then we shouldn't be thinking about what to do if it's going to kill us but only if we don't discover the answer then the best way of discovering the answer to that problem is to solve other problems so for example it might be that and again this is I'm just making this up so I'm not saying that this scenario is plausible but it might be that the main reason that people that the population of North America will be killed by the super volcano is that they don't escape in time so if we find a way of them escaping in time that might be that might it might happen by it might be done by people who don't even know there is a super volcano underneath them
 
 ### Lulie Tanett
 
@@ -375,13 +579,13 @@ so why isn't the answer uh or is the answer maximize the growth of knowledge
 
 <span class="transcript-timestamp">00:37:36 - 01:00:43</span>
 
-well that that's too vague as a as a policy
+well that that's too vague as a as a policy because suppose I want to maximize the growth of knowledge that still doesn't tell me what to do
 
 ### Lulie Tanett
 
 <span class="transcript-timestamp">00:37:36 - 01:00:43</span>
 
-because suppose I want to maximize the growth of knowledge that still doesn't tell me what to do it doesn't tell me some things not to do like create laws to block innovation
+it doesn't tell me some things not to do like create laws to block innovation
 
 ### David Deutsch
 
@@ -411,7 +615,7 @@ yeah but there's no argument that stasis in particular areas has existential ris
 
 <span class="transcript-timestamp">00:37:36 - 01:00:43</span>
 
-well okay for example if you block all atomic bomb technologies you block all of our ai technologies and you allow other governments to develop them that is a block to innovation that would that could be an existential risk it may not be
+well okay for example if you block all atomic bomb technologies you block all of our AI technologies and you allow other governments to develop them that is a block to innovation that would that could be an existential risk it may not be
 
 ### Lulie Tanett
 
@@ -429,7 +633,7 @@ it is but again most people at least see themselves as advocating a minor restri
 
 <span class="transcript-timestamp">00:37:36 - 01:00:43</span>
 
-another thing I wanted to ask you about is that there has been a response to effective altruism and this ai doomerism online and one of the pockets of responses is called effective accelerationism and it was sort of started as a like partly joking like because it's effective altruism effective accelerationism but also quite serious about what it thinks and the basic idea is that instead of hampering progress by shutting down data centers and moratoriums and so on we should be seeking to accelerate progress and these technologies as fast as possible and that yes that carries risk but it is still the right thing to do
+another thing I wanted to ask you about is that there has been a response to effective altruism and this AI doomerism online and one of the pockets of responses is called effective accelerationism and it was sort of started as a like partly joking like because it's effective altruism effective accelerationism but also quite serious about what it thinks and the basic idea is that instead of hampering progress by shutting down data centers and moratoriums and so on we should be seeking to accelerate progress and these technologies as fast as possible and that yes that carries risk but it is still the right thing to do
 
 ### David Deutsch
 
@@ -543,13 +747,7 @@ what does ordered energy mean
 
 <span class="transcript-timestamp">01:00:44 - 01:31:56</span>
 
-ordered energy is something like sunlight which is going in one direction it's doing one thing
-
-### Lulie Tanett
-
-<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
-
-it's supposed to bouncing around in random directions
+ordered energy is something like sunlight which is going in one direction it's doing one thing as opposed to bouncing around in random directions
 
 ### Lulie Tanett
 
@@ -567,7 +765,7 @@ if it can't interact with the outside then it will die for two reasons one is th
 
 <span class="transcript-timestamp">01:00:44 - 01:31:56</span>
 
-cool so then Jarzynski and crooks showed that entropy produced by a thermodynamic process such as the cooling of a cup of coffee corresponds to a simple ratio the probability that the atoms will undergo that process divided by their probability of undergoing the reverse process that is spontaneously interacting in such way that the coffee warms up
+cool so then Jarzynski and Crooks showed that entropy produced by a thermodynamic process such as the cooling of a cup of coffee corresponds to a simple ratio the probability that the atoms will undergo that process divided by their probability of undergoing the reverse process that is spontaneously interacting in such way that the coffee warms up
 
 ### David Deutsch
 
@@ -623,23 +821,23 @@ but we don't know that that's what the theory says it's not just about like
 
 yeah well I can't I can't actually comment on a theory I don't know
 
+### David Deutsch
+
+<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
+
+yeah but when the premise is that something has a tendency to happen that's not in itself an explanation of why it happened
+
 ### Lulie Tanett
 
 <span class="transcript-timestamp">01:00:44 - 01:31:56</span>
 
-yeah but when the premise is that something has a tendency to happen that's not in itself an explanation of why it happened yeah
-
-### Lulie Tanett
-
-<span class="transcript-timestamp">01:00:44 - 01:31:56</span>
-
-to zoom out a bunch the reason I'm asking this in the first place is that this half meme movement philosophy response to effective altruism was like hey this theory seems good what if reality actually works this way what would that actually mean for what we should do about ai and so on and so my first question is just is it remotely plausible is it in the crank territory and it sounds like you're saying that it's in like the solidly science territory
+yeah to zoom out a bunch the reason I'm asking this in the first place is that this half meme movement philosophy response to effective altruism was like hey this theory seems good what if reality actually works this way what would that actually mean for what we should do about AI and so on and so my first question is just is it remotely plausible is it in the crank territory and it sounds like you're saying that it's in like the solidly science territory
 
 ### David Deutsch
 
 <span class="transcript-timestamp">01:00:44 - 01:31:56</span>
 
-yes is far from the crank territory my guess would be that it's true but that it has a lot of work to do to become an explanation it's like maybe you won't like this analogy but in the in the realm of explanatory knowledge we know that the universe is especially favorably disposed towards conjecture and criticism and freedom and the growth of knowledge and so there was an inherent tendency in the universe for athens to defeat sparta and yet it lost and the reason why it lost is that it made specific mistakes and it's those mistakes which explain why it lost the war and if it had won the fact that the universe had a tendency for it to win still is not the explanation of why it won the real explanation would be that they chose certain good strategies and they won the war
+yes is far from the crank territory my guess would be that it's true but that it has a lot of work to do to become an explanation it's like maybe you won't like this analogy but in the in the realm of explanatory knowledge we know that the universe is especially favorably disposed towards conjecture and criticism and freedom and the growth of knowledge and so there was an inherent tendency in the universe for Athens to defeat Sparta and yet it lost and the reason why it lost is that it made specific mistakes and it's those mistakes which explain why it lost the war and if it had won the fact that the universe had a tendency for it to win still is not the explanation of why it won the real explanation would be that they chose certain good strategies and they won the war
 
 ### Lulie Tanett
 
@@ -681,7 +879,7 @@ Driven is ambiguous because a process can be driven by dissipation without its e
 
 <span class="transcript-timestamp">01:00:44 - 01:31:56</span>
 
-so going back to effective accelerationism yes because when I first read it I thought wow this is so deutschian and they have various um like articles detailing what their thing is I'm gonna rephrase it in my own words so again I just discovered this a few days ago so let's see if I understand it might misrepresent it but I'm gonna give it a go so the first thing is that because of this new theory about thermodynamics and life the universe's physics favor configurations of matter that are better at replication and intelligence is better at identifying such patterns so I'm gonna I'm gonna go like one by one what do you think of that one
+so going back to effective accelerationism yes because when I first read it I thought wow this is so Deutschian and they have various um like articles detailing what their thing is I'm gonna rephrase it in my own words so again I just discovered this a few days ago so let's see if I understand it might misrepresent it but I'm gonna give it a go so the first thing is that because of this new theory about thermodynamics and life the universe's physics favor configurations of matter that are better at replication and intelligence is better at identifying such patterns so I'm gonna I'm gonna go like one by one what do you think of that one
 
 ### David Deutsch
 
@@ -723,7 +921,7 @@ yes except that then it's like the thermodynamics thing then we'd have to analyz
 
 <span class="transcript-timestamp">01:00:44 - 01:31:56</span>
 
-well funny you should mention Hayek because the next point is that EAC effective accelerationism believes that higher variance marketplaces and competition are better at identifying these patterns versus top-down control
+well funny you should mention Hayek because the next point is that e/acc effective accelerationism believes that higher variance marketplaces and competition are better at identifying these patterns versus top-down control
 
 ### David Deutsch
 
@@ -747,7 +945,7 @@ depending on what you mean by these patterns or evolutionarily I would agree wit
 
 <span class="transcript-timestamp">01:00:44 - 01:31:56</span>
 
-so if we again separate the physics claims from the other claims of EAC the physics claims are kind of like plausible but you know no no particular reason to think it and then but the other claims namely that variance in marketplaces and competition is good
+so if we again separate the physics claims from the other claims of e/acc the physics claims are kind of like plausible but you know no no particular reason to think it and then but the other claims namely that variance in marketplaces and competition is good
 
 ### David Deutsch
 
@@ -795,7 +993,7 @@ so the fourth thing is that due to the nature of complex chaotic systems you can
 
 <span class="transcript-timestamp">01:00:44 - 01:31:56</span>
 
-yes but chaotic is the least of it even a perfectly deterministic system running on a deterministic computer would have this property that it is unpredictable and what were the other things you said I mean all the all the things that they attribute to chaotic motion are complex complex yes complex they're all true of computer programs as well and that's the really the important thing because error correction of perfectly deterministic errors which were just caused by an error in the input are they have to be corrected as well and it's those that that are really when we talk about error correction in political systems in economic systems we're not talking about errors caused by small mistakes building up in microscopic mistakes building up we're talking about errors caused by microscopic mistakes building up we're talking about things where a theory is just false and that has to be corrected rather than entrenched that's much more important than the chaotic thing
+yes but chaotic is the least of it even a perfectly deterministic system running on a deterministic computer would have this property that it is unpredictable and what were the other things you said I mean all the all the things that they attribute to chaotic motion are complex complex yes complex they're all true of computer programs as well and that's the really the important thing because error correction of perfectly deterministic errors which were just caused by an error in the input are they have to be corrected as well and it's those that that are really when we talk about error correction in political systems in economic systems we're not talking about errors caused by small mistakes building up in microscopic mistakes building up we're talking about things where a theory is just false and that has to be corrected rather than entrenched that's much more important than the chaotic thing
 
 ### Lulie Tanett
 
@@ -831,7 +1029,7 @@ yes unshackle it rather than promote its progress because promote it help it all
 
 <span class="transcript-timestamp">01:00:44 - 01:31:56</span>
 
-yeah that's actually one thing that I thought was really cool about EAC which is that they say look this process is happening anyway like you know what we can do is like participate or not like that those are our choices
+yeah that's actually one thing that I thought was really cool about e/acc which is that they say look this process is happening anyway like you know what we can do is like participate or not like that those are our choices
 
 ### David Deutsch
 
@@ -843,7 +1041,7 @@ well we can interfere we I mean we the government can interfere or we pundits ca
 
 <span class="transcript-timestamp">01:00:44 - 01:31:56</span>
 
-and so the final point is that and again these are this is my summary is that EAC doesn't care whether you're homo sapiens or silicon it just wants this process to happen and so what matters is consciousness or intelligence not the form that it takes and so it doesn't really matter if our squishy bodies die out and we all convert to silicon that is a good thing it is good if consciousness spreads throughout the universe yes
+and so the final point is that and again these are this is my summary is that e/acc doesn't care whether you're homo sapiens or silicon it just wants this process to happen and so what matters is consciousness or intelligence not the form that it takes and so it doesn't really matter if our squishy bodies die out and we all convert to silicon that is a good thing it is good if consciousness spreads throughout the universe yes
 
 ### Lulie Tanett
 
@@ -867,7 +1065,7 @@ can you dumb that down for me
 
 <span class="transcript-timestamp">01:00:44 - 01:31:56</span>
 
-well you just said that we shouldn't care or EAC doesn't care whether we're carbon or silicon but if it turns out which I don't which I do not for a moment believe but if it turns out that silicon implementations of explanatory creativity don't have feelings whereas carbon implementations do then we would have a new moral problem of whether or how much to favor carbon ones over silicon and this would arise even if it's only a short-term problem even if for the moment we were to know how to make AGIs without feelings but not yet know how to make AGIs with feelings then there would in the meantime until you know that must be soluble because of g but in the meantime we might know how to do one and not the other in which case there would be a moral problem about how many and how large AGIs without feelings we should make if any perhaps I mean you know depending on how it goes I don't think it's going to turn out like that but since we don't understand how to make AGI or what it really is it could happen
+well you just said that we shouldn't care or e/acc doesn't care whether we're carbon or silicon but if it turns out which I don't which I do not for a moment believe but if it turns out that silicon implementations of explanatory creativity don't have feelings whereas carbon implementations do then we would have a new moral problem of whether or how much to favor carbon ones over silicon and this would arise even if it's only a short-term problem even if for the moment we were to know how to make AGIs without feelings but not yet know how to make AGIs with feelings then there would in the meantime until you know that must be soluble because of g but in the meantime we might know how to do one and not the other in which case there would be a moral problem about how many and how large AGIs without feelings we should make if any perhaps I mean you know depending on how it goes I don't think it's going to turn out like that but since we don't understand how to make AGI or what it really is it could happen
 
 ### Lulie Tanett
 
@@ -879,7 +1077,7 @@ I myself am extremely skeptical of the idea that you could have consciousness wi
 
 <span class="transcript-timestamp">01:00:44 - 01:31:56</span>
 
-it depends on the institutions so it control modes of control are not fully described by saying that whether they're top down or bottom up and you might think that the extreme forms of bottom up are just as bad as the extreme forms of top down like for example Athenian democracy was not the best form of democracy and the general way of expressing what's important here is to say that what's important is not the direction of control or even how much control but what kind of institutions are implementing that control so Popper has this criterion for judging institutions of government or institutions of this control not by who is ruling whom who whom as lenin would say but by the extent to which to which bad ideas can be refuted can be abandoned without violence and it suddenly introduced the term violence which is which we haven't mentioned yet Popper brings it into fundamental epistemology or fundamental political philosophy that the answer to these questions about what is the best system of government or system of control is primarily in this property of the institutions it's also important to note that this is all done via institutions you can't just say it should be controlled by the people or by a majority of the people because that simply doesn't tell you what to do and it doesn't expose the problems that particular methods of doing this will raise so Popper's criterion is as far as I know the last word so far on the general problem of what is a good political system
+it depends on the institutions so it control modes of control are not fully described by saying that whether they're top down or bottom up and you might think that the extreme forms of bottom up are just as bad as the extreme forms of top down like for example Athenian democracy was not the best form of democracy and the general way of expressing what's important here is to say that what's important is not the direction of control or even how much control but what kind of institutions are implementing that control so Popper has this criterion for judging institutions of government or institutions of this control not by who is ruling whom who whom as Lenin would say but by the extent to which to which bad ideas can be refuted can be abandoned without violence and it suddenly introduced the term violence which is which we haven't mentioned yet Popper brings it into fundamental epistemology or fundamental political philosophy that the answer to these questions about what is the best system of government or system of control is primarily in this property of the institutions it's also important to note that this is all done via institutions you can't just say it should be controlled by the people or by a majority of the people because that simply doesn't tell you what to do and it doesn't expose the problems that particular methods of doing this will raise so Popper's criterion is as far as I know the last word so far on the general problem of what is a good political system
 
 ### Lulie Tanett
 
@@ -903,4 +1101,4 @@ so I sent a draft of this podcast to the founders of effective accelerationism a
 
 <span class="transcript-timestamp">01:31:56 - 01:40:03</span>
 
-Hey this is Beff Jezos here thanks for having me very honored to have David Deutsch talk about EAC on your podcast so I have a few comments on a few points that were made and I'd like to provide a few clarifications so I'll get right into it here so one thing to comment on was David's comment about black body radiation and how inanimate objects are actually pretty good at dissipating away heat ultimately life forms can adapt and search their environment to find new pockets of free energy not just dissipate free energy from radiation that is impinging upon them naturally like an inanimate object would and so ultimately they're a more non-local optimum in terms of their ability to dissipate free energy as heat and so that's why they're thermodynamically favored at least by the laws of out-of-equilibrium thermodynamics another thing that David criticized was the potential connection between thermodynamic driven dissipative adaptation and evolution and ultimately how the connection is weak there ultimately one can see evolution as a form of matter searching over the space of configurations for the configurations that are naturally very good at replication and finding pockets of free energy in their environment that they can consume towards sustenance and replication and I mean that that post-selection is very evident if you have organisms that aren't good at securing energy to maintain their coherence and or aren't good at replicating then they will be post-selected against in the natural selection so I guess England's point is that actually evolution is just a byproduct of thermodynamic driven dissipative adaptation and that is something I would agree with personally one more comment from david was claiming that thermodynamic driven dissipative adaptation has nothing to do with intelligence or the emergence of intelligence you know on one hand I would say that the thermodynamic adaptation itself is a form of intelligence that's a bold claim that I look forward to writing more about but in the meantime it's very clear that if you believe that thermodynamic driven dissipative adaptation is behind the process of evolution then it's necessarily transitively behind the emergence of intelligence which emerged through evolution why did intelligence emerge through evolution and through thermodynamic adaptation well higher forms of intelligence allow life forms to be able to interpolate and extrapolate you know utility towards securing resources and free energy towards sustenance and growth of themselves as an individual or towards the sustenance and growth of their group or their meta organism and so higher forms of intelligence allow for higher forms of growth ultimately you know humans are the most intelligent beings for the moment and clearly we've found ways to consume vast amounts of free energy towards our sustenance and growth of our population and our civilization as a whole and so in a sense the claim is that you know intelligence is very important for the ability to secure and consume free energy towards sustenance and growth and extract utility from that free energy right not just to burn it but consume it in a way that maximizes expected growth and the future and ultimately intelligence at least to me is the ability to perceive predict and control the world around us and those are all necessary in order to secure ever more esoteric and difficult to access pockets of free energy whether it's building technologies for say oil drilling or splitting the atom or figuring out nuclear fusion there is free energy around us that's just the harder and harder to access and needs higher and higher levels of intelligence and technology to unlock and so in that sense if you have if you believe in this post-selective effect on configurations of matter towards configurations of matter that are better at securing and consuming free energy then intelligence is a byproduct so that is the hypothesis there so one last point about the application of the theory of thermodynamic dissipative adaptation to capitalism and the economy the point here is that in this kind of model capital or money is a proxy or a replacement for energy and in thermodynamic theories right because each organism or meta organism so let's say a corporation dissipates energy into the environment so they consume free energy or free capital towards their sustenance right keeping a company alive costs money and they are post-selected for via the market for their ability to secure more capital and use that capital towards their sustenance and growth right kind of by construction and that is very similar to life forms and their post-selection with respect to their ability to secure energetic or free energetic capital and allocate it internally towards their sustenance and their growth or replication in that case and so it is very much a similar concept at least to me this sort of adaptive algorithm is a form of intelligence itself and ultimately here you know it wasn't about how much a corporation actually spends in terms of energy to sustain itself like literal energy but rather capital some money but ultimately energy and money are intimately tied right we have markets for energy we can trade capital for energy cryptocurrencies want to tie the two concepts sometimes literally through proof of work for example but ultimately there is a sort of post-selection effect towards meta organisms or groups that are best at acquiring finding ways to acquire capital and put it to use towards their sustenance and growth and that requires a form of intelligence and that form of intelligence for groups and corporations isn't just at an individual level but also a cultural level you know culture would be a form of group intelligence and there is a cultural post-selection effect right companies that have the wrong culture groups have the wrong culture that doesn't lead to their success at sustenance and growth get post-selected out and so that is also why we encourage variance of ideas variance of cultures this search over the optimal culture given that the market forces in the environment is forever changing it's important to maintain variance to maintain dynamic adaptability on fast time scales
+Hey this is Beff Jezos here thanks for having me very honored to have David Deutsch talk about e/acc on your podcast so I have a few comments on a few points that were made and I'd like to provide a few clarifications so I'll get right into it here so one thing to comment on was David's comment about black body radiation and how inanimate objects are actually pretty good at dissipating away heat ultimately life forms can adapt and search their environment to find new pockets of free energy not just dissipate free energy from radiation that is impinging upon them naturally like an inanimate object would and so ultimately they're a more non-local optimum in terms of their ability to dissipate free energy as heat and so that's why they're thermodynamically favored at least by the laws of out-of-equilibrium thermodynamics another thing that David criticized was the potential connection between thermodynamic driven dissipative adaptation and evolution and ultimately how the connection is weak there ultimately one can see evolution as a form of matter searching over the space of configurations for the configurations that are naturally very good at replication and finding pockets of free energy in their environment that they can consume towards sustenance and replication and I mean that that post-selection is very evident if you have organisms that aren't good at securing energy to maintain their coherence and or aren't good at replicating then they will be post-selected against in the natural selection so I guess England's point is that actually evolution is just a byproduct of thermodynamic driven dissipative adaptation and that is something I would agree with personally one more comment from David was claiming that thermodynamic driven dissipative adaptation has nothing to do with intelligence or the emergence of intelligence you know on one hand I would say that the thermodynamic adaptation itself is a form of intelligence that's a bold claim that I look forward to writing more about but in the meantime it's very clear that if you believe that thermodynamic driven dissipative adaptation is behind the process of evolution then it's necessarily transitively behind the emergence of intelligence which emerged through evolution why did intelligence emerge through evolution and through thermodynamic adaptation well higher forms of intelligence allow life forms to be able to interpolate and extrapolate you know utility towards securing resources and free energy towards sustenance and growth of themselves as an individual or towards the sustenance and growth of their group or their meta organism and so higher forms of intelligence allow for higher forms of growth ultimately you know humans are the most intelligent beings for the moment and clearly we've found ways to consume vast amounts of free energy towards our sustenance and growth of our population and our civilization as a whole and so in a sense the claim is that you know intelligence is very important for the ability to secure and consume free energy towards sustenance and growth and extract utility from that free energy right not just to burn it but consume it in a way that maximizes expected growth and the future and ultimately intelligence at least to me is the ability to perceive predict and control the world around us and those are all necessary in order to secure ever more esoteric and difficult to access pockets of free energy whether it's building technologies for say oil drilling or splitting the atom or figuring out nuclear fusion there is free energy around us that's just the harder and harder to access and needs higher and higher levels of intelligence and technology to unlock and so in that sense if you have if you believe in this post-selective effect on configurations of matter towards configurations of matter that are better at securing and consuming free energy then intelligence is a byproduct so that is the hypothesis there so one last point about the application of the theory of thermodynamic dissipative adaptation to capitalism and the economy the point here is that in this kind of model capital or money is a proxy or a replacement for energy and in thermodynamic theories right because each organism or meta organism so let's say a corporation dissipates energy into the environment so they consume free energy or free capital towards their sustenance right keeping a company alive costs money and they are post-selected for via the market for their ability to secure more capital and use that capital towards their sustenance and growth right kind of by construction and that is very similar to life forms and their post-selection with respect to their ability to secure energetic or free energetic capital and allocate it internally towards their sustenance and their growth or replication in that case and so it is very much a similar concept at least to me this sort of adaptive algorithm is a form of intelligence itself and ultimately here you know it wasn't about how much a corporation actually spends in terms of energy to sustain itself like literal energy but rather capital some money but ultimately energy and money are intimately tied right we have markets for energy we can trade capital for energy cryptocurrencies want to tie the two concepts sometimes literally through proof of work for example but ultimately there is a sort of post-selection effect towards meta organisms or groups that are best at acquiring finding ways to acquire capital and put it to use towards their sustenance and growth and that requires a form of intelligence and that form of intelligence for groups and corporations isn't just at an individual level but also a cultural level you know culture would be a form of group intelligence and there is a cultural post-selection effect right companies that have the wrong culture groups have the wrong culture that doesn't lead to their success at sustenance and growth get post-selected out and so that is also why we encourage variance of ideas variance of cultures this search over the optimal culture given that the market forces in the environment is forever changing it's important to maintain variance to maintain dynamic adaptability on fast time scales

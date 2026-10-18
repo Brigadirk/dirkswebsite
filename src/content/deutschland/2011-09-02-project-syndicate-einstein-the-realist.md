@@ -1,17 +1,20 @@
 ---
 title: '2011-09-02 - Project Syndicate - Einstein the Realist'
-description: "David Deutsch argues that Einstein's central legacy was realism rather than any single correct prediction."
+description: 'David Deutsch argues that Einstein''s central legacy was realism rather than any single correct prediction.'
 pubDate: 2011-09-02
 ---
 
 [Read the article at Project Syndicate](https://www.project-syndicate.org/commentary/einstein-the-realist)
 [Source collection](https://deranfangderunendlichkeit.de/mehr)
 
-## Einstein the Realist
-
 *By David Deutsch · 2 September 2011*
 
-> With the discovery that the universe’s expansion is accelerating, not slowing, as was previously thought, newspaper headlines are proclaiming that Albert Einstein was right, after all. But Einstein's most important legacy is his belief that a physical world, existing in reality, accounts for all of our experience.
+*With the discovery that the universe’s expansion is accelerating, not slowing, as was previously thought, newspaper headlines are proclaiming that Albert Einstein was right, after all. But Einstein's most important legacy is his belief that a physical world, existing in reality, accounts for all of our experience.*
+
+*David Deutsch is Visiting Professor of Physics and a founder member of the Centre for Quantum Computation at the Clarendon Laboratory, University of Oxford, and author of _The Fabric of Reality_.*
+
+## Transcript
+### David Deutsch
 
 **OXFORD –** It was recently discovered that the universe’s expansion is accelerating, not slowing, as was previously thought. Light from distant exploding stars revealed that an unknown force (dubbed “dark energy”) more than outweighs gravity on cosmological scales.
 
@@ -40,7 +43,3 @@ What these paradoxical interpretations have in common is that they abandon reali
 Fortunately, a minority of physicists, myself included, likewise side unequivocally with realism, by adopting Hugh Everett’s multiple-universes interpretation of quantum theory. According to this view, no particles exist where they have insufficient energy to be; it is simply that in some universes they have more energy than average, and in others, less. All alleged “paradoxes” of quantum theory are similarly resolved.
 
 So, while most accounts say that Bohr won the debate, my view is that Einstein, as usual, was seeking an explanation of reality, while his rivals were advocating nonsense. Everett’s interpretation doesn’t make Einstein a demigod. But it does make him right.
-
-## About David Deutsch
-
-David Deutsch is Visiting Professor of Physics and a founder member of the Centre for Quantum Computation at the Clarendon Laboratory, University of Oxford, and author of *The Fabric of Reality*.

@@ -11,7 +11,7 @@ pubDate: 2024-10-28
 <span class="duration-label">Duration:</span> <span class="duration-time">00:41:34</span>
 
 ## Transcript
-### Christofer Lövgren
+### Jake Orthwein
 
 <span class="transcript-timestamp">00:00:00 - 00:00:32</span>
 
@@ -23,7 +23,7 @@ In what way, if at all, it bears upon your stuff? And in some way, we've been ca
 
 Oh, yeah, that was fun.
 
-### Christofer Lövgren
+### Jake Orthwein
 
 <span class="transcript-timestamp">00:00:34 - 00:02:42</span>
 
@@ -35,7 +35,7 @@ Yes, and you touched on this particular topic there. And so, yeah, we thought we
 
 Ambiguous is kind of a category error when it comes to the world, because ambiguous refers to statements or propositions or something like that, something which asserts something. But the world doesn't assert something. It just is there, and we can get it more or less right. Right.
 
-### Christofer Lövgren
+### Jake Orthwein
 
 <span class="transcript-timestamp">00:03:10 - 00:03:29</span>
 
@@ -47,7 +47,7 @@ But the world can't be... There's this term nebulous that, for example, this guy
 
 Nebulous means cloud-like, and a cloud may not be precisely measurable or whatever, but the cloud is there, and the cloud is either one way or another way, whether or not we can know it or measure it. So I don't think that makes the world... Well, the world is cloud-like, but it's not nebulous in the sense of ambiguous-like.
 
-### Christofer Lövgren
+### Jake Orthwein
 
 <span class="transcript-timestamp">00:04:03 - 00:04:49</span>
 
@@ -59,23 +59,23 @@ Right. Okay. So in some way, we're getting close to the heart of the matter soon
 
 Good distinction. Yes. So what you mean by ontology is maybe what someone else might mean by the theory of ontology or the true theory of ontology or something like that?
 
-### Christofer Lövgren
+### Jake Orthwein
 
 <span class="transcript-timestamp">00:05:08 - 00:05:51</span>
 
-Well, that's the ambiguities, right? So there are some kinds of ontologies, ways of parsing the world, that are clearly not wholly context and purpose independent and objective in that sense. Like, what counts as a cup when I'm just, you know, like a rough and ready cup that I need to swig something might not be some way of characterizing the world that's perfectly objective and suitable for a scientific theory. Right. So, you know, a tree stump counts as a chair in certain contexts and not in others or something like that. Yes. But also what you said earlier is even deeper that ...
+Well, that's the ambiguities, right? So there are some kinds of ontologies, ways of parsing the world, that are clearly not wholly context and purpose independent and objective in that sense. Like, what counts as a cup when I'm just, you know, like a rough and ready cup that I need to swig something might not be some way of characterizing the world that's perfectly objective and suitable for a scientific theory. Right. So, you know, a tree stump counts as a chair in certain contexts and not in others or something like that. Yes. But also what you said earlier is even deeper that the way in which we slice the world up conceptually is it doesn't match the way the world is objectively sliced up.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:05:53 - 00:06:43</span>
 
-The way in which we slice the world up conceptually is it doesn't match the way the world is objectively sliced up. So we may think of a thing like a correspondence between two things, like someone's made to measure suit may correspond to their shape, but that may not be the best way of looking at it. The best way of looking at it might be in terms of symbols of class, allegiance, whatever. You know, I'm just making it up as I go along. Right. I know what you mean. Yeah. Yeah. Okay. So in that sense, an ontology wouldn't be what ...
+So we may think of a thing like a correspondence between two things, like someone's made to measure suit may correspond to their shape, but that may not be the best way of looking at it. The best way of looking at it might be in terms of symbols of class, allegiance, whatever. You know, I'm just making it up as I go along. Right. I know what you mean. Yeah. Yeah.
 
-### Christofer Lövgren
+### Jake Orthwein
 
 <span class="transcript-timestamp">00:06:43 - 00:07:30</span>
 
-You're saying what you're calling the true theory of ontology in this objective sense. That's true. Okay. There's an analogy between that distinction and this in my mind, and this distinction you're making between statements and propositions because the meaning of a natural language statement is relative to the interpretation of words within a particular linguistic community, which if you take the sort of full later Wittgenstein line on it is like meaning is often use and there's nothing intrinsic about DOG that makes it refer, but rather by convention, learning a language within a particular linguistic community, I learn that DOG means DOG.
+Okay. So in that sense, an ontology wouldn't be what you're saying what you're calling the true theory of ontology in this objective sense. That's true. Okay. There's an analogy between that distinction and this in my mind, and this distinction you're making between statements and propositions because the meaning of a natural language statement is relative to the interpretation of words within a particular linguistic community, which if you take the sort of full later Wittgenstein line on it is like meaning is often use and there's nothing intrinsic about DOG that makes it refer, but rather by convention, learning a language within a particular linguistic community, I learn that DOG means DOG.
 
 ### David Deutsch
 
@@ -83,7 +83,7 @@ You're saying what you're calling the true theory of ontology in this objective 
 
 Yes, by the way, the same is true of formal languages as used in mathematics.
 
-### Christofer Lövgren
+### Jake Orthwein
 
 <span class="transcript-timestamp">00:07:37 - 00:08:35</span>
 
@@ -93,21 +93,33 @@ Well, but this is what I, if the only way that words get their meaning in natura
 
 <span class="transcript-timestamp">00:08:36 - 00:10:46</span>
 
-They are abstractions of sort of infinitely precise statements, but nobody, so they don't have to get their meaning from any, they can't get their meaning from anything. Statements get their meaning, as you say, from culture, but I want to avoid, just in case we're going there, I want to avoid any trace of inductivism here. It's not like Wittgenstein thinks that we hear the word dog a lot and then we associate it with a dog. The connection between a statement and an object or a word in an object is always conjectured. So I may conjecture that a dog is a useful concept and I may conjecture something in the world that corresponds to dog, to the word dog, but that conjecture may be false and I may correct it. And there is such a thing as correcting it. I can say my previous meaning that I assigned to the word dog is wrong. And people use this, this happens when to everybody, alas, when they talk about fish and at some point they're told that the whale is not a fish. And I think that's an appeal to authority. A whale is a fish in the everyday sense of the word. And we should not acquiesce in giving over everyday meanings of words to scientists who have defined them according to the meaning that they have for scientists.
+They are abstractions of sort of infinitely precise statements, but nobody, so they don't have to get their meaning from any, they can't get their meaning from anything. Statements get their meaning, as you say, from culture, but I want to avoid, just in case we're going there, I want to avoid any trace of inductivism here. It's not like Wittgenstein thinks that we hear the word dog a lot and then we associate it with a dog. The connection between a statement and an object or a word in an object is always conjectured. So I may conjecture that a dog is a useful concept and I may conjecture something in the world that corresponds to dog, to the word dog, but that conjecture may be false and I may correct it. And there is such a thing as correcting it. I can say my previous meaning that I assigned to the word dog is wrong. And people use this, this happens when to everybody, alas, when they talk about fish and at some point they're told that the whale is not a fish. And I think that's an appeal to authority. A whale is a fish in the everyday sense of the word. And we should not acquiesce in giving over everyday meanings of words to scientists who have defined them according to the meaning that they have for scientists. Yeah, sorry, but that may be a sidetrack.
 
-### Christofer Lövgren
+### Jake Orthwein
 
 <span class="transcript-timestamp">00:10:48 - 00:11:51</span>
 
-Yeah, sorry, but that may be a sidetrack. No, no, all that's very helpful. I don't think I was going to go in an inductivist direction, but you tell me. But what you said I definitely agree with and it's interesting. But when I think about truth or falsity with respect to whether a whale counts as a fish, for example, the type of truth or falsity that gets used in rational objective scientific theories doesn't seem to be the relevant one. And the reason I mean that is because true or false seems like also like a category error a little bit there. And that it's not trying to parse the world as the world is already so parsed on its own side, independent of our context and purpose. And so in that sense, it's not objective in the sense of being wholly on that side. Do you see it? Yes, although it is objective in the sense that one ...
+No, no, all that's very helpful. I don't think I was going to go in an inductivist direction, but you tell me. But what you said I definitely agree with and it's interesting. But when I think about truth or falsity with respect to whether a whale counts as a fish, for example, the type of truth or falsity that gets used in rational objective scientific theories doesn't seem to be the relevant one. And the reason I mean that is because true or false seems like also like a category error a little bit there. And that it's not trying to parse the world as the world is already so parsed on its own side, independent of our context and purpose. And so in that sense, it's not objective in the sense of being wholly on that side. Do you see it?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:10:48 - 00:11:51</span>
+
+Yes, although it is objective in the sense that one can meaningfully say that one has made a mistake in
+
+### Jake Orthwein
+
+<span class="transcript-timestamp">00:11:51 - 00:12:29</span>
+
+Within a particular context, like for particular.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:11:51 - 00:12:29</span>
 
-Can meaningfully say that one has made a mistake in within a particular context, like for particular. Yes, but just now I was I was not only doing that I was saying that a particular context is the right one to use. And people often use the wrong context. And it could be that our culture switches over to this scientific use of the word fish. And I would still object to it. I mean, whether I'm right or wrong is neither here nor there. But it's meaningful for me to object to that change in usage and say that the old usage was better.
+Yes, but just now I was I was not only doing that I was saying that a particular context is the right one to use. And people often use the wrong context. And it could be that our culture switches over to this scientific use of the word fish. And I would still object to it. I mean, whether I'm right or wrong is neither here nor there. But it's meaningful for me to object to that change in usage and say that the old usage was better.
 
-### Christofer Lövgren
+### Jake Orthwein
 
 <span class="transcript-timestamp">00:12:30 - 00:12:37</span>
 
@@ -119,7 +131,7 @@ For particular purposes, I keep wanting to sort of do this re-relativizing move.
 
 Yeah, again, it's not necessarily a pre existing purpose. You know, this ...
 
-### Christofer Lövgren
+### Jake Orthwein
 
 <span class="transcript-timestamp">00:12:45 - 00:13:07</span>
 
@@ -131,7 +143,7 @@ Sure. Yeah, the purpose is change. And yeah, yeah, yeah. Okay, so I think I tota
 
 Well, when I say parochial, I mean something which is a narrow view of a particular thing, which in my book, I use it mostly pejoratively, because the book is about the largest possible scale of things and the universal. But if the book was about something else, then parochial wouldn't necessarily be a pejorative term. So like, if I were reviewing a biology textbook or something, I wouldn't object to them saying that way, not all adaptations are parochial and not the worse for it or something like that. Yeah, I mean, it. Parochial isn't necessarily a bad thing. It's only a bad thing if you're reaching for something universal.
 
-### Christofer Lövgren
+### Jake Orthwein
 
 <span class="transcript-timestamp">00:14:26 - 00:14:49</span>
 
@@ -141,13 +153,13 @@ Okay. So are propositions necessarily not parochial in their meaning or referenc
 
 <span class="transcript-timestamp">00:14:50 - 00:15:38</span>
 
-Yes, I suppose a proposition would come along with a context built in so that I could idealize the concept of fish in biology and I could idealize the concept of fish in everyday language. And each of those would correspond to some well, there would be propositions that use those concepts or to use those nouns. And they would be different. They would be applying to different things. And the difference in the precise specification of what the context is would be part of ...
+Yes, I suppose a proposition would come along with a context built in so that I could idealize the concept of fish in biology and I could idealize the concept of fish in everyday language. And each of those would correspond to some well, there would be propositions that use those concepts or to use those nouns. And they would be different. They would be applying to different things. And the difference in the precise specification of what the context is would be part of the proposition.
 
-### Christofer Lövgren
+### Jake Orthwein
 
 <span class="transcript-timestamp">00:15:38 - 00:15:48</span>
 
-The proposition. Okay, okay. So in some sense, the context all gets loaded into that.
+Okay, okay. So in some sense, the context all gets loaded into that.
 
 ### David Deutsch
 
@@ -155,7 +167,7 @@ The proposition. Okay, okay. So in some sense, the context all gets loaded into 
 
 Yes. As a further idealization. Yes. So I suppose mathematicians do this all the time, because they say there are three, the number is three as a natural number. But, you know, there are three solutions or something. But if we were interested in integers, then there might be more solutions. And if we were interested in something else, then there might be no solutions at all. So when a mathematician says three, implicitly, he's referring to some context in which three is a member of a set that the mathematician happens to be interested in for these present purposes. Now, this is a very good example, but I could probably think of better examples.
 
-### Christofer Lövgren
+### Jake Orthwein
 
 <span class="transcript-timestamp">00:16:47 - 00:17:35</span>
 
@@ -167,23 +179,23 @@ Well, no, but it's still interesting, because as you're saying, it's like, it's 
 
 Well, when you say it can be made, can't be made by humans. No, there is such a thing as a perfectly precise characterization. I've just thought of a better example than integers and sets. So a mathematician might say, so-and-so, this collection is not a set under ZF set theory, but under an expanded set theory, it is a set. But usually, one doesn't say which set theory one's sets belong to, if that's not part of the problem one is addressing. So that's an example of everyday mathematics language being imprecise.
 
-### Christofer Lövgren
+### Jake Orthwein
 
 <span class="transcript-timestamp">00:18:21 - 00:19:37</span>
 
-There's something that I at least think characterizes mathematics though, that I don't think characterizes at least most of our interaction with the world, which is something like this idealized sense of correspondence where you have all the symbols on one side, and the world on another side, the world comes already so parsed, independent of any kind of purpose. And then like the point is to get the symbols on this side to mirror the world on this side. And that idea of correspondence, if you want, or like representation was imported into the rationalist tradition in philosophy, because you're trying to sort of do this formal logic to mirror how the world is on its own side. But the more you bring in this context and what I'm calling like a context and purpose relative conception of ontology, the more that seems like a little bit problematic in the sense that like, though, it doesn't really make sense to say the world already is divided into sets, in that sense, because what counts as a particular object will depend on things on ...
+There's something that I at least think characterizes mathematics though, that I don't think characterizes at least most of our interaction with the world, which is something like this idealized sense of correspondence where you have all the symbols on one side, and the world on another side, the world comes already so parsed, independent of any kind of purpose. And then like the point is to get the symbols on this side to mirror the world on this side. And that idea of correspondence, if you want, or like representation was imported into the rationalist tradition in philosophy, because you're trying to sort of do this formal logic to mirror how the world is on its own side. But the more you bring in this context and what I'm calling like a context and purpose relative conception of ontology, the more that seems like a little bit problematic in the sense that like, though, it doesn't really make sense to say the world already is divided into sets, in that sense, because what counts as a particular object will depend on things on your side, not just on the world side.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:19:37 - 00:20:14</span>
 
-Your side, not just on the world side. Yeah, but for every, if we're talking about propositions, um, for every characterization of the world in terms of slicing up of the world in terms of concepts, there is a proposition which includes a specification of that slicing up, which specifies not only how that was sliced up, but about what it actually is like after it's been ...
+Yeah, but for every, if we're talking about propositions, um, for every characterization of the world in terms of slicing up of the world in terms of concepts, there is a proposition which includes a specification of that slicing up, which specifies not only how that was sliced up, but about what it actually is like after it's been sliced up.
 
-### Christofer Lövgren
+### Jake Orthwein
 
 <span class="transcript-timestamp">00:20:14 - 00:20:50</span>
 
-Sliced up. Okay, okay. But then what is, what does reference even mean in that case? Um, because like reference in the human case, in some way, it cashes out to like, how it causes me to comport myself in some way, cash out in action, like how it causes me to behave toward the world. And that that's sort of in this idea of meaning as use, like it's what I do with that that constitutes the thing's meaning, the way it gets me to behave toward the world. But I don't know what that would mean. I don't even know what meaning means in the case of a proposition in that sense.
+Okay, okay. But then what is, what does reference even mean in that case? Um, because like reference in the human case, in some way, it cashes out to like, how it causes me to comport myself in some way, cash out in action, like how it causes me to behave toward the world. And that that's sort of in this idea of meaning as use, like it's what I do with that that constitutes the thing's meaning, the way it gets me to behave toward the world. But I don't know what that would mean. I don't even know what meaning means in the case of a proposition in that sense.
 
 ### David Deutsch
 
@@ -191,7 +203,7 @@ Sliced up. Okay, okay. But then what is, what does reference even mean in that c
 
 So the reason why I want it, the reason why I want that to be there, and the reason why I think it's unsatisfactory, just to use Tarski's theory of truth directly from utterances to physical objects, is that truth is an all or nothing thing. It's that there's the law of the excluded middle, you know, there in logic, but yeah, yeah. Yeah, but if we want to use that concept in real life in ordinary speech, there has to be a sense in which ordinary speech corresponds to something that does have the law of the excluded middle. Right, right, right. Statements don't. But if we can if we can make sense of saying, yeah, but statements are an approximation to a thing that does have the law of excluded middle. And therefore, if someone says to me, no, the, you know, the law of the excluded middle isn't true, because something can be both true and false at the same time, like, can be true in one universe and false in another, then I can say, yeah, but you're not using that. I can point to the way that they're not using it properly in the sense that they're not trying to make a statement that corresponds to a proposition. They're trying to redefine what it means to be true. And that's, you know, that's the relationship between propositions and the world that really has that and all we can have is approximations to that. I don't know if that's ...
 
-### Christofer Lövgren
+### Jake Orthwein
 
 <span class="transcript-timestamp">00:22:41 - 00:24:15</span>
 
@@ -203,11 +215,23 @@ I think it makes sense. So if you can't appeal to the propositions, then you can
 
 Yes. And then we would work that out if that misunderstanding arose in that context. Exactly. We would get closer and closer until we were close enough for misunderstanding not to dominate what we think each other are saying.
 
-### Christofer Lövgren
+### Jake Orthwein
 
 <span class="transcript-timestamp">00:24:33 - 00:24:42</span>
 
-Right. But is truth the thing- But we wouldn't be perfectly close ever. But is truth the thing that we'd be deferring to in negotiation there?
+Right. But is truth the thing-
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:24:33 - 00:24:42</span>
+
+But we wouldn't be perfectly close ever.
+
+### Jake Orthwein
+
+<span class="transcript-timestamp">00:24:33 - 00:24:42</span>
+
+But is truth the thing that we'd be deferring to in negotiation there?
 
 ### David Deutsch
 
@@ -225,13 +249,43 @@ But isn't part of the claim here that you want to make, Jake, that the truth of 
 
 <span class="transcript-timestamp">00:25:27 - 00:25:57</span>
 
-I think it's definitely dependent on your meaning as the asker, and then that's dependent on your purposes. And it doesn't sound like David actually disagrees with me. No. So did I get you right, David, that on your view, in a case like that, that whole context is embedded in the abstract proposition itself? Yes. Okay. And by the way, it's also embedded in real life in people's brains. Because ...
+I think it's definitely dependent on your meaning as the asker, and then that's dependent on your purposes. And it doesn't sound like David actually disagrees with me. No. So did I get you right, David, that on your view, in a case like that, that whole context is embedded in the abstract proposition itself?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:25:27 - 00:25:57</span>
+
+Yes.
+
+### Jake Orthwein
+
+<span class="transcript-timestamp">00:25:27 - 00:25:57</span>
+
+Okay.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:25:27 - 00:25:57</span>
+
+And by the way, it's also embedded in real life in people's brains. Because ...
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:26:00 - 00:26:29</span>
 
-I have a theory about what context you're using, and vice versa, you have a theory about what context I'm using. And we start off with mistaken theories about each other's intention, each other's context, and we correct those. As I said, what's kind of literally happening physically is that we're correcting errors in our theories of each other. Right. And you could even say we're coming to share each other's context and purpose to a greater degree. Not necessarily. So long as I know what your context is, I don't have to share it.
+I have a theory about what context you're using, and vice versa, you have a theory about what context I'm using. And we start off with mistaken theories about each other's intention, each other's context, and we correct those. As I said, what's kind of literally happening physically is that we're correcting errors in our theories of each other.
+
+### Jake Orthwein
+
+<span class="transcript-timestamp">00:26:00 - 00:26:29</span>
+
+Right. And you could even say we're coming to share each other's context and purpose to a greater degree.
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:26:00 - 00:26:29</span>
+
+Not necessarily. So long as I know what your context is, I don't have to share it.
 
 ### Jake Orthwein
 
@@ -267,19 +321,31 @@ Yes. And that's why some people think that Popper is a postmodernist or that Pop
 
 <span class="transcript-timestamp">00:27:50 - 00:29:23</span>
 
-Right. There's a way in which this line of inquiry, like the way that Descartes, I think, set up the epistemological project as being build your knowledge on a foundation of perfect certainty. The failure of that did cause postmodernism in a certain sense, you could argue. But you can't blame Popper for pointing out that that was misconceived. So I'm not trying to take you all the way into full postmodern relativism, but I'm trying to give the devil their fullest due in some way. And I think one thing that's at least, yeah, it seems right to me is that what I was talking about is ontology. So the furnishings of the world in terms of objects, categories, properties, relationships, is not pre-given in the world, but dependent on our context and purposes. And when we're able to successfully pick out the same ontologies in the world, as in the case of the water in the refrigerator example, it's because we're coordinating with one another, not coordinating with the God's eye view. And you can idealize the convergence there, but you can't idealize the convergence there for every possible situation, and nor would you want to. Well, there is some structure in the world, though.
+Right. There's a way in which this line of inquiry, like the way that Descartes, I think, set up the epistemological project as being build your knowledge on a foundation of perfect certainty. The failure of that did cause postmodernism in a certain sense, you could argue. But you can't blame Popper for pointing out that that was misconceived. So I'm not trying to take you all the way into full postmodern relativism, but I'm trying to give the devil their fullest due in some way. And I think one thing that's at least, yeah, it seems right to me is that what I was talking about is ontology. So the furnishings of the world in terms of objects, categories, properties, relationships, is not pre-given in the world, but dependent on our context and purposes. And when we're able to successfully pick out the same ontologies in the world, as in the case of the water in the refrigerator example, it's because we're coordinating with one another, not coordinating with the God's eye view. And you can idealize the convergence there, but you can't idealize the convergence there for every possible situation, and nor would you want to.
 
 ### David Deutsch
 
 <span class="transcript-timestamp">00:29:23 - 00:30:25</span>
 
-I would guess that the number three is not in the same category as a dog. That is, the difference between them exists objectively. Sorry, not just the difference between them. The fact that they're of different kinds, one of them an abstract integer and the other one a physical mammal, I think that exists in the objective world. So it's not just that I've sliced up the world in such a way that three is in different category from dog. The fact that I have done that is partly due to the structure in the actual physical world and the abstract world.
+Well, there is some structure in the world, though. I would guess that the number three is not in the same category as a dog. That is, the difference between them exists objectively. Sorry, not just the difference between them. The fact that they're of different kinds, one of them an abstract integer and the other one a physical mammal, I think that exists in the objective world. So it's not just that I've sliced up the world in such a way that three is in different category from dog. The fact that I have done that is partly due to the structure in the actual physical world and the abstract world.
 
 ### Jake Orthwein
 
 <span class="transcript-timestamp">00:30:25 - 00:32:25</span>
 
-Yeah. So the way I'd want to put it is something like, it's not arbitrary how we do the dividing for any given context and purpose. In some way, the world is always pushing back, except when you're doing mere invention. And the world can be the abstract world, the world can be the physical world, and so forth. But the way it matters that the world, there are purposes for which it makes sense to bunch the integer three and dog into the same category and so forth. If everything is routed by way of propositions and the paradigmatic case of what knowledge is, is taken to be this idealization of perfect convergence on the objective truth, I think that's not quite right because in some way it's always coming from the bottom up and you're never hitting that. So it's sort of weird to think that the world is always the paradigm case. Do you see what I'm saying? Not sure. I think just because something is unattainable, that doesn't mean it's not meaningful or useful to speak of it. So there's another distinction. A lot of what I would be talking about would get chalked up to epistemological uncertainty in the Popper framing and in your framing, which is that we don't know, we may be uncertain. But here we're talking about ontology, not epistemology. Right. And that seems different than saying we just don't know yet and that's why we can't attain it. What it would mean to attain it, it doesn't make sense to say what it would mean to attain it because it's always going to be for particular purposes.
+Yeah. So the way I'd want to put it is something like, it's not arbitrary how we do the dividing for any given context and purpose. In some way, the world is always pushing back, except when you're doing mere invention. And the world can be the abstract world, the world can be the physical world, and so forth. But the way it matters that the world, there are purposes for which it makes sense to bunch the integer three and dog into the same category and so forth. If everything is routed by way of propositions and the paradigmatic case of what knowledge is, is taken to be this idealization of perfect convergence on the objective truth, I think that's not quite right because in some way it's always coming from the bottom up and you're never hitting that. So it's sort of weird to think that the world is always the paradigm case. Do you see what I'm saying?
+
+### David Deutsch
+
+<span class="transcript-timestamp">00:30:25 - 00:32:25</span>
+
+Not sure. I think just because something is unattainable, that doesn't mean it's not meaningful or useful to speak of it.
+
+### Jake Orthwein
+
+<span class="transcript-timestamp">00:30:25 - 00:32:25</span>
+
+So there's another distinction. A lot of what I would be talking about would get chalked up to epistemological uncertainty in the Popper framing and in your framing, which is that we don't know, we may be uncertain. But here we're talking about ontology, not epistemology. Right. And that seems different than saying we just don't know yet and that's why we can't attain it. What it would mean to attain it, it doesn't make sense to say what it would mean to attain it because it's always going to be for particular purposes.
 
 ### David Deutsch
 
@@ -321,7 +387,7 @@ I think I don't understand. Part of the reason I ask is like, if I take it back 
 
 <span class="transcript-timestamp">00:35:49 - 00:37:48</span>
 
-There is a certain, like I say when talking about constructor theory, there is a prevailing conception of what constitutes a law of physics. That conception has got the structure in it. It's a law of motion and it has entities which change with time and that kind of thing. constructor theory proposes a different conception. We don't know. I mean, we're trying to express each in terms of the other and so on, but the idea is that they won't be perfectly expressible in terms of each other. One of them will turn out to be not useful, not a good way to express the actual laws. The biologists that first thought of the idea that a whale is not a fish will have been doing something like that. When they wrote their grant proposal, they will have said, I shall be studying a certain type of large fish. That makes everything I'm going to say so absurd and that we have to change the terminology because the terminology is simply too misleading. It doesn't correspond to reality. So that has happened with physics several times in history. Kepler, his laws were about the shapes of orbits and about the times that it takes for objects to go around the orbits. And there was no concept of force at the time. Newton had to invent that.
+There is a certain, like I say when talking about constructor theory, there is a prevailing conception of what constitutes a law of physics. That conception has got the structure in it. It's a law of motion and it has entities which change with time and that kind of thing. Constructor theory proposes a different conception. We don't know. I mean, we're trying to express each in terms of the other and so on, but the idea is that they won't be perfectly expressible in terms of each other. One of them will turn out to be not useful, not a good way to express the actual laws. The biologists that first thought of the idea that a whale is not a fish will have been doing something like that. When they wrote their grant proposal, they will have said, I shall be studying a certain type of large fish. That makes everything I'm going to say so absurd and that we have to change the terminology because the terminology is simply too misleading. It doesn't correspond to reality. So that has happened with physics several times in history. Kepler, his laws were about the shapes of orbits and about the times that it takes for objects to go around the orbits. And there was no concept of force at the time. Newton had to invent that.
 
 ### Christofer Lövgren
 
@@ -339,7 +405,7 @@ He might have been, but I know he didn't like it. He didn't like it because you 
 
 <span class="transcript-timestamp">00:38:34 - 00:39:55</span>
 
-Yeah. Okay, I have maybe two more questions. This has been super informative, so thank you. I have maybe two more lines of questioning. One is about this analogy to natural selection. That's one of the things that's so interesting about Popper is that you can really be like, oh look, contextualism and criticism is very much like variation selection. But one of the first things that I remember being taught when I was learning about natural selection is that you shouldn't do this purely hierarchical conception of fitness as being like everything was trying to just become a human, which is the peak of the fitness ladder. And you also shouldn't have the conception of final fitness because there's always this kind of Red Queen dynamic happening between you and the environment and it's not that kind of thing where you're going to be fit once and for all because you're changing the environment and so forth. It's a very dynamic thing. And I think of knowledge as being kind of similar in that sense, but that's part of why I have this intuition that these universalized idealizations are sort of like missing the point or something. You know what I mean?
+Yeah. Okay, I have maybe two more questions. This has been super informative, so thank you. I have maybe two more lines of questioning. One is about this analogy to natural selection. That's one of the things that's so interesting about Popper is that you can really be like, oh look, conjecture and criticism is very much like variation selection. But one of the first things that I remember being taught when I was learning about natural selection is that you shouldn't do this purely hierarchical conception of fitness as being like everything was trying to just become a human, which is the peak of the fitness ladder. And you also shouldn't have the conception of final fitness because there's always this kind of Red Queen dynamic happening between you and the environment and it's not that kind of thing where you're going to be fit once and for all because you're changing the environment and so forth. It's a very dynamic thing. And I think of knowledge as being kind of similar in that sense, but that's part of why I have this intuition that these universalized idealizations are sort of like missing the point or something. You know what I mean?
 
 ### David Deutsch
 

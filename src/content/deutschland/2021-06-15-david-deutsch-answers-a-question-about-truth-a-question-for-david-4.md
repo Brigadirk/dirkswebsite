@@ -1,6 +1,6 @@
 ---
 title: '2021-06-15 - ToKCast - David Deutsch answers a question about truth. A question for David 4'
-description: 'An interview / discussion from David Deutsch answers a question about truth, featuring David Deutsch, Brett Hall, titled "A question for David 4".'
+description: 'An interview / discussion from 2021-06-15, featuring David Deutsch, Brett Hall, titled "A question for David 4".'
 pubDate: 2021-06-15
 ---
 

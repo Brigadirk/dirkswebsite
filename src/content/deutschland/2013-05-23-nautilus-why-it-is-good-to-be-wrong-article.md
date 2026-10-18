@@ -8,13 +8,16 @@ pubDate: 2013-05-23
 [Watch the separate interview in Deutschland](/deutschland/2013-06-25-nautilus-why-it-is-good-to-be-wrong/)
 [Source collection](https://deranfangderunendlichkeit.de/mehr)
 
-## Why It’s Good to Be Wrong
-
 *By David Deutsch · 23 May 2013*
 
-> Nothing obstructs access to the truth like a belief in absolute truthfulness.
+*Nothing obstructs access to the truth like a belief in absolute truthfulness.*
 
 *Editorial note: Nautilus’s current page retains seven footnote markers but no longer provides the corresponding notes. The orphaned markers have been omitted here.*
+
+*David Deutsch, internationally acclaimed for his seminal publications on quantum computation, is a member of the Centre for Quantum Computation at the Clarendon Laboratory, Oxford University.*
+
+## Transcript
+### David Deutsch
 
 That human beings can be mistaken in anything they think or do is a proposition known as *fallibilism*. Stated abstractly like that, it is seldom contradicted. Yet few people have ever seriously believed it, either.
 
@@ -85,7 +88,3 @@ The theory of knowledge is a tightrope that is the only path from A to B, with a
 I must now apologize for trying to trick you earlier: All the ideas that I suggested we might know infallibly are in fact falsehoods. “Two plus two” of course *isn’t* “four” as you’d discover if you wrote “2+2” in an arithmetic test when asked to add two and two. If we were infallible about matters of pure logic, no one would ever fail a logic test either. Stubbing your toe *does not* always hurt if you are focused on some overriding priority like rescuing a comrade in battle. And as for knowing that “I” exist because I think—note that your knowledge that you think is only a memory of what you *did* think, a second or so ago, and that can easily be a false memory. (For discussions of some fascinating experiments demonstrating this, see Daniel Dennett’s book *Brainstorms*.) Moreover, if you think you are Napoleon, the person you *think* must exist because you think, doesn’t exist.
 
 And the general theory of relativity denies that gravity exerts a force on falling objects. The pope would actually be on firm ground if he were to concur with that *ex cathedra*. Now, are you going to defer to my authority as a physicist about that? Or decide that modern physics is a sham? Or are you going to decide according to whether that claim really has survived all rational attempts to refute it?
-
-## About David Deutsch
-
-David Deutsch, internationally acclaimed for his seminal publications on quantum computation, is a member of the Centre for Quantum Computation at the Clarendon Laboratory, Oxford University.
